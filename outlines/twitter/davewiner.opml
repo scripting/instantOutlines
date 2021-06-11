@@ -5,12 +5,13 @@
 		<dateCreated>Fri, 11 Jun 2021 13:57:24 GMT</dateCreated>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<expansionState>1,2</expansionState>
-		<urlInstant>http://instantoutliner.com/pk</urlInstant>
-		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/main/outlines/twitter/davewiner.opml</urlPublic>
+		<urlInstant>http://instantoutliner.com/ps</urlInstant>
+		<urlPublic>undefinedoutlines/twitter/davewiner.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 11" type="calendarDay" name="11" >
+				<outline text="I thought they were going to have the next G7 at Mar A Lago or something." type="tweet" created="Fri, 11 Jun 2021 15:26:10 GMT" tweetId="1403372997205975045" urltweet="https://twitter.com/davewiner/status/1403372997205975045" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I just learned that Trinidad, Colorado was famous as the sex change capital of the world. Surprising. 
 
 https://t.co/6EaRmYcDIH" type="tweet" created="Fri, 11 Jun 2021 14:56:31 GMT" tweetId="1403365533693665286" urltweet="https://twitter.com/davewiner/status/1403365533693665286" tweetUserName="davewiner" />
