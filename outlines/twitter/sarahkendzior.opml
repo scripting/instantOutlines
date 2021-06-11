@@ -3,10 +3,15 @@
 	<head>
 		<title>sarahkendzior tweets</title>
 		<dateCreated>Fri, 11 Jun 2021 13:57:25 GMT</dateCreated>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<expansionState>1,2</expansionState>
+		<urlInstant>http://instantoutliner.com/po</urlInstant>
+		<urlPublic>https://raw.githubusercontent.com/scripting/Scripting-News/master/twitter/opmltweets/sarahkendzior.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 11" type="calendarDay" name="11" >
+				<outline text="From the transcript of this week's @gaslitnation, more thoughts on Merrick Garland, Bill Barr, and corruption at the DOJ https://t.co/fBKkI0ZCy8 https://t.co/bSdUM84wzF" type="tweet" created="Fri, 11 Jun 2021 14:07:02 GMT" tweetId="1403353082231201795" urltweet="https://twitter.com/sarahkendzior/status/1403353082231201795" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="@partyglouberman @SteveSchmidtSES @gaslitnation @AndreaChalupa Thanks" type="tweet" created="Fri, 11 Jun 2021 13:38:15 GMT" tweetId="1403345840069021699" urltweet="https://twitter.com/sarahkendzior/status/1403345840069021699" inReplyToId="1403345248705785860" tweetUserName="sarahkendzior" />
 				</outline>
 			</outline>
