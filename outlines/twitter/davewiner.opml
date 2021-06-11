@@ -5,8 +5,8 @@
 		<dateCreated>Fri, 11 Jun 2021 13:57:24 GMT</dateCreated>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<expansionState>1,2</expansionState>
-		<urlInstant>http://instantoutliner.com/ps</urlInstant>
-		<urlPublic>undefinedoutlines/twitter/davewiner.opml</urlPublic>
+		<urlInstant>http://instantoutliner.com/pt</urlInstant>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
