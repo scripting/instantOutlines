@@ -16,7 +16,7 @@ Sharing outlines between apps using GitHub as the intermediary.
 
 ### Demo app
 
-Here's a <a href="http://scripting.com/code/socketclient/">demo app</a> that watches my Twitter outline. 
+Here's a <a href="http://scripting.com/code/instantoutlinesrepo/demo/">demo app</a> that watches my Twitter outline. 
 
 You don't have to reload it to see my updates, they will appear automatically.
 
