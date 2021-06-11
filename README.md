@@ -1,2 +1,52 @@
-# instantOutline
-Prototype for sharing outlines between apps using GitHub as an intermediary. 
+# instantOutlines
+
+Sharing outlines between apps using GitHub as the intermediary.
+
+### This is a working site
+
+1. Outlines flow into the site. The outlines contain tweets of users we're following.
+
+2. I have an app running on my desktop that checks several Twitter accounts once a minute. When one of these users tweets, we add it to a calendar-structured outline, and using the GitHub API, post it here. in the outlines folder. 
+
+3. I've set up a GitHub web mook, that notifies a server app that the outline has updated. 
+
+4. We then send a message, via web sockets, to any app that's subscribed to the outline, with the full OPML text of the outline. It's totally up to the individual apps what they do with the outline.
+
+5. The net effect is that the changed outlines flow to any app that wants to subscribe to them.
+
+### Demo app
+
+Here's a demo app that watches my Twitter outline. 
+
+You don't have to reload it to see my updates, they will appear automatically.
+
+The source code is here. 
+
+### socketServer
+
+The source for the server is here.
+
+### Philosophy
+
+You can run your own server if you want, flowing outlines from your GitHub repo. 
+
+There's nothing exclusive about anything here. 
+
+I don't really have an interest in being the central node, I just want to set up a prototype, work with other developers to interop, build apps off the power of instant outlining. 
+
+### License
+
+The writing on this site is copyrighted. 
+
+The code we're demonstrating is MIT-licensed. 
+
+### Updates
+
+#### 6/11/21 by DW
+
+When there are updates they will appear here. 
+
+### Discussion
+
+Please use the issues section of this repo. Be friendly and let's have fun. :-)
+
