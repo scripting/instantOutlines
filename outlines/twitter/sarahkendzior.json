@@ -1,0 +1,35 @@
+{
+    "opml": {
+        "head": {
+            "title": "sarahkendzior tweets",
+            "dateCreated": "Fri, 11 Jun 2021 13:57:25 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2021",
+                    "type": "calendarMonth",
+                    "name": "june2021",
+                    "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@partyglouberman @SteveSchmidtSES @gaslitnation @AndreaChalupa Thanks",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Jun 2021 13:38:15 GMT",
+                                    "tweetId": "1403345840069021699",
+                                    "urltweet": "https://twitter.com/sarahkendzior/status/1403345840069021699",
+                                    "inReplyToId": "1403345248705785860",
+                                    "tweetUserName": "sarahkendzior"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
