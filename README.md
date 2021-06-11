@@ -16,11 +16,27 @@ Sharing outlines between apps using GitHub as the intermediary.
 
 ### Demo app
 
-Here's a demo app that watches my Twitter outline. 
+Here's a <a href="http://scripting.com/code/socketclient/">demo app</a> that watches my Twitter outline. 
 
 You don't have to reload it to see my updates, they will appear automatically.
 
 The source code is here. 
+
+### If you're a developer...
+
+You can subscribe to any of these outlines. Just follow the example of the demo app.
+
+0. Start by subscribing to <a href="https://raw.githubusercontent.com/scripting/instantOutlines/main/outlines/twitter/davewiner.opml">my outline</a>. I generally update about 20 times a day, pretty reliably. 
+
+1. You'll read the outline initially. 
+
+1. You'll set up a web socket handler to subscribe to the outline. 
+
+2. Wait for an updated outline to come over the wire. 
+
+All of these are illustrated in the demo app. 
+
+When you have a demo running, let us know by tweet, email or a post in the Issues section here. 
 
 ### socketServer
 
@@ -48,5 +64,5 @@ When there are updates they will appear here.
 
 ### Discussion
 
-Please use the issues section of this repo. Be friendly and let's have fun. :-)
+Please use the <a href="/issues">issues section</a> of this repo. Be friendly and let's have fun. :-)
 

@@ -1,0 +1,87 @@
+<html>
+	<head>
+		<title>Socket Client</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/jquery-1.9.1.min.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.css" rel="stylesheet">
+<script src="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//s3.amazonaws.com/scripting.com/code/fontawesome/css/all.css">
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Rancho" rel="stylesheet">
+
+<script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
+
+		<script src="http://fargo.io/code/keypress.js" /></script>
+		<script src="http://scripting.com/code/concord/concord.js"></script>
+		<link rel="stylesheet" href="http://scripting.com/code/concord/concordstyles.css"/>
+		<script src="http://fargo.io/code/shared/xml.js"></script>
+		<script src="http://fargo.io/code/shared/twoutliner.js"></script>
+		<script src="http://fargo.io/code/shared/outliner.js"></script>
+		<script src="code.js"></script>
+		<style>
+			body {
+				font-family: Ubuntu;
+				font-size: 18px;
+				background-color: whitesmoke;
+				}
+			.divPageBody {
+				width: 60%;
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				margin-bottom: 400px;
+				}
+			p {
+				line-height: 140%;
+				}
+			.divOutlineViewer {
+				margin-top: 15px;
+				padding: 3px;
+				border: 1px solid silver;
+				font-size: 16px;
+				}
+			.divOutlineViewer ul {
+				list-style-type: circle;
+				}
+			.divOutlineViewer li {
+				padding-top: 3px;
+				padding-bottom: 3px;
+				}
+			
+			.divHeadElementsViewer {
+				margin-top: 15px;
+				border: 1px solid silver;
+				font-size: 16px;
+				}
+			.divHeadElementsViewer td {
+				vertical-align: top;
+				padding: 3px;
+				font-size: 16px;
+				}
+			.divHeadElementsViewer .tdright {
+				text-align: right;
+				}
+			
+			
+			</style>
+		</head>
+	<body>
+		<div class="divPageBody">
+			<h1>Socket Client</h1>
+			<p>This little web app is connected to the server via websockets. A blog post that explains this protocol is <a href="http://scripting.com/2021/06/09/154656.html?title=githubNotificationsViaWebsockets">here</a>. You can view the actual OPML <a id="idOpmlLink">here</a>. The head info is at the <a href="#headElements">bottom</a> of this page.</p>
+			<div class="divOutlineViewer" id="idOutlineViewer">
+				</div>
+			<a name="headElements"></a>
+			<div class="divHeadElementsViewer" id="idHeadElementsViewer">
+				</div>
+			</div>
+		<script>
+			$(document).ready (function () {
+				startup ();
+				});
+			</script>
+		</body>
+	</html>
