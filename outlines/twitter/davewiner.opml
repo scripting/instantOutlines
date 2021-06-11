@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>davewiner tweets</title>
+		<dateCreated>Fri, 11 Jun 2021 13:57:24 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 11" type="calendarDay" name="11" >
+				<outline text="I have a two-monitor Mac. Sometimes when I move my mouse in the Dock at the bottom of my main monitor, it moves to the bottom of the other monitor." type="tweet" created="Fri, 11 Jun 2021 13:55:11 GMT" tweetId="1403350098495553540" urltweet="https://twitter.com/davewiner/status/1403350098495553540" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="All of a sudden I have to stop, launch the  Preferences app, open the Dock panel, click the Right button then the Bottom button, and now the Dock is back where it belongs." type="tweet" created="Fri, 11 Jun 2021 13:55:11 GMT" tweetId="1403350099359637514" urltweet="https://twitter.com/davewiner/status/1403350099359637514" inReplyToId="1403350098495553540" tweetUserName="davewiner" >
+						<outline text="It seems the problem could be easily solved by putting a Lock icon on the Dock tab, as they have on other panels. I can't imagine why they thought a mouse gesture should do something so radical as move the Dock." type="tweet" created="Fri, 11 Jun 2021 13:55:11 GMT" tweetId="1403350100324372483" urltweet="https://twitter.com/davewiner/status/1403350100324372483" inReplyToId="1403350099359637514" tweetUserName="davewiner" />
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>
