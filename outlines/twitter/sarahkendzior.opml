@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>sarahkendzior tweets</title>
+		<dateCreated>Fri, 11 Jun 2021 13:57:25 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 11" type="calendarDay" name="11" >
+				<outline text="@partyglouberman @SteveSchmidtSES @gaslitnation @AndreaChalupa Thanks" type="tweet" created="Fri, 11 Jun 2021 13:38:15 GMT" tweetId="1403345840069021699" urltweet="https://twitter.com/sarahkendzior/status/1403345840069021699" inReplyToId="1403345248705785860" tweetUserName="sarahkendzior" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
