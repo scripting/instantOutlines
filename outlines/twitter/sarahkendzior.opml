@@ -10,6 +10,9 @@
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 12" type="calendarDay" name="12" >
+				<outline text="My interview on MSNBC about Putin's autocratic flaunting and what the Biden admin should do https://t.co/rKtlsiNrZN" type="tweet" created="Sat, 12 Jun 2021 15:59:33 GMT" tweetId="1403743784207228934" urltweet="https://twitter.com/sarahkendzior/status/1403743784207228934" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="June 11" type="calendarDay" name="11" >
 				<outline text="🎵”Gonna write my book and make a million!
 I fought the law and I won
