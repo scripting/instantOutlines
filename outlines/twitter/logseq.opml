@@ -10,6 +10,7 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 12" type="calendarDay" name="12" >
+				<outline text="0.1.7 is just out! Full changelog at https://t.co/4f6qjMwkBh https://t.co/cz7n2HqS7e" type="tweet" created="Sat, 12 Jun 2021 12:52:07 GMT" tweetId="1403696615567753218" urltweet="https://twitter.com/logseq/status/1403696615567753218" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you for the good words! We're actually looking for some funds to make Logseq better, if anyone is interested in or has recommendations, both DM and replies are welcome, RTs appreciated 🙏 https://t.co/9BW8hOvOIJ" type="tweet" created="Sat, 12 Jun 2021 07:57:58 GMT" tweetId="1403622590283800581" urltweet="https://twitter.com/logseq/status/1403622590283800581" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Interesting! https://t.co/lYvAmkd3kI" type="tweet" created="Sat, 12 Jun 2021 07:19:20 GMT" tweetId="1403612867090284547" urltweet="https://twitter.com/logseq/status/1403612867090284547" inReplyToId="" tweetUserName="logseq" />
 				</outline>
