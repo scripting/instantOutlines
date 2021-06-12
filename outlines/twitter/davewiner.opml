@@ -11,6 +11,7 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 12" type="calendarDay" name="12" >
+				<outline text="https://t.co/f83rJPP42x" type="tweet" created="Sat, 12 Jun 2021 16:53:50 GMT" tweetId="1403757447110696962" urltweet="https://twitter.com/davewiner/status/1403757447110696962" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="For 40 Years, Crashing Trains Was One of America’s Favorite Pastimes. https://t.co/VaocEQxRFa" type="tweet" created="Sat, 12 Jun 2021 15:17:13 GMT" tweetId="1403733134122930176" urltweet="https://twitter.com/davewiner/status/1403733134122930176" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="My Android phone, a Pixel 4a, goes offline all the damn time. I have to restart it to get it back online." type="tweet" created="Sat, 12 Jun 2021 14:54:23 GMT" tweetId="1403727385535655937" urltweet="https://twitter.com/davewiner/status/1403727385535655937" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you want to blog from an outliner, I suggest the first step is to get the outline data to flow out of your editing tool in OPML, and then write your publishing software to build the blog from the OPML. That way you won't be locked into your editor or publishing software." type="tweet" created="Sat, 12 Jun 2021 14:32:43 GMT" tweetId="1403721933628350474" urltweet="https://twitter.com/davewiner/status/1403721933628350474" inReplyToId="" tweetUserName="davewiner" >
