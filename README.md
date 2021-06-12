@@ -4,11 +4,13 @@ Sharing outlines between apps using GitHub as the intermediary.
 
 ### Demo app
 
-Here's a <a href="http://scripting.com/code/instantoutlinesrepo/demo/">demo app</a> that watches my Twitter outline. 
+Here's a <a href="http://scripting.com/code/instantoutlinesrepo/demo/">demo app</a> that watches an outline that flows through this repo. 
+
+It's an outline that's generated from threads I post <a href="https://twitter.com/davewiner">on Twitter</a>. 
 
 You don't have to reload it to see my updates, they will appear automatically.
 
-The source code is here. 
+The source code is <a href="https://github.com/scripting/instantOutlines/tree/main/demo">here</a>. 
 
 ### If you're a developer...
 
