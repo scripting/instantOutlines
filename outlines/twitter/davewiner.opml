@@ -10,6 +10,15 @@
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 12" type="calendarDay" name="12" >
+				<outline text="If you want to blog from an outliner, I suggest the first step is to get the outline data to flow out of your editing tool in OPML, and then write your publishing software to build the blog from the OPML. That way you won't be locked into your editor or publishing software." type="tweet" created="Sat, 12 Jun 2021 14:32:43 GMT" tweetId="1403721933628350474" urltweet="https://twitter.com/davewiner/status/1403721933628350474" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="There are lots of approaches to both writing and publishing. You won't get the benefit if you don't have a strong basis for interop. 
+
+Silos have a long history of being bad for progress." type="tweet" created="Sat, 12 Jun 2021 14:32:43 GMT" tweetId="1403721934433554440" urltweet="https://twitter.com/davewiner/status/1403721934433554440" inReplyToId="1403721933628350474" tweetUserName="davewiner" >
+						<outline text="PS: For most of the last 26 years I've been writing my blog in an outliner. I'm glad that other people are interested in this now. Let's build a new community around this idea. ;-)" type="tweet" created="Sat, 12 Jun 2021 14:32:43 GMT" tweetId="1403721935373144069" urltweet="https://twitter.com/davewiner/status/1403721935373144069" inReplyToId="1403721934433554440" tweetUserName="davewiner" />
+						</outline>
+					</outline>
+				</outline>
 			<outline text="June 11" type="calendarDay" name="11" >
 				<outline text="Please explain the hair. https://t.co/pxtjmXYgOw" type="tweet" created="Sat, 12 Jun 2021 00:23:47 GMT" tweetId="1403508293662879744" urltweet="https://twitter.com/davewiner/status/1403508293662879744" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Neil Young &amp;amp; Crosby, Stills &amp;amp; Nash - Down By The River Live. https://t.co/2G7THcPO28" type="tweet" created="Sat, 12 Jun 2021 00:16:12 GMT" tweetId="1403506385061568512" urltweet="https://twitter.com/davewiner/status/1403506385061568512" inReplyToId="" tweetUserName="davewiner" />
