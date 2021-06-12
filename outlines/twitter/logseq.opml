@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>logseq tweets</title>
+		<dateCreated>Sat, 12 Jun 2021 07:19:34 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 12" type="calendarDay" name="12" >
+				<outline text="Interesting! https://t.co/lYvAmkd3kI" type="tweet" created="Sat, 12 Jun 2021 07:19:20 GMT" tweetId="1403612867090284547" urltweet="https://twitter.com/logseq/status/1403612867090284547" inReplyToId="" tweetUserName="logseq" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
