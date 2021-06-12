@@ -1,4 +1,4 @@
-const urlOpmlFile = "https://raw.githubusercontent.com/scripting/instantOutlines/main/outlines/twitter/davewiner.opml";
+const urlOpmlFile = "https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml";
 var urlSocketServer;
 var mySocket = undefined; 
 
