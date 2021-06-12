@@ -6,11 +6,13 @@ Sharing outlines between apps using GitHub as the intermediary.
 
 Here's a <a href="http://scripting.com/code/instantoutlinesrepo/demo/">demo app</a> that watches an outline that flows through this repo. 
 
-It's an outline that's generated from threads I post <a href="https://twitter.com/davewiner">on Twitter</a>. 
+It's an <a href="https://github.com/scripting/instantOutlines/blob/main/outlines/twitter/davewiner.opml">outline</a> that's generated from threads I post <a href="https://twitter.com/davewiner">on Twitter</a>. 
 
-You don't have to reload it to see my updates, they will appear automatically.
+In the demo app, you don't have to reload to see my updates, they will appear automatically.
 
-The source code is <a href="https://github.com/scripting/instantOutlines/tree/main/demo">here</a>. 
+This is the basic functionality I want all outliners to support. It's easy, and the result will be an unprecedented level of interop. Literally nothing like this has ever come together. 
+
+The JavaScript source code for the demo app is <a href="https://github.com/scripting/instantOutlines/tree/main/demo">here</a>. 
 
 ### If you're a developer...
 
