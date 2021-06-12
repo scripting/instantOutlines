@@ -52,11 +52,11 @@ There's nothing exclusive about anything here.
 
 I don't really have an interest in being the central node, I just want to set up a prototype, work with other developers to interop, build apps off the power of instant outlining. 
 
-### OPML Everywhere
+### OPML everywhere
 
 A couple of things about OPML.
 
-1. I used an outliner to write this site and the example app. The source is here.
+1. I used an outliner to write this site and the example app. The source is <a href="https://github.com/scripting/instantOutlines/blob/main/misc/source.opml">here</a>.
 
 2. A <a href="http://this.how/opmlChecklist/">checklist</a> of basic info for devs using OPML for interop.
 
