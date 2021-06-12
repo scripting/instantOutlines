@@ -2,18 +2,6 @@
 
 Sharing outlines between apps using GitHub as the intermediary.
 
-### This is a working site
-
-1. Outlines flow into the site. The outlines contain tweets of users we're following.
-
-2. I have an app running on my desktop that checks several Twitter accounts once a minute. When one of these users tweets, we add it to a calendar-structured outline, and using the GitHub API, post it here. in the outlines folder. 
-
-3. I've set up a GitHub web mook, that notifies a server app that the outline has updated. 
-
-4. We then send a message, via web sockets, to any app that's subscribed to the outline, with the full OPML text of the outline. It's totally up to the individual apps what they do with the outline.
-
-5. The net effect is that the changed outlines flow to any app that wants to subscribe to them.
-
 ### Demo app
 
 Here's a <a href="http://scripting.com/code/instantoutlinesrepo/demo/">demo app</a> that watches my Twitter outline. 
@@ -37,6 +25,18 @@ You can subscribe to any of these outlines. Just follow the example of the demo 
 All of these are illustrated in the demo app. 
 
 When you have a demo running, let us know by tweet, email or a post in the Issues section here. 
+
+### This is a working site
+
+1. Outlines flow into the site. The outlines contain tweets of users we're following.
+
+2. I have an app running on my desktop that checks several Twitter accounts once a minute. When one of these users tweets, we add it to a calendar-structured outline, and using the GitHub API, post it here. in the outlines folder. 
+
+3. I've set up a GitHub web mook, that notifies a server app that the outline has updated. 
+
+4. We then send a message, via web sockets, to any app that's subscribed to the outline, with the full OPML text of the outline. It's totally up to the individual apps what they do with the outline.
+
+5. The net effect is that the changed outlines flow to any app that wants to subscribe to them.
 
 ### socketServer
 
