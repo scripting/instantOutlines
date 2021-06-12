@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>gruber tweets</title>
+		<dateCreated>Sat, 12 Jun 2021 03:48:32 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 11" type="calendarDay" name="11" >
+				<outline text="Trade him to the Yankees. https://t.co/Vs8TTkqchT" type="tweet" created="Sat, 12 Jun 2021 03:57:46 GMT" tweetId="1403562141454680064" urltweet="https://twitter.com/gruber/status/1403562141454680064" inReplyToId="" tweetUserName="gruber" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
