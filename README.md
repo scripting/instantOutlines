@@ -10,7 +10,7 @@ It's an <a href="https://github.com/scripting/instantOutlines/blob/main/outlines
 
 In the demo app, you don't have to reload to see my updates, they will appear automatically.
 
-This is the basic functionality I want all outliners to support. It's easy, and the result will be an unprecedented level of interop. Literally nothing like this has ever come together. 
+This is the basic functionality I want all outliners to support. It's easy, and the result will be an unprecedented level of interop. 
 
 The JavaScript source code for the demo app is <a href="https://github.com/scripting/instantOutlines/tree/main/demo">here</a>. 
 
