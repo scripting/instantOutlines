@@ -44,7 +44,7 @@ When you have a demo running, let us know by tweet, email or a post in the Issue
 
 ### socketServer
 
-The source for the server is here.
+The source for the server is <a href="https://github.com/scripting/socketServer">here</a>.
 
 ### Philosophy
 
