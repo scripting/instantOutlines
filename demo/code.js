@@ -2,9 +2,12 @@ const urlOpmlFile = "https://raw.githubusercontent.com/scripting/instantOutlines
 var urlSocketServer;
 var mySocket = undefined; 
 
-var opmltextLog = new Array ();
-
 function getObjectFromOpmltext (opmltext) {
+	//Changes
+		//6/13/21; 9:49:51 AM by DW
+			//Generate a JavaScript object from OPML text. 
+			//I'm including this in the Socket Client example because it's something every JS app has to do, so I might as well make it super easy. 
+			//You have to include xml.js as I do, or crib the code or just use it to guide your code, or ignore it completely. ;-)
 	var xstruct = xmlCompile (opmltext);
 	var adrhead = xmlGetAddress (xstruct, "head");
 	var adrbody = xmlGetAddress (xstruct, "body");
@@ -19,18 +22,11 @@ function getObjectFromOpmltext (opmltext) {
 function viewTheOutline (opmltext) {
 	var theOutline = getObjectFromOpmltext (opmltext);
 	
-	var htmltext = "", indentlevel = 0;
+	var htmltext, indentlevel;
 	function add (s) {
 		htmltext += filledString ("\t", indentlevel) + s + "\n";
 		}
 	
-	//add a table of the head elements in the OPML
-		add ("<table>"); indentlevel++;
-		for (var x in theOutline.opml.head) {
-			add ("<tr><td class=\"tdRight\">" + x + ": </td><td>" + theOutline.opml.head [x] + "</td></tr>");
-			}
-		add ("</table>"); indentlevel--;
-		$("#idHeadElementsViewer").html (htmltext);
 	//add an indented outline of the body from the OPML
 		htmltext = ""; indentlevel = 0;
 		function addSubsHtml (node) {
@@ -45,9 +41,16 @@ function viewTheOutline (opmltext) {
 			}
 		addSubsHtml (theOutline.opml.body);
 		$("#idOutlineViewer").html (htmltext);
-	
+	//add a table of the head elements in the OPML
+		htmltext = ""; indentlevel = 0;
+		add ("<table>"); indentlevel++;
+		for (var x in theOutline.opml.head) {
+			add ("<tr><td class=\"tdRight\">" + x + ": </td><td>" + theOutline.opml.head [x] + "</td></tr>");
+			}
+		add ("</table>"); indentlevel--;
+		$("#idHeadElementsViewer").html (htmltext);
 	}
-function wsWatchForChange (urlSocketServer) {
+function wsWatchForChange () { //connect with socket server, if not already connected
 	if (mySocket === undefined) {
 		mySocket = new WebSocket (urlSocketServer); 
 		mySocket.onopen = function (evt) {
@@ -63,7 +66,6 @@ function wsWatchForChange (urlSocketServer) {
 					var opmltext = stringDelete (s, 1, updatekey.length);
 					console.log ("wsWatchForChange: update received along with " + opmltext.length + " chars of OPML text.");
 					viewTheOutline (opmltext);
-					opmltextLog.push (opmltext);
 					}
 				}
 			};
@@ -76,25 +78,21 @@ function wsWatchForChange (urlSocketServer) {
 		}
 	}
 function everySecond () {
-	wsWatchForChange (urlSocketServer); 
+	wsWatchForChange (); //if the socket went down, every second try to re-establish connection
 	}
 function startup () {
 	console.log ("startup");
-	opTypeIcons.tweet = undefined; //6/10/21 by DW
 	$("#idOpmlLink").attr ("href", urlOpmlFile);
 	readHttpFile (urlOpmlFile, function (opmltext) {
 		if (opmltext === undefined) {
 			alertDialog ("There was an error reading the OPML file.");
 			}
 		else {
-			var xstruct = xmlCompile (opmltext);
-			var adropml = xmlGetAddress (xstruct, "opml");
-			var adrhead = xmlGetAddress (adropml, "head");
-			urlSocketServer = xmlGetValue (adrhead, "urlUpdateSocket"); //set global
-			wsWatchForChange (urlSocketServer);
+			var theOutline = getObjectFromOpmltext (opmltext); //get address of socket server from <head> section of outline
+			urlSocketServer = theOutline.opml.head.urlUpdateSocket; //global
+			wsWatchForChange (); //connect with socket server
 			viewTheOutline (opmltext);
-			opmltextLog.push (opmltext);
-			self.setInterval (everySecond, 1000); //start the websocket 
+			self.setInterval (everySecond, 1000); 
 			}
 		});
 	}
