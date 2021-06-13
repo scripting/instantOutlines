@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <opml version="2.0">
 	<head>
-		<title>sarahkendzior tweets</title>
+		<title>@sarahkendzior</title>
 		<dateCreated>Fri, 11 Jun 2021 13:57:25 GMT</dateCreated>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
+		<dateModified>Sun, 13 Jun 2021 20:28:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 13" type="calendarDay" name="13" >
-				<outline text="Thread https://t.co/pkovuR017o" type="tweet" created="Sun, 13 Jun 2021 15:59:48 GMT" tweetId="1404106238300991494" urltweet="https://twitter.com/sarahkendzior/status/1404106238300991494" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="Thread https://t.co/pkovuR017o" type="tweet" created="Sun, 13 Jun 2021 15:59:48 GMT" tweetId="1404106238300991494" urltweet="https://twitter.com/sarahkendzior/status/1404106238300991494" tweetUserName="sarahkendzior" />
 				</outline>
 			<outline text="June 12" type="calendarDay" name="12" >
 				<outline text="The attack on &quot;critical race theory&quot; has little to do with theory and more a fear of:
 1) historical accuracy
 2) students recognizing a continuous line between atrocities of the US past and present
-3) students recognizing parallels between atrocities in the US and other nations" type="tweet" created="Sat, 12 Jun 2021 17:48:40 GMT" tweetId="1403771245448024069" urltweet="https://twitter.com/sarahkendzior/status/1403771245448024069" inReplyToId="" tweetUserName="sarahkendzior" >
+3) students recognizing parallels between atrocities in the US and other nations" type="tweet" created="Sat, 12 Jun 2021 17:48:40 GMT" tweetId="1403771245448024069" urltweet="https://twitter.com/sarahkendzior/status/1403771245448024069" tweetUserName="sarahkendzior" >
 					<outline text="When students learn the full scope of history, good and the bad, and that, as Arendt said, most evil is done by people who never make up their minds to be good or evil -- they may have greater expectations for the present. They may sense their place in history and make a choice." type="tweet" created="Sat, 12 Jun 2021 17:54:23 GMT" tweetId="1403772686103416833" urltweet="https://twitter.com/sarahkendzior/status/1403772686103416833" inReplyToId="1403771245448024069" tweetUserName="sarahkendzior" >
 						<outline text="In the epilogue of HIDING IN PLAIN SIGHT, I describe taking my children to historical sites around the US out of concern our history would be drastically rewritten in coming years -- but also because kids deserve truth. Knowledge is power. This is what opponents of accuracy fear. https://t.co/tV1nAaW8uV" type="tweet" created="Sat, 12 Jun 2021 18:03:36 GMT" tweetId="1403775002881757187" urltweet="https://twitter.com/sarahkendzior/status/1403775002881757187" inReplyToId="1403772686103416833" tweetUserName="sarahkendzior" />
 						</outline>
@@ -28,8 +29,8 @@
 
 &quot;Red State Resistance&quot; https://t.co/YgZqdkmDpB
 
-These are free, but you can join our Patreon for bonus episodes and more https://t.co/Na8D7sa2BC" type="tweet" created="Sat, 12 Jun 2021 17:45:09 GMT" tweetId="1403770359938179073" urltweet="https://twitter.com/sarahkendzior/status/1403770359938179073" inReplyToId="" tweetUserName="sarahkendzior" />
-				<outline text="My interview on MSNBC about Putin's autocratic flaunting and what the Biden admin should do https://t.co/rKtlsiNrZN" type="tweet" created="Sat, 12 Jun 2021 15:59:33 GMT" tweetId="1403743784207228934" urltweet="https://twitter.com/sarahkendzior/status/1403743784207228934" inReplyToId="" tweetUserName="sarahkendzior" />
+These are free, but you can join our Patreon for bonus episodes and more https://t.co/Na8D7sa2BC" type="tweet" created="Sat, 12 Jun 2021 17:45:09 GMT" tweetId="1403770359938179073" urltweet="https://twitter.com/sarahkendzior/status/1403770359938179073" tweetUserName="sarahkendzior" />
+				<outline text="My interview on MSNBC about Putin's autocratic flaunting and what the Biden admin should do https://t.co/rKtlsiNrZN" type="tweet" created="Sat, 12 Jun 2021 15:59:33 GMT" tweetId="1403743784207228934" urltweet="https://twitter.com/sarahkendzior/status/1403743784207228934" tweetUserName="sarahkendzior" />
 				</outline>
 			<outline text="June 11" type="calendarDay" name="11" >
 				<outline text="🎵”Gonna write my book and make a million!
@@ -39,7 +40,7 @@ I fought the law and I won
 Law don’t meant shit if you got the right friends
 That’s how this country is run
 I fought the law and I won
-I *am* the law so I...won.”🎵 https://t.co/Vsgekwt8CO" type="tweet" created="Fri, 11 Jun 2021 20:35:11 GMT" tweetId="1403450764434067459" urltweet="https://twitter.com/sarahkendzior/status/1403450764434067459" inReplyToId="" tweetUserName="sarahkendzior" >
+I *am* the law so I...won.”🎵 https://t.co/Vsgekwt8CO" type="tweet" created="Fri, 11 Jun 2021 20:35:11 GMT" tweetId="1403450764434067459" urltweet="https://twitter.com/sarahkendzior/status/1403450764434067459" tweetUserName="sarahkendzior" >
 					<outline text="Now lock Trump up, replace Diane Feinstein with Jello Biafra (long overdue!), buy my book instead of books by criminal elites, and maybe we'll get back on track https://t.co/IpjLWPjBH8 https://t.co/LgkpzzcrNG" type="tweet" created="Fri, 11 Jun 2021 20:37:51 GMT" tweetId="1403451433807187975" urltweet="https://twitter.com/sarahkendzior/status/1403451433807187975" inReplyToId="1403450764434067459" tweetUserName="sarahkendzior" />
 					</outline>
 				<outline text="Nearly a century ago, Jim the Wonder Dog predicted that I would interview fellow Marshall hometown hero @lynzforcongress about our fine state! Listen here: https://t.co/YgZqdkmDpB https://t.co/ZkAWJVX5MC" type="tweet" created="Fri, 11 Jun 2021 17:47:10 GMT" tweetId="1403408480778821637" urltweet="https://twitter.com/sarahkendzior/status/1403408480778821637" tweetUserName="sarahkendzior" />
