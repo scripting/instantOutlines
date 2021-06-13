@@ -1,57 +1,58 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <opml version="2.0">
 	<head>
-		<title>davewiner tweets</title>
+		<title>@davewiner</title>
 		<dateCreated>Fri, 11 Jun 2021 13:57:24 GMT</dateCreated>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
+		<dateModified>Sun, 13 Jun 2021 20:28:16 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 13" type="calendarDay" name="13" >
-				<outline text="KD and Kyrie never asked NYers if it was ok for them to dis the Knicks." type="tweet" created="Sun, 13 Jun 2021 20:08:53 GMT" tweetId="1404168919062036485" urltweet="https://twitter.com/davewiner/status/1404168919062036485" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Mountaineers Share What It Is Like Waiting In the Long Lines to Reach the Summit of Mount Everest. https://t.co/C218O8cOzi" type="tweet" created="Sun, 13 Jun 2021 20:04:18 GMT" tweetId="1404167767130099715" urltweet="https://twitter.com/davewiner/status/1404167767130099715" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Netanyahu is out as new Israeli government survives confidence vote. https://t.co/Hf0rr1juFQ" type="tweet" created="Sun, 13 Jun 2021 18:35:17 GMT" tweetId="1404145365524357127" urltweet="https://twitter.com/davewiner/status/1404145365524357127" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Dogs Are Not Disposable. https://t.co/DogHiZuTry" type="tweet" created="Sun, 13 Jun 2021 18:32:14 GMT" tweetId="1404144597417222144" urltweet="https://twitter.com/davewiner/status/1404144597417222144" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="How to Shop for a Hot Tub. https://t.co/iOymMjxplV" type="tweet" created="Sun, 13 Jun 2021 16:52:50 GMT" tweetId="1404119584576311299" urltweet="https://twitter.com/davewiner/status/1404119584576311299" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="This Militia-Fighting GOP Sheriff Thinks Jan. 6 Was Just the Start. https://t.co/JptoQfhNjj" type="tweet" created="Sun, 13 Jun 2021 16:31:00 GMT" tweetId="1404114087177564160" urltweet="https://twitter.com/davewiner/status/1404114087177564160" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="KD and Kyrie never asked NYers if it was ok for them to dis the Knicks." type="tweet" created="Sun, 13 Jun 2021 20:08:53 GMT" tweetId="1404168919062036485" urltweet="https://twitter.com/davewiner/status/1404168919062036485" tweetUserName="davewiner" />
+				<outline text="Mountaineers Share What It Is Like Waiting In the Long Lines to Reach the Summit of Mount Everest. https://t.co/C218O8cOzi" type="tweet" created="Sun, 13 Jun 2021 20:04:18 GMT" tweetId="1404167767130099715" urltweet="https://twitter.com/davewiner/status/1404167767130099715" tweetUserName="davewiner" />
+				<outline text="Netanyahu is out as new Israeli government survives confidence vote. https://t.co/Hf0rr1juFQ" type="tweet" created="Sun, 13 Jun 2021 18:35:17 GMT" tweetId="1404145365524357127" urltweet="https://twitter.com/davewiner/status/1404145365524357127" tweetUserName="davewiner" />
+				<outline text="Dogs Are Not Disposable. https://t.co/DogHiZuTry" type="tweet" created="Sun, 13 Jun 2021 18:32:14 GMT" tweetId="1404144597417222144" urltweet="https://twitter.com/davewiner/status/1404144597417222144" tweetUserName="davewiner" />
+				<outline text="How to Shop for a Hot Tub. https://t.co/iOymMjxplV" type="tweet" created="Sun, 13 Jun 2021 16:52:50 GMT" tweetId="1404119584576311299" urltweet="https://twitter.com/davewiner/status/1404119584576311299" tweetUserName="davewiner" />
+				<outline text="This Militia-Fighting GOP Sheriff Thinks Jan. 6 Was Just the Start. https://t.co/JptoQfhNjj" type="tweet" created="Sun, 13 Jun 2021 16:31:00 GMT" tweetId="1404114087177564160" urltweet="https://twitter.com/davewiner/status/1404114087177564160" tweetUserName="davewiner" />
 				<outline text="#toolsforthought
 
 Import/export is not good enough in 2021.
 
-https://t.co/lKv2mSsocN https://t.co/poyCjBLPDr" type="tweet" created="Sun, 13 Jun 2021 14:57:03 GMT" tweetId="1404090443042852866" urltweet="https://twitter.com/davewiner/status/1404090443042852866" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="The trend toward self-driving and electric vehicles will add hundreds of millions of lines of code to cars. Can the auto industry cope? https://t.co/uiXwJbkwzM" type="tweet" created="Sun, 13 Jun 2021 14:17:02 GMT" tweetId="1404080375236866051" urltweet="https://twitter.com/davewiner/status/1404080375236866051" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Houston Judge Throws Out Anti-Vaxxer Lawsuit From Hospital Workers. https://t.co/JravCR6zLC" type="tweet" created="Sun, 13 Jun 2021 14:12:48 GMT" tweetId="1404079308839305217" urltweet="https://twitter.com/davewiner/status/1404079308839305217" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Oh no here they come, the members of, the Deadbeat Club.  https://t.co/6eP2Gothgi" type="tweet" created="Sun, 13 Jun 2021 12:38:21 GMT" tweetId="1404055542117638146" urltweet="https://twitter.com/davewiner/status/1404055542117638146" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="GitHub is an incredible free to use resource, reliable, has an excellent api and thru web hooks is even real time. I think it could be a strong basis for interop betw various outline generators and consumers." type="tweet" created="Sun, 13 Jun 2021 09:45:47 GMT" tweetId="1404012114214330373" urltweet="https://twitter.com/davewiner/status/1404012114214330373" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Good morning sports fans! 😜" type="tweet" created="Sun, 13 Jun 2021 09:35:16 GMT" tweetId="1404009465293193216" urltweet="https://twitter.com/davewiner/status/1404009465293193216" inReplyToId="" tweetUserName="davewiner" />
+https://t.co/lKv2mSsocN https://t.co/poyCjBLPDr" type="tweet" created="Sun, 13 Jun 2021 14:57:03 GMT" tweetId="1404090443042852866" urltweet="https://twitter.com/davewiner/status/1404090443042852866" tweetUserName="davewiner" />
+				<outline text="The trend toward self-driving and electric vehicles will add hundreds of millions of lines of code to cars. Can the auto industry cope? https://t.co/uiXwJbkwzM" type="tweet" created="Sun, 13 Jun 2021 14:17:02 GMT" tweetId="1404080375236866051" urltweet="https://twitter.com/davewiner/status/1404080375236866051" tweetUserName="davewiner" />
+				<outline text="Houston Judge Throws Out Anti-Vaxxer Lawsuit From Hospital Workers. https://t.co/JravCR6zLC" type="tweet" created="Sun, 13 Jun 2021 14:12:48 GMT" tweetId="1404079308839305217" urltweet="https://twitter.com/davewiner/status/1404079308839305217" tweetUserName="davewiner" />
+				<outline text="Oh no here they come, the members of, the Deadbeat Club.  https://t.co/6eP2Gothgi" type="tweet" created="Sun, 13 Jun 2021 12:38:21 GMT" tweetId="1404055542117638146" urltweet="https://twitter.com/davewiner/status/1404055542117638146" tweetUserName="davewiner" />
+				<outline text="GitHub is an incredible free to use resource, reliable, has an excellent api and thru web hooks is even real time. I think it could be a strong basis for interop betw various outline generators and consumers." type="tweet" created="Sun, 13 Jun 2021 09:45:47 GMT" tweetId="1404012114214330373" urltweet="https://twitter.com/davewiner/status/1404012114214330373" tweetUserName="davewiner" />
+				<outline text="Good morning sports fans! 😜" type="tweet" created="Sun, 13 Jun 2021 09:35:16 GMT" tweetId="1404009465293193216" urltweet="https://twitter.com/davewiner/status/1404009465293193216" tweetUserName="davewiner" />
 				</outline>
 			<outline text="June 12" type="calendarDay" name="12" >
-				<outline text="Why Liberals Ought to Invest in Propaganda. #duh https://t.co/RbApuFs6iO" type="tweet" created="Sun, 13 Jun 2021 00:54:32 GMT" tweetId="1403878419180425220" urltweet="https://twitter.com/davewiner/status/1403878419180425220" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="As long Covid affects more kids, doctors can't predict who is at risk. https://t.co/NpxkN48pg4" type="tweet" created="Sat, 12 Jun 2021 23:01:12 GMT" tweetId="1403849896554291202" urltweet="https://twitter.com/davewiner/status/1403849896554291202" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Why Liberals Ought to Invest in Propaganda. #duh https://t.co/RbApuFs6iO" type="tweet" created="Sun, 13 Jun 2021 00:54:32 GMT" tweetId="1403878419180425220" urltweet="https://twitter.com/davewiner/status/1403878419180425220" tweetUserName="davewiner" />
+				<outline text="As long Covid affects more kids, doctors can't predict who is at risk. https://t.co/NpxkN48pg4" type="tweet" created="Sat, 12 Jun 2021 23:01:12 GMT" tweetId="1403849896554291202" urltweet="https://twitter.com/davewiner/status/1403849896554291202" tweetUserName="davewiner" />
 				<outline text="Heard @jayrosen_nyu interview on On The Media. 
 
 @WITF has a brilliant idea, make sure the anti-democratic legacy of a Repub politician follows them  through every press mention.
 
-https://t.co/ngYKEvpzwF" type="tweet" created="Sat, 12 Jun 2021 22:40:16 GMT" tweetId="1403844629338931200" urltweet="https://twitter.com/davewiner/status/1403844629338931200" inReplyToId="" tweetUserName="davewiner" >
+https://t.co/ngYKEvpzwF" type="tweet" created="Sat, 12 Jun 2021 22:40:16 GMT" tweetId="1403844629338931200" urltweet="https://twitter.com/davewiner/status/1403844629338931200" tweetUserName="davewiner" >
 					<outline text="Imho this same &quot;never forget&quot; idea should apply to marketing in politics, not just journalism.
 
 https://t.co/EhZ9HooOj0" type="tweet" created="Sat, 12 Jun 2021 22:40:16 GMT" tweetId="1403844630270119936" urltweet="https://twitter.com/davewiner/status/1403844630270119936" inReplyToId="1403844629338931200" tweetUserName="davewiner" />
 					</outline>
-				<outline text="Fighting autocracy with marketing. https://t.co/EhZ9HooOj0" type="tweet" created="Sat, 12 Jun 2021 22:29:40 GMT" tweetId="1403841962021638144" urltweet="https://twitter.com/davewiner/status/1403841962021638144" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="What is narcissism, really?  https://t.co/mTfteWsvRr" type="tweet" created="Sat, 12 Jun 2021 21:12:07 GMT" tweetId="1403822444574654467" urltweet="https://twitter.com/davewiner/status/1403822444574654467" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Ex-NYT journo Don McNeil says paper reached out to Pulitzer jury 'fearing' N-word saga would 'cost them' prize. https://t.co/C2F1zSsvjD" type="tweet" created="Sat, 12 Jun 2021 21:06:41 GMT" tweetId="1403821077776699393" urltweet="https://twitter.com/davewiner/status/1403821077776699393" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="The world just got a new ocean, according to National Geographic. https://t.co/z351KhvHUU" type="tweet" created="Sat, 12 Jun 2021 18:26:47 GMT" tweetId="1403780838475583489" urltweet="https://twitter.com/davewiner/status/1403780838475583489" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Fighting autocracy with marketing. https://t.co/EhZ9HooOj0" type="tweet" created="Sat, 12 Jun 2021 22:29:40 GMT" tweetId="1403841962021638144" urltweet="https://twitter.com/davewiner/status/1403841962021638144" tweetUserName="davewiner" />
+				<outline text="What is narcissism, really?  https://t.co/mTfteWsvRr" type="tweet" created="Sat, 12 Jun 2021 21:12:07 GMT" tweetId="1403822444574654467" urltweet="https://twitter.com/davewiner/status/1403822444574654467" tweetUserName="davewiner" />
+				<outline text="Ex-NYT journo Don McNeil says paper reached out to Pulitzer jury 'fearing' N-word saga would 'cost them' prize. https://t.co/C2F1zSsvjD" type="tweet" created="Sat, 12 Jun 2021 21:06:41 GMT" tweetId="1403821077776699393" urltweet="https://twitter.com/davewiner/status/1403821077776699393" tweetUserName="davewiner" />
+				<outline text="The world just got a new ocean, according to National Geographic. https://t.co/z351KhvHUU" type="tweet" created="Sat, 12 Jun 2021 18:26:47 GMT" tweetId="1403780838475583489" urltweet="https://twitter.com/davewiner/status/1403780838475583489" tweetUserName="davewiner" />
 				<outline text="Speaking of outliners, Axios looks more and more like they use an outliner to write their posts. 
 
-https://t.co/0MbXLNIJm0" type="tweet" created="Sat, 12 Jun 2021 17:38:10 GMT" tweetId="1403768602336055304" urltweet="https://twitter.com/davewiner/status/1403768602336055304" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Why America's post-vaccine summer is off to a slow start. https://t.co/GA6psA9sqv" type="tweet" created="Sat, 12 Jun 2021 17:37:21 GMT" tweetId="1403768396156706823" urltweet="https://twitter.com/davewiner/status/1403768396156706823" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="https://t.co/f83rJPP42x" type="tweet" created="Sat, 12 Jun 2021 16:53:50 GMT" tweetId="1403757447110696962" urltweet="https://twitter.com/davewiner/status/1403757447110696962" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="For 40 Years, Crashing Trains Was One of America’s Favorite Pastimes. https://t.co/VaocEQxRFa" type="tweet" created="Sat, 12 Jun 2021 15:17:13 GMT" tweetId="1403733134122930176" urltweet="https://twitter.com/davewiner/status/1403733134122930176" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="My Android phone, a Pixel 4a, goes offline all the damn time. I have to restart it to get it back online." type="tweet" created="Sat, 12 Jun 2021 14:54:23 GMT" tweetId="1403727385535655937" urltweet="https://twitter.com/davewiner/status/1403727385535655937" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="If you want to blog from an outliner, I suggest the first step is to get the outline data to flow out of your editing tool in OPML, and then write your publishing software to build the blog from the OPML. That way you won't be locked into your editor or publishing software." type="tweet" created="Sat, 12 Jun 2021 14:32:43 GMT" tweetId="1403721933628350474" urltweet="https://twitter.com/davewiner/status/1403721933628350474" inReplyToId="" tweetUserName="davewiner" >
+https://t.co/0MbXLNIJm0" type="tweet" created="Sat, 12 Jun 2021 17:38:10 GMT" tweetId="1403768602336055304" urltweet="https://twitter.com/davewiner/status/1403768602336055304" tweetUserName="davewiner" />
+				<outline text="Why America's post-vaccine summer is off to a slow start. https://t.co/GA6psA9sqv" type="tweet" created="Sat, 12 Jun 2021 17:37:21 GMT" tweetId="1403768396156706823" urltweet="https://twitter.com/davewiner/status/1403768396156706823" tweetUserName="davewiner" />
+				<outline text="https://t.co/f83rJPP42x" type="tweet" created="Sat, 12 Jun 2021 16:53:50 GMT" tweetId="1403757447110696962" urltweet="https://twitter.com/davewiner/status/1403757447110696962" tweetUserName="davewiner" />
+				<outline text="For 40 Years, Crashing Trains Was One of America’s Favorite Pastimes. https://t.co/VaocEQxRFa" type="tweet" created="Sat, 12 Jun 2021 15:17:13 GMT" tweetId="1403733134122930176" urltweet="https://twitter.com/davewiner/status/1403733134122930176" tweetUserName="davewiner" />
+				<outline text="My Android phone, a Pixel 4a, goes offline all the damn time. I have to restart it to get it back online." type="tweet" created="Sat, 12 Jun 2021 14:54:23 GMT" tweetId="1403727385535655937" urltweet="https://twitter.com/davewiner/status/1403727385535655937" tweetUserName="davewiner" />
+				<outline text="If you want to blog from an outliner, I suggest the first step is to get the outline data to flow out of your editing tool in OPML, and then write your publishing software to build the blog from the OPML. That way you won't be locked into your editor or publishing software." type="tweet" created="Sat, 12 Jun 2021 14:32:43 GMT" tweetId="1403721933628350474" urltweet="https://twitter.com/davewiner/status/1403721933628350474" tweetUserName="davewiner" >
 					<outline text="There are lots of approaches to both writing and publishing. You won't get the benefit if you don't have a strong basis for interop. 
 
 Silos have a long history of being bad for progress." type="tweet" created="Sat, 12 Jun 2021 14:32:43 GMT" tweetId="1403721934433554440" urltweet="https://twitter.com/davewiner/status/1403721934433554440" inReplyToId="1403721933628350474" tweetUserName="davewiner" >
@@ -60,18 +61,18 @@ Silos have a long history of being bad for progress." type="tweet" created="Sat,
 					</outline>
 				</outline>
 			<outline text="June 11" type="calendarDay" name="11" >
-				<outline text="Please explain the hair. https://t.co/pxtjmXYgOw" type="tweet" created="Sat, 12 Jun 2021 00:23:47 GMT" tweetId="1403508293662879744" urltweet="https://twitter.com/davewiner/status/1403508293662879744" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Neil Young &amp;amp; Crosby, Stills &amp;amp; Nash - Down By The River Live. https://t.co/2G7THcPO28" type="tweet" created="Sat, 12 Jun 2021 00:16:12 GMT" tweetId="1403506385061568512" urltweet="https://twitter.com/davewiner/status/1403506385061568512" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Jeff Sessions Claims He’s Clueless (About His DOJ’s Snooping on Congress). https://t.co/Cj12gLsHiS" type="tweet" created="Fri, 11 Jun 2021 23:44:43 GMT" tweetId="1403498460112883718" urltweet="https://twitter.com/davewiner/status/1403498460112883718" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="I’d like to see the Sixers wipe the smile off Trae Young’s face." type="tweet" created="Fri, 11 Jun 2021 23:12:20 GMT" tweetId="1403490311943380999" urltweet="https://twitter.com/davewiner/status/1403490311943380999" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Putin-inspired death threats are terrorizing election workers. https://t.co/rJ15xTj8dp" type="tweet" created="Fri, 11 Jun 2021 23:10:43 GMT" tweetId="1403489902898122755" urltweet="https://twitter.com/davewiner/status/1403489902898122755" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Bearsville Theater announces summerlong Americana Barbecue Music Series. https://t.co/KUKaWFxHhX" type="tweet" created="Fri, 11 Jun 2021 22:15:46 GMT" tweetId="1403476075024424965" urltweet="https://twitter.com/davewiner/status/1403476075024424965" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="The case for prosecuting Donald Trump. https://t.co/auAz9WiQh4" type="tweet" created="Fri, 11 Jun 2021 22:06:42 GMT" tweetId="1403473793499242509" urltweet="https://twitter.com/davewiner/status/1403473793499242509" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Please explain the hair. https://t.co/pxtjmXYgOw" type="tweet" created="Sat, 12 Jun 2021 00:23:47 GMT" tweetId="1403508293662879744" urltweet="https://twitter.com/davewiner/status/1403508293662879744" tweetUserName="davewiner" />
+				<outline text="Neil Young &amp;amp; Crosby, Stills &amp;amp; Nash - Down By The River Live. https://t.co/2G7THcPO28" type="tweet" created="Sat, 12 Jun 2021 00:16:12 GMT" tweetId="1403506385061568512" urltweet="https://twitter.com/davewiner/status/1403506385061568512" tweetUserName="davewiner" />
+				<outline text="Jeff Sessions Claims He’s Clueless (About His DOJ’s Snooping on Congress). https://t.co/Cj12gLsHiS" type="tweet" created="Fri, 11 Jun 2021 23:44:43 GMT" tweetId="1403498460112883718" urltweet="https://twitter.com/davewiner/status/1403498460112883718" tweetUserName="davewiner" />
+				<outline text="I’d like to see the Sixers wipe the smile off Trae Young’s face." type="tweet" created="Fri, 11 Jun 2021 23:12:20 GMT" tweetId="1403490311943380999" urltweet="https://twitter.com/davewiner/status/1403490311943380999" tweetUserName="davewiner" />
+				<outline text="Putin-inspired death threats are terrorizing election workers. https://t.co/rJ15xTj8dp" type="tweet" created="Fri, 11 Jun 2021 23:10:43 GMT" tweetId="1403489902898122755" urltweet="https://twitter.com/davewiner/status/1403489902898122755" tweetUserName="davewiner" />
+				<outline text="Bearsville Theater announces summerlong Americana Barbecue Music Series. https://t.co/KUKaWFxHhX" type="tweet" created="Fri, 11 Jun 2021 22:15:46 GMT" tweetId="1403476075024424965" urltweet="https://twitter.com/davewiner/status/1403476075024424965" tweetUserName="davewiner" />
+				<outline text="The case for prosecuting Donald Trump. https://t.co/auAz9WiQh4" type="tweet" created="Fri, 11 Jun 2021 22:06:42 GMT" tweetId="1403473793499242509" urltweet="https://twitter.com/davewiner/status/1403473793499242509" tweetUserName="davewiner" />
 				<outline text="I'm somewhat divided between the Sixers and the Hawks. 
 
 I assume the Nets are going to beat the Bucks, so the question is who do I want to beat the Nets in the next round.
 
-It would be sooo cooool if the Hawks prevailed and then kicked the Nets' ass back to Oklahoma." type="tweet" created="Fri, 11 Jun 2021 19:47:02 GMT" tweetId="1403438644518653952" urltweet="https://twitter.com/davewiner/status/1403438644518653952" inReplyToId="" tweetUserName="davewiner" >
+It would be sooo cooool if the Hawks prevailed and then kicked the Nets' ass back to Oklahoma." type="tweet" created="Fri, 11 Jun 2021 19:47:02 GMT" tweetId="1403438644518653952" urltweet="https://twitter.com/davewiner/status/1403438644518653952" tweetUserName="davewiner" >
 					<outline text="Perhaps this should be the Nets' theme song.
 
 https://t.co/VBvQwXvrUD" type="tweet" created="Fri, 11 Jun 2021 19:47:42 GMT" tweetId="1403438812114608134" urltweet="https://twitter.com/davewiner/status/1403438812114608134" inReplyToId="1403438644518653952" tweetUserName="davewiner" />
@@ -80,10 +81,10 @@ https://t.co/VBvQwXvrUD" type="tweet" created="Fri, 11 Jun 2021 19:47:42 GMT" tw
 
 I'm  glad he's talking with the Lincoln Project. I'm going to think about this for a bit and then respond. 
 
-https://t.co/3E9t059CNH" type="tweet" created="Fri, 11 Jun 2021 19:44:16 GMT" tweetId="1403437947760873483" urltweet="https://twitter.com/davewiner/status/1403437947760873483" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Celebrity Millennium cruise guests test positive for Covid. https://t.co/N814EQrOGo" type="tweet" created="Fri, 11 Jun 2021 19:42:14 GMT" tweetId="1403437438463250435" urltweet="https://twitter.com/davewiner/status/1403437438463250435" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Garland to Detail Justice Dept. Plan to Protect Voting Rights. https://t.co/Aj1iMmdywz" type="tweet" created="Fri, 11 Jun 2021 19:23:12 GMT" tweetId="1403432646676471819" urltweet="https://twitter.com/davewiner/status/1403432646676471819" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Darnella Frazier wins special citation from Pulitzer Prize board. https://t.co/7H5ZTEL6U4" type="tweet" created="Fri, 11 Jun 2021 18:58:38 GMT" tweetId="1403426463760752643" urltweet="https://twitter.com/davewiner/status/1403426463760752643" inReplyToId="" tweetUserName="davewiner" />
+https://t.co/3E9t059CNH" type="tweet" created="Fri, 11 Jun 2021 19:44:16 GMT" tweetId="1403437947760873483" urltweet="https://twitter.com/davewiner/status/1403437947760873483" tweetUserName="davewiner" />
+				<outline text="Celebrity Millennium cruise guests test positive for Covid. https://t.co/N814EQrOGo" type="tweet" created="Fri, 11 Jun 2021 19:42:14 GMT" tweetId="1403437438463250435" urltweet="https://twitter.com/davewiner/status/1403437438463250435" tweetUserName="davewiner" />
+				<outline text="Garland to Detail Justice Dept. Plan to Protect Voting Rights. https://t.co/Aj1iMmdywz" type="tweet" created="Fri, 11 Jun 2021 19:23:12 GMT" tweetId="1403432646676471819" urltweet="https://twitter.com/davewiner/status/1403432646676471819" tweetUserName="davewiner" />
+				<outline text="Darnella Frazier wins special citation from Pulitzer Prize board. https://t.co/7H5ZTEL6U4" type="tweet" created="Fri, 11 Jun 2021 18:58:38 GMT" tweetId="1403426463760752643" urltweet="https://twitter.com/davewiner/status/1403426463760752643" tweetUserName="davewiner" />
 				<outline text="Knicks Should Hold on to Both 1st-Round Draft Picks. https://t.co/MJn3QT5ClP" type="tweet" created="Fri, 11 Jun 2021 18:05:24 GMT" tweetId="1403413069422907397" urltweet="https://twitter.com/davewiner/status/1403413069422907397" tweetUserName="davewiner" />
 				<outline text="Winners of the 2021 Pulitzer Prizes. https://t.co/N3Do2cvLj0" type="tweet" created="Fri, 11 Jun 2021 17:52:15 GMT" tweetId="1403409759429070863" urltweet="https://twitter.com/davewiner/status/1403409759429070863" tweetUserName="davewiner" />
 				<outline text="Black Lives Matter Protesters Were Overwhelmingly Peaceful. https://t.co/bV05jleHrH" type="tweet" created="Fri, 11 Jun 2021 15:34:22 GMT" tweetId="1403375058983264263" urltweet="https://twitter.com/davewiner/status/1403375058983264263" tweetUserName="davewiner" />
