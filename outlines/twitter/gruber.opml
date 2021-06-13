@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <opml version="2.0">
 	<head>
-		<title>gruber tweets</title>
+		<title>@gruber</title>
 		<dateCreated>Sat, 12 Jun 2021 03:48:32 GMT</dateCreated>
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<urlInstant>http://instantoutliner.com/pw</urlInstant>
+		<dateModified>Sun, 13 Jun 2021 20:28:16 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 12" type="calendarDay" name="12" >
-				<outline text="I just went grocery shopping without a mask. Ask me anything.￼" type="tweet" created="Sat, 12 Jun 2021 16:07:22 GMT" tweetId="1403745752141156355" urltweet="https://twitter.com/gruber/status/1403745752141156355" inReplyToId="" tweetUserName="gruber" />
+				<outline text="I just went grocery shopping without a mask. Ask me anything.￼" type="tweet" created="Sat, 12 Jun 2021 16:07:22 GMT" tweetId="1403745752141156355" urltweet="https://twitter.com/gruber/status/1403745752141156355" tweetUserName="gruber" />
 				</outline>
 			<outline text="June 11" type="calendarDay" name="11" >
-				<outline text="Trade him to the Yankees. https://t.co/Vs8TTkqchT" type="tweet" created="Sat, 12 Jun 2021 03:57:46 GMT" tweetId="1403562141454680064" urltweet="https://twitter.com/gruber/status/1403562141454680064" inReplyToId="" tweetUserName="gruber" />
+				<outline text="Trade him to the Yankees. https://t.co/Vs8TTkqchT" type="tweet" created="Sat, 12 Jun 2021 03:57:46 GMT" tweetId="1403562141454680064" urltweet="https://twitter.com/gruber/status/1403562141454680064" tweetUserName="gruber" />
 				</outline>
 			</outline>
 		</body>
