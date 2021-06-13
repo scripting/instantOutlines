@@ -11,6 +11,7 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 13" type="calendarDay" name="13" >
+				<outline text="The trend toward self-driving and electric vehicles will add hundreds of millions of lines of code to cars. Can the auto industry cope? https://t.co/uiXwJbkwzM" type="tweet" created="Sun, 13 Jun 2021 14:17:02 GMT" tweetId="1404080375236866051" urltweet="https://twitter.com/davewiner/status/1404080375236866051" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Houston Judge Throws Out Anti-Vaxxer Lawsuit From Hospital Workers. https://t.co/JravCR6zLC" type="tweet" created="Sun, 13 Jun 2021 14:12:48 GMT" tweetId="1404079308839305217" urltweet="https://twitter.com/davewiner/status/1404079308839305217" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Oh no here they come, the members of, the Deadbeat Club.  https://t.co/6eP2Gothgi" type="tweet" created="Sun, 13 Jun 2021 12:38:21 GMT" tweetId="1404055542117638146" urltweet="https://twitter.com/davewiner/status/1404055542117638146" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="GitHub is an incredible free to use resource, reliable, has an excellent api and thru web hooks is even real time. I think it could be a strong basis for interop betw various outline generators and consumers." type="tweet" created="Sun, 13 Jun 2021 09:45:47 GMT" tweetId="1404012114214330373" urltweet="https://twitter.com/davewiner/status/1404012114214330373" inReplyToId="" tweetUserName="davewiner" />
