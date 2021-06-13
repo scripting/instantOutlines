@@ -10,6 +10,9 @@
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 13" type="calendarDay" name="13" >
+				<outline text="Thread https://t.co/pkovuR017o" type="tweet" created="Sun, 13 Jun 2021 15:59:48 GMT" tweetId="1404106238300991494" urltweet="https://twitter.com/sarahkendzior/status/1404106238300991494" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="June 12" type="calendarDay" name="12" >
 				<outline text="The attack on &quot;critical race theory&quot; has little to do with theory and more a fear of:
 1) historical accuracy
