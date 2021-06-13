@@ -7,13 +7,15 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 13 Jun 2021 20:53:19 GMT</dateModified>
+		<dateModified>Sun, 13 Jun 2021 20:54:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 13" type="calendarDay" name="13" >
 				<outline text="Is JSON better than XML? No. https://t.co/QZJTtsmxTc" type="tweet" created="Sun, 13 Jun 2021 20:52:38 GMT" tweetId="1404179930015993862" urltweet="https://twitter.com/davewiner/status/1404179930015993862" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="KD and Kyrie never asked NYers if it was ok for them to dis the Knicks." type="tweet" created="Sun, 13 Jun 2021 20:08:53 GMT" tweetId="1404168919062036485" urltweet="https://twitter.com/davewiner/status/1404168919062036485" tweetUserName="davewiner" />
+				<outline text="KD and Kyrie never asked NYers if it was ok for them to dis the Knicks." type="tweet" created="Sun, 13 Jun 2021 20:08:53 GMT" tweetId="1404168919062036485" urltweet="https://twitter.com/davewiner/status/1404168919062036485" tweetUserName="davewiner" >
+					<outline text="So every time the Bucks score my heart sings for the pride of NY." type="tweet" created="Sun, 13 Jun 2021 20:54:09 GMT" tweetId="1404180310502391813" urltweet="https://twitter.com/davewiner/status/1404180310502391813" inReplyToId="1404168919062036485" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Mountaineers Share What It Is Like Waiting In the Long Lines to Reach the Summit of Mount Everest. https://t.co/C218O8cOzi" type="tweet" created="Sun, 13 Jun 2021 20:04:18 GMT" tweetId="1404167767130099715" urltweet="https://twitter.com/davewiner/status/1404167767130099715" tweetUserName="davewiner" />
 				<outline text="Netanyahu is out as new Israeli government survives confidence vote. https://t.co/Hf0rr1juFQ" type="tweet" created="Sun, 13 Jun 2021 18:35:17 GMT" tweetId="1404145365524357127" urltweet="https://twitter.com/davewiner/status/1404145365524357127" tweetUserName="davewiner" />
 				<outline text="Dogs Are Not Disposable. https://t.co/DogHiZuTry" type="tweet" created="Sun, 13 Jun 2021 18:32:14 GMT" tweetId="1404144597417222144" urltweet="https://twitter.com/davewiner/status/1404144597417222144" tweetUserName="davewiner" />
