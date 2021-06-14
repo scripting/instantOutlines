@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 13:00:29 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 13:01:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
@@ -17,7 +17,9 @@
 
 I'm sure Biden and Garland know that.
 
-They also want to avoid going to jail themselves when their terms are up." type="tweet" created="Mon, 14 Jun 2021 12:59:44 GMT" tweetId="1404423308582477831" urltweet="https://twitter.com/davewiner/status/1404423308582477831" inReplyToId="1404416849434062857" tweetUserName="davewiner" />
+They also want to avoid going to jail themselves when their terms are up." type="tweet" created="Mon, 14 Jun 2021 12:59:44 GMT" tweetId="1404423308582477831" urltweet="https://twitter.com/davewiner/status/1404423308582477831" inReplyToId="1404416849434062857" tweetUserName="davewiner" >
+						<outline text="Journalism ought to start saying the things they never say that they know are true. I feel for them. But their jobs require them to do it. One of those things is in the parent of this tweet." type="tweet" created="Mon, 14 Jun 2021 13:00:42 GMT" tweetId="1404423551671808006" urltweet="https://twitter.com/davewiner/status/1404423551671808006" inReplyToId="1404423308582477831" tweetUserName="davewiner" />
+						</outline>
 					</outline>
 				<outline text="Something new for outliner devs in the #toolsforthought space.
 
