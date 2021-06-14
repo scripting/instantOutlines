@@ -44,9 +44,9 @@ When you have a demo running, let us know by tweet, email or a post in the Issue
 
 ### Simple use-case
 
-Imagine you're editing a blog post in your outliner. When you make a change, the publishing software (say WordPress. Medium or Substack) gets a notification that the outline was updated, along with the new version of the outline, as a web sockets package. It then publishes the changed post without you doing anything more. 
+Imagine you're editing a blog post in your outliner. When you make a change, the publishing software (e.g. Medium or Substack) gets a notification that the outline was updated, along with the new version of the outline, as a web sockets package. It then publishes the changed post without you doing anything more. 
 
-Compare this to how it works without the connection. You make a change to the outline, copy the text to the clipbord, go into WordPress (or another blogging tool), open the post in their editor, and paste the changed version, and save. That's how things work now. All that work could obviously be done by software, no rocket science involved. All that's needed is a will on the part of developers to improve technology for users. That could be a competitive advantage, or something you do for your users because you have pride in your product, and you want to help them do what they do better and more easily. 
+Compare this to how it works without the connection. You make a change to the outline, copy the text to the clipbord, go into the blogging tool, open the post in their editor,  paste the changed version, save. That's how things work now. All that work could obviously be done by software, no rocket science involved. All that's needed is a will on the part of developers to improve technology for users. That could be a competitive advantage, or something you do for your users because you have pride in your product, and you want to help them do what they do better and more easily. 
 
 ### Philosophy
 
