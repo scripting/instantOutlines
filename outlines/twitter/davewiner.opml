@@ -7,12 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 12:34:26 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 13:00:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 14" type="calendarDay" name="14" >
-				<outline text="Joe Biden and Merrick Garland are acting like Donald Trump was a crazy dream. But the threat to American democracy will only get worse the longer we ignore it. https://t.co/qRKmMVAJca" type="tweet" created="Mon, 14 Jun 2021 12:34:04 GMT" tweetId="1404416849434062857" urltweet="https://twitter.com/davewiner/status/1404416849434062857" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Joe Biden and Merrick Garland are acting like Donald Trump was a crazy dream. But the threat to American democracy will only get worse the longer we ignore it. https://t.co/qRKmMVAJca" type="tweet" created="Mon, 14 Jun 2021 12:34:04 GMT" tweetId="1404416849434062857" urltweet="https://twitter.com/davewiner/status/1404416849434062857" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="We ignored Dubya and that led to Trump. 
+
+I'm sure Biden and Garland know that.
+
+They also want to avoid going to jail themselves when their terms are up." type="tweet" created="Mon, 14 Jun 2021 12:59:44 GMT" tweetId="1404423308582477831" urltweet="https://twitter.com/davewiner/status/1404423308582477831" inReplyToId="1404416849434062857" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Something new for outliner devs in the #toolsforthought space.
 
 https://t.co/Bpnb5Jt45d
