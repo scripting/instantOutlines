@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 10:31:04 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 11:36:18 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 14" type="calendarDay" name="14" >
+				<outline text="Good morning everybody! How y'all doing?" type="tweet" created="Mon, 14 Jun 2021 11:35:40 GMT" tweetId="1404402153821704193" urltweet="https://twitter.com/davewiner/status/1404402153821704193" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Jeopardy Should Be Hosted By Mayim Bialik Forever. https://t.co/Mdl6hvYAYU" type="tweet" created="Mon, 14 Jun 2021 10:30:31 GMT" tweetId="1404385757691850753" urltweet="https://twitter.com/davewiner/status/1404385757691850753" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Coffee shops with great ideas. https://t.co/E3OEU5T4Gx" type="tweet" created="Mon, 14 Jun 2021 09:26:37 GMT" tweetId="1404369676755517440" urltweet="https://twitter.com/davewiner/status/1404369676755517440" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
