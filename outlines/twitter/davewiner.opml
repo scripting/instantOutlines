@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 01:32:15 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 09:26:51 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 14" type="calendarDay" name="14" >
+				<outline text="Coffee shops with great ideas. https://t.co/E3OEU5T4Gx" type="tweet" created="Mon, 14 Jun 2021 09:26:37 GMT" tweetId="1404369676755517440" urltweet="https://twitter.com/davewiner/status/1404369676755517440" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 13" type="calendarDay" name="13" >
 				<outline text="Why is Chris Paul called CP3?" type="tweet" created="Mon, 14 Jun 2021 01:31:38 GMT" tweetId="1404250144841867264" urltweet="https://twitter.com/davewiner/status/1404250144841867264" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Can Quartz become a scrappy media startup? https://t.co/zLHbGOUSy9" type="tweet" created="Mon, 14 Jun 2021 01:02:53 GMT" tweetId="1404242909831045122" urltweet="https://twitter.com/davewiner/status/1404242909831045122" inReplyToId="" tweetUserName="davewiner" />
