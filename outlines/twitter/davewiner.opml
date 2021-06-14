@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 12:22:24 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 12:30:25 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
@@ -16,7 +16,19 @@
 
 https://t.co/Bpnb5Jt45d
 
-It's what's behind all the ranting I've been doing about how import and export isn't enough in 2021." type="tweet" created="Mon, 14 Jun 2021 12:21:44 GMT" tweetId="1404413744327933956" urltweet="https://twitter.com/davewiner/status/1404413744327933956" inReplyToId="" tweetUserName="davewiner" />
+It's what's behind all the ranting I've been doing about how import and export isn't enough in 2021." type="tweet" created="Mon, 14 Jun 2021 12:21:44 GMT" tweetId="1404413744327933956" urltweet="https://twitter.com/davewiner/status/1404413744327933956" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="A simple use-case to illustrate.
+
+Imagine you're editing a blog post in your outliner. When you make a change, the blog publishing software (say WordPress or Substack) gets a notification that the outline was updated, along with the new version of the outline..." type="tweet" created="Mon, 14 Jun 2021 12:30:02 GMT" tweetId="1404415836895518721" urltweet="https://twitter.com/davewiner/status/1404415836895518721" inReplyToId="1404413744327933956" tweetUserName="davewiner" >
+						<outline text="as a web sockets message. It then publishes the changed post without you doing anything more. 
+
+Compare this to how it works without the connection. You make a change to the outline, copy the text to the clipbord, go into WordPress (or another blogging tool)..." type="tweet" created="Mon, 14 Jun 2021 12:30:03 GMT" tweetId="1404415837910487045" urltweet="https://twitter.com/davewiner/status/1404415837910487045" inReplyToId="1404415836895518721" tweetUserName="davewiner" >
+							<outline text="open the post in their editor, and paste the changed version, and save. That's how things work now. All that work could obviously be done by software, no rocket science involved. All that's needed is a will on the part of developers to improve technology for users." type="tweet" created="Mon, 14 Jun 2021 12:30:03 GMT" tweetId="1404415838892011522" urltweet="https://twitter.com/davewiner/status/1404415838892011522" inReplyToId="1404415837910487045" tweetUserName="davewiner" >
+								<outline text="That could be a competitive advantage, or something you do for your users because you have pride in your product, and you want to help them do what they do better." type="tweet" created="Mon, 14 Jun 2021 12:30:03 GMT" tweetId="1404415839869276167" urltweet="https://twitter.com/davewiner/status/1404415839869276167" inReplyToId="1404415838892011522" tweetUserName="davewiner" />
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Good morning everybody! How y'all doing?" type="tweet" created="Mon, 14 Jun 2021 11:35:40 GMT" tweetId="1404402153821704193" urltweet="https://twitter.com/davewiner/status/1404402153821704193" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="I like Steely Dan, for sure, always have, but recently I've discovered that Katy Lied is by far my favorite album. I keep singing various Katy Lied songs as the background music of my life." type="tweet" created="Mon, 14 Jun 2021 11:40:40 GMT" tweetId="1404403413278994432" urltweet="https://twitter.com/davewiner/status/1404403413278994432" inReplyToId="1404402153821704193" tweetUserName="davewiner" >
 						<outline text="For example this is my song du jour.
