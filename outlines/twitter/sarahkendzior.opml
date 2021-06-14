@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 16:15:42 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 16:17:43 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 14" type="calendarDay" name="14" >
-				<outline text="LONG overdue. What they did to Winner is disgraceful and I'm glad she's out. https://t.co/2bSBKysFw3" type="tweet" created="Mon, 14 Jun 2021 16:15:28 GMT" tweetId="1404472567524737024" urltweet="https://twitter.com/sarahkendzior/status/1404472567524737024" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="LONG overdue. What they did to Winner is disgraceful and I'm glad she's out. https://t.co/2bSBKysFw3" type="tweet" created="Mon, 14 Jun 2021 16:15:28 GMT" tweetId="1404472567524737024" urltweet="https://twitter.com/sarahkendzior/status/1404472567524737024" inReplyToId="" tweetUserName="sarahkendzior" >
+					<outline text="The @gaslitnation interview with Reality Winner's mother: https://t.co/KcBAdc9RPK" type="tweet" created="Mon, 14 Jun 2021 16:16:44 GMT" tweetId="1404472885226397696" urltweet="https://twitter.com/sarahkendzior/status/1404472885226397696" inReplyToId="1404472567524737024" tweetUserName="sarahkendzior" />
+					</outline>
 				<outline text="Garland needs to move swiftly out of the AG office and be replaced with someone who gives a shit about protecting the United States https://t.co/52eMHZdeVH" type="tweet" created="Mon, 14 Jun 2021 15:10:46 GMT" tweetId="1404456286692036611" urltweet="https://twitter.com/sarahkendzior/status/1404456286692036611" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="Thread of terrible things Garland has done during his brief tenure. Not even up to date because he did more terrible things while I was writing the thread: https://t.co/OSIOdKjybZ" type="tweet" created="Mon, 14 Jun 2021 15:12:29 GMT" tweetId="1404456717321183245" urltweet="https://twitter.com/sarahkendzior/status/1404456717321183245" inReplyToId="1404456286692036611" tweetUserName="sarahkendzior" />
 					</outline>
