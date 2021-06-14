@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 15:17:46 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 15:20:46 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 14" type="calendarDay" name="14" >
+				<outline text="This is the best Apple ad I've seen in quite some time.  https://t.co/lugGXLYs5u" type="tweet" created="Mon, 14 Jun 2021 15:19:51 GMT" tweetId="1404458569332895751" urltweet="https://twitter.com/davewiner/status/1404458569332895751" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Coronavirus infections dropping where people are vaccinated, rising where they are not. https://t.co/bXgdF9wOsS" type="tweet" created="Mon, 14 Jun 2021 15:17:16 GMT" tweetId="1404457922621493263" urltweet="https://twitter.com/davewiner/status/1404457922621493263" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Imagine them all naked. https://t.co/H1Vsj3yii9" type="tweet" created="Mon, 14 Jun 2021 14:22:17 GMT" tweetId="1404444082353680385" urltweet="https://twitter.com/davewiner/status/1404444082353680385" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="These pictures are a real Politburo type art form. https://t.co/H1Vsj3yii9" type="tweet" created="Mon, 14 Jun 2021 14:21:26 GMT" tweetId="1404443868616142851" urltweet="https://twitter.com/davewiner/status/1404443868616142851" inReplyToId="" tweetUserName="davewiner" />
