@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 13:30:33 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 14:21:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 14" type="calendarDay" name="14" >
+				<outline text="These pictures are a real Politburo type art form. https://t.co/H1Vsj3yii9" type="tweet" created="Mon, 14 Jun 2021 14:21:26 GMT" tweetId="1404443868616142851" urltweet="https://twitter.com/davewiner/status/1404443868616142851" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Does Your Member Of Congress Vote With Or Against Biden? https://t.co/C7L34tiS7x" type="tweet" created="Mon, 14 Jun 2021 13:29:57 GMT" tweetId="1404430912302026752" urltweet="https://twitter.com/davewiner/status/1404430912302026752" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/2 Proof by induction. If a statement is true for 0, and if it being true for n implies it's true for n+1, then it's proven for all positive integers. When we let Dubya off for his sins, and when we didn't restructure the banking industry after the crash in 2008, we set the" type="tweet" created="Mon, 14 Jun 2021 13:20:39 GMT" tweetId="1404428571410636803" urltweet="https://twitter.com/davewiner/status/1404428571410636803" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/2 stage for it to happen again, only worse. And Trump isn't done with us yet. He's the weird case of a former president who hasn't relinquished power. He hasn't learned how to use it yet, but he'll get more effective in his new role." type="tweet" created="Mon, 14 Jun 2021 13:20:43 GMT" tweetId="1404428587978133505" urltweet="https://twitter.com/davewiner/status/1404428587978133505" inReplyToId="1404428571410636803" tweetUserName="davewiner" />
