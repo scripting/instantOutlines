@@ -42,6 +42,12 @@ When you have a demo running, let us know by tweet, email or a post in the Issue
 
 5. The net effect is that the changed outlines flow to any app that wants to subscribe to them.
 
+### Simple use-case
+
+Imagine you're editing a blog post in your outliner. When you make a change, the blog publishing software (say WordPress. Medium or Substack, as examples) gets a notification that the outline was updated, along with the new version of the outline as a web sockets message. It then publishes the changed post without you doing anything more. 
+
+Compare this to how it works without the connection. You make a change to the outline, copy the text to the clipbord, go into WordPress (or another blogging tool), open the post in their editor, and paste the changed version into their editor, and save. That's how things work now. All that work could obviously be done by software, no rocket science involved. All that's needed is a will on the part of developers to improve technology for users. That could be a competitive advantage, or something you do for your users because you have pride in your product, and you want to help them do what they do better. 
+
 ### socketServer
 
 The source for the server is <a href="https://github.com/scripting/socketServer">here</a>.
