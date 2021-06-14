@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 12:01:22 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 12:22:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 14" type="calendarDay" name="14" >
+				<outline text="Something new for outliner devs in the #toolsforthought space.
+
+https://t.co/Bpnb5Jt45d
+
+It's what's behind all the ranting I've been doing about how import and export isn't enough in 2021." type="tweet" created="Mon, 14 Jun 2021 12:21:44 GMT" tweetId="1404413744327933956" urltweet="https://twitter.com/davewiner/status/1404413744327933956" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Good morning everybody! How y'all doing?" type="tweet" created="Mon, 14 Jun 2021 11:35:40 GMT" tweetId="1404402153821704193" urltweet="https://twitter.com/davewiner/status/1404402153821704193" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="I like Steely Dan, for sure, always have, but recently I've discovered that Katy Lied is by far my favorite album. I keep singing various Katy Lied songs as the background music of my life." type="tweet" created="Mon, 14 Jun 2021 11:40:40 GMT" tweetId="1404403413278994432" urltweet="https://twitter.com/davewiner/status/1404403413278994432" inReplyToId="1404402153821704193" tweetUserName="davewiner" >
 						<outline text="For example this is my song du jour.
