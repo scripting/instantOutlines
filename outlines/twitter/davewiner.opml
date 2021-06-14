@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 11:41:19 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 11:44:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
@@ -20,7 +20,11 @@ https://t.co/9c3ShnOdjT
 
 &quot;All I ask of you is make my wildest dreams come true.&quot;
 
-Now that's a great idea." type="tweet" created="Mon, 14 Jun 2021 11:40:41 GMT" tweetId="1404403414679883777" urltweet="https://twitter.com/davewiner/status/1404403414679883777" inReplyToId="1404403413278994432" tweetUserName="davewiner" />
+Now that's a great idea." type="tweet" created="Mon, 14 Jun 2021 11:40:41 GMT" tweetId="1404403414679883777" urltweet="https://twitter.com/davewiner/status/1404403414679883777" inReplyToId="1404403413278994432" tweetUserName="davewiner" >
+							<outline text="On another topic, I am fixated on the idea of integrating Twitter more and more into my blogging work. I see this as a positive influence on my public writing, and that of other #toolsforthought users." type="tweet" created="Mon, 14 Jun 2021 11:43:21 GMT" tweetId="1404404088301891587" urltweet="https://twitter.com/davewiner/status/1404404088301891587" inReplyToId="1404403414679883777" tweetUserName="davewiner" >
+								<outline text="If we're going to have an open ecosystem, let's start with a tool that none of us own or control. One that has a nice API. And one that we all use (or so it seems)." type="tweet" created="Mon, 14 Jun 2021 11:43:22 GMT" tweetId="1404404089685938176" urltweet="https://twitter.com/davewiner/status/1404404089685938176" inReplyToId="1404404088301891587" tweetUserName="davewiner" />
+								</outline>
+							</outline>
 						</outline>
 					</outline>
 				<outline text="Jeopardy Should Be Hosted By Mayim Bialik Forever. https://t.co/Mdl6hvYAYU" type="tweet" created="Mon, 14 Jun 2021 10:30:31 GMT" tweetId="1404385757691850753" urltweet="https://twitter.com/davewiner/status/1404385757691850753" inReplyToId="" tweetUserName="davewiner" />
