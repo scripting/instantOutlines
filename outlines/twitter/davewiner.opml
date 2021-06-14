@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 13 Jun 2021 21:40:27 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 01:03:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 13" type="calendarDay" name="13" >
+				<outline text="Can Quartz become a scrappy media startup? https://t.co/zLHbGOUSy9" type="tweet" created="Mon, 14 Jun 2021 01:02:53 GMT" tweetId="1404242909831045122" urltweet="https://twitter.com/davewiner/status/1404242909831045122" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Is JSON better than XML? No. https://t.co/QZJTtsmxTc" type="tweet" created="Sun, 13 Jun 2021 20:52:38 GMT" tweetId="1404179930015993862" urltweet="https://twitter.com/davewiner/status/1404179930015993862" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="KD and Kyrie never asked NYers if it was ok for them to dis the Knicks." type="tweet" created="Sun, 13 Jun 2021 20:08:53 GMT" tweetId="1404168919062036485" urltweet="https://twitter.com/davewiner/status/1404168919062036485" tweetUserName="davewiner" >
 					<outline text="So every time the Bucks score my heart sings for the pride of NY." type="tweet" created="Sun, 13 Jun 2021 20:54:09 GMT" tweetId="1404180310502391813" urltweet="https://twitter.com/davewiner/status/1404180310502391813" inReplyToId="1404168919062036485" tweetUserName="davewiner" >
