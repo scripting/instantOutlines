@@ -48,10 +48,6 @@ Imagine you're editing a blog post in your outliner. When you make a change, the
 
 Compare this to how it works without the connection. You make a change to the outline, copy the text to the clipbord, go into WordPress (or another blogging tool), open the post in their editor, and paste the changed version into their editor, and save. That's how things work now. All that work could obviously be done by software, no rocket science involved. All that's needed is a will on the part of developers to improve technology for users. That could be a competitive advantage, or something you do for your users because you have pride in your product, and you want to help them do what they do better. 
 
-### socketServer
-
-The source for the server is <a href="https://github.com/scripting/socketServer">here</a>.
-
 ### Philosophy
 
 You can run your own server if you want, flowing outlines from your GitHub repo. 
@@ -67,6 +63,10 @@ A couple of things about OPML.
 1. I used an outliner to write this site and the example app. The source is <a href="https://github.com/scripting/instantOutlines/blob/main/misc/source.opml">here</a>.
 
 2. A <a href="http://this.how/opmlChecklist/">checklist</a> of basic info for devs using OPML for interop.
+
+### socketServer
+
+The source for the server is <a href="https://github.com/scripting/socketServer">here</a>.
 
 ### License
 
