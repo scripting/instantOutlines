@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 18:50:22 GMT</dateModified>
+		<dateModified>Mon, 14 Jun 2021 21:24:49 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 14" type="calendarDay" name="14" >
+				<outline text="Do you prefer white text on a black background (dark mode) or black on white (light mode)?" type="tweet" created="Mon, 14 Jun 2021 21:23:59 GMT" tweetId="1404550207812014085" urltweet="https://twitter.com/davewiner/status/1404550207812014085" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Virtually all hospitalized Covid patients have one thing in common: They're unvaccinated. https://t.co/xXCgCCN4zh" type="tweet" created="Mon, 14 Jun 2021 18:49:48 GMT" tweetId="1404511408436518919" urltweet="https://twitter.com/davewiner/status/1404511408436518919" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This is what a half-day of tweets looks like. https://t.co/OVmvh11Nwv" type="tweet" created="Mon, 14 Jun 2021 15:24:39 GMT" tweetId="1404459776696803329" urltweet="https://twitter.com/davewiner/status/1404459776696803329" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This is the best Apple ad I've seen in quite some time.  https://t.co/lugGXLYs5u" type="tweet" created="Mon, 14 Jun 2021 15:19:51 GMT" tweetId="1404458569332895751" urltweet="https://twitter.com/davewiner/status/1404458569332895751" inReplyToId="" tweetUserName="davewiner" >
