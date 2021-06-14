@@ -64,9 +64,9 @@ A couple of things about OPML.
 
 2. A <a href="http://this.how/opmlChecklist/">checklist</a> of basic info for devs using OPML for interop.
 
-### socketServer
+//### socketServer
 
-The source for the server is <a href="https://github.com/scripting/socketServer">here</a>.
+//The source for the server is <a href="https://github.com/scripting/socketServer">here</a>.
 
 ### License
 
