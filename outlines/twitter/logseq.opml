@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Tue, 15 Jun 2021 16:00:03 GMT</dateModified>
+		<dateModified>Tue, 15 Jun 2021 16:06:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 15" type="calendarDay" name="15" >
+				<outline text="0.1.8 is just out, OPML import is supported now! https://t.co/quSY3ydkRi" type="tweet" created="Tue, 15 Jun 2021 16:05:04 GMT" tweetId="1404832337595039751" urltweet="https://twitter.com/logseq/status/1404832337595039751" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Guess what? We have a live `calc` mode now! @sebasbensu Thank you so much for making this happen! 🎉🎉 #opensource https://t.co/ROrkdCCQFm" type="tweet" created="Tue, 15 Jun 2021 15:59:42 GMT" tweetId="1404830986873962501" urltweet="https://twitter.com/logseq/status/1404830986873962501" inReplyToId="" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 14" type="calendarDay" name="14" >
