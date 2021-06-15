@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 14 Jun 2021 21:36:50 GMT</dateModified>
+		<dateModified>Tue, 15 Jun 2021 07:22:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 15" type="calendarDay" name="15" >
+				<outline text="11 Dirty Movies On Netflix That Actually Tell A Good Story. https://t.co/x3JsibdDtr" type="tweet" created="Tue, 15 Jun 2021 07:21:30 GMT" tweetId="1404700576718458890" urltweet="https://twitter.com/davewiner/status/1404700576718458890" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 14" type="calendarDay" name="14" >
 				<outline text="Has anyone used [[double square bracket]] tagging in a blog? If so, I'd love to read some docs about how they did it." type="tweet" created="Mon, 14 Jun 2021 21:36:24 GMT" tweetId="1404553333751304194" urltweet="https://twitter.com/davewiner/status/1404553333751304194" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Do you prefer white text on a black background (dark mode) or black on white (light mode)?" type="tweet" created="Mon, 14 Jun 2021 21:23:59 GMT" tweetId="1404550207812014085" urltweet="https://twitter.com/davewiner/status/1404550207812014085" inReplyToId="" tweetUserName="davewiner" />
