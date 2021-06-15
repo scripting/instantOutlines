@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Mon, 14 Jun 2021 12:47:16 GMT</dateModified>
+		<dateModified>Tue, 15 Jun 2021 16:00:03 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 15" type="calendarDay" name="15" >
+				<outline text="Guess what? We have a live `calc` mode now! @sebasbensu Thank you so much for making this happen! 🎉🎉 #opensource https://t.co/ROrkdCCQFm" type="tweet" created="Tue, 15 Jun 2021 15:59:42 GMT" tweetId="1404830986873962501" urltweet="https://twitter.com/logseq/status/1404830986873962501" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 14" type="calendarDay" name="14" >
 				<outline text="Awesome! https://t.co/7j86iCjQTz" type="tweet" created="Mon, 14 Jun 2021 12:46:16 GMT" tweetId="1404419921535279105" urltweet="https://twitter.com/logseq/status/1404419921535279105" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Yes! You can use Obsidian's mobile app to open the Logseq folder. You can also use any other mobile apps that support Markdown or Org mode. https://t.co/tfvqmwN6OV" type="tweet" created="Mon, 14 Jun 2021 12:44:05 GMT" tweetId="1404419370986577920" urltweet="https://twitter.com/logseq/status/1404419370986577920" inReplyToId="" tweetUserName="logseq" />
