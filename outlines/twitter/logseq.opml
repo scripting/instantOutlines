@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Tue, 15 Jun 2021 16:47:09 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 02:51:25 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 15" type="calendarDay" name="15" >
+				<outline text="With the newly added plugins API, the sky is the limit when it comes to extending Logseq's abilities. For users, post your plugin feature request here: https://t.co/mRd66ZxRYh; For those who'd like to develope a plugin, ask anything here: https://t.co/t6PyoUcndE." type="tweet" created="Wed, 16 Jun 2021 02:51:12 GMT" tweetId="1404994941084868608" urltweet="https://twitter.com/logseq/status/1404994941084868608" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you! And congrats to our first [[Logseq Hobbit]] @pengx17! [[Logseq Hobbits]] are those core contributors who're making Logseq better and who'd like to explore different ways for better thoughts! https://t.co/01LuXgR8qQ" type="tweet" created="Tue, 15 Jun 2021 16:46:18 GMT" tweetId="1404842712549904389" urltweet="https://twitter.com/logseq/status/1404842712549904389" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Also, thrilled to announce that our draft Plugins API is out! 🚀🚀 The documentation is at https://t.co/IBttXXklLx
 We have a [[Plugins 101]] page too, https://t.co/N5sI38L3ta
