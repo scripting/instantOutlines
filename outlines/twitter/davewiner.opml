@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 09:53:34 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 11:34:02 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="Source Code for WWW x Tim Berners-Lee, an NFT. https://t.co/oKKSROCsj7" type="tweet" created="Wed, 16 Jun 2021 11:33:06 GMT" tweetId="1405126281868500999" urltweet="https://twitter.com/davewiner/status/1405126281868500999" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The 14th amendment says if a congressperson tries to overthrow the government they can be sent home, as unfit to be part of the government they tried to overthrow. https://t.co/EmnHKfYrVv" type="tweet" created="Wed, 16 Jun 2021 09:53:01 GMT" tweetId="1405101094339059715" urltweet="https://twitter.com/davewiner/status/1405101094339059715" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Gift Articles for New York Times Subscribers. https://t.co/kFPnGScPzb" type="tweet" created="Wed, 16 Jun 2021 09:46:21 GMT" tweetId="1405099418433564676" urltweet="https://twitter.com/davewiner/status/1405099418433564676" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
