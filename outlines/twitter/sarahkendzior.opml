@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 11:48:53 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 12:02:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="March 2021 thread on FBI complicity in Capitol attack plot https://t.co/IQLTJjtcJE" type="tweet" created="Wed, 16 Jun 2021 12:02:49 GMT" tweetId="1405133760526434307" urltweet="https://twitter.com/sarahkendzior/status/1405133760526434307" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="🎵 “Rumor spreadin’ round...” 🎵 https://t.co/QS0yo0d9fB https://t.co/FZZBfTuagV" type="tweet" created="Wed, 16 Jun 2021 11:48:36 GMT" tweetId="1405130182818680833" urltweet="https://twitter.com/sarahkendzior/status/1405130182818680833" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="On last night’s @gaslitnation, @AndreaChalupa gave the background on this Putin tactic: https://t.co/ne487fJT2H https://t.co/KBOz0NCYMT" type="tweet" created="Wed, 16 Jun 2021 11:18:32 GMT" tweetId="1405122618882207744" urltweet="https://twitter.com/sarahkendzior/status/1405122618882207744" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
