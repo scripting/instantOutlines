@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 12:57:26 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 14:25:41 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="Billions of records belonging to CVS Health exposed online. https://t.co/RHpvJpMPLF" type="tweet" created="Wed, 16 Jun 2021 14:24:51 GMT" tweetId="1405169504985006080" urltweet="https://twitter.com/davewiner/status/1405169504985006080" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="When is journalism going to start asking when the DOJ is going to charge Trump with insurrection?" type="tweet" created="Wed, 16 Jun 2021 12:57:15 GMT" tweetId="1405147460394274818" urltweet="https://twitter.com/davewiner/status/1405147460394274818" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I could make an NFT of the first podcast. i keep finding more interesting things to do. ⏰" type="tweet" created="Wed, 16 Jun 2021 12:13:00 GMT" tweetId="1405136325649567744" urltweet="https://twitter.com/davewiner/status/1405136325649567744" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Gardeners, lots of ticks this year. https://t.co/7rSAMnnoCm" type="tweet" created="Wed, 16 Jun 2021 11:40:08 GMT" tweetId="1405128053500563458" urltweet="https://twitter.com/davewiner/status/1405128053500563458" inReplyToId="" tweetUserName="davewiner" />
