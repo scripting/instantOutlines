@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 20:29:50 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 20:43:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="City breaks ground on Willets Point redevelopment in Queens. https://t.co/nPShCdefKl" type="tweet" created="Wed, 16 Jun 2021 20:42:55 GMT" tweetId="1405264647377154048" urltweet="https://twitter.com/davewiner/status/1405264647377154048" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Podcasts start coming to Facebook next week. https://t.co/Z89VTNiIG2" type="tweet" created="Wed, 16 Jun 2021 20:26:15 GMT" tweetId="1405260452771291139" urltweet="https://twitter.com/davewiner/status/1405260452771291139" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Facebook seems to be doing it right, at least at the start." type="tweet" created="Wed, 16 Jun 2021 20:29:46 GMT" tweetId="1405261340915245062" urltweet="https://twitter.com/davewiner/status/1405261340915245062" inReplyToId="1405260452771291139" tweetUserName="davewiner" />
 					</outline>
