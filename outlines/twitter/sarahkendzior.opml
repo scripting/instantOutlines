@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 14:13:24 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 14:52:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="Thread on Antony Blinken https://t.co/PrOKEeHnyw" type="tweet" created="Wed, 16 Jun 2021 14:51:48 GMT" tweetId="1405176287191314432" urltweet="https://twitter.com/sarahkendzior/status/1405176287191314432" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="This tweet is nearly a month old. I got so much harassment for saying it, but it all unfortunately held true, with official confirmation of complicity reported over the past month. https://t.co/QZ8s7USESn" type="tweet" created="Wed, 16 Jun 2021 14:09:28 GMT" tweetId="1405165633269112833" urltweet="https://twitter.com/sarahkendzior/status/1405165633269112833" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="Many expressed consternation at the last line. But when I said &quot;Dems won't pass voting rights&quot; I literally meant &quot;Dems won't pass voting rights&quot;, as in the Dem leadership is purposefully refusing to do so! And that is indeed what's been happening: https://t.co/pXWH288pY6" type="tweet" created="Wed, 16 Jun 2021 14:12:45 GMT" tweetId="1405166459169431553" urltweet="https://twitter.com/sarahkendzior/status/1405166459169431553" inReplyToId="1405165633269112833" tweetUserName="sarahkendzior" />
 					</outline>
