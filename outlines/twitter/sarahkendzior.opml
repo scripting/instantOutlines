@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 12:04:57 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 12:32:05 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="Disgusting and dangerous betrayal https://t.co/F0IddArBal" type="tweet" created="Wed, 16 Jun 2021 12:31:26 GMT" tweetId="1405140963949953030" urltweet="https://twitter.com/sarahkendzior/status/1405140963949953030" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="March 2021 thread on FBI complicity in Capitol attack plot https://t.co/IQLTJjtcJE" type="tweet" created="Wed, 16 Jun 2021 12:02:49 GMT" tweetId="1405133760526434307" urltweet="https://twitter.com/sarahkendzior/status/1405133760526434307" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="February 2021 @gaslitnation thread and episode https://t.co/jRAQnSVZCS" type="tweet" created="Wed, 16 Jun 2021 12:03:32 GMT" tweetId="1405133941774950403" urltweet="https://twitter.com/sarahkendzior/status/1405133941774950403" inReplyToId="1405133760526434307" tweetUserName="sarahkendzior" >
 						<outline text="June 2021 https://t.co/rEPOousSex" type="tweet" created="Wed, 16 Jun 2021 12:04:22 GMT" tweetId="1405134149707571207" urltweet="https://twitter.com/sarahkendzior/status/1405134149707571207" inReplyToId="1405133941774950403" tweetUserName="sarahkendzior" />
