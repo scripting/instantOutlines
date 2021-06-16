@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 16 Jun 2021 02:53:26 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 07:25:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="The plugins can be written in Javascript/TypeScript or any languages that can be compiled to Javascript or WebAssembly, for example, Clojurescript, Elm, Rust, etc. https://t.co/TF9pSOVDZe" type="tweet" created="Wed, 16 Jun 2021 07:25:22 GMT" tweetId="1405063940250341376" urltweet="https://twitter.com/logseq/status/1405063940250341376" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 15" type="calendarDay" name="15" >
 				<outline text="With the newly added plugins API, the sky is the limit when it comes to extending Logseq's abilities. For users, post your plugin feature request here: https://t.co/mRd66ZxRYh; For those who'd like to develop a plugin, ask anything here: https://t.co/t6PyoUcndE." type="tweet" created="Wed, 16 Jun 2021 02:53:04 GMT" tweetId="1404995412587532294" urltweet="https://twitter.com/logseq/status/1404995412587532294" inReplyToId="" tweetUserName="logseq" />
 				<outline text="With the newly added plugins API, the sky is the limit when it comes to extending Logseq's abilities. For users, post your plugin feature request here: https://t.co/mRd66ZxRYh; For those who'd like to develope a plugin, ask anything here: https://t.co/t6PyoUcndE." type="tweet" created="Wed, 16 Jun 2021 02:51:12 GMT" tweetId="1404994941084868608" urltweet="https://twitter.com/logseq/status/1404994941084868608" inReplyToId="" tweetUserName="logseq" />
