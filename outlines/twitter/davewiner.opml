@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 00:09:57 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 00:55:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 15" type="calendarDay" name="15" >
+				<outline text="Can you imagine the ire in NY if the allstar Nets are eliminated by the Bucks." type="tweet" created="Wed, 16 Jun 2021 00:54:13 GMT" tweetId="1404965503597170691" urltweet="https://twitter.com/davewiner/status/1404965503597170691" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Users, BloggerCon, UserLand. https://t.co/g4a5pbS7Lu" type="tweet" created="Wed, 16 Jun 2021 00:09:37 GMT" tweetId="1404954280797343747" urltweet="https://twitter.com/davewiner/status/1404954280797343747" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If people turn their back on you because they don't like your ideas, then they weren't really friends in the first place, were they? It's not love if it's conditional on hiding who you are. Remember that, young folk. Be you because that's all you can do! ;-)" type="tweet" created="Tue, 15 Jun 2021 21:29:13 GMT" tweetId="1404913911367974915" urltweet="https://twitter.com/davewiner/status/1404913911367974915" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="MacKenzie Scott donates $2.7B, cites fortune 'enabled by systems in need of change' https://t.co/iMuc5uzEtg" type="tweet" created="Tue, 15 Jun 2021 19:11:29 GMT" tweetId="1404879252672159756" urltweet="https://twitter.com/davewiner/status/1404879252672159756" inReplyToId="" tweetUserName="davewiner" />
