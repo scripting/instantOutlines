@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 22:51:29 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 23:23:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="The NBA Playoffs have been completely derailed by injuries. https://t.co/VvmVBX5Noy" type="tweet" created="Wed, 16 Jun 2021 23:22:50 GMT" tweetId="1405304893095780356" urltweet="https://twitter.com/davewiner/status/1405304893095780356" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="My tweets are available as an Instant Outline.  https://t.co/odTyfriIqE" type="tweet" created="Wed, 16 Jun 2021 22:50:47 GMT" tweetId="1405296826094346243" urltweet="https://twitter.com/davewiner/status/1405296826094346243" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I make tools for thinking and organizing. But I’m just a toolmaker and user, not a rabbi. 😀" type="tweet" created="Wed, 16 Jun 2021 22:27:18 GMT" tweetId="1405290916827471878" urltweet="https://twitter.com/davewiner/status/1405290916827471878" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="AWS News Blog RSS Feed Change. https://t.co/K1P2wdmRLP)" type="tweet" created="Wed, 16 Jun 2021 21:34:36 GMT" tweetId="1405277653536444416" urltweet="https://twitter.com/davewiner/status/1405277653536444416" inReplyToId="" tweetUserName="davewiner" />
