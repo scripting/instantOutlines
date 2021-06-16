@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 03:05:25 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 11:18:44 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="On last night’s @gaslitnation, @AndreaChalupa gave the background on this Putin tactic: https://t.co/ne487fJT2H https://t.co/KBOz0NCYMT" type="tweet" created="Wed, 16 Jun 2021 11:18:32 GMT" tweetId="1405122618882207744" urltweet="https://twitter.com/sarahkendzior/status/1405122618882207744" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="June 15" type="calendarDay" name="15" >
 				<outline text="New @gaslitnation is out! Get ready for the Biden-Putin summit and get the backstory on Antony Blinken and much more here: https://t.co/0rWwjTu04B" type="tweet" created="Wed, 16 Jun 2021 03:05:15 GMT" tweetId="1404998478317686789" urltweet="https://twitter.com/sarahkendzior/status/1404998478317686789" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="New @gaslitnation on the way tonight with important info on the Biden-Putin meet-up! That episode like all our weekly episodes will be free to all. We are also doing an extra episode for our Patreon subscribers *after* the summit, join to hear it here! https://t.co/Na8D7sa2BC" type="tweet" created="Tue, 15 Jun 2021 22:32:09 GMT" tweetId="1404929749139480579" urltweet="https://twitter.com/sarahkendzior/status/1404929749139480579" inReplyToId="" tweetUserName="sarahkendzior" />
