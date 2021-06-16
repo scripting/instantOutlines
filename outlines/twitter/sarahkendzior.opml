@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 16 Jun 2021 13:32:18 GMT</dateModified>
+		<dateModified>Wed, 16 Jun 2021 13:38:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="Thread https://t.co/riiy97DCGe" type="tweet" created="Wed, 16 Jun 2021 13:37:48 GMT" tweetId="1405157663277780998" urltweet="https://twitter.com/sarahkendzior/status/1405157663277780998" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="&quot;The US is not in a position of strength. No country could be when its institutions are hollow or hijacked, purged and packed with criminal lackeys, when people's most basic rights, like the right to vote, are deeply threatened.&quot; -- @gaslitnation https://t.co/ne487fJT2H" type="tweet" created="Wed, 16 Jun 2021 13:27:00 GMT" tweetId="1405154947319140362" urltweet="https://twitter.com/sarahkendzior/status/1405154947319140362" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="&quot;It's better to just admit to US flaws. We all can see them. Americans can see them, the world can see them. Hostile foreign actors can see them -- and they can see that the Biden admin isn't fixing them, and that this can be exploited.&quot; -- @gaslitnation https://t.co/ne487fJT2H" type="tweet" created="Wed, 16 Jun 2021 13:28:56 GMT" tweetId="1405155431492771850" urltweet="https://twitter.com/sarahkendzior/status/1405155431492771850" inReplyToId="1405154947319140362" tweetUserName="sarahkendzior" >
 						<outline text="&quot;The remedy is to fix the flaws -- pass new policies and laws, enforce accountability. This is not just a moral and legal remedy, it's pragmatic protection from foreign threats. Officials cannot cover their eyes. They need to gut out the rot.&quot; https://t.co/ne487fJT2H" type="tweet" created="Wed, 16 Jun 2021 13:31:50 GMT" tweetId="1405156163994456065" urltweet="https://twitter.com/sarahkendzior/status/1405156163994456065" inReplyToId="1405155431492771850" tweetUserName="sarahkendzior" />
