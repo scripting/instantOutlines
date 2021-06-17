@@ -7,14 +7,22 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 17 Jun 2021 18:43:52 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 18:45:52 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 17" type="calendarDay" name="17" >
 				<outline text="There's an instant outline for @logseq too.
 
-https://t.co/5BrWhDPCO0" type="tweet" created="Thu, 17 Jun 2021 18:43:31 GMT" tweetId="1405596989400752137" urltweet="https://twitter.com/davewiner/status/1405596989400752137" inReplyToId="" tweetUserName="davewiner" />
+https://t.co/5BrWhDPCO0" type="tweet" created="Thu, 17 Jun 2021 18:43:31 GMT" tweetId="1405596989400752137" urltweet="https://twitter.com/davewiner/status/1405596989400752137" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="BTW, you can &quot;watch&quot; the outline by clicking this link.
+
+https://t.co/myjHNf1uLZ
+
+It will open it in LO2, and when @logseq posts something on Twitter you will see it in the outline within a minute. 
+
+The protocol is wide open, so any outliner could provide the same feature." type="tweet" created="Thu, 17 Jun 2021 18:45:34 GMT" tweetId="1405597506722017289" urltweet="https://twitter.com/davewiner/status/1405597506722017289" inReplyToId="1405596989400752137" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Coding is not ‘fun’, it’s technically and ethically complex. https://t.co/MfIlpLaZtV" type="tweet" created="Thu, 17 Jun 2021 13:57:23 GMT" tweetId="1405524979068784646" urltweet="https://twitter.com/davewiner/status/1405524979068784646" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="One way to experience how much there is to &quot;coding&quot; (a terrible word for what devs do) have a look at a completed piece of code, and see if you can make sense of it." type="tweet" created="Thu, 17 Jun 2021 14:04:31 GMT" tweetId="1405526774826508302" urltweet="https://twitter.com/davewiner/status/1405526774826508302" inReplyToId="1405524979068784646" tweetUserName="davewiner" >
 						<outline text="Even someone who knows the language it's written in will have a hard time, unless it's written with readability in mind. And even then, not without a lot of head-scratching." type="tweet" created="Thu, 17 Jun 2021 14:04:31 GMT" tweetId="1405526776005087237" urltweet="https://twitter.com/davewiner/status/1405526776005087237" inReplyToId="1405526774826508302" tweetUserName="davewiner" >
