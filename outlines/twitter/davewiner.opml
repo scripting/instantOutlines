@@ -7,12 +7,20 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 17 Jun 2021 13:57:34 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 14:04:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 17" type="calendarDay" name="17" >
-				<outline text="Coding is not ‘fun’, it’s technically and ethically complex. https://t.co/MfIlpLaZtV" type="tweet" created="Thu, 17 Jun 2021 13:57:23 GMT" tweetId="1405524979068784646" urltweet="https://twitter.com/davewiner/status/1405524979068784646" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Coding is not ‘fun’, it’s technically and ethically complex. https://t.co/MfIlpLaZtV" type="tweet" created="Thu, 17 Jun 2021 13:57:23 GMT" tweetId="1405524979068784646" urltweet="https://twitter.com/davewiner/status/1405524979068784646" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="One way to experience how much there is to &quot;coding&quot; (a terrible word for what devs do) have a look at a completed piece of code, and see if you can make sense of it." type="tweet" created="Thu, 17 Jun 2021 14:04:31 GMT" tweetId="1405526774826508302" urltweet="https://twitter.com/davewiner/status/1405526774826508302" inReplyToId="1405524979068784646" tweetUserName="davewiner" >
+						<outline text="Even someone who knows the language it's written in will have a hard time, unless it's written with readability in mind. And even then, not without a lot of head-scratching." type="tweet" created="Thu, 17 Jun 2021 14:04:31 GMT" tweetId="1405526776005087237" urltweet="https://twitter.com/davewiner/status/1405526776005087237" inReplyToId="1405526774826508302" tweetUserName="davewiner" >
+							<outline text="It's not like anything else you've done, and if someone tells you it's fun and easy and interactive, please ask them if they have done it. The answer is no, because no one who has ever completed a piece of software that other people use know that it's anything but a slog." type="tweet" created="Thu, 17 Jun 2021 14:04:31 GMT" tweetId="1405526777234038787" urltweet="https://twitter.com/davewiner/status/1405526777234038787" inReplyToId="1405526776005087237" tweetUserName="davewiner" >
+								<outline text="The rewards can be great, don't get me wrong, but you have to invest a lot of yourself in it before you get there." type="tweet" created="Thu, 17 Jun 2021 14:04:32 GMT" tweetId="1405526778991374350" urltweet="https://twitter.com/davewiner/status/1405526778991374350" inReplyToId="1405526777234038787" tweetUserName="davewiner" />
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Point fingers at Sixers’ Doc Rivers and Daryl Morey for the collapse, too. https://t.co/qA1gtvkYCp" type="tweet" created="Thu, 17 Jun 2021 13:08:57 GMT" tweetId="1405512791860170758" urltweet="https://twitter.com/davewiner/status/1405512791860170758" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The amount of heat the Earth traps has doubled since 2005, NASA says. https://t.co/VqPbFiN6BT" type="tweet" created="Thu, 17 Jun 2021 12:56:15 GMT" tweetId="1405509595477561348" urltweet="https://twitter.com/davewiner/status/1405509595477561348" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Dear American Progressives: Your Jewish Friends Are Terrified by Your Silence. https://t.co/oBlpTsDxBQ" type="tweet" created="Thu, 17 Jun 2021 12:14:36 GMT" tweetId="1405499114134065152" urltweet="https://twitter.com/davewiner/status/1405499114134065152" inReplyToId="" tweetUserName="davewiner" />
