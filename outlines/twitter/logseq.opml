@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 17 Jun 2021 18:37:39 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 18:48:41 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 17" type="calendarDay" name="17" >
+				<outline text="This can be the foundation for any Reader. Hopefully, someone will build a plugin soon. https://t.co/bprn3uR0oj" type="tweet" created="Thu, 17 Jun 2021 18:48:05 GMT" tweetId="1405598137985556481" urltweet="https://twitter.com/logseq/status/1405598137985556481" inReplyToId="" tweetUserName="logseq" />
 				<outline text="A new plugin made by @xyhp915 for Reddit's hot news!
 https://t.co/YGn0s7EpXy https://t.co/M1cddW6pjr" type="tweet" created="Thu, 17 Jun 2021 18:37:26 GMT" tweetId="1405595458374823936" urltweet="https://twitter.com/logseq/status/1405595458374823936" inReplyToId="" tweetUserName="logseq" />
 				<outline text="@devonzuegel Thank you very much for making Logseq better every day! ✨ https://t.co/0G4OTgf2X3" type="tweet" created="Thu, 17 Jun 2021 18:27:06 GMT" tweetId="1405592856845185025" urltweet="https://twitter.com/logseq/status/1405592856845185025" inReplyToId="" tweetUserName="logseq" />
