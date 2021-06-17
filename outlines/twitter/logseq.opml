@@ -7,46 +7,46 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 17 Jun 2021 18:48:41 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 20:08:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 17" type="calendarDay" name="17" >
-				<outline text="This can be the foundation for any Reader. Hopefully, someone will build a plugin soon. https://t.co/bprn3uR0oj" type="tweet" created="Thu, 17 Jun 2021 18:48:05 GMT" tweetId="1405598137985556481" urltweet="https://twitter.com/logseq/status/1405598137985556481" inReplyToId="" tweetUserName="logseq" />
+				<outline text="This can be the foundation for any Reader. Hopefully, someone will build a plugin soon. https://t.co/bprn3uR0oj" type="tweet" created="Thu, 17 Jun 2021 18:48:05 GMT" tweetId="1405598137985556481" urltweet="https://twitter.com/logseq/status/1405598137985556481" tweetUserName="logseq" />
 				<outline text="A new plugin made by @xyhp915 for Reddit's hot news!
-https://t.co/YGn0s7EpXy https://t.co/M1cddW6pjr" type="tweet" created="Thu, 17 Jun 2021 18:37:26 GMT" tweetId="1405595458374823936" urltweet="https://twitter.com/logseq/status/1405595458374823936" inReplyToId="" tweetUserName="logseq" />
-				<outline text="@devonzuegel Thank you very much for making Logseq better every day! ✨ https://t.co/0G4OTgf2X3" type="tweet" created="Thu, 17 Jun 2021 18:27:06 GMT" tweetId="1405592856845185025" urltweet="https://twitter.com/logseq/status/1405592856845185025" inReplyToId="" tweetUserName="logseq" />
+https://t.co/YGn0s7EpXy https://t.co/M1cddW6pjr" type="tweet" created="Thu, 17 Jun 2021 18:37:26 GMT" tweetId="1405595458374823936" urltweet="https://twitter.com/logseq/status/1405595458374823936" tweetUserName="logseq" />
+				<outline text="@devonzuegel Thank you very much for making Logseq better every day! ✨ https://t.co/0G4OTgf2X3" type="tweet" created="Thu, 17 Jun 2021 18:27:06 GMT" tweetId="1405592856845185025" urltweet="https://twitter.com/logseq/status/1405592856845185025" tweetUserName="logseq" />
 				<outline text="0.1.9 is just out! 🍸
 Some highlights:
 1. Markdown supports nested headings
 2. @RoamResearch  JSON export
 3. @pengx17 made a plugin template using @reactjs 
-https://t.co/YiMhOl5aic https://t.co/433PGJZL56" type="tweet" created="Thu, 17 Jun 2021 18:22:27 GMT" tweetId="1405591688047824896" urltweet="https://twitter.com/logseq/status/1405591688047824896" inReplyToId="" tweetUserName="logseq" />
+https://t.co/YiMhOl5aic https://t.co/433PGJZL56" type="tweet" created="Thu, 17 Jun 2021 18:22:27 GMT" tweetId="1405591688047824896" urltweet="https://twitter.com/logseq/status/1405591688047824896" tweetUserName="logseq" />
 				<outline text="Another theme plugin is from our wizard @hrdcrpxxx!
-https://t.co/uA8F07svzF https://t.co/9cNwmCsviq" type="tweet" created="Thu, 17 Jun 2021 05:12:34 GMT" tweetId="1405392908119805954" urltweet="https://twitter.com/logseq/status/1405392908119805954" inReplyToId="" tweetUserName="logseq" >
+https://t.co/uA8F07svzF https://t.co/9cNwmCsviq" type="tweet" created="Thu, 17 Jun 2021 05:12:34 GMT" tweetId="1405392908119805954" urltweet="https://twitter.com/logseq/status/1405392908119805954" tweetUserName="logseq" >
 					<outline text="The Markdown example is posted on https://t.co/IR4Ma5QHcz" type="tweet" created="Thu, 17 Jun 2021 05:31:11 GMT" tweetId="1405397590347161606" urltweet="https://twitter.com/logseq/status/1405397590347161606" inReplyToId="1405392908119805954" tweetUserName="logseq" />
 					</outline>
-				<outline text="Astonishing! It's https://t.co/6pUIhkE33p from @pengx17, you can install it as a plugin too. https://t.co/ACA7TD3bsu" type="tweet" created="Thu, 17 Jun 2021 05:02:13 GMT" tweetId="1405390301879934976" urltweet="https://twitter.com/logseq/status/1405390301879934976" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Astonishing! It's https://t.co/6pUIhkE33p from @pengx17, you can install it as a plugin too. https://t.co/ACA7TD3bsu" type="tweet" created="Thu, 17 Jun 2021 05:02:13 GMT" tweetId="1405390301879934976" urltweet="https://twitter.com/logseq/status/1405390301879934976" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 16" type="calendarDay" name="16" >
-				<outline text="The plugins can be written in Javascript/TypeScript or any languages that can be compiled to Javascript or WebAssembly, for example, Clojurescript, Elm, Rust, etc. https://t.co/TF9pSOVDZe" type="tweet" created="Wed, 16 Jun 2021 07:25:22 GMT" tweetId="1405063940250341376" urltweet="https://twitter.com/logseq/status/1405063940250341376" inReplyToId="" tweetUserName="logseq" />
+				<outline text="The plugins can be written in Javascript/TypeScript or any languages that can be compiled to Javascript or WebAssembly, for example, Clojurescript, Elm, Rust, etc. https://t.co/TF9pSOVDZe" type="tweet" created="Wed, 16 Jun 2021 07:25:22 GMT" tweetId="1405063940250341376" urltweet="https://twitter.com/logseq/status/1405063940250341376" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 15" type="calendarDay" name="15" >
-				<outline text="With the newly added plugins API, the sky is the limit when it comes to extending Logseq's abilities. For users, post your plugin feature request here: https://t.co/mRd66ZxRYh; For those who'd like to develop a plugin, ask anything here: https://t.co/t6PyoUcndE." type="tweet" created="Wed, 16 Jun 2021 02:53:04 GMT" tweetId="1404995412587532294" urltweet="https://twitter.com/logseq/status/1404995412587532294" inReplyToId="" tweetUserName="logseq" />
-				<outline text="With the newly added plugins API, the sky is the limit when it comes to extending Logseq's abilities. For users, post your plugin feature request here: https://t.co/mRd66ZxRYh; For those who'd like to develope a plugin, ask anything here: https://t.co/t6PyoUcndE." type="tweet" created="Wed, 16 Jun 2021 02:51:12 GMT" tweetId="1404994941084868608" urltweet="https://twitter.com/logseq/status/1404994941084868608" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thank you! And congrats to our first [[Logseq Hobbit]] @pengx17! [[Logseq Hobbits]] are those core contributors who're making Logseq better and who'd like to explore different ways for better thoughts! https://t.co/01LuXgR8qQ" type="tweet" created="Tue, 15 Jun 2021 16:46:18 GMT" tweetId="1404842712549904389" urltweet="https://twitter.com/logseq/status/1404842712549904389" inReplyToId="" tweetUserName="logseq" />
+				<outline text="With the newly added plugins API, the sky is the limit when it comes to extending Logseq's abilities. For users, post your plugin feature request here: https://t.co/mRd66ZxRYh; For those who'd like to develop a plugin, ask anything here: https://t.co/t6PyoUcndE." type="tweet" created="Wed, 16 Jun 2021 02:53:04 GMT" tweetId="1404995412587532294" urltweet="https://twitter.com/logseq/status/1404995412587532294" tweetUserName="logseq" />
+				<outline text="With the newly added plugins API, the sky is the limit when it comes to extending Logseq's abilities. For users, post your plugin feature request here: https://t.co/mRd66ZxRYh; For those who'd like to develope a plugin, ask anything here: https://t.co/t6PyoUcndE." type="tweet" created="Wed, 16 Jun 2021 02:51:12 GMT" tweetId="1404994941084868608" urltweet="https://twitter.com/logseq/status/1404994941084868608" tweetUserName="logseq" />
+				<outline text="Thank you! And congrats to our first [[Logseq Hobbit]] @pengx17! [[Logseq Hobbits]] are those core contributors who're making Logseq better and who'd like to explore different ways for better thoughts! https://t.co/01LuXgR8qQ" type="tweet" created="Tue, 15 Jun 2021 16:46:18 GMT" tweetId="1404842712549904389" urltweet="https://twitter.com/logseq/status/1404842712549904389" tweetUserName="logseq" />
 				<outline text="Also, thrilled to announce that our draft Plugins API is out! 🚀🚀 The documentation is at https://t.co/IBttXXklLx
 We have a [[Plugins 101]] page too, https://t.co/N5sI38L3ta
 
-Any feedback or suggestions are appreciated!" type="tweet" created="Tue, 15 Jun 2021 16:09:51 GMT" tweetId="1404833539959312385" urltweet="https://twitter.com/logseq/status/1404833539959312385" inReplyToId="" tweetUserName="logseq" />
-				<outline text="0.1.8 is just out, OPML import is supported now! https://t.co/quSY3ydkRi" type="tweet" created="Tue, 15 Jun 2021 16:05:04 GMT" tweetId="1404832337595039751" urltweet="https://twitter.com/logseq/status/1404832337595039751" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Guess what? We have a live `calc` mode now! @sebasbensu Thank you so much for making this happen! 🎉🎉 #opensource https://t.co/ROrkdCCQFm" type="tweet" created="Tue, 15 Jun 2021 15:59:42 GMT" tweetId="1404830986873962501" urltweet="https://twitter.com/logseq/status/1404830986873962501" inReplyToId="" tweetUserName="logseq" />
+Any feedback or suggestions are appreciated!" type="tweet" created="Tue, 15 Jun 2021 16:09:51 GMT" tweetId="1404833539959312385" urltweet="https://twitter.com/logseq/status/1404833539959312385" tweetUserName="logseq" />
+				<outline text="0.1.8 is just out, OPML import is supported now! https://t.co/quSY3ydkRi" type="tweet" created="Tue, 15 Jun 2021 16:05:04 GMT" tweetId="1404832337595039751" urltweet="https://twitter.com/logseq/status/1404832337595039751" tweetUserName="logseq" />
+				<outline text="Guess what? We have a live `calc` mode now! @sebasbensu Thank you so much for making this happen! 🎉🎉 #opensource https://t.co/ROrkdCCQFm" type="tweet" created="Tue, 15 Jun 2021 15:59:42 GMT" tweetId="1404830986873962501" urltweet="https://twitter.com/logseq/status/1404830986873962501" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 14" type="calendarDay" name="14" >
-				<outline text="Awesome! https://t.co/7j86iCjQTz" type="tweet" created="Mon, 14 Jun 2021 12:46:16 GMT" tweetId="1404419921535279105" urltweet="https://twitter.com/logseq/status/1404419921535279105" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Yes! You can use Obsidian's mobile app to open the Logseq folder. You can also use any other mobile apps that support Markdown or Org mode. https://t.co/tfvqmwN6OV" type="tweet" created="Mon, 14 Jun 2021 12:44:05 GMT" tweetId="1404419370986577920" urltweet="https://twitter.com/logseq/status/1404419370986577920" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thank you for the shout out! https://t.co/fLp7D7cMDe" type="tweet" created="Mon, 14 Jun 2021 12:40:39 GMT" tweetId="1404418508708974605" urltweet="https://twitter.com/logseq/status/1404418508708974605" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Beautiful! We have a publish prototype which is using the JSON export, your devlog looks better! https://t.co/AuKFcsH5qJ" type="tweet" created="Mon, 14 Jun 2021 12:39:28 GMT" tweetId="1404418210263232512" urltweet="https://twitter.com/logseq/status/1404418210263232512" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Awesome! https://t.co/7j86iCjQTz" type="tweet" created="Mon, 14 Jun 2021 12:46:16 GMT" tweetId="1404419921535279105" urltweet="https://twitter.com/logseq/status/1404419921535279105" tweetUserName="logseq" />
+				<outline text="Yes! You can use Obsidian's mobile app to open the Logseq folder. You can also use any other mobile apps that support Markdown or Org mode. https://t.co/tfvqmwN6OV" type="tweet" created="Mon, 14 Jun 2021 12:44:05 GMT" tweetId="1404419370986577920" urltweet="https://twitter.com/logseq/status/1404419370986577920" tweetUserName="logseq" />
+				<outline text="Thank you for the shout out! https://t.co/fLp7D7cMDe" type="tweet" created="Mon, 14 Jun 2021 12:40:39 GMT" tweetId="1404418508708974605" urltweet="https://twitter.com/logseq/status/1404418508708974605" tweetUserName="logseq" />
+				<outline text="Beautiful! We have a publish prototype which is using the JSON export, your devlog looks better! https://t.co/AuKFcsH5qJ" type="tweet" created="Mon, 14 Jun 2021 12:39:28 GMT" tweetId="1404418210263232512" urltweet="https://twitter.com/logseq/status/1404418210263232512" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 12" type="calendarDay" name="12" >
 				<outline text="Big fan of OPML, the OPML import is coming soon. https://t.co/67F4PwsbFm" type="tweet" created="Sun, 13 Jun 2021 01:46:39 GMT" tweetId="1403891532617293825" urltweet="https://twitter.com/logseq/status/1403891532617293825" tweetUserName="logseq" />
