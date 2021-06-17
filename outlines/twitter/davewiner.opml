@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 17 Jun 2021 01:54:19 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 02:19:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="Doc Rivers blew the game by declaring victory and resting the stars that gave them the big lead. Embiid lost it while he was resting." type="tweet" created="Thu, 17 Jun 2021 02:19:14 GMT" tweetId="1405349287479984131" urltweet="https://twitter.com/davewiner/status/1405349287479984131" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Dwight Howard is a clown." type="tweet" created="Thu, 17 Jun 2021 01:54:00 GMT" tweetId="1405342933650399235" urltweet="https://twitter.com/davewiner/status/1405342933650399235" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="2 South Carolina executions halted until firing squad formed. https://t.co/vqNa46NwZx" type="tweet" created="Thu, 17 Jun 2021 01:36:00 GMT" tweetId="1405338405546991618" urltweet="https://twitter.com/davewiner/status/1405338405546991618" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Embiid is pulling a Durant." type="tweet" created="Thu, 17 Jun 2021 00:53:22 GMT" tweetId="1405327677050036228" urltweet="https://twitter.com/davewiner/status/1405327677050036228" inReplyToId="" tweetUserName="davewiner" />
