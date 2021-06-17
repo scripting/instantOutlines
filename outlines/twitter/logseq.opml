@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 16 Jun 2021 07:25:39 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 05:02:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 17" type="calendarDay" name="17" >
+				<outline text="Astonishing! It's https://t.co/6pUIhkE33p from @pengx17, you can install it as a plugin too. https://t.co/ACA7TD3bsu" type="tweet" created="Thu, 17 Jun 2021 05:02:13 GMT" tweetId="1405390301879934976" urltweet="https://twitter.com/logseq/status/1405390301879934976" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 16" type="calendarDay" name="16" >
 				<outline text="The plugins can be written in Javascript/TypeScript or any languages that can be compiled to Javascript or WebAssembly, for example, Clojurescript, Elm, Rust, etc. https://t.co/TF9pSOVDZe" type="tweet" created="Wed, 16 Jun 2021 07:25:22 GMT" tweetId="1405063940250341376" urltweet="https://twitter.com/logseq/status/1405063940250341376" inReplyToId="" tweetUserName="logseq" />
 				</outline>
