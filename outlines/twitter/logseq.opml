@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 17 Jun 2021 18:22:37 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 18:27:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 17" type="calendarDay" name="17" >
+				<outline text="@devonzuegel Thank you very much for making Logseq better every day! ✨ https://t.co/0G4OTgf2X3" type="tweet" created="Thu, 17 Jun 2021 18:27:06 GMT" tweetId="1405592856845185025" urltweet="https://twitter.com/logseq/status/1405592856845185025" inReplyToId="" tweetUserName="logseq" />
 				<outline text="0.1.9 is just out! 🍸
 Some highlights:
 1. Markdown supports nested headings
