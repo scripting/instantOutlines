@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 17 Jun 2021 02:21:23 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 02:28:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="They had Dwight Howard not defending while the Hawks were running and gunning. The biggest sports choke ever." type="tweet" created="Thu, 17 Jun 2021 02:27:57 GMT" tweetId="1405351479687458819" urltweet="https://twitter.com/davewiner/status/1405351479687458819" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Doc Rivers blew the game by declaring victory and resting the stars that gave them the big lead. Embiid lost it while he was resting." type="tweet" created="Thu, 17 Jun 2021 02:19:14 GMT" tweetId="1405349287479984131" urltweet="https://twitter.com/davewiner/status/1405349287479984131" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="The Sixers won't shoot. Geez." type="tweet" created="Thu, 17 Jun 2021 02:20:58 GMT" tweetId="1405349723859570690" urltweet="https://twitter.com/davewiner/status/1405349723859570690" inReplyToId="1405349287479984131" tweetUserName="davewiner" />
 					</outline>
