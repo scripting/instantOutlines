@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Thu, 17 Jun 2021 14:59:35 GMT</dateModified>
+		<dateModified>Thu, 17 Jun 2021 15:01:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 17" type="calendarDay" name="17" >
-				<outline text="The @gaslitnation Biden-Putin Summit Special is out! @AndreaChalupa and I discuss the #GenevaSummit, cybersecurity, the history of Kremlin threats, the lack of consequences for transnational organized crime -- and more! https://t.co/mIRZ5yBCsy" type="tweet" created="Thu, 17 Jun 2021 14:59:12 GMT" tweetId="1405540535549325319" urltweet="https://twitter.com/sarahkendzior/status/1405540535549325319" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="The @gaslitnation Biden-Putin Summit Special is out! @AndreaChalupa and I discuss the #GenevaSummit, cybersecurity, the history of Kremlin threats, the lack of consequences for transnational organized crime -- and more! https://t.co/mIRZ5yBCsy" type="tweet" created="Thu, 17 Jun 2021 14:59:12 GMT" tweetId="1405540535549325319" urltweet="https://twitter.com/sarahkendzior/status/1405540535549325319" inReplyToId="" tweetUserName="sarahkendzior" >
+					<outline text="Our regular free weekly @gaslitnation episode, taped the day before the summit was held, is here: https://t.co/TNRlvs3Mvk" type="tweet" created="Thu, 17 Jun 2021 15:01:14 GMT" tweetId="1405541051243196422" urltweet="https://twitter.com/sarahkendzior/status/1405541051243196422" inReplyToId="1405540535549325319" tweetUserName="sarahkendzior" />
+					</outline>
 				</outline>
 			<outline text="June 16" type="calendarDay" name="16" >
 				<outline text="@oregontrail https://t.co/RTbcZonfxN" type="tweet" created="Thu, 17 Jun 2021 00:58:14 GMT" tweetId="1405328899807059968" urltweet="https://twitter.com/sarahkendzior/status/1405328899807059968" inReplyToId="" tweetUserName="sarahkendzior" />
