@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 18 Jun 2021 18:50:44 GMT</dateModified>
+		<dateModified>Fri, 18 Jun 2021 19:26:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 18" type="calendarDay" name="18" >
+				<outline text="Modern-day fortune cookie: &quot;A bank that doesn't know how to deal with a hacked customer is headed for a world of pain.&quot;" type="tweet" created="Fri, 18 Jun 2021 19:26:39 GMT" tweetId="1405970230204153856" urltweet="https://twitter.com/davewiner/status/1405970230204153856" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Garden and the Stream. https://t.co/NsQl4twmvE" type="tweet" created="Fri, 18 Jun 2021 18:50:24 GMT" tweetId="1405961110411415552" urltweet="https://twitter.com/davewiner/status/1405961110411415552" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I updated the OPML checklist with a section explaining what OPML is, and how it came to be an interchange format for outlines. Keep the garden properly tended. 💥
 
