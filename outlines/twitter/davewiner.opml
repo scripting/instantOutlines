@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 18 Jun 2021 12:38:04 GMT</dateModified>
+		<dateModified>Fri, 18 Jun 2021 13:25:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 18" type="calendarDay" name="18" >
+				<outline text="The word &quot;toxic&quot; should never be applied to a human. It's meaningless and it says something terrible about the person using the word, that they've devalued humanity to the point where it's just a chemical. Find another way to say what you mean. https://t.co/RyjYw30kr7" type="tweet" created="Fri, 18 Jun 2021 13:24:35 GMT" tweetId="1405879114872016904" urltweet="https://twitter.com/davewiner/status/1405879114872016904" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Roberts, Kavanaugh and Barrett have seized the Supreme Court for now. https://t.co/vjyLpjxzO5" type="tweet" created="Fri, 18 Jun 2021 12:37:11 GMT" tweetId="1405867185315192832" urltweet="https://twitter.com/davewiner/status/1405867185315192832" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Best TV of 2021. https://t.co/iVaBWexgHU" type="tweet" created="Fri, 18 Jun 2021 12:02:05 GMT" tweetId="1405858353499316224" urltweet="https://twitter.com/davewiner/status/1405858353499316224" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
