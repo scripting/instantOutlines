@@ -7,12 +7,15 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 18 Jun 2021 04:48:36 GMT</dateModified>
+		<dateModified>Fri, 18 Jun 2021 17:13:42 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 18" type="calendarDay" name="18" >
-				<outline text="Count us! 😂 https://t.co/xjL1hWhbDN" type="tweet" created="Fri, 18 Jun 2021 04:47:59 GMT" tweetId="1405749108183224321" urltweet="https://twitter.com/logseq/status/1405749108183224321" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Each [[page]] could be a community itself instead of just a page with some references. People can host their graphs everywhere and talk to each other. It'll be much better than how we learn and collaborate today!
+
+- Our vision" type="tweet" created="Fri, 18 Jun 2021 17:13:09 GMT" tweetId="1405936634453921793" urltweet="https://twitter.com/logseq/status/1405936634453921793" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Count us! 😂 https://t.co/xjL1hWhbDN" type="tweet" created="Fri, 18 Jun 2021 04:47:59 GMT" tweetId="1405749108183224321" urltweet="https://twitter.com/logseq/status/1405749108183224321" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 17" type="calendarDay" name="17" >
 				<outline text="This can be the foundation for any Reader. Hopefully, someone will build a plugin soon. https://t.co/bprn3uR0oj" type="tweet" created="Thu, 17 Jun 2021 18:48:05 GMT" tweetId="1405598137985556481" urltweet="https://twitter.com/logseq/status/1405598137985556481" tweetUserName="logseq" />
