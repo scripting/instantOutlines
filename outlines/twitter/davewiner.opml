@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 18 Jun 2021 02:38:28 GMT</dateModified>
+		<dateModified>Fri, 18 Jun 2021 12:02:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 18" type="calendarDay" name="18" >
+				<outline text="The Best TV of 2021. https://t.co/iVaBWexgHU" type="tweet" created="Fri, 18 Jun 2021 12:02:05 GMT" tweetId="1405858353499316224" urltweet="https://twitter.com/davewiner/status/1405858353499316224" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 17" type="calendarDay" name="17" >
 				<outline text="Seattle marijuana startup Leafly raises $23M as recent legalization boosts cannabis market https://t.co/bf6h7dAhqK" type="tweet" created="Fri, 18 Jun 2021 02:37:59 GMT" tweetId="1405716392704462848" urltweet="https://twitter.com/davewiner/status/1405716392704462848" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Evolution of the dad. https://t.co/icqqx8arvu" type="tweet" created="Fri, 18 Jun 2021 01:17:09 GMT" tweetId="1405696051852480514" urltweet="https://twitter.com/davewiner/status/1405696051852480514" inReplyToId="" tweetUserName="davewiner" />
