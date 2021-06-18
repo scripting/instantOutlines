@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 18 Jun 2021 12:02:54 GMT</dateModified>
+		<dateModified>Fri, 18 Jun 2021 12:38:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 18" type="calendarDay" name="18" >
+				<outline text="Roberts, Kavanaugh and Barrett have seized the Supreme Court for now. https://t.co/vjyLpjxzO5" type="tweet" created="Fri, 18 Jun 2021 12:37:11 GMT" tweetId="1405867185315192832" urltweet="https://twitter.com/davewiner/status/1405867185315192832" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Best TV of 2021. https://t.co/iVaBWexgHU" type="tweet" created="Fri, 18 Jun 2021 12:02:05 GMT" tweetId="1405858353499316224" urltweet="https://twitter.com/davewiner/status/1405858353499316224" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="June 17" type="calendarDay" name="17" >
