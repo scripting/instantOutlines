@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@dsearls</title>
+		<dateCreated>Fri, 18 Jun 2021 13:56:48 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Fri, 18 Jun 2021 13:56:49 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 18" type="calendarDay" name="18" >
+				<outline text="I just want to #tweetmark this for later listening. https://t.co/AQy8TDBgS3" type="tweet" created="Fri, 18 Jun 2021 13:53:48 GMT" tweetId="1405886467600273408" urltweet="https://twitter.com/dsearls/status/1405886467600273408" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="I can't overstate how much I hate this message, and the friction of dealing with it: &quot;This Apple ID has been locked for security reasons. Visit iForgot to reset your account (https://t.co/5tYlujdvwQ).&quot; BTW, I didn't forget, and neither @apple nor I know why this keeps happening." type="tweet" created="Fri, 18 Jun 2021 13:47:17 GMT" tweetId="1405884827036008450" urltweet="https://twitter.com/dsearls/status/1405884827036008450" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
+			<outline text="June 15" type="calendarDay" name="15" >
+				<outline text="This is cool: https://t.co/f0qtkhEvED" type="tweet" created="Tue, 15 Jun 2021 12:56:06 GMT" tweetId="1404784781322227714" urltweet="https://twitter.com/dsearls/status/1404784781322227714" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
+			<outline text="June 14" type="calendarDay" name="14" >
+				<outline text="What is the time delta between when some of us (you know who you are) mocked QR codes as &quot;robot barf&quot; and when they became ubiquitous and kind of essential?" type="tweet" created="Mon, 14 Jun 2021 14:28:49 GMT" tweetId="1404445727833694214" urltweet="https://twitter.com/dsearls/status/1404445727833694214" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="Nice @Speedtest here at @ostrom_workshop: https://t.co/iudlYz0RVE #speedtest" type="tweet" created="Mon, 14 Jun 2021 14:26:08 GMT" tweetId="1404445054291296256" urltweet="https://twitter.com/dsearls/status/1404445054291296256" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
+			<outline text="June 11" type="calendarDay" name="11" >
+				<outline text="Very interesting video about networking, by @stuartcheshire of @apple https://t.co/hgFM9Qd1fg #RPM" type="tweet" created="Fri, 11 Jun 2021 19:32:04 GMT" tweetId="1403434880164413448" urltweet="https://twitter.com/dsearls/status/1403434880164413448" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
+			<outline text="June 10" type="calendarDay" name="10" >
+				<outline text="What &quot;strictly necessary cookies&quot; are not, or might not be? Asking for a Web." type="tweet" created="Thu, 10 Jun 2021 14:33:57 GMT" tweetId="1402997468640419841" urltweet="https://twitter.com/dsearls/status/1402997468640419841" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
