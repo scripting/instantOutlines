@@ -11,7 +11,7 @@
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
-		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
+		<urlUpdateSocket>ws://localhost:1239</urlUpdateSocket>
 		<dateModified>Sat, 19 Jun 2021 18:45:13 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>4</lastCursor>
