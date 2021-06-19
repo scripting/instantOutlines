@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 19 Jun 2021 13:05:27 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 13:17:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="What do you call it when the scroll wheel on your mouse slows down as you approach what you're scrolling down for (as if putting on the brakes), then snaps forward  to speed past it? Specifically, the is a @logitech MX Anywhere 3 for Mac bluetooth mouse on an @apple MacBook Pro." type="tweet" created="Sat, 19 Jun 2021 13:17:01 GMT" tweetId="1406239599911915522" urltweet="https://twitter.com/dsearls/status/1406239599911915522" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="First in a series: https://t.co/9h10R3Bg7I #redux #buzzphrasing HT https://t.co/BpkE1aho36" type="tweet" created="Sat, 19 Jun 2021 13:04:33 GMT" tweetId="1406236459200397313" urltweet="https://twitter.com/dsearls/status/1406236459200397313" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Redux 001: BuzzPhrasing https://t.co/d1EyxMnTKV" type="tweet" created="Sat, 19 Jun 2021 13:00:24 GMT" tweetId="1406235417419075584" urltweet="https://twitter.com/dsearls/status/1406235417419075584" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
