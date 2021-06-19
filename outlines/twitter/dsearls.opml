@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 19 Jun 2021 13:00:26 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 13:05:27 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="First in a series: https://t.co/9h10R3Bg7I #redux #buzzphrasing HT https://t.co/BpkE1aho36" type="tweet" created="Sat, 19 Jun 2021 13:04:33 GMT" tweetId="1406236459200397313" urltweet="https://twitter.com/dsearls/status/1406236459200397313" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Redux 001: BuzzPhrasing https://t.co/d1EyxMnTKV" type="tweet" created="Sat, 19 Jun 2021 13:00:24 GMT" tweetId="1406235417419075584" urltweet="https://twitter.com/dsearls/status/1406235417419075584" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="June 18" type="calendarDay" name="18" >
