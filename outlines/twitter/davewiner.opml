@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 19 Jun 2021 02:59:21 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 03:03:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 18" type="calendarDay" name="18" >
+				<outline text="How will Juneteenth be celebrated as a national holiday?" type="tweet" created="Sat, 19 Jun 2021 03:02:39 GMT" tweetId="1406084989268246529" urltweet="https://twitter.com/davewiner/status/1406084989268246529" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Malta Reopens to the U.S. - but not to travelers from these states: Alabama, Arkansas, Idaho, Kansas, Kentucky, Mississippi, Missouri, Montana, Nevada, Oklahoma, Utah, and Wyoming. https://t.co/AsBq3YFs70" type="tweet" created="Sat, 19 Jun 2021 02:58:32 GMT" tweetId="1406083953648443392" urltweet="https://twitter.com/davewiner/status/1406083953648443392" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The rookie star of Philadelphia tonight reminds me a lot of the rookie Knicks star, both from Kentucky.
 
