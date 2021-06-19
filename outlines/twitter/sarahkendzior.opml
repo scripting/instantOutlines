@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Fri, 18 Jun 2021 23:15:47 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 15:44:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="Alt dot tv dot x-files https://t.co/y06AwbGjft" type="tweet" created="Sat, 19 Jun 2021 15:44:14 GMT" tweetId="1406276647159054347" urltweet="https://twitter.com/sarahkendzior/status/1406276647159054347" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="June 18" type="calendarDay" name="18" >
 				<outline text="Thread from August 2020 https://t.co/dCvpxKUPnq" type="tweet" created="Fri, 18 Jun 2021 23:15:23 GMT" tweetId="1406027793406771204" urltweet="https://twitter.com/sarahkendzior/status/1406027793406771204" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
