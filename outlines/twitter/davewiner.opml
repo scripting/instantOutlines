@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 19 Jun 2021 16:20:55 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 18:00:20 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="1/4 The Chuck Todd controversy isn't about &quot;election deniers&quot; -- it's about people who tried to overthrow the US government who are *in* the US government." type="tweet" created="Sat, 19 Jun 2021 17:59:52 GMT" tweetId="1406310780862140417" urltweet="https://twitter.com/davewiner/status/1406310780862140417" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2/4 If you take a step back and imagine you don't live in this country, it's kind of obvious that we're in serious danger as long as these people are in the government." type="tweet" created="Sat, 19 Jun 2021 17:59:56 GMT" tweetId="1406310797475815437" urltweet="https://twitter.com/davewiner/status/1406310797475815437" inReplyToId="1406310780862140417" tweetUserName="davewiner" >
+						<outline text="3/4 And by &quot;serious danger&quot; I don't mean inconvenienced, I mean if you're a minority your freedom and even your life is in danger. No this is not too dramatic." type="tweet" created="Sat, 19 Jun 2021 18:00:00 GMT" tweetId="1406310814131363841" urltweet="https://twitter.com/davewiner/status/1406310814131363841" inReplyToId="1406310797475815437" tweetUserName="davewiner" >
+							<outline text="4/4 We're weak spoiled people in the US. That's why we keep moderating this down and turn enemies of our country into mere deniers." type="tweet" created="Sat, 19 Jun 2021 18:00:04 GMT" tweetId="1406310830937939971" urltweet="https://twitter.com/davewiner/status/1406310830937939971" inReplyToId="1406310814131363841" tweetUserName="davewiner" />
+							</outline>
+						</outline>
+					</outline>
 				<outline text="The Christmas Eve Confessions of Chuck Todd. https://t.co/6HgCl2k3ig" type="tweet" created="Sat, 19 Jun 2021 16:20:20 GMT" tweetId="1406285729655840773" urltweet="https://twitter.com/davewiner/status/1406285729655840773" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Let Users Own the Tech Companies They Help Build. https://t.co/LTGwJUzosA" type="tweet" created="Sat, 19 Jun 2021 13:17:18 GMT" tweetId="1406239668761501699" urltweet="https://twitter.com/davewiner/status/1406239668761501699" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The best things in life are free. 
