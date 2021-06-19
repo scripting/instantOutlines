@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 18 Jun 2021 13:56:49 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 13:00:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="Redux 001: BuzzPhrasing https://t.co/d1EyxMnTKV" type="tweet" created="Sat, 19 Jun 2021 13:00:24 GMT" tweetId="1406235417419075584" urltweet="https://twitter.com/dsearls/status/1406235417419075584" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="June 18" type="calendarDay" name="18" >
 				<outline text="I just want to #tweetmark this for later listening. https://t.co/AQy8TDBgS3" type="tweet" created="Fri, 18 Jun 2021 13:53:48 GMT" tweetId="1405886467600273408" urltweet="https://twitter.com/dsearls/status/1405886467600273408" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="I can't overstate how much I hate this message, and the friction of dealing with it: &quot;This Apple ID has been locked for security reasons. Visit iForgot to reset your account (https://t.co/5tYlujdvwQ).&quot; BTW, I didn't forget, and neither @apple nor I know why this keeps happening." type="tweet" created="Fri, 18 Jun 2021 13:47:17 GMT" tweetId="1405884827036008450" urltweet="https://twitter.com/dsearls/status/1405884827036008450" inReplyToId="" tweetUserName="dsearls" />
