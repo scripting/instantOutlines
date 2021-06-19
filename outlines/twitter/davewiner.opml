@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 19 Jun 2021 13:02:26 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 13:17:28 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="Let Users Own the Tech Companies They Help Build. https://t.co/LTGwJUzosA" type="tweet" created="Sat, 19 Jun 2021 13:17:18 GMT" tweetId="1406239668761501699" urltweet="https://twitter.com/davewiner/status/1406239668761501699" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The best things in life are free. 
 But you can give them to the birds and bees. 
 Just give me money. That's what I want.  
