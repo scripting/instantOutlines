@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 19 Jun 2021 00:12:47 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 02:37:16 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 18" type="calendarDay" name="18" >
+				<outline text="The rookie star of Philadelphia tonight reminds me a lot of the rookie Knicks star, both from Kentucky.
+
+https://t.co/GWpuvIaLg9
+
+https://t.co/VWfORBjITk" type="tweet" created="Sat, 19 Jun 2021 02:36:39 GMT" tweetId="1406078445579386882" urltweet="https://twitter.com/davewiner/status/1406078445579386882" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Sixers falling-apart continues." type="tweet" created="Sat, 19 Jun 2021 00:00:38 GMT" tweetId="1406039182817075205" urltweet="https://twitter.com/davewiner/status/1406039182817075205" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Is Seth Curry a free agent?" type="tweet" created="Sat, 19 Jun 2021 00:12:12 GMT" tweetId="1406042090568568837" urltweet="https://twitter.com/davewiner/status/1406042090568568837" inReplyToId="1406039182817075205" tweetUserName="davewiner" />
 					</outline>
