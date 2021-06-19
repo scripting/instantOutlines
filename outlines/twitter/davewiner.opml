@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 19 Jun 2021 12:06:13 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 12:09:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="Which EVs Have the Longest Driving Range? https://t.co/s4uBzbVnhd" type="tweet" created="Sat, 19 Jun 2021 12:08:53 GMT" tweetId="1406222452821200897" urltweet="https://twitter.com/davewiner/status/1406222452821200897" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Ok so Jeff Bezos paid no tax last year. Without being a jerk, how much should he have paid and on what basis?" type="tweet" created="Sat, 19 Jun 2021 12:05:25 GMT" tweetId="1406221578921197572" urltweet="https://twitter.com/davewiner/status/1406221578921197572" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="June 18" type="calendarDay" name="18" >
