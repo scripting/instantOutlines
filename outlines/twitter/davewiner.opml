@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 19 Jun 2021 00:00:45 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 00:12:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 18" type="calendarDay" name="18" >
-				<outline text="The Sixers falling-apart continues." type="tweet" created="Sat, 19 Jun 2021 00:00:38 GMT" tweetId="1406039182817075205" urltweet="https://twitter.com/davewiner/status/1406039182817075205" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="The Sixers falling-apart continues." type="tweet" created="Sat, 19 Jun 2021 00:00:38 GMT" tweetId="1406039182817075205" urltweet="https://twitter.com/davewiner/status/1406039182817075205" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Is Seth Curry a free agent?" type="tweet" created="Sat, 19 Jun 2021 00:12:12 GMT" tweetId="1406042090568568837" urltweet="https://twitter.com/davewiner/status/1406042090568568837" inReplyToId="1406039182817075205" tweetUserName="davewiner" />
+					</outline>
 				<outline text="The Moves That Made the 2020–21 Knicks Unbelievable. https://t.co/DzIyIh7WwC" type="tweet" created="Fri, 18 Jun 2021 21:07:02 GMT" tweetId="1405995492086009856" urltweet="https://twitter.com/davewiner/status/1405995492086009856" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="https://t.co/bb8CoINYPb is an outline, of course. 👍" type="tweet" created="Fri, 18 Jun 2021 19:53:31 GMT" tweetId="1405976992374267904" urltweet="https://twitter.com/davewiner/status/1405976992374267904" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Modern-day fortune cookie: &quot;A bank that doesn't know how to deal with a hacked customer is headed for a world of pain.&quot;" type="tweet" created="Fri, 18 Jun 2021 19:26:39 GMT" tweetId="1405970230204153856" urltweet="https://twitter.com/davewiner/status/1405970230204153856" inReplyToId="" tweetUserName="davewiner" />
