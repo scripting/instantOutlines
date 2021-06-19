@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 19 Jun 2021 15:34:40 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 15:37:24 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
@@ -20,7 +20,7 @@
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 19" created="Sat, 19 Jun 2021 13:35:58 GMT" type="calendarDay" name="19" >
-				<outline text="Good morning sports fans!! " created="Sat, 19 Jun 2021 13:35:59 GMT" type="outline" />
+				<outline text="Good morning sports fans!!! " created="Sat, 19 Jun 2021 13:35:59 GMT" type="outline" />
 				<outline text="I think I've updated the home page of Scripting News a hundred times this morning trying to get five systems to work together. Interop is hard, at the first time you get things working, and as long as you don't &quot;fix&quot; things you hope it keeps working. Knock wood. " created="Sat, 19 Jun 2021 15:29:10 GMT" type="outline" />
 				</outline>
 			<outline text="June 18" created="Fri, 18 Jun 2021 13:49:39 GMT" type="calendarDay" name="18" >
