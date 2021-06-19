@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 18 Jun 2021 17:13:42 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 12:03:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="Glad to know it works for you, thank you for the shout out! https://t.co/vwcjjs6SGq" type="tweet" created="Sat, 19 Jun 2021 12:02:49 GMT" tweetId="1406220926186754052" urltweet="https://twitter.com/logseq/status/1406220926186754052" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 18" type="calendarDay" name="18" >
 				<outline text="Each [[page]] could be a community itself instead of just a page with some references. People can host their graphs everywhere and talk to each other. It'll be much better than how we learn and collaborate today!
 
