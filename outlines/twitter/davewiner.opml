@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 19 Jun 2021 02:38:17 GMT</dateModified>
+		<dateModified>Sat, 19 Jun 2021 02:41:17 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
@@ -26,7 +26,13 @@ https://t.co/VWfORBjITk" type="tweet" created="Sat, 19 Jun 2021 02:36:39 GMT" tw
 				<outline text="The Garden and the Stream. https://t.co/NsQl4twmvE" type="tweet" created="Fri, 18 Jun 2021 18:50:24 GMT" tweetId="1405961110411415552" urltweet="https://twitter.com/davewiner/status/1405961110411415552" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="OPML is the garden, RSS is the stream.
 
-https://t.co/geEGc6COfk" type="tweet" created="Sat, 19 Jun 2021 02:37:30 GMT" tweetId="1406078659899822083" urltweet="https://twitter.com/davewiner/status/1406078659899822083" inReplyToId="1405961110411415552" tweetUserName="davewiner" />
+https://t.co/geEGc6COfk" type="tweet" created="Sat, 19 Jun 2021 02:37:30 GMT" tweetId="1406078659899822083" urltweet="https://twitter.com/davewiner/status/1406078659899822083" inReplyToId="1405961110411415552" tweetUserName="davewiner" >
+						<outline text="Ward Cunningham's Federated Wiki may be of interest to Tools of Thought users and devs.
+
+https://t.co/9cSFVxXP3L
+
+Cunningham is the inventor of wikis." type="tweet" created="Sat, 19 Jun 2021 02:41:00 GMT" tweetId="1406079540452073472" urltweet="https://twitter.com/davewiner/status/1406079540452073472" inReplyToId="1406078659899822083" tweetUserName="davewiner" />
+						</outline>
 					</outline>
 				<outline text="I updated the OPML checklist with a section explaining what OPML is, and how it came to be an interchange format for outlines. Keep the garden properly tended. 💥
 
