@@ -12,14 +12,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 20 Jun 2021 17:48:21 GMT</dateModified>
-		<expansionState>1,2,5,11,13,18</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sun, 20 Jun 2021 19:29:42 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 20" created="Sun, 20 Jun 2021 14:36:55 GMT" type="calendarDay" name="20" >
+				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1406694522105565186&quot;&gt;Why&lt;/a&gt; [[wikilinks]] work better than #hashtags." created="Sun, 20 Jun 2021 19:29:09 GMT" type="outline" />
 				<outline text="What's important is to know what's important." created="Sun, 20 Jun 2021 16:30:01 GMT" type="outline" />
 				<outline text="I believe that my socket server will pick up this change. Let's see if it does. (Indeed it did.) " created="Sun, 20 Jun 2021 17:35:42 GMT" type="outline" />
 				<outline text="Father's Day" created="Sun, 20 Jun 2021 16:04:15 GMT" type="outline" >
