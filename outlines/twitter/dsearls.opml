@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 19 Jun 2021 13:20:29 GMT</dateModified>
+		<dateModified>Sun, 20 Jun 2021 16:54:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 20" type="calendarDay" name="20" >
+				<outline text="Overheard: “Is that thing you want actually worth more than the empty space it will displace?" type="tweet" created="Sun, 20 Jun 2021 16:53:04 GMT" tweetId="1406656358754226178" urltweet="https://twitter.com/dsearls/status/1406656358754226178" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="June 19" type="calendarDay" name="19" >
 				<outline text="More of the action (and tweeting) in my life is going to be here, BTW. https://t.co/sLPSm5dFxU" type="tweet" created="Sat, 19 Jun 2021 13:20:13 GMT" tweetId="1406240405226668033" urltweet="https://twitter.com/dsearls/status/1406240405226668033" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="What do you call it when the scroll wheel on your mouse slows down as you approach what you're scrolling down for (as if putting on the brakes), then snaps forward  to speed past it? Specifically, the is a @logitech MX Anywhere 3 for Mac bluetooth mouse on an @apple MacBook Pro." type="tweet" created="Sat, 19 Jun 2021 13:17:01 GMT" tweetId="1406239599911915522" urltweet="https://twitter.com/dsearls/status/1406239599911915522" inReplyToId="" tweetUserName="dsearls" />
