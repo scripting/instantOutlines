@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 20 Jun 2021 03:13:37 GMT</dateModified>
+		<dateModified>Sun, 20 Jun 2021 03:15:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="Pickup truck hits Florida Pride parade spectators, killing one. https://t.co/TqsPm0187H" type="tweet" created="Sun, 20 Jun 2021 03:15:30 GMT" tweetId="1406450608136142850" urltweet="https://twitter.com/davewiner/status/1406450608136142850" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Bucks or Nets?" type="tweet" created="Sun, 20 Jun 2021 03:12:49 GMT" tweetId="1406449932622602243" urltweet="https://twitter.com/davewiner/status/1406449932622602243" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="what a gift, a two point shot. whew." type="tweet" created="Sun, 20 Jun 2021 03:09:11 GMT" tweetId="1406449021254832131" urltweet="https://twitter.com/davewiner/status/1406449021254832131" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Drought-stricken communities push back against data centers. https://t.co/2zY4VEe9HZ" type="tweet" created="Sun, 20 Jun 2021 01:33:53 GMT" tweetId="1406425038304198660" urltweet="https://twitter.com/davewiner/status/1406425038304198660" inReplyToId="" tweetUserName="davewiner" />
