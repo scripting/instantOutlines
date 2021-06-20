@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 20 Jun 2021 01:06:03 GMT</dateModified>
+		<dateModified>Sun, 20 Jun 2021 01:25:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="I Was Just Following Orders. https://t.co/j2c3v15KX0" type="tweet" created="Sun, 20 Jun 2021 01:25:07 GMT" tweetId="1406422831148285973" urltweet="https://twitter.com/davewiner/status/1406422831148285973" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Readable public outlines. https://t.co/ut0yDm6dx4" type="tweet" created="Sun, 20 Jun 2021 01:05:18 GMT" tweetId="1406417844502417412" urltweet="https://twitter.com/davewiner/status/1406417844502417412" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Nets don’t want title dream to turn into Game 7 nightmare. https://t.co/eLYs2D8M54" type="tweet" created="Sat, 19 Jun 2021 22:14:52 GMT" tweetId="1406374950706028545" urltweet="https://twitter.com/davewiner/status/1406374950706028545" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Charlie Crist asks Ron DeSantis to probe Florida links to Capitol riot. https://t.co/yEgjPyenIJ" type="tweet" created="Sat, 19 Jun 2021 20:37:50 GMT" tweetId="1406350533129035776" urltweet="https://twitter.com/davewiner/status/1406350533129035776" inReplyToId="" tweetUserName="davewiner" />
