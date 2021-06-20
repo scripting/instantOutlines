@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 20 Jun 2021 16:37:12 GMT</dateModified>
+		<dateModified>Sun, 20 Jun 2021 16:49:28 GMT</dateModified>
 		<expansionState>1,2,4,10,12,17</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>4</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -22,7 +22,7 @@
 			<outline text="June 20" created="Sun, 20 Jun 2021 14:36:55 GMT" type="calendarDay" name="20" >
 				<outline text="What's important is to remember what's important." created="Sun, 20 Jun 2021 16:30:01 GMT" type="outline" />
 				<outline text="Father's Day" created="Sun, 20 Jun 2021 16:04:15 GMT" type="outline" >
-					<outline text="I dislike all the hooplah about Father's Day since I don't have one. " created="Sun, 20 Jun 2021 16:04:22 GMT" />
+					<outline text="I dislike all the &lt;a href=&quot;https://www.urbandictionary.com/define.php?term=Hoopla&quot;&gt;hoopla&lt;/a&gt; about Father's Day since I don't have one. " created="Sun, 20 Jun 2021 16:04:22 GMT" />
 					<outline text="My father died in 2009. As they say &quot;after a long illness.&quot; Cancer." created="Sun, 20 Jun 2021 16:04:37 GMT" />
 					<outline text="I called the day he died &lt;a href=&quot;http://scripting.com/stories/2009/10/03/fathersDay.html&quot;&gt;Father's Day&lt;/a&gt;. From that moment on I could remember my father the way I wanted to, and try to remember that the things I didn't like were given to him by his father and his father's father, all the way back to the beginning, which in our case was probably a &lt;a href=&quot;https://en.wikipedia.org/wiki/Shtetl&quot;&gt;shtetl&lt;/a&gt; somewhere in the Ukraine or Belarus or Russia. " created="Sun, 20 Jun 2021 16:04:57 GMT" />
 					<outline text="The one thing we bonded on was outliners. My father loved ThinkTank. He was a huge evangelist for it, as a college professor in NY, and a consultant to large businesses on marketing and management, he preached the gospel of seeing what you think. I now realize he wanted me to do, then, what I see now that I need to do. I wish he was alive today to use the tools we're creating now. " created="Sun, 20 Jun 2021 16:06:31 GMT" />
