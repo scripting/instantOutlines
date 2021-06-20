@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 20 Jun 2021 17:35:58 GMT</dateModified>
+		<dateModified>Sun, 20 Jun 2021 17:37:11 GMT</dateModified>
 		<expansionState>1,2,5,11,13,18</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
@@ -20,7 +20,7 @@
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 20" created="Sun, 20 Jun 2021 14:36:55 GMT" type="calendarDay" name="20" >
-				<outline text="I believe that my socket server will pick up this change. Let's see if it does." created="Sun, 20 Jun 2021 17:35:42 GMT" type="outline" />
+				<outline text="I believe that my socket server will pick up this change. Let's see if it does. (Indeed it did.)" created="Sun, 20 Jun 2021 17:35:42 GMT" type="outline" />
 				<outline text="What's important is to remember what's important." created="Sun, 20 Jun 2021 16:30:01 GMT" type="outline" />
 				<outline text="Father's Day" created="Sun, 20 Jun 2021 16:04:15 GMT" type="outline" >
 					<outline text="I dislike all the &lt;a href=&quot;https://www.urbandictionary.com/define.php?term=Hoopla&quot;&gt;hoopla&lt;/a&gt; about Father's Day since I don't have one. " created="Sun, 20 Jun 2021 16:04:22 GMT" />
