@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 21 Jun 2021 14:52:23 GMT</dateModified>
+		<dateModified>Mon, 21 Jun 2021 19:36:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 21" type="calendarDay" name="21" >
+				<outline text="Her guides are the best. This is how I debug my apps. Figure out which of my assumptions are wrong. https://t.co/cDLrojSWFh" type="tweet" created="Mon, 21 Jun 2021 19:35:20 GMT" tweetId="1407059582363521024" urltweet="https://twitter.com/davewiner/status/1407059582363521024" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Now that clubhouse-like rooms are available in so many places, will clubhouse itself develop text features to match? An opportunity to start from scratch, something simple and minimal, unlike the sprawling text trees of twitter and facebook. There's a position open here imho." type="tweet" created="Mon, 21 Jun 2021 14:52:19 GMT" tweetId="1406988356685373440" urltweet="https://twitter.com/davewiner/status/1406988356685373440" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Facebook officially launches Live Audio Rooms and podcasts in the U.S. https://t.co/pXcTNtRiMP" type="tweet" created="Mon, 21 Jun 2021 14:45:58 GMT" tweetId="1406986759309869056" urltweet="https://twitter.com/davewiner/status/1406986759309869056" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you have a few minutes to read, I think yesterday's installment of Scripting News was one of the best ever. 
