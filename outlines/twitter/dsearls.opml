@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 20 Jun 2021 16:54:04 GMT</dateModified>
+		<dateModified>Mon, 21 Jun 2021 23:26:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 21" type="calendarDay" name="21" >
+				<outline text="@JPBarlow, six years ago, and still in the future: https://t.co/7ILDUhGHvF" type="tweet" created="Mon, 21 Jun 2021 23:25:10 GMT" tweetId="1407117419127132164" urltweet="https://twitter.com/dsearls/status/1407117419127132164" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="June 20" type="calendarDay" name="20" >
 				<outline text="Overheard: “Is that thing you want actually worth more than the empty space it will displace?" type="tweet" created="Sun, 20 Jun 2021 16:53:04 GMT" tweetId="1406656358754226178" urltweet="https://twitter.com/dsearls/status/1406656358754226178" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
