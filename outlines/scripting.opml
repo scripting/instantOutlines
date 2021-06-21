@@ -12,13 +12,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 20 Jun 2021 21:37:17 GMT</dateModified>
-		<expansionState>1,2,8,15</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Mon, 21 Jun 2021 12:29:01 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
+			<outline text="June 21" created="Mon, 21 Jun 2021 12:28:26 GMT" type="calendarDay" name="21" >
+				<outline text="If you have a few minutes to read, &lt;a href=&quot;http://scripting.com/2021/06/20.html&quot;&gt;yesterday's installment&lt;/a&gt; of Scripting News was one of the best ever. " created="Mon, 21 Jun 2021 12:28:27 GMT" type="outline" />
+				</outline>
 			<outline text="June 20" created="Sun, 20 Jun 2021 14:36:55 GMT" type="calendarDay" name="20" >
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/210&quot;&gt;Brandon Toner&lt;/a&gt; is setting up a &quot;PagePark&quot; server on &lt;a href=&quot;https://glitch.com/&quot;&gt;Glitch&lt;/a&gt;. He wants to do a blog styled after the outline format of &lt;a href=&quot;http://davewiner.com/&quot;&gt;davewiner.com&lt;/a&gt;. " created="Sun, 20 Jun 2021 21:28:38 GMT" type="outline" />
 				<outline text="Nice &lt;a href=&quot;http://scripting.com/images/2021/06/20/daveAndAdam.png&quot;&gt;picture&lt;/a&gt; of Adam Curry and myself, &lt;a href=&quot;https://twitter.com/Podchaser/status/1406708042847096836&quot;&gt;from&lt;/a&gt; &lt;a href=&quot;https://www.google.com/search?q=gnomedex+winer+curry&amp;safe=off&amp;rlz=1C5CHFA_enUS743US747&amp;sxsrf=ALeKk01HA3hOkTvzs1HC7MCLbImy-ec8lg:1624224861194&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=fo8uvkOJAMQSfM%252CqhUFOONB3MiRpM%252C_&amp;vet=1&amp;usg=AI4_-kRdUXSnyu8nuXMLtl-71m5Kl96f_g&amp;sa=X&amp;ved=2ahUKEwi1x4uPlafxAhWGTt8KHSJ2B08Q9QF6BAgQEAE#imgrc=fo8uvkOJAMQSfM&quot;&gt;Gnomedex&lt;/a&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/Gnomedex#2005&quot;&gt;2005&lt;/a&gt;?" created="Sun, 20 Jun 2021 21:31:59 GMT" type="outline" />
