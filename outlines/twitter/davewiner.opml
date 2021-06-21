@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 21 Jun 2021 12:19:01 GMT</dateModified>
+		<dateModified>Mon, 21 Jun 2021 14:46:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 21" type="calendarDay" name="21" >
+				<outline text="Facebook officially launches Live Audio Rooms and podcasts in the U.S. https://t.co/pXcTNtRiMP" type="tweet" created="Mon, 21 Jun 2021 14:45:58 GMT" tweetId="1406986759309869056" urltweet="https://twitter.com/davewiner/status/1406986759309869056" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you have a few minutes to read, I think yesterday's installment of Scripting News was one of the best ever. 
 
 https://t.co/WK8UTvkVuE" type="tweet" created="Mon, 21 Jun 2021 12:18:52 GMT" tweetId="1406949738281381894" urltweet="https://twitter.com/davewiner/status/1406949738281381894" inReplyToId="" tweetUserName="davewiner" />
