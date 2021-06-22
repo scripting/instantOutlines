@@ -12,13 +12,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 21 Jun 2021 22:02:06 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Tue, 22 Jun 2021 12:40:17 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
+			<outline text="June 22" created="Tue, 22 Jun 2021 12:36:39 GMT" type="calendarDay" name="22" >
+				<outline text="The problem isn't Manchin or the filibuster. The news is that Repubs are planning, openly, the destruction of the American political system, turning the US into Russia, with vast wealth to be looted. The question is wtf are we going to do -- now. " created="Tue, 22 Jun 2021 12:36:40 GMT" type="tweet" tweetId="1407317517731835907" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 21" created="Mon, 21 Jun 2021 12:28:26 GMT" type="calendarDay" name="21" >
 				<outline text="I spent the day tangled up in PageParkLand. Oy, I got too clever, all hell broke loose. It's okay it's all put back together, praise Murphy, I am not a lawyer, my mother loves me." created="Mon, 21 Jun 2021 21:52:43 GMT" type="outline" />
 				<outline text="Now that Clubhouse-like rooms are available in so many places, will Clubhouse itself develop text features to match? An opportunity to start from scratch, something simple and minimal, unlike the sprawling text trees of Twitter and Facebook. There's a &lt;a href=&quot;https://www.amazon.com/Positioning-Battle-Your-Al-Ries/dp/0071373586&quot;&gt;position&lt;/a&gt; open here imho." created="Mon, 21 Jun 2021 14:53:19 GMT" type="outline" />
