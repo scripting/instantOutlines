@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 21 Jun 2021 19:36:10 GMT</dateModified>
+		<dateModified>Tue, 22 Jun 2021 12:40:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 22" type="calendarDay" name="22" >
+				<outline text="The problem isn't Manchin or the filibuster. The news is that Repubs are planning, openly, the destruction of the American political system, turning the US into Russia, with vast wealth to be looted. The question is wtf are we going to do -- now." type="tweet" created="Tue, 22 Jun 2021 12:40:17 GMT" tweetId="1407317517731835907" urltweet="https://twitter.com/davewiner/status/1407317517731835907" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 21" type="calendarDay" name="21" >
 				<outline text="Her guides are the best. This is how I debug my apps. Figure out which of my assumptions are wrong. https://t.co/cDLrojSWFh" type="tweet" created="Mon, 21 Jun 2021 19:35:20 GMT" tweetId="1407059582363521024" urltweet="https://twitter.com/davewiner/status/1407059582363521024" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Now that clubhouse-like rooms are available in so many places, will clubhouse itself develop text features to match? An opportunity to start from scratch, something simple and minimal, unlike the sprawling text trees of twitter and facebook. There's a position open here imho." type="tweet" created="Mon, 21 Jun 2021 14:52:19 GMT" tweetId="1406988356685373440" urltweet="https://twitter.com/davewiner/status/1406988356685373440" inReplyToId="" tweetUserName="davewiner" />
