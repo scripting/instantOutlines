@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 22 Jun 2021 12:40:40 GMT</dateModified>
+		<dateModified>Tue, 22 Jun 2021 18:09:46 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 22" type="calendarDay" name="22" >
+				<outline text="My dialog with @JoeTrippi continues. https://t.co/34nsw7ltQy" type="tweet" created="Tue, 22 Jun 2021 18:08:48 GMT" tweetId="1407400192073256963" urltweet="https://twitter.com/davewiner/status/1407400192073256963" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The problem isn't Manchin or the filibuster. The news is that Repubs are planning, openly, the destruction of the American political system, turning the US into Russia, with vast wealth to be looted. The question is wtf are we going to do -- now." type="tweet" created="Tue, 22 Jun 2021 12:40:17 GMT" tweetId="1407317517731835907" urltweet="https://twitter.com/davewiner/status/1407317517731835907" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="June 21" type="calendarDay" name="21" >
