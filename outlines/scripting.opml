@@ -12,15 +12,29 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 22 Jun 2021 12:40:17 GMT</dateModified>
-		<expansionState>1,2,4</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 22 Jun 2021 17:56:48 GMT</dateModified>
+		<expansionState>1,2,4,5,16</expansionState>
+		<lastCursor>5</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 22" created="Tue, 22 Jun 2021 12:36:39 GMT" type="calendarDay" name="22" >
 				<outline text="The problem isn't Manchin or the filibuster. The news is that Repubs are planning, openly, the destruction of the American political system, turning the US into Russia, with vast wealth to be looted. The question is wtf are we going to do -- now. " created="Tue, 22 Jun 2021 12:36:40 GMT" type="tweet" tweetId="1407317517731835907" tweetUserName="davewiner" />
+				<outline text="My dialog with Joe Trippi continues" created="Tue, 22 Jun 2021 17:55:08 GMT" type="outline" >
+					<outline text="Last time it was an open podcast, this time an open email. Sorry I didn't capitalize much, don't have time to edit it now. " created="Tue, 22 Jun 2021 17:55:16 GMT" >
+						<outline text="listened to your &lt;a href=&quot;https://podcasts.apple.com/us/podcast/inside-gops-plot-to-white-wash-january-6th-conversation/id1530639447?i=1000526220530&quot;&gt;interview with michael cohen&lt;/a&gt;. really liked the negotiating with hostages idea. it's true, they are hostages, and it made me stop and think because at first i thought you said hostage-takers. " created="Tue, 22 Jun 2021 17:55:41 GMT" />
+						<outline text="i don't think working to get dems elected is enough. the democratic party is in the way. it might be better to run ads attacking them first. to establish that something unusual is going on, that the dems are weak and disorganized and not The Answer (everyone knows this)." />
+						<outline text="there's no way in a two-party system if one party disintegrates, that the other party doesn't also fall apart." />
+						<outline text="in order to compete with the repubs, which we have to do, the democratic party has to be pushed into the background." />
+						<outline text="we need an answer to donald trump. it's not as michelle obama said when they go low we go high. that's wrong. we need to go lower. sorry. this isn't church, you don't get to heaven by being pious." />
+						<outline text="michael cohen has some of what's needed. i really liked what he said about driving sign trucks through neighborhoods stating obvious truths that everyone knows that they never say on tv. it's a brilliant idea. he's a brilliant guy. " />
+						<outline text="i don't think the lincoln party is the right banner for you to fly under. it's not right. no matter what they do they identify as republicans. i don't know if you're a basketball fan but that's like saying the 76ers or Nets should lead us in our quest to win the title. (both have been eliminated). they are brilliant advertisers, but they are not leaders because they have the republican stink on them." />
+						<outline text="we need someone strong, believable, and most important new." />
+						<outline text="btw, someone who has leadership qualities -- stacey abrams. i found when she endorsed joe manchin's election reform platform i had to go look at it. because i trust her and believe in her intelligence. " />
+						<outline text="do a podcast with her joe, ask her what we should be doing now. i'd listen to that one. " created="Tue, 22 Jun 2021 17:55:47 GMT" />
+						</outline>
+					</outline>
 				</outline>
 			<outline text="June 21" created="Mon, 21 Jun 2021 12:28:26 GMT" type="calendarDay" name="21" >
 				<outline text="I spent the day tangled up in PageParkLand. Oy, I got too clever, all hell broke loose. It's okay it's all put back together, praise Murphy, I am not a lawyer, my mother loves me." created="Mon, 21 Jun 2021 21:52:43 GMT" type="outline" />
