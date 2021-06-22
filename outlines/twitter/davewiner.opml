@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 22 Jun 2021 18:16:47 GMT</dateModified>
+		<dateModified>Tue, 22 Jun 2021 19:03:52 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 22" type="calendarDay" name="22" >
+				<outline text="What a waste of a bully pulpit. https://t.co/IzalePmVua" type="tweet" created="Tue, 22 Jun 2021 19:03:09 GMT" tweetId="1407413868691963907" urltweet="https://twitter.com/davewiner/status/1407413868691963907" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Life returns to the University of Wisconsin terrace. https://t.co/onPCUN1JVo" type="tweet" created="Tue, 22 Jun 2021 18:14:42 GMT" tweetId="1407401676701638661" urltweet="https://twitter.com/davewiner/status/1407401676701638661" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="One of my favorite places in the world. Every town should have one of these. A lake like Mendota, and a public terrace on the lake where you can drink a beer or coffee, read the paper, and meet up with friends." type="tweet" created="Tue, 22 Jun 2021 18:16:07 GMT" tweetId="1407402033028681729" urltweet="https://twitter.com/davewiner/status/1407402033028681729" inReplyToId="1407401676701638661" tweetUserName="davewiner" />
 					</outline>
