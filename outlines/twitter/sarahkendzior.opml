@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 02:32:34 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 11:18:44 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="Old thread on how Merrick Garland is actually terrible and why people fell for propaganda saying otherwise https://t.co/cdsmEAxgfU" type="tweet" created="Wed, 23 Jun 2021 11:18:08 GMT" tweetId="1407659230295900170" urltweet="https://twitter.com/sarahkendzior/status/1407659230295900170" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="June 22" type="calendarDay" name="22" >
 				<outline text="New @gaslitnation is out! In “Voter Suppression Emergency”, our guest Ari Berman breaks down the legal warfare that is turning the United States into an electoral autocracy. A must-listen in this perilous time! https://t.co/5GfQhWHHgv" type="tweet" created="Wed, 23 Jun 2021 02:31:52 GMT" tweetId="1407526790956978178" urltweet="https://twitter.com/sarahkendzior/status/1407526790956978178" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
