@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 16:34:13 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 16:34:39 GMT</dateModified>
 		<expansionState>1,2,5</expansionState>
-		<lastCursor>11</lastCursor>
+		<lastCursor>7</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
