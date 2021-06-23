@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 23:06:45 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 23:08:45 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="I am using the thread below to test a new version of 
+
+https://t.co/dMHGMrEPft
+
+If the change worked, in 12 hours this thread should still be here. I'll let you know. ;-) https://t.co/LjQCsle3UQ" type="tweet" created="Wed, 23 Jun 2021 23:08:30 GMT" tweetId="1407837999388409856" urltweet="https://twitter.com/davewiner/status/1407837999388409856" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I am using the thread below to test a new version of 
 
 https://t.co/LAon5awsSj
