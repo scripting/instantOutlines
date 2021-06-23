@@ -12,15 +12,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 17:18:51 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 17:19:58 GMT</dateModified>
 		<expansionState>1,2,6</expansionState>
 		<lastCursor>2</lastCursor>
-		<generator>opmltojs v0.4.11</generator>
+		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 23" created="Wed, 23 Jun 2021 14:33:38 GMT" type="calendarDay" name="23" >
-				<outline text="test #5. sorry for the interruption. " created="Wed, 23 Jun 2021 16:51:57 GMT" type="outline" />
+				<outline text="test #6. sorry for the interruption. " created="Wed, 23 Jun 2021 16:51:57 GMT" type="outline" />
 				<outline text="If you’re having a kid, consider naming him/her, Pulitzer Prize Winner. Might open some doors" created="Wed, 23 Jun 2021 14:33:39 GMT" type="outline" />
 				<outline text="Revisiting Glitch, a year later" created="Wed, 23 Jun 2021 14:55:59 GMT" type="outline" description="I'm trying to figure out what's the best use of my time." >
 					<outline text="In &lt;a href=&quot;http://scripting.com/2020/04/&quot;&gt;April 2020&lt;/a&gt; I gave &lt;a href=&quot;http://glitch.com/&quot;&gt;Glitch&lt;/a&gt; a &lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+glitch&quot;&gt;try&lt;/a&gt;. " created="Wed, 23 Jun 2021 14:47:19 GMT" />
