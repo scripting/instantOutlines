@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 22 Jun 2021 23:03:42 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 01:05:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 22" type="calendarDay" name="22" >
+				<outline text="If you don’t believe we’re a racist country, tell me when people of color ever tried to stop white people from voting." type="tweet" created="Wed, 23 Jun 2021 01:04:35 GMT" tweetId="1407504824883630081" urltweet="https://twitter.com/davewiner/status/1407504824883630081" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Fauci Calls The Delta COVID Variant A Great Threat. https://t.co/XOS5RvvW5b" type="tweet" created="Tue, 22 Jun 2021 23:03:23 GMT" tweetId="1407474327268773898" urltweet="https://twitter.com/davewiner/status/1407474327268773898" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Repubs say outrageous things that aren't true.
 
