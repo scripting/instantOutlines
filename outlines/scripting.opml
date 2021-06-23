@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 22:16:47 GMT</dateModified>
-		<expansionState>1,2,6,15</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Wed, 23 Jun 2021 22:20:27 GMT</dateModified>
+		<expansionState>1,2,7</expansionState>
+		<lastCursor>7</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -39,8 +39,8 @@
 					<outline text="They think the problem is that we don't see what they see, but I think it's the other way. They hold on to a normalcy that is gone. " created="Wed, 23 Jun 2021 16:26:08 GMT" />
 					<outline text="They can't see what they can't see." created="Wed, 23 Jun 2021 16:23:16 GMT" />
 					</outline>
-				<outline text="Is GitHub raw storage reliable?" created="Wed, 23 Jun 2021 17:43:09 GMT" type="outline" description="It seems that GitHub raw storage is not reliable. Results of an experiment included, and source code. " >
-					<outline text="See the &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/213&quot;&gt;GitHub thread&lt;/a&gt; for this post.  " created="Wed, 23 Jun 2021 18:34:56 GMT" />
+				<outline text="Is GitHub raw storage reliable?" created="Wed, 23 Jun 2021 17:43:09 GMT" type="outline" description="It seems that GitHub raw storage is not reliable. Results of an experiment included, and source code. " metaImage="http://scripting.com/images/2021/06/23/dataCenter.png" >
+					<outline text="See the &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/213&quot;&gt;GitHub thread&lt;/a&gt; for this post. " created="Wed, 23 Jun 2021 18:34:56 GMT" />
 					<outline text="I've been building apps on the assumption that if you store something on GitHub, when you get the raw version of that thing, it'll be current. I was getting inconsistent results, so I decided to test that assumption, and it seems that it is &lt;i&gt;not&lt;/i&gt; reliable storage. " created="Wed, 23 Jun 2021 17:43:19 GMT" />
 					<outline text="If you read an object immediately after writing it, you will not always get back what you wrote. It's not just a matter of waiting a second or two, sometimes it's wrong for up to 10 seconds (the delay I programmed into the test)." created="Wed, 23 Jun 2021 18:24:50 GMT" />
 					<outline text="Here's &lt;a href=&quot;https://gist.github.com/scripting/6a59532e1a2d1d0a8e6120cf07b9af45&quot;&gt;the Node app&lt;/a&gt; I'm running to test this. It wakes up every minute and saves a file to GitHub with the current local time string. If I reload the &lt;a href=&quot;https://github.com/scripting/instantOutlines/blob/main/misc/now.txt&quot;&gt;non-raw version&lt;/a&gt; of the page, it usually seems to have the current value. But if I reload the &lt;a href=&quot;https://raw.githubusercontent.com/scripting/instantOutlines/main/misc/now.txt&quot;&gt;raw version&lt;/a&gt; of the page, it often does not have the correct value. " created="Wed, 23 Jun 2021 17:44:14 GMT" />
