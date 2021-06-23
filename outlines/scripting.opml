@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 16:26:34 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 16:27:37 GMT</dateModified>
 		<expansionState>1,2,5</expansionState>
-		<lastCursor>11</lastCursor>
+		<lastCursor>4</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -29,7 +29,6 @@
 					<outline text="But then something amazing happened. After writing this post, all of a sudden &lt;a href=&quot;http://pagepark.glitch.me/&quot;&gt;PagePark-on-Glitch&lt;/a&gt; is working. Fuck me. " created="Wed, 23 Jun 2021 14:59:00 GMT" />
 					</outline>
 				<outline text="They can't see what they can't see" created="Wed, 23 Jun 2021 16:23:12 GMT" type="outline" >
-					<outline text="They can't see what they can't see." created="Wed, 23 Jun 2021 16:23:16 GMT" />
 					<outline text="Journalism, academia, government and the corporate world all hire from the same talent pool." />
 					<outline text="They go to the same universities, get their news from the same sources, the people move in and out of each other. " created="Wed, 23 Jun 2021 16:23:33 GMT" />
 					<outline text="So you get the same story, developed over centuries. They are almost impervious to change. " created="Wed, 23 Jun 2021 16:23:53 GMT" />
