@@ -7,7 +7,7 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 23 Jun 2021 14:14:30 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 14:33:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
@@ -19,7 +19,9 @@
 - @devonzuegel added a `/calculator` slash command
 - @pengx17 added block children in preview
 - Spanish support https://t.co/g8ORZrY1pF" type="tweet" created="Wed, 23 Jun 2021 14:13:37 GMT" tweetId="1407703393490010116" urltweet="https://twitter.com/logseq/status/1407703393490010116" inReplyToId="" tweetUserName="logseq" >
-					<outline text="Full changelog at https://t.co/k6gr9cywhI" type="tweet" created="Wed, 23 Jun 2021 14:13:50 GMT" tweetId="1407703449970483206" urltweet="https://twitter.com/logseq/status/1407703449970483206" inReplyToId="1407703393490010116" tweetUserName="logseq" />
+					<outline text="Full changelog at https://t.co/k6gr9cywhI" type="tweet" created="Wed, 23 Jun 2021 14:13:50 GMT" tweetId="1407703449970483206" urltweet="https://twitter.com/logseq/status/1407703449970483206" inReplyToId="1407703393490010116" tweetUserName="logseq" >
+						<outline text="oops, the link should be https://t.co/icZi4Sk2Wu" type="tweet" created="Wed, 23 Jun 2021 14:33:20 GMT" tweetId="1407708353833226243" urltweet="https://twitter.com/logseq/status/1407708353833226243" inReplyToId="1407703449970483206" tweetUserName="logseq" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="June 21" type="calendarDay" name="21" >
