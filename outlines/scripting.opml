@@ -12,16 +12,56 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 17:19:58 GMT</dateModified>
-		<expansionState>1,2,6</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Wed, 23 Jun 2021 18:35:10 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
+		<lastCursor>4</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 23" created="Wed, 23 Jun 2021 14:33:38 GMT" type="calendarDay" name="23" >
-				<outline text="test #6. sorry for the interruption. " created="Wed, 23 Jun 2021 16:51:57 GMT" type="outline" />
 				<outline text="If you’re having a kid, consider naming him/her, Pulitzer Prize Winner. Might open some doors" created="Wed, 23 Jun 2021 14:33:39 GMT" type="outline" />
+				<outline text="Is GitHub raw storage reliable?" created="Wed, 23 Jun 2021 17:43:09 GMT" type="outline" >
+					<outline text="See the &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/213&quot;&gt;GitHub thread&lt;/a&gt; for this post. " created="Wed, 23 Jun 2021 18:34:56 GMT" />
+					<outline text="I've been building apps on the assumption that if you store something on GitHub, when you get the raw version of that thing, it'll be current. I was getting inconsistent results, so I decided to test that assumption, and it seems that it is not reliable storage. " created="Wed, 23 Jun 2021 17:43:19 GMT" />
+					<outline text="If you read an object immediately after writing it, you will not always get back what you wrote. It's not just a matter of waiting a second or two, sometimes it's wrong for up to 10 seconds (the delay I programmed into the test)." created="Wed, 23 Jun 2021 18:24:50 GMT" />
+					<outline text="Here's &lt;a href=&quot;https://gist.github.com/scripting/6a59532e1a2d1d0a8e6120cf07b9af45&quot;&gt;the Node app&lt;/a&gt; I'm running to test this. It wakes up every minute and saves a file to GitHub with the current local time string. If I reload the &lt;a href=&quot;https://github.com/scripting/instantOutlines/blob/main/misc/now.txt&quot;&gt;non-raw version&lt;/a&gt; of the page, it usually seems to have the current value. But if I reload the &lt;a href=&quot;https://raw.githubusercontent.com/scripting/instantOutlines/main/misc/now.txt&quot;&gt;raw version&lt;/a&gt; of the page, it often does not have the correct value. " created="Wed, 23 Jun 2021 17:44:14 GMT" />
+					<outline text="Here are the results of the app for the first 28 minutes." created="Wed, 23 Jun 2021 18:26:36 GMT" >
+						<outline text="everyMinute: 1:58:13 PM, status == 200, bad" />
+						<outline text="everyMinute: 1:59:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:00:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:01:00 PM, status == 200, good" />
+						<outline text="everyMinute: 2:02:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:03:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:04:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:05:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:06:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:07:00 PM, status == 200, good" />
+						<outline text="everyMinute: 2:08:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:09:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:10:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:11:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:12:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:13:00 PM, status == 200, good" />
+						<outline text="everyMinute: 2:14:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:15:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:16:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:17:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:18:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:19:00 PM, status == 200, good" />
+						<outline text="everyMinute: 2:20:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:21:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:22:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:23:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:24:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:25:00 PM, status == 200, good" />
+						<outline text="everyMinute: 2:26:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:27:00 PM, status == 200, bad" />
+						</outline>
+					<outline text="You can see that more often than not the raw value is incorrect after ten seconds. " created="Wed, 23 Jun 2021 18:27:40 GMT" />
+					<outline text="I'm leaving the app running for a while, so if you want to verify this, you can. " created="Wed, 23 Jun 2021 17:45:40 GMT" />
+					<outline text="I'll post a note in the &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/213&quot;&gt;GitHub thread&lt;/a&gt; when I turn the app off. " created="Wed, 23 Jun 2021 18:28:06 GMT" />
+					</outline>
 				<outline text="Revisiting Glitch, a year later" created="Wed, 23 Jun 2021 14:55:59 GMT" type="outline" description="I'm trying to figure out what's the best use of my time." >
 					<outline text="In &lt;a href=&quot;http://scripting.com/2020/04/&quot;&gt;April 2020&lt;/a&gt; I gave &lt;a href=&quot;http://glitch.com/&quot;&gt;Glitch&lt;/a&gt; a &lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+glitch&quot;&gt;try&lt;/a&gt;. " created="Wed, 23 Jun 2021 14:47:19 GMT" />
 					<outline text="It's a unique free Node.js hosting service, that cuts out a lot of the complexity in creating and managing network apps. It's a &lt;a href=&quot;https://en.wikipedia.org/wiki/Joel_Spolsky&quot;&gt;Joel Spolsky&lt;/a&gt; project, run by &lt;a href=&quot;https://en.wikipedia.org/wiki/Anil_Dash&quot;&gt;Anil Dash&lt;/a&gt;, both people I've known for many years. Early bloggers. &lt;a href=&quot;https://www.joelonsoftware.com/&quot;&gt;Joel&lt;/a&gt; is founder of Stack Exchange, Trello and many other projects, and now is super rich, probably a billionaire, after selling both his hits to big companies. I knew him when he was a normal ex-Microsoft NYC-based developer." created="Wed, 23 Jun 2021 15:08:02 GMT" image="http://scripting.com/images/2017/09/02/mrFrog.png" />
