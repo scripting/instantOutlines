@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 14:15:16 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 16:17:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="Biden administration full of officials who worked for prominent tech companies. https://t.co/DkAHPZBWcp" type="tweet" created="Wed, 23 Jun 2021 16:17:25 GMT" tweetId="1407734548474044416" urltweet="https://twitter.com/davewiner/status/1407734548474044416" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Map: NYC Mayoral Primary Election Results. https://t.co/HDSXinkQyi" type="tweet" created="Wed, 23 Jun 2021 14:14:31 GMT" tweetId="1407703621735682053" urltweet="https://twitter.com/davewiner/status/1407703621735682053" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Patreon CEO Jack Conte on why creators can’t depend on platforms. https://t.co/VruekRRK5O" type="tweet" created="Wed, 23 Jun 2021 13:06:51 GMT" tweetId="1407686591334715392" urltweet="https://twitter.com/davewiner/status/1407686591334715392" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Best Places to Live: Moving to Mexico, Taiwan and Costa Rica for Quality of Life. https://t.co/38ZvV9OWdS" type="tweet" created="Wed, 23 Jun 2021 10:35:31 GMT" tweetId="1407648505838047232" urltweet="https://twitter.com/davewiner/status/1407648505838047232" inReplyToId="" tweetUserName="davewiner" />
