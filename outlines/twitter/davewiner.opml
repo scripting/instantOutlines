@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 02:18:21 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 08:25:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="Unliveable Sydney homes going for millions in Australia housing boom. https://t.co/PRy8EFg8bp" type="tweet" created="Wed, 23 Jun 2021 08:25:03 GMT" tweetId="1407615674604736512" urltweet="https://twitter.com/davewiner/status/1407615674604736512" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 22" type="calendarDay" name="22" >
 				<outline text="New York Mayoral Primary Election: Live Vote Results. https://t.co/33cpOduSyo" type="tweet" created="Wed, 23 Jun 2021 02:18:01 GMT" tweetId="1407523304961871877" urltweet="https://twitter.com/davewiner/status/1407523304961871877" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you don’t believe we’re a racist country, tell me when people of color ever tried to stop white people from voting." type="tweet" created="Wed, 23 Jun 2021 01:04:35 GMT" tweetId="1407504824883630081" urltweet="https://twitter.com/davewiner/status/1407504824883630081" inReplyToId="" tweetUserName="davewiner" />
