@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 18:37:27 GMT</dateModified>
-		<expansionState>1,2,4</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Wed, 23 Jun 2021 18:41:06 GMT</dateModified>
+		<expansionState>1,2,4,9</expansionState>
+		<lastCursor>8</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -26,7 +26,7 @@
 					<outline text="I've been building apps on the assumption that if you store something on GitHub, when you get the raw version of that thing, it'll be current. I was getting inconsistent results, so I decided to test that assumption, and it seems that it is not reliable storage. " created="Wed, 23 Jun 2021 17:43:19 GMT" />
 					<outline text="If you read an object immediately after writing it, you will not always get back what you wrote. It's not just a matter of waiting a second or two, sometimes it's wrong for up to 10 seconds (the delay I programmed into the test)." created="Wed, 23 Jun 2021 18:24:50 GMT" />
 					<outline text="Here's &lt;a href=&quot;https://gist.github.com/scripting/6a59532e1a2d1d0a8e6120cf07b9af45&quot;&gt;the Node app&lt;/a&gt; I'm running to test this. It wakes up every minute and saves a file to GitHub with the current local time string. If I reload the &lt;a href=&quot;https://github.com/scripting/instantOutlines/blob/main/misc/now.txt&quot;&gt;non-raw version&lt;/a&gt; of the page, it usually seems to have the current value. But if I reload the &lt;a href=&quot;https://raw.githubusercontent.com/scripting/instantOutlines/main/misc/now.txt&quot;&gt;raw version&lt;/a&gt; of the page, it often does not have the correct value. " created="Wed, 23 Jun 2021 17:44:14 GMT" />
-					<outline text="Here are the results of the app for the first 28 minutes." created="Wed, 23 Jun 2021 18:26:36 GMT" >
+					<outline text="Here are the results of the app for the first half hour." created="Wed, 23 Jun 2021 18:26:36 GMT" collapse="true" >
 						<outline text="everyMinute: 1:58:13 PM, status == 200, bad" />
 						<outline text="everyMinute: 1:59:00 PM, status == 200, bad" />
 						<outline text="everyMinute: 2:00:00 PM, status == 200, bad" />
@@ -56,7 +56,8 @@
 						<outline text="everyMinute: 2:24:00 PM, status == 200, bad" />
 						<outline text="everyMinute: 2:25:00 PM, status == 200, good" />
 						<outline text="everyMinute: 2:26:00 PM, status == 200, bad" />
-						<outline text="everyMinute: 2:27:00 PM, status == 200, bad" />
+						<outline text="everyMinute: 2:27:00 PM, status == 200, bad" created="Wed, 23 Jun 2021 18:40:44 GMT" />
+						<outline text="everyMinute: 2:28:00 PM, status == 200, bad" />
 						</outline>
 					<outline text="You can see that more often than not the raw value is incorrect after ten seconds. " created="Wed, 23 Jun 2021 18:27:40 GMT" />
 					<outline text="I'm leaving the app running for a while, so if you want to verify this, you can. " created="Wed, 23 Jun 2021 17:45:40 GMT" />
