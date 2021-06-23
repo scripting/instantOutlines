@@ -7,11 +7,20 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 22:11:38 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 23:04:45 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="1/5 One morning, as Gregor Samsa was waking up from anxious dreams, he discovered that in bed he had been changed into a monstrous verminous bug. He lay on his armour-hard back and saw, as he lifted his head up a little, his brown, arched abdomen divided up into rigid bow-like" type="tweet" created="Wed, 23 Jun 2021 23:03:52 GMT" tweetId="1407836835196420099" urltweet="https://twitter.com/davewiner/status/1407836835196420099" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2/5 sections. From this height the blanket, just about ready to slide off completely, could hardly stay in place. His numerous legs, pitifully thin in comparison to the rest of his circumference, flickered helplessly before his eyes." type="tweet" created="Wed, 23 Jun 2021 23:03:57 GMT" tweetId="1407836855551283204" urltweet="https://twitter.com/davewiner/status/1407836855551283204" inReplyToId="1407836835196420099" tweetUserName="davewiner" >
+						<outline text="3/5 ‘What’s happened to me,’ he thought. It was no dream. His room, a proper room for a human being, only somewhat too small, lay quietly between the four well-known walls. Above the table, on which an unpacked collection of sample cloth goods was spread out (Samsa was a" type="tweet" created="Wed, 23 Jun 2021 23:04:01 GMT" tweetId="1407836872248803336" urltweet="https://twitter.com/davewiner/status/1407836872248803336" inReplyToId="1407836855551283204" tweetUserName="davewiner" >
+							<outline text="4/5 traveling salesman) hung the picture which he had cut out of an illustrated magazine a little while ago and set in a pretty gilt frame. It was a picture of a woman with a fur hat and a fur boa. She sat erect there, lifting up in the direction of the viewer a solid fur muff" type="tweet" created="Wed, 23 Jun 2021 23:04:05 GMT" tweetId="1407836889013538823" urltweet="https://twitter.com/davewiner/status/1407836889013538823" inReplyToId="1407836872248803336" tweetUserName="davewiner" >
+								<outline text="5/5 into which her entire forearm disappeared." type="tweet" created="Wed, 23 Jun 2021 23:04:10 GMT" tweetId="1407836909875908613" urltweet="https://twitter.com/davewiner/status/1407836909875908613" inReplyToId="1407836889013538823" tweetUserName="davewiner" />
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="The vision of using GitHub to host users data that could be accessed by lots of apps, a planned community of  apps that autormatically interop, where users fully own their data, will have to wait until we better understand how GH works with raw data.
 
 https://t.co/CqeRYjAEgy" type="tweet" created="Wed, 23 Jun 2021 22:11:07 GMT" tweetId="1407823559221776393" urltweet="https://twitter.com/davewiner/status/1407823559221776393" inReplyToId="" tweetUserName="davewiner" />
