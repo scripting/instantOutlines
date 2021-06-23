@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 20:29:18 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 22:07:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="SpaceX president says Starlink global satellite broadbrand service to be live by September. https://t.co/2Dx2sfJbEZ" type="tweet" created="Wed, 23 Jun 2021 22:06:48 GMT" tweetId="1407822475921170432" urltweet="https://twitter.com/davewiner/status/1407822475921170432" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Chris Coons fired a warning shot on the filibuster. Should we believe it? https://t.co/mebxw1GieO" type="tweet" created="Wed, 23 Jun 2021 20:28:21 GMT" tweetId="1407797698699345927" urltweet="https://twitter.com/davewiner/status/1407797698699345927" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Warren Buffett resigns from Gates Foundation, has donated half his fortune. https://t.co/qH6nfztCqd" type="tweet" created="Wed, 23 Jun 2021 20:08:03 GMT" tweetId="1407792587369594898" urltweet="https://twitter.com/davewiner/status/1407792587369594898" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="John McAfee found dead in prison after Spanish court allows extradition. https://t.co/ci69PPMiuY" type="tweet" created="Wed, 23 Jun 2021 19:59:41 GMT" tweetId="1407790484915998722" urltweet="https://twitter.com/davewiner/status/1407790484915998722" inReplyToId="" tweetUserName="davewiner" />
