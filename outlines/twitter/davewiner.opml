@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 19:02:56 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 19:59:11 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="I can’t believe the NY Times uses Medium for stories about their development process. I was literally fooled looking for a link to a gift link. https://t.co/FZU38YbZWD" type="tweet" created="Wed, 23 Jun 2021 19:58:26 GMT" tweetId="1407790167553945601" urltweet="https://twitter.com/davewiner/status/1407790167553945601" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Cuomo to Lift N.Y.'s State of Emergency Thursday. https://t.co/BT3avrRjJn" type="tweet" created="Wed, 23 Jun 2021 19:02:26 GMT" tweetId="1407776075766288386" urltweet="https://twitter.com/davewiner/status/1407776075766288386" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Is GitHub raw storage reliable? https://t.co/CqeRYjAEgy" type="tweet" created="Wed, 23 Jun 2021 18:42:53 GMT" tweetId="1407771156262920192" urltweet="https://twitter.com/davewiner/status/1407771156262920192" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I've been having a back and forth with @joetrippi which has been very illuminating. 
