@@ -12,13 +12,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 02:23:55 GMT</dateModified>
-		<expansionState>1,2,7,19</expansionState>
+		<dateModified>Wed, 23 Jun 2021 14:33:41 GMT</dateModified>
+		<expansionState>1,2,4,9,21</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
+			<outline text="June 23" created="Wed, 23 Jun 2021 14:33:38 GMT" type="calendarDay" name="23" >
+				<outline text="If you’re having a kid, consider naming him/her, Pulitzer Prize Winner. Might open some doors" created="Wed, 23 Jun 2021 14:33:39 GMT" type="outline" />
+				</outline>
 			<outline text="June 22" created="Tue, 22 Jun 2021 12:36:39 GMT" type="calendarDay" name="22" >
 				<outline text="How ranked-choice vote &lt;a href=&quot;http://scripting.com/2021/06/22/howRankedChoiceVotingWorks.m4a&quot;&gt;counting&lt;/a&gt; works. It's not complicated." created="Wed, 23 Jun 2021 02:23:18 GMT" type="outline" enclosure="http://scripting.com/2021/06/22/howRankedChoiceVotingWorks.m4a" enclosureType="audio/mpeg" enclosureLength="1770864" />
 				<outline text="If you don’t believe we’re a racist country, ask yourself when people of color ever tried to stop white people from voting." created="Wed, 23 Jun 2021 02:05:57 GMT" type="outline" />
