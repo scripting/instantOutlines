@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 16:27:37 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 16:29:40 GMT</dateModified>
 		<expansionState>1,2,5</expansionState>
-		<lastCursor>4</lastCursor>
+		<lastCursor>6</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -30,7 +30,7 @@
 					</outline>
 				<outline text="They can't see what they can't see" created="Wed, 23 Jun 2021 16:23:12 GMT" type="outline" >
 					<outline text="Journalism, academia, government and the corporate world all hire from the same talent pool." />
-					<outline text="They go to the same universities, get their news from the same sources, the people move in and out of each other. " created="Wed, 23 Jun 2021 16:23:33 GMT" />
+					<outline text="They go to the same universities, get their news from the same sources, corporate people take government jobs, then go back to the corporations. The people move fluidly in and out of each other. " created="Wed, 23 Jun 2021 16:23:33 GMT" />
 					<outline text="So you get the same story, developed over centuries. They are almost impervious to change. " created="Wed, 23 Jun 2021 16:23:53 GMT" />
 					<outline text="Sometimes change is driven from outside their circle, new technologies can make that possible, like the one we're using now." />
 					<outline text="That's why we can't rely on journalism, not because of a campaign run by Russians or Republicans or billionaires. " created="Wed, 23 Jun 2021 16:24:27 GMT" />
