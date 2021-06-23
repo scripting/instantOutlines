@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 08:53:55 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 08:57:56 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="Tips for former Roam Users. https://t.co/S657F4G5Sm" type="tweet" created="Wed, 23 Jun 2021 08:57:48 GMT" tweetId="1407623914524643333" urltweet="https://twitter.com/davewiner/status/1407623914524643333" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you’re having a kid, consider naming him/her, Pulitzer Prize Winner. Might open some doors…" type="tweet" created="Wed, 23 Jun 2021 08:53:45 GMT" tweetId="1407622894218264576" urltweet="https://twitter.com/davewiner/status/1407622894218264576" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="A twitter stat I’d like to see. The sum of the followers of all the people who follow me." type="tweet" created="Wed, 23 Jun 2021 08:48:06 GMT" tweetId="1407621473985077250" urltweet="https://twitter.com/davewiner/status/1407621473985077250" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The evidence of Trump’s pandemic sabotage keeps piling up. https://t.co/IGgRwpTdMK" type="tweet" created="Wed, 23 Jun 2021 08:43:02 GMT" tweetId="1407620200120434693" urltweet="https://twitter.com/davewiner/status/1407620200120434693" inReplyToId="" tweetUserName="davewiner" />
