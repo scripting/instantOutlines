@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 08:36:51 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 08:43:52 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="The evidence of Trump’s pandemic sabotage keeps piling up. https://t.co/IGgRwpTdMK" type="tweet" created="Wed, 23 Jun 2021 08:43:02 GMT" tweetId="1407620200120434693" urltweet="https://twitter.com/davewiner/status/1407620200120434693" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Nearly every new Covid-19 death is now entirely preventable, CDC director says. https://t.co/reve6T3ax8" type="tweet" created="Wed, 23 Jun 2021 08:36:27 GMT" tweetId="1407618543206735884" urltweet="https://twitter.com/davewiner/status/1407618543206735884" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Unliveable Sydney homes going for millions in Australia housing boom. https://t.co/PRy8EFg8bp" type="tweet" created="Wed, 23 Jun 2021 08:25:03 GMT" tweetId="1407615674604736512" urltweet="https://twitter.com/davewiner/status/1407615674604736512" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
