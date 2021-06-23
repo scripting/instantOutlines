@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 22 Jun 2021 18:28:49 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 15:37:28 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="@shoshanazuboff: &quot;I had a data scientist who said to me the other day, “Look, the underlying norm of all software and apps designed now is data collection.” For all intents and purposes, all of them are designed to engage in surveillance.&quot; In https://t.co/GltuGBokcn" type="tweet" created="Wed, 23 Jun 2021 15:36:40 GMT" tweetId="1407724295363731463" urltweet="https://twitter.com/dsearls/status/1407724295363731463" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="June 22" type="calendarDay" name="22" >
 				<outline text="Dialog with a robot https://t.co/87ejE2iOJJ" type="tweet" created="Tue, 22 Jun 2021 18:28:44 GMT" tweetId="1407405208515354633" urltweet="https://twitter.com/dsearls/status/1407405208515354633" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Sometimes reality out-onions @TheOnion: https://t.co/FtaZk797rp HT @NPR" type="tweet" created="Tue, 22 Jun 2021 12:50:00 GMT" tweetId="1407319960712589314" urltweet="https://twitter.com/dsearls/status/1407319960712589314" inReplyToId="" tweetUserName="dsearls" />
