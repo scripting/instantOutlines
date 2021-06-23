@@ -12,14 +12,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 18:43:58 GMT</dateModified>
-		<expansionState>1,2,6</expansionState>
-		<lastCursor>7</lastCursor>
+		<dateModified>Wed, 23 Jun 2021 22:16:47 GMT</dateModified>
+		<expansionState>1,2,6,15</expansionState>
+		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 23" created="Wed, 23 Jun 2021 14:33:38 GMT" type="calendarDay" name="23" >
+				<outline text="The vision of using GitHub to host users data that could be accessed by lots of apps, a planned community of  apps that autormatically interop, where users fully own their data, will have to wait until we better understand how &lt;a href=&quot;http://scripting.com/2021/06/23/174309.html?title=isGithubRawStorageReliable&quot;&gt;GitHub works&lt;/a&gt; with raw data." created="Wed, 23 Jun 2021 22:14:40 GMT" type="outline" />
 				<outline text="If you’re having a kid, consider naming him/her, Pulitzer Prize Winner. Might open some doors" created="Wed, 23 Jun 2021 14:33:39 GMT" type="outline" />
 				<outline text="Revisiting Glitch, a year later" created="Wed, 23 Jun 2021 14:55:59 GMT" type="outline" description="I'm trying to figure out what's the best use of my time." >
 					<outline text="In &lt;a href=&quot;http://scripting.com/2020/04/&quot;&gt;April 2020&lt;/a&gt; I gave &lt;a href=&quot;http://glitch.com/&quot;&gt;Glitch&lt;/a&gt; a &lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+glitch&quot;&gt;try&lt;/a&gt;. " created="Wed, 23 Jun 2021 14:47:19 GMT" />
@@ -29,8 +30,8 @@
 					<outline text="But then something amazing happened. After writing this post, all of a sudden &lt;a href=&quot;http://pagepark.glitch.me/&quot;&gt;PagePark-on-Glitch&lt;/a&gt; is working. Fuck me. " created="Wed, 23 Jun 2021 14:59:00 GMT" />
 					</outline>
 				<outline text="They can't see what they can't see" created="Wed, 23 Jun 2021 16:23:12 GMT" type="outline" >
-					<outline text="Journalism, academia, government and the corporate world all hire from the same talent pool." />
-					<outline text="They go to the same universities, get their news from the same sources, corporate people take government jobs, then go back to the corporations. The people move fluidly in and out of each other. " created="Wed, 23 Jun 2021 16:23:33 GMT" />
+					<outline text="Journalism, academia, government and the corporate world all hire from the same talent pool." created="Wed, 23 Jun 2021 21:41:19 GMT" />
+					<outline text="They go to the same universities, get their news from the same sources. Corporate people take government jobs, then go back to the corporations. The people move fluidly in and out of each bucket. " created="Wed, 23 Jun 2021 16:23:33 GMT" />
 					<outline text="So you get the same story, the reality they believe in, developed over centuries, that is radically different from the reality most other people experience. The story recited daily at CNN, MSNBC, The New Yorker, NYT. The world changes, again and again, and the story they tell is how angry this makes them, and how everyone must snap back." created="Wed, 23 Jun 2021 16:23:53 GMT" />
 					<outline text="New technologies can make change possible, like the one we're using now. " created="Wed, 23 Jun 2021 16:32:39 GMT" />
 					<outline text="We would never have Trump if it weren't for Twitter. Imagine someone saying that sentence 20 years ago. It would pay to have that kind of imagination built into journalism, and it is available. The incumbents, like the Democratic incumbents, will have to be left behind. " created="Wed, 23 Jun 2021 16:32:52 GMT" />
