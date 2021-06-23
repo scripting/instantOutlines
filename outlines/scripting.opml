@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 16:34:39 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 16:36:29 GMT</dateModified>
 		<expansionState>1,2,5</expansionState>
-		<lastCursor>7</lastCursor>
+		<lastCursor>9</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -31,9 +31,9 @@
 				<outline text="They can't see what they can't see" created="Wed, 23 Jun 2021 16:23:12 GMT" type="outline" >
 					<outline text="Journalism, academia, government and the corporate world all hire from the same talent pool." />
 					<outline text="They go to the same universities, get their news from the same sources, corporate people take government jobs, then go back to the corporations. The people move fluidly in and out of each other. " created="Wed, 23 Jun 2021 16:23:33 GMT" />
-					<outline text="So you get the same story, the reality they believe in, developed over centuries, that is radically different from the reality most other people experience. They are almost impervious to change. That's the story you get from CNN, MSNBC, The New Yorker, NYT, etc. The world changes, again and again, and the story they tell is how angry this makes them, and how everyone better snap back or else. They don't change." created="Wed, 23 Jun 2021 16:23:53 GMT" />
-					<outline text="New technologies can make change possible, like the one we're using now." created="Wed, 23 Jun 2021 16:32:39 GMT" />
-					<outline text="We would never have Trump if it weren't for Twitter. Imagine someone saying that 20 years ago. But it would pay to have that kind of imagination built into journalism, and it is available. They incumbents, like the Democratic incumbents, will have to be left behind. " created="Wed, 23 Jun 2021 16:32:52 GMT" />
+					<outline text="So you get the same story, the reality they believe in, developed over centuries, that is radically different from the reality most other people experience. The story recited daily at CNN, MSNBC, The New Yorker, NYT. The world changes, again and again, and the story they tell is how angry this makes them, and how everyone must snap back." created="Wed, 23 Jun 2021 16:23:53 GMT" />
+					<outline text="New technologies can make change possible, like the one we're using now. " created="Wed, 23 Jun 2021 16:32:39 GMT" />
+					<outline text="We would never have Trump if it weren't for Twitter. Imagine someone saying that sentence 20 years ago. It would pay to have that kind of imagination built into journalism, and it is available. The incumbents, like the Democratic incumbents, will have to be left behind. " created="Wed, 23 Jun 2021 16:32:52 GMT" />
 					<outline text="Today we can't rely on journalism, not because of a campaign run by Russians or Republicans or billionaires. " created="Wed, 23 Jun 2021 16:24:27 GMT" />
 					<outline text="They think the problem is that we don't see what they see, but I think it's the other way. They hold on to a normalcy that is gone. " created="Wed, 23 Jun 2021 16:26:08 GMT" />
 					<outline text="They can't see what they can't see." created="Wed, 23 Jun 2021 16:23:16 GMT" />
