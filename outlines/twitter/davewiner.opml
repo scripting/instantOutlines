@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 23 Jun 2021 10:30:20 GMT</dateModified>
+		<dateModified>Wed, 23 Jun 2021 10:36:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="Best Places to Live: Moving to Mexico, Taiwan and Costa Rica for Quality of Life. https://t.co/38ZvV9OWdS" type="tweet" created="Wed, 23 Jun 2021 10:35:31 GMT" tweetId="1407648505838047232" urltweet="https://twitter.com/davewiner/status/1407648505838047232" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="James Taylor, Elton John, Haim on Joni Mitchell's &quot;Blue.&quot; https://t.co/sgZgAfGFBK" type="tweet" created="Wed, 23 Jun 2021 10:29:53 GMT" tweetId="1407647089283239936" urltweet="https://twitter.com/davewiner/status/1407647089283239936" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Tips for former Roam Users. https://t.co/S657F4G5Sm" type="tweet" created="Wed, 23 Jun 2021 08:57:48 GMT" tweetId="1407623914524643333" urltweet="https://twitter.com/davewiner/status/1407623914524643333" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you’re having a kid, consider naming him/her, Pulitzer Prize Winner. Might open some doors…" type="tweet" created="Wed, 23 Jun 2021 08:53:45 GMT" tweetId="1407622894218264576" urltweet="https://twitter.com/davewiner/status/1407622894218264576" inReplyToId="" tweetUserName="davewiner" />
