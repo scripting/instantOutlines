@@ -12,14 +12,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 23 Jun 2021 02:06:31 GMT</dateModified>
-		<expansionState>1,2,6,18</expansionState>
+		<dateModified>Wed, 23 Jun 2021 02:10:48 GMT</dateModified>
+		<expansionState>1,2,7,19</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 22" created="Tue, 22 Jun 2021 12:36:39 GMT" type="calendarDay" name="22" >
+				<outline text="All of a sudden something that wasn't working yesterday is working." created="Wed, 23 Jun 2021 02:10:35 GMT" type="outline" />
 				<outline text="If you don’t believe we’re a racist country, ask yourself when people of color ever tried to stop white people from voting." created="Wed, 23 Jun 2021 02:05:57 GMT" type="outline" />
 				<outline text="A new &lt;a href=&quot;https://github.com/scripting/pagePark#v0818-62221-by-dw&quot;&gt;version&lt;/a&gt; of PagePark has a more powerful mirrors feature. " created="Tue, 22 Jun 2021 18:57:57 GMT" type="outline" />
 				<outline text="The problem isn't Manchin or the filibuster. The news is that Repubs are planning, openly, the destruction of the American political system, turning the US into Russia, with vast wealth to be looted. The question is wtf are we going to do -- now. " created="Tue, 22 Jun 2021 12:36:40 GMT" type="tweet" tweetId="1407317517731835907" tweetUserName="davewiner" />
