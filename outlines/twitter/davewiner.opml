@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 24 Jun 2021 01:08:09 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 01:23:13 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="GOP investigation finds no Michigan vote fraud, deems many claims ‘ludicrous’. https://t.co/QWKNnBvBeB" type="tweet" created="Thu, 24 Jun 2021 01:22:44 GMT" tweetId="1407871782183395329" urltweet="https://twitter.com/davewiner/status/1407871782183395329" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I have a friend with a domain registered at namesmart. He wants to point the domain to one of my servers. Guessing he has to use an A record. My server is https://t.co/AIeGas8Dre. I’m not familiar with namesmart UI or limits, can you help?" type="tweet" created="Thu, 24 Jun 2021 01:01:47 GMT" tweetId="1407866511621042176" urltweet="https://twitter.com/davewiner/status/1407866511621042176" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Oops I meant namecheap. 😁" type="tweet" created="Thu, 24 Jun 2021 01:07:16 GMT" tweetId="1407867890938822659" urltweet="https://twitter.com/davewiner/status/1407867890938822659" inReplyToId="1407866511621042176" tweetUserName="davewiner" />
 					</outline>
