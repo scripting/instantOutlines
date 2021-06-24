@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 20:11:41 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 20:16:16 GMT</dateModified>
 		<expansionState>1,2,7,15,22,27</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>7</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
@@ -26,7 +26,7 @@
 				<outline text="Speaking of which the other day the phone rings, I pick up, it's a robot from the gas company, something is very wrong, I need to call this number, which she recites, and goes on, never repeating the number. At the end they threaten that they're going to cut off my supply (which I know legally is hard to do, and btw I'm current with my bill). So I call. I get put on hold. We appreciate your pateince, another robot says. Your call is important. I'm sure. When an actual human comes on the line I am accused of being rude for telling her what her stinking company just did in the middle of my freaking work day. They want to know where the check is. I don't know. My credit is good. Maybe the check got delayed. I hear there are problems with the post office. God bless the robots. And by the way, email is much more efficient! Please." created="Thu, 24 Jun 2021 19:56:08 GMT" type="outline" />
 				<outline text="threadviewer.com bug fix. We now freeze threads older than 12 hours. So you have to finish your writing before then.  " created="Thu, 24 Jun 2021 15:30:08 GMT" type="outline" />
 				<outline text="The glossary in Little Outliner" created="Thu, 24 Jun 2021 15:02:34 GMT" type="outline" description="The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. " metaImage="http://scripting.com/images/2021/06/24/cezanne.png" >
-					<outline text="If you're new to &quot;LO2&quot; the glossary is a pretty unique feature that goes back to &quot;Clay Basket&quot; in 1995, and was &lt;a href=&quot;http://scripting.com/downloads/Website%20Tutorial/GlossariesandFilters.html&quot;&gt;documented&lt;/a&gt; as part of Frontier's website framework. It's a permanent fixture, very useful, and easy once you know what it does and how it works.  " created="Thu, 24 Jun 2021 15:02:44 GMT" />
+					<outline text="If you're new to &quot;LO2&quot;, the glossary is a pretty unique feature that goes back to &quot;Clay Basket&quot; in 1995, and was &lt;a href=&quot;http://scripting.com/downloads/Website%20Tutorial/GlossariesandFilters.html&quot;&gt;documented&lt;/a&gt; as part of Frontier's website framework. It's a permanent fixture, very useful, and easy once you know what it does and how it works.  " created="Thu, 24 Jun 2021 15:02:44 GMT" />
 					<outline text="&lt;b&gt;What it is&lt;/b&gt;" created="Thu, 24 Jun 2021 15:14:56 GMT" />
 					<outline text="The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. So you could define an entry called &quot;my blog&quot; (the quotes are part of the definition) and its value would be a link to your blog. At some time in the future if your blog moves, just change the value of &quot;my blog&quot; and links to the blog will change too, when the text is rendered. " created="Thu, 24 Jun 2021 15:07:03 GMT" />
 					<outline text="Here's the &lt;a href=&quot;http://drummer.scripting.com/davewiner/glossary.opml&quot;&gt;glossary&lt;/a&gt; I use in all my pages. It's a public outline. It has to be public for it to work, so you shouldn't put private information into the glossary. " created="Thu, 24 Jun 2021 15:04:09 GMT" />
