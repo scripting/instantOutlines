@@ -12,18 +12,32 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 15:00:24 GMT</dateModified>
-		<expansionState>1,2,4,14,19</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Thu, 24 Jun 2021 15:15:12 GMT</dateModified>
+		<expansionState>1,2,3,10,17,22</expansionState>
+		<lastCursor>8</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 24" created="Thu, 24 Jun 2021 14:16:49 GMT" type="calendarDay" name="24" >
-				<outline text="Note to self, show Brandon how the LO2 glossary works. " created="Thu, 24 Jun 2021 14:41:16 GMT" type="outline" />
+				<outline text="The glossary in Little Outliner" created="Thu, 24 Jun 2021 15:02:34 GMT" type="outline" >
+					<outline text="If you're new to &quot;LO2&quot; the glossary is a pretty unique feature that goes back to &quot;Clay Basket&quot; in 1995, and was &lt;a href=&quot;http://scripting.com/downloads/Website%20Tutorial/GlossariesandFilters.html&quot;&gt;documented&lt;/a&gt; as part of Frontier's website framework. It's a permanent fixture, very useful, and easy once you know what it does and how it works. " created="Thu, 24 Jun 2021 15:02:44 GMT" />
+					<outline text="&lt;b&gt;What it is&lt;/b&gt;" created="Thu, 24 Jun 2021 15:14:56 GMT" />
+					<outline text="The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. So you could define an entry called &quot;my blog&quot; (the quotes are part of the definition) and its value would be a link to your blog. At some time in the future if your blog moves, just change the value of &quot;my blog&quot; and links to the blog will change too, when the text is rendered. " created="Thu, 24 Jun 2021 15:07:03 GMT" />
+					<outline text="Here's the &lt;a href=&quot;http://drummer.scripting.com/davewiner/glossary.opml&quot;&gt;glossary&lt;/a&gt; I use in all my pages. It's a public outline. It has to be public for it to work, so you shouldn't put private information into the glossary. " created="Thu, 24 Jun 2021 15:04:09 GMT" />
+					<outline text="In LO2 a glossary is a two-level outline. At the top level are a set of terms the renderer will look for, and its subordinate text is what it will be replaced with.  " created="Thu, 24 Jun 2021 15:06:39 GMT" />
+					<outline text="&lt;b&gt;How to&lt;/b&gt;" created="Thu, 24 Jun 2021 15:15:08 GMT" />
+					<outline text="To use your glossary outline, here's what you do:" created="Thu, 24 Jun 2021 15:09:26 GMT" >
+						<outline text="Make the outline public. " created="Thu, 24 Jun 2021 15:09:42 GMT" />
+						<outline text="Choose the View OPML command in the File menu to get a link to the glossary outline. " created="Thu, 24 Jun 2021 15:09:51 GMT" />
+						<outline text="Put the URL on the clipboard." created="Thu, 24 Jun 2021 15:11:23 GMT" />
+						<outline text="In an outline where you want to use the glossary, choose Edit OPML Head from the file menu, and add an attribute to the table. Its name is urlGlossary, and the value is the URL you have on the clipboard. " created="Thu, 24 Jun 2021 15:10:25 GMT" />
+						</outline>
+					<outline text="Now you should be able to use the glossary in your outline. " created="Thu, 24 Jun 2021 15:12:44 GMT" />
+					</outline>
 				<outline text="GitHub as app storage, cont'd" created="Thu, 24 Jun 2021 14:16:50 GMT" type="outline" >
 					<outline text="Yesterday I wrote &lt;a href=&quot;http://scripting.com/2021/06/23.html#a221440&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://scripting.com/2021/06/23/174309.html?title=isGithubRawStorageReliable&quot;&gt;bits&lt;/a&gt; about using GitHub as a storage system for a community of apps.  " created="Thu, 24 Jun 2021 14:17:00 GMT" />
-					<outline text="The vision matches the as-yet unachieved ideal of using the web as an operating system, that for me goes back to 1994. It's the potential I saw when I first understood how HTTP works. Now in 2021, the one thing the web OS doesn't have is reliable storage for users that multiple apps can access to edit and render on the user's behalf. The same way you might have a text file on your desktop, that you write in a word processor (of your choosing, this is important) and send it over email, put it in a tweet, or a Facebook post, or print it. Or any of a million other uses. The key thing is the text file is yours. Not just for Mac or Windows, for everyone, anywhere. It's the wedge we need to be able to build a new world that's been technically possible for a couple of decades now. :-)" created="Thu, 24 Jun 2021 14:18:21 GMT" />
+					<outline text="The idea matches the as-yet unachieved ideal of using the web as an operating system, that for me goes back to 1994. It's the potential I saw when I first understood how HTTP works. Now in 2021, the one thing the web OS doesn't have is reliable storage for users that multiple apps can access to edit and render on the user's behalf. The same way you might have a text file on your desktop, that you write in a word processor (of your choosing, this is important) and send it over email, put it in a tweet, or a Facebook post, or print it. Or any of a million other uses. The key thing is the text file is yours. Not just for Mac or Windows, for everyone, anywhere. It's the wedge we need to be able to build a new world that's been technically possible for a couple of decades now. :-)" created="Thu, 24 Jun 2021 14:18:21 GMT" />
 					<outline text="It's important that we're using GIT which is an open and often-cloned data structure. You could move your data to another GIT provider if GitHub proved too expensive, or their service was failing, or really any reason at all. " created="Thu, 24 Jun 2021 14:21:03 GMT" />
 					<outline text="Dropbox was getting close to this idea, but they pulled back. That's why I did &quot;Fargo&quot;, which used Dropbox for storage. But no other app could access Fargo's outline files. They couldn't even access public files, that's the feature they withdrew. They had reasons to change course, not faulting the company. " created="Thu, 24 Jun 2021 14:21:46 GMT" />
 					<outline text="&lt;b&gt;LogSeq&lt;/b&gt;" created="Thu, 24 Jun 2021 14:24:11 GMT" />
