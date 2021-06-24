@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 16:24:29 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 16:30:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 24" type="calendarDay" name="24" >
 				<outline text="I just subscribed to Towers of Babel https://t.co/P6thZaqhvQ Reasons: I tend to agree (example on my side: https://t.co/1Z58tQg3iJ), which I'm not sure is a good thing, but there it is. Also, it's not too frequent. (I think I'm close to maxed on subs now.)" type="tweet" created="Thu, 24 Jun 2021 16:24:07 GMT" tweetId="1408098622126841862" urltweet="https://twitter.com/dsearls/status/1408098622126841862" inReplyToId="" tweetUserName="dsearls" />
-				<outline text="What becomes of journalism when everybody can write or cast? https://t.co/PUT0xghkAA" type="tweet" created="Thu, 24 Jun 2021 14:56:47 GMT" tweetId="1408076645810966528" urltweet="https://twitter.com/dsearls/status/1408076645810966528" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="What becomes of journalism when everybody can write or cast? https://t.co/PUT0xghkAA" type="tweet" created="Thu, 24 Jun 2021 14:56:47 GMT" tweetId="1408076645810966528" urltweet="https://twitter.com/dsearls/status/1408076645810966528" inReplyToId="" tweetUserName="dsearls" >
+					<outline text="Big HT to @DaveWiner for getting me going on this. Also for getting me blogging in the first place." type="tweet" created="Thu, 24 Jun 2021 16:30:01 GMT" tweetId="1408100108294574088" urltweet="https://twitter.com/dsearls/status/1408100108294574088" inReplyToId="1408076645810966528" tweetUserName="dsearls" />
+					</outline>
 				</outline>
 			<outline text="June 23" type="calendarDay" name="23" >
 				<outline text="Fun show, even though I found at the end that I had been pronouncing @jriddell's surname wrong. Correct: &quot;Riddle.&quot; I also didn't notice that the typeface of @webmink's shirt is in comic sans. Otherwise all was perfect. https://t.co/6qz9yqOxjx" type="tweet" created="Thu, 24 Jun 2021 01:43:15 GMT" tweetId="1407876945136828416" urltweet="https://twitter.com/dsearls/status/1407876945136828416" inReplyToId="" tweetUserName="dsearls" />
