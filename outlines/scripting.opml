@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 20:16:16 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 20:17:58 GMT</dateModified>
 		<expansionState>1,2,7,15,22,27</expansionState>
-		<lastCursor>7</lastCursor>
+		<lastCursor>14</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
@@ -33,7 +33,7 @@
 					<outline text="In LO2 a glossary is a two-level outline. At the top level are a set of terms the renderer will look for, and its subordinate text is what it will be replaced with.   " created="Thu, 24 Jun 2021 15:06:39 GMT" />
 					<outline text="Here's a &lt;a href=&quot;http://scripting.com/images/2021/06/24/glossaryScreen.png&quot;&gt;screen shot&lt;/a&gt; of part of my glossary, being edited in my outliner." created="Thu, 24 Jun 2021 15:20:30 GMT" />
 					<outline text="&lt;b&gt;How to&lt;/b&gt;" created="Thu, 24 Jun 2021 15:15:08 GMT" />
-					<outline text="To use your glossary outline, here's what you do:" created="Thu, 24 Jun 2021 15:09:26 GMT" >
+					<outline text="To use your glossary outline, here's what you do:" created="Thu, 24 Jun 2021 15:09:26 GMT" flNumberedSubs="true" >
 						<outline text="Make the outline public. " created="Thu, 24 Jun 2021 15:09:42 GMT" />
 						<outline text="Choose the View OPML command in the File menu to get a link to the glossary outline. " created="Thu, 24 Jun 2021 15:09:51 GMT" />
 						<outline text="Put the URL on the clipboard." created="Thu, 24 Jun 2021 15:11:23 GMT" />
