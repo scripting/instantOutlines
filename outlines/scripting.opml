@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 14:53:56 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 14:56:12 GMT</dateModified>
 		<expansionState>1,2,4,14,19</expansionState>
-		<lastCursor>5</lastCursor>
+		<lastCursor>9</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -27,7 +27,7 @@
 					<outline text="It's important that we're using GIT which is an open and often-cloned data structure. You could move your data to another GIT provider if GitHub proved too expensive, or their service was failing, or really any reason at all. " created="Thu, 24 Jun 2021 14:21:03 GMT" />
 					<outline text="Dropbox was getting close to this idea, but they pulled back. That's why I did &quot;Fargo&quot;, which used Dropbox for storage. But no other app could access Fargo's outline files. They couldn't even access public files, that's the feature they withdrew. They had reasons to change course, not faulting the company. " created="Thu, 24 Jun 2021 14:21:46 GMT" />
 					<outline text="&lt;b&gt;LogSeq&lt;/b&gt;" created="Thu, 24 Jun 2021 14:24:11 GMT" />
-					<outline text="The main reason I picked up using GitHub as storage, now, again (I had experimented in 2017 with a GitHub-backed &lt;a href=&quot;http://this.how/english/&quot;&gt;text editor&lt;/a&gt;) is that another app developer, &quot;LogSeq&quot; is going down this path: using GitHub as a place for users to store their data. Even better LogSeq is an outliner! And even better, they're supporting &quot;OPML&quot;. So now it gets interesting. I can imagine a user opening an outline in &quot;Drummer&quot; because it has a feature they need, and then opening the same file in &quot;LogSeq&quot; because it has features that Drummer doesn't. This is the nirvana we've been waiting so long for. And we're close to having it. " created="Thu, 24 Jun 2021 14:24:14 GMT" />
+					<outline text="The main reason I picked up using GitHub as storage, again (I had experimented in 2017 with a GitHub-backed &lt;a href=&quot;http://this.how/english/&quot;&gt;text editor&lt;/a&gt;) is that another app developer, &quot;LogSeq&quot; is going down this path: using GitHub as a place for users to store their data. Even better LogSeq is an outliner! And even better, they're supporting &quot;OPML&quot;. So now it gets interesting. I can imagine a user opening an outline in &quot;Drummer&quot; because it has a feature they need, and then opening the same file in &quot;LogSeq&quot; because it has features that Drummer doesn't. This is the nirvana we've been waiting so long for. And we're close to having it. " created="Thu, 24 Jun 2021 14:24:14 GMT" />
 					<outline text="GitHub is tempting, but there appear to be problems when accessed through their API, as I am doing. For example, if I saved a file to a user's repo, it might take 20 minutes before the changed version showed up to other apps. There must be a cache somewhere in there. I don't have a clear statement of how GitHub works here, maybe it's out there, but I wanted to do a reality check. " created="Thu, 24 Jun 2021 14:29:58 GMT" />
 					<outline text="LogSeq says they use a Node package called &lt;a href=&quot;https://github.com/isomorphic-git/isomorphic-git&quot;&gt;Isomorphic-Git&lt;/a&gt;. It has been reliable. But there are other problems. " created="Thu, 24 Jun 2021 14:31:10 GMT" />
 					<outline text="I've &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/213&quot;&gt;started a thread&lt;/a&gt; on this. Maybe we can figure this out. Or maybe it's something we come back to periodically until it works. We'd love to hook up with people at GitHub, after we've explored all other options. " created="Thu, 24 Jun 2021 14:31:35 GMT" />
