@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 22:26:57 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 22:30:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="The plan is to address my storage crisis https://t.co/0Nj1L7WJ5V with a cloud. Currently I'm leaning toward @backblaze, which @lifewiretech likes best: https://t.co/wZ16BTYghh . Advice welcome." type="tweet" created="Thu, 24 Jun 2021 22:30:39 GMT" tweetId="1408190863063277570" urltweet="https://twitter.com/dsearls/status/1408190863063277570" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="A storage crisis https://t.co/nhamLZt4le" type="tweet" created="Thu, 24 Jun 2021 22:26:07 GMT" tweetId="1408189724980875277" urltweet="https://twitter.com/dsearls/status/1408189724980875277" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Redux 002: Listen Up https://t.co/33YC4APbog" type="tweet" created="Thu, 24 Jun 2021 18:27:34 GMT" tweetId="1408129691882557451" urltweet="https://twitter.com/dsearls/status/1408129691882557451" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="I just subscribed to Towers of Babel https://t.co/P6thZaqhvQ Reasons: I tend to agree (example on my side: https://t.co/1Z58tQg3iJ), which I'm not sure is a good thing, but there it is. Also, it's not too frequent. (I think I'm close to maxed on subs now.)" type="tweet" created="Thu, 24 Jun 2021 16:24:07 GMT" tweetId="1408098622126841862" urltweet="https://twitter.com/dsearls/status/1408098622126841862" inReplyToId="" tweetUserName="dsearls" />
