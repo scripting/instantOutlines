@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Thu, 24 Jun 2021 22:02:01 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 22:03:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 24" type="calendarDay" name="24" >
-				<outline text="I've watched this more than any other movie in my life and I have no regrets! https://t.co/2QeGwrdsAT" type="tweet" created="Thu, 24 Jun 2021 22:01:00 GMT" tweetId="1408183402570911745" urltweet="https://twitter.com/sarahkendzior/status/1408183402570911745" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="I've watched this more than any other movie in my life and I have no regrets! https://t.co/2QeGwrdsAT" type="tweet" created="Thu, 24 Jun 2021 22:01:00 GMT" tweetId="1408183402570911745" urltweet="https://twitter.com/sarahkendzior/status/1408183402570911745" inReplyToId="" tweetUserName="sarahkendzior" >
+					<outline text="It's also educational! https://t.co/d3KAxpnO1h" type="tweet" created="Thu, 24 Jun 2021 22:02:56 GMT" tweetId="1408183888162197505" urltweet="https://twitter.com/sarahkendzior/status/1408183888162197505" inReplyToId="1408183402570911745" tweetUserName="sarahkendzior" />
+					</outline>
 				<outline text="Thread https://t.co/AxBmfcfCD2" type="tweet" created="Thu, 24 Jun 2021 20:44:36 GMT" tweetId="1408164176569196548" urltweet="https://twitter.com/sarahkendzior/status/1408164176569196548" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="Recent @gaslitnation episode on Missouri as the bellwether of American decline: https://t.co/lQFoO89SaV" type="tweet" created="Thu, 24 Jun 2021 20:45:28 GMT" tweetId="1408164392064147461" urltweet="https://twitter.com/sarahkendzior/status/1408164392064147461" inReplyToId="1408164176569196548" tweetUserName="sarahkendzior" />
 					</outline>
