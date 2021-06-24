@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 14:48:36 GMT</dateModified>
-		<expansionState>1,2,4,15,20</expansionState>
-		<lastCursor>13</lastCursor>
+		<dateModified>Thu, 24 Jun 2021 14:53:56 GMT</dateModified>
+		<expansionState>1,2,4,14,19</expansionState>
+		<lastCursor>5</lastCursor>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -23,8 +23,7 @@
 				<outline text="Note to self, show Brandon how the LO2 glossary works. " created="Thu, 24 Jun 2021 14:41:16 GMT" type="outline" />
 				<outline text="GitHub as app storage, cont'd" created="Thu, 24 Jun 2021 14:16:50 GMT" type="outline" >
 					<outline text="Yesterday I wrote &lt;a href=&quot;http://scripting.com/2021/06/23.html#a221440&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;http://scripting.com/2021/06/23/174309.html?title=isGithubRawStorageReliable&quot;&gt;bits&lt;/a&gt; about using GitHub as a storage system for a community of apps.  " created="Thu, 24 Jun 2021 14:17:00 GMT" />
-					<outline text="The vision is worth repeating. &quot;Using GitHub to host users data that can be accessed by lots of apps, a planned community of  apps that autormatically interop, where users fully own their data.&quot;" created="Thu, 24 Jun 2021 14:17:27 GMT" />
-					<outline text="If you think about it, that matches the unachieved ideal of using the web as an operating system, that for me goes back to 1994. It's the potential I saw when I first understood how HTTP works. Now in 2021, the one thing the web doesn't have is reliable storage for users that multiple apps can access to edit and render on the user's behalf. The same way you might have a text file on your desktop, that you write in a word processor (of your choosing, this is important) and send it over email, put it in a tweet, or a Facebook post, or print it. Or any of a million other uses. The key thing is the text file is yours. Not just for Mac or Windows, for everyone, anywhere. It's the wedge we need to be able to build a new world that's been technically possible for a couple of decades now. :-)" created="Thu, 24 Jun 2021 14:18:21 GMT" />
+					<outline text="That matches the as-yet unachieved ideal of using the web as an operating system, that for me goes back to 1994. It's the potential I saw when I first understood how HTTP works. Now in 2021, the one thing the web OS doesn't have is reliable storage for users that multiple apps can access to edit and render on the user's behalf. The same way you might have a text file on your desktop, that you write in a word processor (of your choosing, this is important) and send it over email, put it in a tweet, or a Facebook post, or print it. Or any of a million other uses. The key thing is the text file is yours. Not just for Mac or Windows, for everyone, anywhere. It's the wedge we need to be able to build a new world that's been technically possible for a couple of decades now. :-)" created="Thu, 24 Jun 2021 14:18:21 GMT" />
 					<outline text="It's important that we're using GIT which is an open and often-cloned data structure. You could move your data to another GIT provider if GitHub proved too expensive, or their service was failing, or really any reason at all. " created="Thu, 24 Jun 2021 14:21:03 GMT" />
 					<outline text="Dropbox was getting close to this idea, but they pulled back. That's why I did &quot;Fargo&quot;, which used Dropbox for storage. But no other app could access Fargo's outline files. They couldn't even access public files, that's the feature they withdrew. They had reasons to change course, not faulting the company. " created="Thu, 24 Jun 2021 14:21:46 GMT" />
 					<outline text="&lt;b&gt;LogSeq&lt;/b&gt;" created="Thu, 24 Jun 2021 14:24:11 GMT" />
