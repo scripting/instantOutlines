@@ -12,9 +12,10 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 15:15:12 GMT</dateModified>
-		<expansionState>1,2,3,10,17,22</expansionState>
+		<dateModified>Thu, 24 Jun 2021 15:21:01 GMT</dateModified>
+		<expansionState>1,2,3,11,18,23</expansionState>
 		<lastCursor>8</lastCursor>
+		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
@@ -26,6 +27,7 @@
 					<outline text="The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. So you could define an entry called &quot;my blog&quot; (the quotes are part of the definition) and its value would be a link to your blog. At some time in the future if your blog moves, just change the value of &quot;my blog&quot; and links to the blog will change too, when the text is rendered. " created="Thu, 24 Jun 2021 15:07:03 GMT" />
 					<outline text="Here's the &lt;a href=&quot;http://drummer.scripting.com/davewiner/glossary.opml&quot;&gt;glossary&lt;/a&gt; I use in all my pages. It's a public outline. It has to be public for it to work, so you shouldn't put private information into the glossary. " created="Thu, 24 Jun 2021 15:04:09 GMT" />
 					<outline text="In LO2 a glossary is a two-level outline. At the top level are a set of terms the renderer will look for, and its subordinate text is what it will be replaced with.  " created="Thu, 24 Jun 2021 15:06:39 GMT" />
+					<outline text="Here's a &lt;a href=&quot;http://scripting.com/images/2021/06/24/glossaryScreen.png&quot;&gt;screen shot&lt;/a&gt; of part of my glossary, being edited in my outliner." created="Thu, 24 Jun 2021 15:20:30 GMT" />
 					<outline text="&lt;b&gt;How to&lt;/b&gt;" created="Thu, 24 Jun 2021 15:15:08 GMT" />
 					<outline text="To use your glossary outline, here's what you do:" created="Thu, 24 Jun 2021 15:09:26 GMT" >
 						<outline text="Make the outline public. " created="Thu, 24 Jun 2021 15:09:42 GMT" />
