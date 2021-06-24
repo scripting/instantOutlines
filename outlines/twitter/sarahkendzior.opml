@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Thu, 24 Jun 2021 16:22:39 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 20:44:42 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="Thread https://t.co/AxBmfcfCD2" type="tweet" created="Thu, 24 Jun 2021 20:44:36 GMT" tweetId="1408164176569196548" urltweet="https://twitter.com/sarahkendzior/status/1408164176569196548" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="A thread on Giuliani's long history with the Trump crime cult https://t.co/fdktR0dK8L" type="tweet" created="Thu, 24 Jun 2021 16:22:15 GMT" tweetId="1408098154789146630" urltweet="https://twitter.com/sarahkendzior/status/1408098154789146630" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="Reminder that the main purpose of Trump's lawyers has never been to practice law. A thread: https://t.co/LaQRJ4k8UX" type="tweet" created="Thu, 24 Jun 2021 16:15:36 GMT" tweetId="1408096478338465795" urltweet="https://twitter.com/sarahkendzior/status/1408096478338465795" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="From 2018: https://t.co/UoYvOEfFUQ" type="tweet" created="Thu, 24 Jun 2021 16:17:20 GMT" tweetId="1408096914441228294" urltweet="https://twitter.com/sarahkendzior/status/1408096914441228294" inReplyToId="1408096478338465795" tweetUserName="sarahkendzior" >
