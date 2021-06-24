@@ -12,17 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 15:21:01 GMT</dateModified>
+		<dateModified>Thu, 24 Jun 2021 15:22:02 GMT</dateModified>
 		<expansionState>1,2,3,11,18,23</expansionState>
-		<lastCursor>8</lastCursor>
+		<lastCursor>3</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 24" created="Thu, 24 Jun 2021 14:16:49 GMT" type="calendarDay" name="24" >
-				<outline text="The glossary in Little Outliner" created="Thu, 24 Jun 2021 15:02:34 GMT" type="outline" >
-					<outline text="If you're new to &quot;LO2&quot; the glossary is a pretty unique feature that goes back to &quot;Clay Basket&quot; in 1995, and was &lt;a href=&quot;http://scripting.com/downloads/Website%20Tutorial/GlossariesandFilters.html&quot;&gt;documented&lt;/a&gt; as part of Frontier's website framework. It's a permanent fixture, very useful, and easy once you know what it does and how it works. " created="Thu, 24 Jun 2021 15:02:44 GMT" />
+				<outline text="The glossary in Little Outliner" created="Thu, 24 Jun 2021 15:02:34 GMT" type="outline" description="The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. " >
+					<outline text="If you're new to &quot;LO2&quot; the glossary is a pretty unique feature that goes back to &quot;Clay Basket&quot; in 1995, and was &lt;a href=&quot;http://scripting.com/downloads/Website%20Tutorial/GlossariesandFilters.html&quot;&gt;documented&lt;/a&gt; as part of Frontier's website framework. It's a permanent fixture, very useful, and easy once you know what it does and how it works.  " created="Thu, 24 Jun 2021 15:02:44 GMT" />
 					<outline text="&lt;b&gt;What it is&lt;/b&gt;" created="Thu, 24 Jun 2021 15:14:56 GMT" />
 					<outline text="The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. So you could define an entry called &quot;my blog&quot; (the quotes are part of the definition) and its value would be a link to your blog. At some time in the future if your blog moves, just change the value of &quot;my blog&quot; and links to the blog will change too, when the text is rendered. " created="Thu, 24 Jun 2021 15:07:03 GMT" />
 					<outline text="Here's the &lt;a href=&quot;http://drummer.scripting.com/davewiner/glossary.opml&quot;&gt;glossary&lt;/a&gt; I use in all my pages. It's a public outline. It has to be public for it to work, so you shouldn't put private information into the glossary. " created="Thu, 24 Jun 2021 15:04:09 GMT" />
