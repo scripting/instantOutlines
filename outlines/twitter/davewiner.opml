@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 25 Jun 2021 14:54:20 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 15:14:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="In your opinion, which website is more likely to be online, with accurate archives of news published today, in 30 years?" type="tweet" created="Fri, 25 Jun 2021 15:14:21 GMT" tweetId="1408443453432909824" urltweet="https://twitter.com/davewiner/status/1408443453432909824" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 24" type="calendarDay" name="24" >
 				<outline text="Trump is launching a series of ‘revenge rallies’ — and Republicans are worried. https://t.co/wZMJb6nUoU" type="tweet" created="Fri, 25 Jun 2021 01:38:58 GMT" tweetId="1408238253937995777" urltweet="https://twitter.com/davewiner/status/1408238253937995777" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Congressmen Squirm as 'World-Class Sleazeball' Gaetz Continues to Roam. https://t.co/VWygmauVKh" type="tweet" created="Fri, 25 Jun 2021 01:19:21 GMT" tweetId="1408233317686710277" urltweet="https://twitter.com/davewiner/status/1408233317686710277" inReplyToId="" tweetUserName="davewiner" />
