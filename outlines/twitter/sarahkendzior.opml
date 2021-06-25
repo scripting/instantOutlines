@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Fri, 25 Jun 2021 20:55:48 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 21:51:55 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Watched this 1993 Simpsons and was not prepared for the punchline! https://t.co/390Gl9VXNB" type="tweet" created="Fri, 25 Jun 2021 21:51:43 GMT" tweetId="1408543453366022149" urltweet="https://twitter.com/sarahkendzior/status/1408543453366022149" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="New @gaslitnation transcript is out! Read the transcript of our latest episode, &quot;Voter Suppression Emergency&quot;, here: https://t.co/6aai0TeKR2 https://t.co/SUC3VZ3JjJ" type="tweet" created="Fri, 25 Jun 2021 20:52:18 GMT" tweetId="1408528499199991814" urltweet="https://twitter.com/sarahkendzior/status/1408528499199991814" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="Like getting @gaslitnation transcripts? Join our Patreon! It covers our production costs and keeps our show independent and accessible to all. Plus you get extra episodes, Q &amp;amp; As, more:  https://t.co/Na8D7srDta" type="tweet" created="Fri, 25 Jun 2021 20:54:57 GMT" tweetId="1408529169202307095" urltweet="https://twitter.com/sarahkendzior/status/1408529169202307095" inReplyToId="1408528499199991814" tweetUserName="sarahkendzior" />
 					</outline>
