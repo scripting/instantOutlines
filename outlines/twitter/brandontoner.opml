@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@brandontoner</title>
+		<dateCreated>Fri, 25 Jun 2021 16:04:47 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Fri, 25 Jun 2021 16:04:47 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Language compresses the true experience of reality. https://t.co/ggyYK8RFvm" type="tweet" created="Fri, 25 Jun 2021 11:40:49 GMT" tweetId="1408389715187884032" urltweet="https://twitter.com/brandontoner/status/1408389715187884032" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="Precise speech helps to minimize the lossiness of communication." type="tweet" created="Fri, 25 Jun 2021 11:44:39 GMT" tweetId="1408390679403896835" urltweet="https://twitter.com/brandontoner/status/1408390679403896835" inReplyToId="1408389715187884032" tweetUserName="brandontoner" >
+						<outline text="You’re still pointing at something — but you’re at least using a better pointer." type="tweet" created="Fri, 25 Jun 2021 12:09:24 GMT" tweetId="1408396910096945157" urltweet="https://twitter.com/brandontoner/status/1408396910096945157" inReplyToId="1408390679403896835" tweetUserName="brandontoner" />
+						</outline>
+					</outline>
+				</outline>
+			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="I’m tired of training Google visual recognition algorithms with reCAPTCHA." type="tweet" created="Thu, 24 Jun 2021 21:11:53 GMT" tweetId="1408171041436938243" urltweet="https://twitter.com/brandontoner/status/1408171041436938243" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="Is there not another way to prove my human-ness?" type="tweet" created="Thu, 24 Jun 2021 21:12:42 GMT" tweetId="1408171245187776513" urltweet="https://twitter.com/brandontoner/status/1408171245187776513" inReplyToId="1408171041436938243" tweetUserName="brandontoner" />
+					</outline>
+				<outline text="I enjoy meme formats as much as I enjoy memes." type="tweet" created="Thu, 24 Jun 2021 16:31:30 GMT" tweetId="1408100479423455240" urltweet="https://twitter.com/brandontoner/status/1408100479423455240" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="Meta-memes" type="tweet" created="Thu, 24 Jun 2021 16:32:04 GMT" tweetId="1408100622516338692" urltweet="https://twitter.com/brandontoner/status/1408100622516338692" inReplyToId="1408100479423455240" tweetUserName="brandontoner" />
+					</outline>
+				<outline text="Deleted tweets should flatten as an image when quote-tweeted by others." type="tweet" created="Thu, 24 Jun 2021 16:26:03 GMT" tweetId="1408099109819518977" urltweet="https://twitter.com/brandontoner/status/1408099109819518977" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="As in, if a tweet is deleted once its quote-tweeted — it should exist in the quoted context as a flattened copy." type="tweet" created="Thu, 24 Jun 2021 16:26:46 GMT" tweetId="1408099288819900426" urltweet="https://twitter.com/brandontoner/status/1408099288819900426" inReplyToId="1408099109819518977" tweetUserName="brandontoner" >
+						<outline text="Otherwise it sets up some brutal house-of-cards shit." type="tweet" created="Thu, 24 Jun 2021 16:27:12 GMT" tweetId="1408099400413585413" urltweet="https://twitter.com/brandontoner/status/1408099400413585413" inReplyToId="1408099288819900426" tweetUserName="brandontoner" />
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>
