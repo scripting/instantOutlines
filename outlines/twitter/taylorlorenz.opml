@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 16:06:21 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 16:09:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Thread https://t.co/sA5bRow00s" type="tweet" created="Fri, 25 Jun 2021 16:09:10 GMT" tweetId="1408457247080927240" urltweet="https://twitter.com/taylorlorenz/status/1408457247080927240" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Got to collab with the brilliant @laurnosa on this story on TikTok, Black creators, and how the rise of the &quot;creator economy&quot; is reshaping people's views of creative labor https://t.co/lp5DN0xpKa" type="tweet" created="Fri, 25 Jun 2021 16:05:17 GMT" tweetId="1408456272806957065" urltweet="https://twitter.com/taylorlorenz/status/1408456272806957065" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Instead trying to be hot I propose a slob girl summer https://t.co/poxrx7fq6l" type="tweet" created="Fri, 25 Jun 2021 15:40:27 GMT" tweetId="1408450020454531072" urltweet="https://twitter.com/taylorlorenz/status/1408450020454531072" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Yeah that's one thing to note too, SO many dance trends on TikTok start internationally https://t.co/2QYDhK01JT" type="tweet" created="Fri, 25 Jun 2021 15:38:46 GMT" tweetId="1408449597165375489" urltweet="https://twitter.com/taylorlorenz/status/1408449597165375489" inReplyToId="" tweetUserName="taylorlorenz" />
