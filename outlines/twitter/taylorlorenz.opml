@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 21:02:28 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 21:06:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
-				<outline text="SCOOP: William White, who has gained a massive audience of older women by playing an 80s heartthrob on TikTok, has signed with WME https://t.co/xiyb5OfQFb" type="tweet" created="Fri, 25 Jun 2021 21:01:54 GMT" tweetId="1408530916092219393" urltweet="https://twitter.com/taylorlorenz/status/1408530916092219393" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="SCOOP: William White, who has gained a massive audience of older women by playing an 80s heartthrob on TikTok, has signed with WME https://t.co/xiyb5OfQFb" type="tweet" created="Fri, 25 Jun 2021 21:01:54 GMT" tweetId="1408530916092219393" urltweet="https://twitter.com/taylorlorenz/status/1408530916092219393" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="William White has signed with IMG Modeling and WME talent agency, his manager will continue to manage him https://t.co/xiyb5OfQFb" type="tweet" created="Fri, 25 Jun 2021 21:05:47 GMT" tweetId="1408531892417097728" urltweet="https://twitter.com/taylorlorenz/status/1408531892417097728" inReplyToId="1408530916092219393" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Thread https://t.co/sA5bRow00s" type="tweet" created="Fri, 25 Jun 2021 16:09:10 GMT" tweetId="1408457247080927240" urltweet="https://twitter.com/taylorlorenz/status/1408457247080927240" tweetUserName="taylorlorenz" />
 				<outline text="Got to collab with the brilliant @laurnosa on this story on TikTok, Black creators, and how the rise of the &quot;creator economy&quot; is reshaping people's views of creative labor https://t.co/lp5DN0xpKa" type="tweet" created="Fri, 25 Jun 2021 16:05:17 GMT" tweetId="1408456272806957065" urltweet="https://twitter.com/taylorlorenz/status/1408456272806957065" tweetUserName="taylorlorenz" />
 				<outline text="Instead trying to be hot I propose a slob girl summer https://t.co/poxrx7fq6l" type="tweet" created="Fri, 25 Jun 2021 15:40:27 GMT" tweetId="1408450020454531072" urltweet="https://twitter.com/taylorlorenz/status/1408450020454531072" tweetUserName="taylorlorenz" />
