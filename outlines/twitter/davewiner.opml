@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 25 Jun 2021 19:16:55 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 19:41:03 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="A Biography for the 2,190 Miles of the Appalachian Trail. https://t.co/EP7yZPGyeg" type="tweet" created="Fri, 25 Jun 2021 19:40:14 GMT" tweetId="1408510363931496448" urltweet="https://twitter.com/davewiner/status/1408510363931496448" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Heights of presidents and presidential candidates of the United States. https://t.co/vh6MX7tkAO" type="tweet" created="Fri, 25 Jun 2021 19:16:13 GMT" tweetId="1408504322518917121" urltweet="https://twitter.com/davewiner/status/1408504322518917121" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Richard J. Meislin, Times Editor and Web Journalism Pioneer, Dies at 68. https://t.co/G5XJsbxQbL" type="tweet" created="Fri, 25 Jun 2021 19:12:03 GMT" tweetId="1408503274316218374" urltweet="https://twitter.com/davewiner/status/1408503274316218374" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Trump Starts Up His Rallies Again This Weekend. https://t.co/UlIthTWRLd" type="tweet" created="Fri, 25 Jun 2021 18:08:30 GMT" tweetId="1408487279816028173" urltweet="https://twitter.com/davewiner/status/1408487279816028173" inReplyToId="" tweetUserName="davewiner" />
