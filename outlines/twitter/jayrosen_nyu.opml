@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 18:26:02 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 18:47:08 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="You could see this coming. 
+
+&quot;Republican senators Friday were frantically considering options as the future of the sweeping compromise appeared in doubt... Senators were described as 'stunned,' 'floored' and 'frustrated.'&quot; https://t.co/1PhLSHt4ao https://t.co/bmMaUQhEm3" type="tweet" created="Fri, 25 Jun 2021 18:46:13 GMT" tweetId="1408496771047772164" urltweet="https://twitter.com/jayrosen_nyu/status/1408496771047772164" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="If you need a summary of where the @nhannahjones appointment at UNC-Chapel Hill stands, @CJR has a good one today. https://t.co/AzDTBokWjf This is a story I am following closely." type="tweet" created="Fri, 25 Jun 2021 18:25:19 GMT" tweetId="1408491512154017798" urltweet="https://twitter.com/jayrosen_nyu/status/1408491512154017798" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The valence of this observation (&quot;more a kind of media platform...&quot;) has only increased since March. https://t.co/VyqCmVa79G" type="tweet" created="Fri, 25 Jun 2021 17:26:24 GMT" tweetId="1408476684895019012" urltweet="https://twitter.com/jayrosen_nyu/status/1408476684895019012" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The “sharia law&quot; comparison seems right to me. https://t.co/X2AbdQxT44 I'd add that the mania to root out Critical Race Theory (without knowing what it is) is an attempt at symbolic reversal of the multi-racial coalition found marching in the streets after George Floyd's murder. https://t.co/7CEXZGgSI6" type="tweet" created="Fri, 25 Jun 2021 16:34:02 GMT" tweetId="1408463504798007297" urltweet="https://twitter.com/jayrosen_nyu/status/1408463504798007297" inReplyToId="" tweetUserName="jayrosen_nyu" />
