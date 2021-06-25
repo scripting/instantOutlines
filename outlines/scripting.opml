@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 00:53:20 GMT</dateModified>
-		<expansionState>1,2,7,15,22,27</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 25 Jun 2021 00:57:25 GMT</dateModified>
+		<expansionState>1,2,9,11,16</expansionState>
+		<lastCursor>9</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
@@ -51,6 +51,9 @@
 					<outline text="GitHub is tempting, but there appear to be problems when accessed through their API, as I am doing. For example, if I saved a file to a user's repo, it might take 20 minutes before the changed version showed up to other apps. There must be a cache somewhere in there. I don't have a clear statement of how GitHub works here, maybe it's out there, but I wanted to do a reality check. " created="Thu, 24 Jun 2021 14:29:58 GMT" />
 					<outline text="LogSeq says they use a Node package called &lt;a href=&quot;https://github.com/isomorphic-git/isomorphic-git&quot;&gt;Isomorphic-Git&lt;/a&gt;. It has been reliable. But there are other problems. " created="Thu, 24 Jun 2021 14:31:10 GMT" />
 					<outline text="I've &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/213&quot;&gt;started a thread&lt;/a&gt; on this. Maybe we can figure this out. Or maybe it's something we come back to periodically until it works. We'd love to hook up with people at GitHub, after we've explored all other options. " created="Thu, 24 Jun 2021 14:31:35 GMT" />
+					</outline>
+				<outline text="Pissaro" created="Fri, 25 Jun 2021 00:55:57 GMT" type="outline" >
+					<outline text="Kew, the Path to the Main Conservatory." created="Fri, 25 Jun 2021 00:56:04 GMT" inlineImage="http://scripting.com/images/2021/06/24/pissaro.png" />
 					</outline>
 				</outline>
 			<outline text="June 23" created="Wed, 23 Jun 2021 14:33:38 GMT" type="calendarDay" name="23" >
