@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 23:06:09 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 00:18:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="Suddenly listening to @nprfreshair on the @Apple iOS app requires a $2.99/mo subscription. Apparently, no more listening on that app without it. Not required on @downcastapp, I see. Odd." type="tweet" created="Fri, 25 Jun 2021 00:18:26 GMT" tweetId="1408217987711213570" urltweet="https://twitter.com/dsearls/status/1408217987711213570" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Nice @NetNewsWire review in @lifewiretech: https://t.co/QeSkjcwsAq Yo @brentsimmons" type="tweet" created="Thu, 24 Jun 2021 23:06:07 GMT" tweetId="1408199787246239747" urltweet="https://twitter.com/dsearls/status/1408199787246239747" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="The plan is to address my storage crisis https://t.co/0Nj1L7WJ5V with a cloud. Currently I'm leaning toward @backblaze, which @lifewiretech likes best: https://t.co/wZ16BTYghh . Advice welcome." type="tweet" created="Thu, 24 Jun 2021 22:30:39 GMT" tweetId="1408190863063277570" urltweet="https://twitter.com/dsearls/status/1408190863063277570" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="A storage crisis https://t.co/nhamLZt4le" type="tweet" created="Thu, 24 Jun 2021 22:26:07 GMT" tweetId="1408189724980875277" urltweet="https://twitter.com/dsearls/status/1408189724980875277" inReplyToId="" tweetUserName="dsearls" />
