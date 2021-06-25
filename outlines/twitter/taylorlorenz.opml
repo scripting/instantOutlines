@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 21:23:30 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 21:49:34 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Trying to invite people to a party without FB events is misery. Like do u have to get everyone’s email?! Even though I was just talking about how IG is too much like FB I do wish they had an events tab 🙈" type="tweet" created="Fri, 25 Jun 2021 21:49:00 GMT" tweetId="1408542770826911746" urltweet="https://twitter.com/taylorlorenz/status/1408542770826911746" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Brooklyn is back 😌 https://t.co/0ZurGILUFt" type="tweet" created="Fri, 25 Jun 2021 21:22:40 GMT" tweetId="1408536143834931200" urltweet="https://twitter.com/taylorlorenz/status/1408536143834931200" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Looks like that YouTubers vs TikTokers event didn’t do so well, the company behind it put out a statement in response to many creators who allege they still haven’t been paid. 
  
