@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@jayrosen_nyu</title>
+		<dateCreated>Fri, 25 Jun 2021 16:02:36 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Fri, 25 Jun 2021 16:02:37 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="I will listen to this when I get the time. Patrick Soon-Shiong (wealthy owner, immigrant, self-made, biotech) and Kevin Merida (new editor, African-American, print and digital DNA) are an intriguing combination. They could come up with something different. https://t.co/FhSs1VI3gR" type="tweet" created="Fri, 25 Jun 2021 16:00:21 GMT" tweetId="1408455028302651394" urltweet="https://twitter.com/jayrosen_nyu/status/1408455028302651394" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="Good morning. Can someone explain to me why the Washington Post is reporting that five Republicans in the Senate have signed on to Biden's infrastructure proposal https://t.co/aO1lY8XWSl while USA Today is saying it's 21 Senators with 11 Republicans? https://t.co/S8nPJ5zDCA" type="tweet" created="Fri, 25 Jun 2021 15:29:09 GMT" tweetId="1408447178465550336" urltweet="https://twitter.com/jayrosen_nyu/status/1408447178465550336" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
+			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="How do five Republican votes for an infrastucture plan become ten when getting ten will trigger passage via reconciliation of a huge economic package those same Republicans do not want? And that's before we factor in the Green Lanternism of anything the press calls  &quot;bipartisan.&quot;" type="tweet" created="Fri, 25 Jun 2021 01:58:18 GMT" tweetId="1408243120278585345" urltweet="https://twitter.com/jayrosen_nyu/status/1408243120278585345" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="Small sign but a good one. @nytimes hired a technology reporter whose beat will not be tech, but specifically tech accountability. https://t.co/9gDW1jUT6M Congrats @RMac18" type="tweet" created="Thu, 24 Jun 2021 20:53:42 GMT" tweetId="1408166467129036804" urltweet="https://twitter.com/jayrosen_nyu/status/1408166467129036804" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="When this event passes through the looking glass in the other direction and is presented as &quot;news,&quot; it will be a test of what journalism has learned about reporting on disinformation. https://t.co/zhlxUM5u3w" type="tweet" created="Thu, 24 Jun 2021 19:33:12 GMT" tweetId="1408146208951091203" urltweet="https://twitter.com/jayrosen_nyu/status/1408146208951091203" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="&quot;The past is never dead. It's not even past.&quot; The fight over the @nhannahjones appointment shows how true that is. Read this:
+
+&quot;The White press helped destroy democracy in the South. Black journalists developed an activist tradition because they had to.&quot; https://t.co/jTl7WZnC7q" type="tweet" created="Thu, 24 Jun 2021 17:59:16 GMT" tweetId="1408122569601990661" urltweet="https://twitter.com/jayrosen_nyu/status/1408122569601990661" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="If we could give the entire file of Trump coverage grades, there would be some As, Bs, Cs, Ds, and Fs for different streams in it. For the Ivanka &amp;amp; Jared portion, a grade of F isn't enough. You would have to attach a note, &quot;please come see me about Billy's work.&quot;
+
+What a fiasco. https://t.co/BcYav90Aah" type="tweet" created="Thu, 24 Jun 2021 14:39:29 GMT" tweetId="1408072290596790273" urltweet="https://twitter.com/jayrosen_nyu/status/1408072290596790273" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
