@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 16:14:17 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 16:34:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="The “sharia law&quot; comparison seems right to me. https://t.co/X2AbdQxT44 I'd add that the mania to root out Critical Race Theory (without knowing what it is) is an attempt at symbolic reversal of the multi-racial coalition found marching in the streets after George Floyd's murder. https://t.co/7CEXZGgSI6" type="tweet" created="Fri, 25 Jun 2021 16:34:02 GMT" tweetId="1408463504798007297" urltweet="https://twitter.com/jayrosen_nyu/status/1408463504798007297" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="I will listen to this when I get the time. Patrick Soon-Shiong (wealthy owner, immigrant, self-made, biotech) and Kevin Merida (new editor, African-American, print and digital DNA) are an intriguing combination. They could come up with something different. https://t.co/FhSs1VI3gR" type="tweet" created="Fri, 25 Jun 2021 16:00:21 GMT" tweetId="1408455028302651394" urltweet="https://twitter.com/jayrosen_nyu/status/1408455028302651394" tweetUserName="jayrosen_nyu" />
 				<outline text="Good morning. Can someone explain to me why the Washington Post is reporting that five Republicans in the Senate have signed on to Biden's infrastructure proposal https://t.co/aO1lY8XWSl while USA Today is saying it's 21 Senators with 11 Republicans? https://t.co/S8nPJ5zDCA" type="tweet" created="Fri, 25 Jun 2021 15:29:09 GMT" tweetId="1408447178465550336" urltweet="https://twitter.com/jayrosen_nyu/status/1408447178465550336" tweetUserName="jayrosen_nyu" />
 				</outline>
