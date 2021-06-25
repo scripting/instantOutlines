@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@scobleizer</title>
+		<dateCreated>Fri, 25 Jun 2021 16:14:18 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Fri, 25 Jun 2021 16:14:18 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Playing Spatial Audio off of an M1-based Apple Mac sounds way better than using the latest Apple TV.
+
+Here is the kicker: this is true of you Airplay to that same Apple TV.
+
+If you want the best sound you have to play around." type="tweet" created="Fri, 25 Jun 2021 16:07:21 GMT" tweetId="1408456790983905281" urltweet="https://twitter.com/scobleizer/status/1408456790983905281" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Did you know billionaires have 12K screens and pay up to $500 to watch a cinema-release of a movie? (One I was talking to has a theater in their new home. A bunch called about my lights).
+
+Next year Apple’s “Holodeck” (my made-up name for its VR headset) will be way better. https://t.co/AVDJsEFo3l" type="tweet" created="Fri, 25 Jun 2021 10:31:19 GMT" tweetId="1408372225569263618" urltweet="https://twitter.com/scobleizer/status/1408372225569263618" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
