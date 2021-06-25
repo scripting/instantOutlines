@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 18:47:08 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 19:22:19 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Among the people who &quot;don't know any better&quot; are reporters and editors at CNN. https://t.co/BcYav90Aah https://t.co/2uifS3hUMt" type="tweet" created="Fri, 25 Jun 2021 19:21:43 GMT" tweetId="1408505703958990848" urltweet="https://twitter.com/jayrosen_nyu/status/1408505703958990848" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="You could see this coming. 
 
 &quot;Republican senators Friday were frantically considering options as the future of the sweeping compromise appeared in doubt... Senators were described as 'stunned,' 'floored' and 'frustrated.'&quot; https://t.co/1PhLSHt4ao https://t.co/bmMaUQhEm3" type="tweet" created="Fri, 25 Jun 2021 18:46:13 GMT" tweetId="1408496771047772164" urltweet="https://twitter.com/jayrosen_nyu/status/1408496771047772164" inReplyToId="" tweetUserName="jayrosen_nyu" />
