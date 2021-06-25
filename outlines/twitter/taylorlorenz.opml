@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 21:15:29 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 21:23:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Brooklyn is back 😌 https://t.co/0ZurGILUFt" type="tweet" created="Fri, 25 Jun 2021 21:22:40 GMT" tweetId="1408536143834931200" urltweet="https://twitter.com/taylorlorenz/status/1408536143834931200" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Looks like that YouTubers vs TikTokers event didn’t do so well, the company behind it put out a statement in response to many creators who allege they still haven’t been paid. 
  
 Company says it’s their “sincere hope” to be able to pay all the talent in a “reasonable timeframe” https://t.co/R8KM6zzhWg" type="tweet" created="Fri, 25 Jun 2021 21:15:15 GMT" tweetId="1408534275691991040" urltweet="https://twitter.com/taylorlorenz/status/1408534275691991040" inReplyToId="" tweetUserName="taylorlorenz" />
