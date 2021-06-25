@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Fri, 25 Jun 2021 16:04:46 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 20:52:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="New @gaslitnation transcript is out! Read the transcript of our latest episode, &quot;Voter Suppression Emergency&quot;, here: https://t.co/6aai0TeKR2 https://t.co/SUC3VZ3JjJ" type="tweet" created="Fri, 25 Jun 2021 20:52:18 GMT" tweetId="1408528499199991814" urltweet="https://twitter.com/sarahkendzior/status/1408528499199991814" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="June 24" type="calendarDay" name="24" >
 				<outline text="I've watched this more than any other movie in my life and I have no regrets! https://t.co/2QeGwrdsAT" type="tweet" created="Thu, 24 Jun 2021 22:01:00 GMT" tweetId="1408183402570911745" urltweet="https://twitter.com/sarahkendzior/status/1408183402570911745" tweetUserName="sarahkendzior" >
 					<outline text="It's also educational! https://t.co/d3KAxpnO1h" type="tweet" created="Thu, 24 Jun 2021 22:02:56 GMT" tweetId="1408183888162197505" urltweet="https://twitter.com/sarahkendzior/status/1408183888162197505" inReplyToId="1408183402570911745" tweetUserName="sarahkendzior" />
