@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 19:22:19 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 22:08:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Quote from @Edsall (@ Washington Post for 25 years):
+
+&quot;During times of big change reporters have a harder time [than academics do] finding ways both to describe it and to deal with it. Reporters are usually fixed in a language that they've been using...&quot; https://t.co/gxPZrjFieI" type="tweet" created="Fri, 25 Jun 2021 22:07:52 GMT" tweetId="1408547518229647369" urltweet="https://twitter.com/jayrosen_nyu/status/1408547518229647369" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Among the people who &quot;don't know any better&quot; are reporters and editors at CNN. https://t.co/BcYav90Aah https://t.co/2uifS3hUMt" type="tweet" created="Fri, 25 Jun 2021 19:21:43 GMT" tweetId="1408505703958990848" urltweet="https://twitter.com/jayrosen_nyu/status/1408505703958990848" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="You could see this coming. 
 
