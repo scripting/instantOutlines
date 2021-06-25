@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 25 Jun 2021 15:14:22 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 15:31:25 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="U.S. AG Merrick Garland announces the Department of Justice is suing the state of Georgia for changing election laws. https://t.co/Gr2pJ5T4eO" type="tweet" created="Fri, 25 Jun 2021 15:30:44 GMT" tweetId="1408447576341467136" urltweet="https://twitter.com/davewiner/status/1408447576341467136" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="In your opinion, which website is more likely to be online, with accurate archives of news published today, in 30 years?" type="tweet" created="Fri, 25 Jun 2021 15:14:21 GMT" tweetId="1408443453432909824" urltweet="https://twitter.com/davewiner/status/1408443453432909824" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="June 24" type="calendarDay" name="24" >
