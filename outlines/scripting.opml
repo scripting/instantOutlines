@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 24 Jun 2021 20:58:29 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 00:48:18 GMT</dateModified>
 		<expansionState>1,2,7,15,22,27</expansionState>
 		<lastCursor>2</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
@@ -21,10 +21,10 @@
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 24" created="Thu, 24 Jun 2021 14:16:49 GMT" type="calendarDay" name="24" >
+				<outline text="&lt;a href=&quot;http://threadviewer.com/http://threadviewer.com/http://threadviewer.com/http://threadviewer.com/&quot;&gt;threadviewer.com&lt;/a&gt; bug fix. We now freeze threads older than 12 hours. So you have to finish your writing before then.  " created="Thu, 24 Jun 2021 15:30:08 GMT" type="outline" />
 				<outline text="Finally MSNBC is &lt;a href=&quot;https://twitter.com/freddyatton/status/1407918830693670914&quot;&gt;coming clean&lt;/a&gt; on the fact that the Repubs and Fox News et al work for Putin. &lt;i&gt;Let's keep that in mind&lt;/i&gt; when we think about insurrectionists invading our Capitol. And btw the guilty parties so far aren't doing any jail time. Not much of a deterrent. " created="Thu, 24 Jun 2021 20:06:26 GMT" type="outline" urltweet="https://twitter.com/freddyatton/status/1407918830693670914" />
 				<outline text="I hate doing business with robots over the telephone. Can't you just fucking send a fucking email UPS." created="Thu, 24 Jun 2021 19:55:56 GMT" type="outline" />
 				<outline text="Speaking of which the other day the phone rings, I pick up, it's a robot from the gas company, something is very wrong, I need to call this number, which she recites, and goes on, never repeating the number. At the end they threaten that they're going to cut off my supply (which I know legally is hard to do, and btw I'm current with my bill). So I call. I get put on hold. We appreciate your pateince, another robot says. Your call is important. I'm sure. When an actual human comes on the line I am accused of being rude for telling her what her stinking company just did in the middle of my freaking work day. They want to know where the check is. I don't know. My credit is good. Maybe the check got delayed. I hear there are problems with the post office. God bless the robots. And by the way, email is much more efficient! Please." created="Thu, 24 Jun 2021 19:56:08 GMT" type="outline" />
-				<outline text="threadviewer.com bug fix. We now freeze threads older than 12 hours. So you have to finish your writing before then.  " created="Thu, 24 Jun 2021 15:30:08 GMT" type="outline" />
 				<outline text="The glossary in Little Outliner" created="Thu, 24 Jun 2021 15:02:34 GMT" type="outline" description="The glossary is a substitution table. When a term appears in text being rendered, the term is replaced with its value. " metaImage="http://scripting.com/images/2021/06/24/cezanne.png" >
 					<outline text="If you're new to &quot;LO2&quot;, the glossary is a pretty unique feature that goes back to &quot;Clay Basket&quot; in 1995, and was &lt;a href=&quot;http://scripting.com/downloads/Website%20Tutorial/GlossariesandFilters.html&quot;&gt;documented&lt;/a&gt; as part of Frontier's website framework. It's a permanent fixture, very useful, and easy once you know what it does and how it works.  " created="Thu, 24 Jun 2021 15:02:44 GMT" />
 					<outline text="&lt;b&gt;What it is&lt;/b&gt;" created="Thu, 24 Jun 2021 15:14:56 GMT" />
