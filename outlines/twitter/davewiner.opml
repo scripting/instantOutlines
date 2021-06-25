@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 24 Jun 2021 23:59:23 GMT</dateModified>
+		<dateModified>Fri, 25 Jun 2021 01:03:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="Boston Gave Up Hundreds of Parking Spaces to Outdoor Seating. Good Riddance. https://t.co/KEqRToXlAt" type="tweet" created="Fri, 25 Jun 2021 01:02:42 GMT" tweetId="1408229130198556673" urltweet="https://twitter.com/davewiner/status/1408229130198556673" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="GitHub as app storage, cont'd. https://t.co/iN8VxPIhF3" type="tweet" created="Thu, 24 Jun 2021 23:59:19 GMT" tweetId="1408213179134627844" urltweet="https://twitter.com/davewiner/status/1408213179134627844" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="News! https://t.co/axWrU8Z4NA" type="tweet" created="Thu, 24 Jun 2021 22:09:50 GMT" tweetId="1408185624230772736" urltweet="https://twitter.com/davewiner/status/1408185624230772736" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Amazon is acquiring a podcast hosting and monetization platform. https://t.co/Zb4Yy6LWaH" type="tweet" created="Thu, 24 Jun 2021 21:12:43 GMT" tweetId="1408171252884328450" urltweet="https://twitter.com/davewiner/status/1408171252884328450" inReplyToId="" tweetUserName="davewiner" />
