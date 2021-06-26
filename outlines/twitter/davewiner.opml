@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 25 Jun 2021 19:42:03 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 00:33:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Basketball https://t.co/UOdmKe6Xcx" type="tweet" created="Sat, 26 Jun 2021 00:32:16 GMT" tweetId="1408583855909572608" urltweet="https://twitter.com/davewiner/status/1408583855909572608" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="A Biography for the 2,190 Miles of the Appalachian Trail. https://t.co/EP7yZPGyeg" type="tweet" created="Fri, 25 Jun 2021 19:40:14 GMT" tweetId="1408510363931496448" urltweet="https://twitter.com/davewiner/status/1408510363931496448" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="The link above is supposedly a “gift” link. Not subject to their paywall, doesn’t count against your monthly free limit." type="tweet" created="Fri, 25 Jun 2021 19:41:23 GMT" tweetId="1408510653309071368" urltweet="https://twitter.com/davewiner/status/1408510653309071368" inReplyToId="1408510363931496448" tweetUserName="davewiner" />
 					</outline>
