@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 20:46:40 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 21:07:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="So terrifying how people today have zero media literacy. So many people tell me just absolutely wild and untrue lies and conspiracies, when I ask where they got it it’s almost always YouTube." type="tweet" created="Sat, 26 Jun 2021 21:07:36 GMT" tweetId="1408894739923968000" urltweet="https://twitter.com/taylorlorenz/status/1408894739923968000" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Incredible full body cringe https://t.co/UfdjgFkEAS" type="tweet" created="Sat, 26 Jun 2021 20:46:09 GMT" tweetId="1408889341082955777" urltweet="https://twitter.com/taylorlorenz/status/1408889341082955777" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="These influencer-promoted altcoin crypto scams are out of control, so rampant https://t.co/mwQ0RwfZFe" type="tweet" created="Sat, 26 Jun 2021 17:50:23 GMT" tweetId="1408845106166206471" urltweet="https://twitter.com/taylorlorenz/status/1408845106166206471" tweetUserName="taylorlorenz" />
 				<outline text="“Everybody is just shit-scared and wanting to lie low. This is such a vindictive government.” https://t.co/NxXU4tNkwK" type="tweet" created="Sat, 26 Jun 2021 04:56:00 GMT" tweetId="1408650226974535681" urltweet="https://twitter.com/taylorlorenz/status/1408650226974535681" tweetUserName="taylorlorenz" />
