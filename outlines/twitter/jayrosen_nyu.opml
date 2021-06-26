@@ -6,11 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 22:08:52 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 16:27:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="It's there in a Reuters report from Thursday: the importance to Democrats of the two-tracks. https://t.co/wm65yoAM0l 
+
+Move to Friday's AP report. Senators were described as “floored” and “frustrated” by Biden's insistence on the two track approach. Why did the AP do that? 1/2 https://t.co/LSfrdXP9z4" type="tweet" created="Sat, 26 Jun 2021 16:26:13 GMT" tweetId="1408823928454328324" urltweet="https://twitter.com/jayrosen_nyu/status/1408823928454328324" inReplyToId="" tweetUserName="jayrosen_nyu" >
+					<outline text="Here's the AP: &quot;Biden’s bipartisan infrastructure deal was thrown in doubt Friday as Republican senators felt 'blindsided' by his insistence that it must move in tandem with his bigger package.&quot; https://t.co/1PhLSHt4ao
+
+Again: Why did @AP buy the &quot;we were blindsided&quot; gambit? 2/2" type="tweet" created="Sat, 26 Jun 2021 16:26:14 GMT" tweetId="1408823930706616325" urltweet="https://twitter.com/jayrosen_nyu/status/1408823930706616325" inReplyToId="1408823928454328324" tweetUserName="jayrosen_nyu" />
+					</outline>
+				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
 				<outline text="Quote from @Edsall (@ Washington Post for 25 years):
 
