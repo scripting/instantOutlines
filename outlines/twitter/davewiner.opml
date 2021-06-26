@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 26 Jun 2021 22:06:08 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 22:15:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="My river of bloggers. https://t.co/MgR4O5XeQ0" type="tweet" created="Sat, 26 Jun 2021 22:14:41 GMT" tweetId="1408911620558966787" urltweet="https://twitter.com/davewiner/status/1408911620558966787" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I'm watching the new season of In Treatment. 
 
 I love it even more than the first three seasons, which ended ten years ago.
