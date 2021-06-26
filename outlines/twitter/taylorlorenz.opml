@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 22:06:36 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 04:56:33 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="“Everybody is just shit-scared and wanting to lie low. This is such a vindictive government.” https://t.co/NxXU4tNkwK" type="tweet" created="Sat, 26 Jun 2021 04:56:00 GMT" tweetId="1408650226974535681" urltweet="https://twitter.com/taylorlorenz/status/1408650226974535681" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
 				<outline text="Trying to invite people to a party without FB events is misery. Like do u have to get everyone’s email?! Even though I was just talking about how IG is too much like FB I do wish they had an events tab 🙈" type="tweet" created="Fri, 25 Jun 2021 21:49:00 GMT" tweetId="1408542770826911746" urltweet="https://twitter.com/taylorlorenz/status/1408542770826911746" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Ugh I’m too lazy for all this 😌 https://t.co/WR5m5QTtus" type="tweet" created="Fri, 25 Jun 2021 22:06:14 GMT" tweetId="1408547106051162116" urltweet="https://twitter.com/taylorlorenz/status/1408547106051162116" inReplyToId="1408542770826911746" tweetUserName="taylorlorenz" />
