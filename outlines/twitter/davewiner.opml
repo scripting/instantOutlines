@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 26 Jun 2021 06:50:01 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 13:53:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="Hello World. https://t.co/VBPkCqBXqB" type="tweet" created="Sat, 26 Jun 2021 13:52:29 GMT" tweetId="1408785239405629443" urltweet="https://twitter.com/davewiner/status/1408785239405629443" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="SafeAI raises $21 million to build smart vehicles for heavy industry. https://t.co/VuRWMnTbg7" type="tweet" created="Sat, 26 Jun 2021 06:49:45 GMT" tweetId="1408678854097518594" urltweet="https://twitter.com/davewiner/status/1408678854097518594" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
