@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 26 Jun 2021 19:12:42 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 19:19:43 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="Delta: WHO urges fully vaccinated people to continue to wear masks as variant spreads. https://t.co/0G1UbQHYj7" type="tweet" created="Sat, 26 Jun 2021 19:18:51 GMT" tweetId="1408867371259924480" urltweet="https://twitter.com/davewiner/status/1408867371259924480" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="When chance seems to be making a moral statement, that's god. https://t.co/rgkZtpfJg2" type="tweet" created="Sat, 26 Jun 2021 19:12:00 GMT" tweetId="1408865648869052423" urltweet="https://twitter.com/davewiner/status/1408865648869052423" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I wish there was a Moneyball or Blind Side-like book about the NBA." type="tweet" created="Sat, 26 Jun 2021 18:25:57 GMT" tweetId="1408854059331821573" urltweet="https://twitter.com/davewiner/status/1408854059331821573" tweetUserName="davewiner" />
 				<outline text="As a Knicks fan I came to hate Trae Young. That's fading. Now I like him for the same reasons I hated him. Confidence. He doesn't accept immovable objects between him and success. Everyone else sees them. 
