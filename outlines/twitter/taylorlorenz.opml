@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 04:56:33 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 17:51:12 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="These influencer-promoted altcoin crypto scams are out of control, so rampant https://t.co/mwQ0RwfZFe" type="tweet" created="Sat, 26 Jun 2021 17:50:23 GMT" tweetId="1408845106166206471" urltweet="https://twitter.com/taylorlorenz/status/1408845106166206471" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“Everybody is just shit-scared and wanting to lie low. This is such a vindictive government.” https://t.co/NxXU4tNkwK" type="tweet" created="Sat, 26 Jun 2021 04:56:00 GMT" tweetId="1408650226974535681" urltweet="https://twitter.com/taylorlorenz/status/1408650226974535681" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
