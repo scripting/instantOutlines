@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 21:07:42 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 21:10:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
-				<outline text="So terrifying how people today have zero media literacy. So many people tell me just absolutely wild and untrue lies and conspiracies, when I ask where they got it it’s almost always YouTube." type="tweet" created="Sat, 26 Jun 2021 21:07:36 GMT" tweetId="1408894739923968000" urltweet="https://twitter.com/taylorlorenz/status/1408894739923968000" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="So terrifying how people today have zero media literacy. So many people tell me just absolutely wild and untrue lies and conspiracies, when I ask where they got it it’s almost always YouTube." type="tweet" created="Sat, 26 Jun 2021 21:07:36 GMT" tweetId="1408894739923968000" urltweet="https://twitter.com/taylorlorenz/status/1408894739923968000" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="There’s an increasing trend of YTers presenting disinfo and anti media conspiracy theories as “research” or “deep dives” or “investigations.” Of course they’re nothing of the sort, it’s absolutely made up lies or complete twisting of facts, usually for a politicized agenda." type="tweet" created="Sat, 26 Jun 2021 21:10:16 GMT" tweetId="1408895408785432577" urltweet="https://twitter.com/taylorlorenz/status/1408895408785432577" inReplyToId="1408894739923968000" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Incredible full body cringe https://t.co/UfdjgFkEAS" type="tweet" created="Sat, 26 Jun 2021 20:46:09 GMT" tweetId="1408889341082955777" urltweet="https://twitter.com/taylorlorenz/status/1408889341082955777" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="These influencer-promoted altcoin crypto scams are out of control, so rampant https://t.co/mwQ0RwfZFe" type="tweet" created="Sat, 26 Jun 2021 17:50:23 GMT" tweetId="1408845106166206471" urltweet="https://twitter.com/taylorlorenz/status/1408845106166206471" tweetUserName="taylorlorenz" />
 				<outline text="“Everybody is just shit-scared and wanting to lie low. This is such a vindictive government.” https://t.co/NxXU4tNkwK" type="tweet" created="Sat, 26 Jun 2021 04:56:00 GMT" tweetId="1408650226974535681" urltweet="https://twitter.com/taylorlorenz/status/1408650226974535681" tweetUserName="taylorlorenz" />
