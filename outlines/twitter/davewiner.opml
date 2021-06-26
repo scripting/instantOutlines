@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 26 Jun 2021 16:23:51 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 16:43:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="According to this announcement you can listen to Fresh Air for free with Apple Podcasts app. Subscribing is voluntary.  https://t.co/Hiq2FX9RW2" type="tweet" created="Sat, 26 Jun 2021 16:43:31 GMT" tweetId="1408828282041212932" urltweet="https://twitter.com/davewiner/status/1408828282041212932" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="&quot;A chicken is an egg's way of making another egg.&quot;" type="tweet" created="Sat, 26 Jun 2021 16:23:39 GMT" tweetId="1408823280430108674" urltweet="https://twitter.com/davewiner/status/1408823280430108674" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Screen shot of ThinkTank outliner on character-based IBM PC, circa 1987. https://t.co/HrnxW3FBQ1" type="tweet" created="Sat, 26 Jun 2021 13:53:40 GMT" tweetId="1408785536651776003" urltweet="https://twitter.com/davewiner/status/1408785536651776003" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Hello World. https://t.co/VBPkCqBXqB" type="tweet" created="Sat, 26 Jun 2021 13:52:29 GMT" tweetId="1408785239405629443" urltweet="https://twitter.com/davewiner/status/1408785239405629443" inReplyToId="" tweetUserName="davewiner" />
