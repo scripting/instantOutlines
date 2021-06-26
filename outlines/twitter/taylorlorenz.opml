@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 21:15:43 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 21:18:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="It’s wild. Especially with the rise of all these anti media youtubers feigning as if they’re journalists. There seems to be an entire “aggrieved fired BuzzFeed employee to extremist propaganda social media personality” pipeline https://t.co/pFVnLaJIb9" type="tweet" created="Sat, 26 Jun 2021 21:18:36 GMT" tweetId="1408897505799020546" urltweet="https://twitter.com/taylorlorenz/status/1408897505799020546" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="So terrifying how people today have zero media literacy. So many people tell me just absolutely wild and untrue lies and conspiracies, when I ask where they got it it’s almost always YouTube." type="tweet" created="Sat, 26 Jun 2021 21:07:36 GMT" tweetId="1408894739923968000" urltweet="https://twitter.com/taylorlorenz/status/1408894739923968000" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="There’s an increasing trend of YTers presenting disinfo and anti media conspiracy theories as “research” or “deep dives” or “investigations.” Of course they’re nothing of the sort, it’s absolutely made up lies or complete twisting of facts, usually for a politicized agenda." type="tweet" created="Sat, 26 Jun 2021 21:10:16 GMT" tweetId="1408895408785432577" urltweet="https://twitter.com/taylorlorenz/status/1408895408785432577" inReplyToId="1408894739923968000" tweetUserName="taylorlorenz" >
 						<outline text="Obviously big notable examples of this are the Plandemic video, but it happens so commonly in the influencer space. Lots of channels masking as “investigators” while presenting biased narratives or pushing conspiracies by mimicking the language of journalism" type="tweet" created="Sat, 26 Jun 2021 21:11:31 GMT" tweetId="1408895725383995393" urltweet="https://twitter.com/taylorlorenz/status/1408895725383995393" inReplyToId="1408895408785432577" tweetUserName="taylorlorenz" >
