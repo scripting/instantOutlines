@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 26 Jun 2021 21:50:05 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 22:06:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="I'm watching the new season of In Treatment. 
+
+I love it even more than the first three seasons, which ended ten years ago.
+
+The star of the fourth season is Uzo Aduba, who was one of the stars of Orange is the New Black. 
+
+She played a nutcase in OITNB. Now she plays a shrink!" type="tweet" created="Sat, 26 Jun 2021 22:05:10 GMT" tweetId="1408909228429938693" urltweet="https://twitter.com/davewiner/status/1408909228429938693" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Scientists excavating Tulsa Race Massacre site unearth skeleton with bullet wounds. https://t.co/35t2rVCnVY" type="tweet" created="Sat, 26 Jun 2021 21:49:22 GMT" tweetId="1408905249818136577" urltweet="https://twitter.com/davewiner/status/1408905249818136577" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This is just a test." type="tweet" created="Sat, 26 Jun 2021 21:10:31 GMT" tweetId="1408895474615074824" urltweet="https://twitter.com/davewiner/status/1408895474615074824" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="this is another test..." type="tweet" created="Sat, 26 Jun 2021 21:11:22 GMT" tweetId="1408895685521514503" urltweet="https://twitter.com/davewiner/status/1408895685521514503" inReplyToId="1408895474615074824" tweetUserName="davewiner" >
