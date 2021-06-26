@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@nakedjen</title>
+		<dateCreated>Sat, 26 Jun 2021 18:54:39 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Sat, 26 Jun 2021 18:54:39 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="All those years I have showed up at weddings #naked.  I've been doing it wrong! #truestory https://t.co/AXviF5p6SM" type="tweet" created="Sat, 26 Jun 2021 18:51:21 GMT" tweetId="1408860450394017800" urltweet="https://twitter.com/nakedjen/status/1408860450394017800" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
+			<outline text="June 23" type="calendarDay" name="23" >
+				<outline text="I signed up for the SCHRUTE FARMS BED &amp;amp; BREAKFAST 5K/10K!  It's like these people have actually met me or something??  
+
+ https://t.co/7CC54h0DEh https://t.co/7CC54h0DEh" type="tweet" created="Wed, 23 Jun 2021 21:22:58 GMT" tweetId="1407811440904261632" urltweet="https://twitter.com/nakedjen/status/1407811440904261632" inReplyToId="" tweetUserName="nakedjen" />
+				<outline text="I have a #NYC phone number.  I received over 30 calls/texts yesterday reminding me to #vote. 
+
+That's a lot of robots." type="tweet" created="Wed, 23 Jun 2021 15:57:03 GMT" tweetId="1407729422304641037" urltweet="https://twitter.com/nakedjen/status/1407729422304641037" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
+			<outline text="June 22" type="calendarDay" name="22" >
+				<outline text="This is perhaps one the BEST things our mayor has done all year. Thank you.  It won't STOP IT because #FREEDOM, but it may help reduce the insanity. https://t.co/LFOyb132or" type="tweet" created="Tue, 22 Jun 2021 21:22:06 GMT" tweetId="1407448838068006916" urltweet="https://twitter.com/nakedjen/status/1407448838068006916" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
+			<outline text="June 20" type="calendarDay" name="20" >
+				<outline text="This. There's a whole lot wrong with the #NBA, but for all its wrongs, this is everything that is right. #Bucks 
+
+https://t.co/wFX3xNXiYf" type="tweet" created="Sun, 20 Jun 2021 19:32:57 GMT" tweetId="1406696592485220356" urltweet="https://twitter.com/nakedjen/status/1406696592485220356" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
+			<outline text="June 17" type="calendarDay" name="17" >
+				<outline text="Sigh. Here we are. Paying nearly $600K for our own slice of #HELL.
+
+https://t.co/CdJ0BtSyoj" type="tweet" created="Thu, 17 Jun 2021 22:31:07 GMT" tweetId="1405654265192796164" urltweet="https://twitter.com/nakedjen/status/1405654265192796164" inReplyToId="" tweetUserName="nakedjen" />
+				<outline text="Just posted a photo @ Natural Law Apothecary https://t.co/77bN6cY6HN" type="tweet" created="Thu, 17 Jun 2021 19:08:22 GMT" tweetId="1405603241996521474" urltweet="https://twitter.com/nakedjen/status/1405603241996521474" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
