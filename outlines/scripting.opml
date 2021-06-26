@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 17:59:13 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 17:59:37 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>6</lastCursor>
+		<lastCursor>7</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
@@ -26,7 +26,7 @@
 				<outline text="This &lt;a href=&quot;https://www.nytimes.com/2021/06/26/sports/basketball/trae-young-hawks-bucks.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohkTlUZBSbORd89sgbBj_HUw7EgjHb6KG-JUz9PivUSHo6PvkfEeql4ItEu1DeAAt9dNbtlDNpD8thiBW0_AQ-5vsnD350fPyQ-rY_0BG4_05-TUeh9_WG3Nyzkeep2ge2z5xvDbGm6Xa3e0nIhdg01soIlIQ_xoQEAxK_DFuB13sAvnqtyQ8AnGkpTIXWCrPLqCB1hOdqZbR666gc-WetRWj-7jsfLovtbM10UUQSaOSs5tWUs69pcOMcVOrL8LnMjfsn_g7YRDA94PaUCOQCAZqGnhKdSiSpsZ2k&amp;smid=url-share&quot;&gt;NYT article&lt;/a&gt; about last night's game between the Bucks and the Hawks is an excellent example. And it's also a demo of the NYT's new sharing technology. The link is a gift, which means I am giving it to you, as a NYT subscriber, I can make 10 articles a month free this way. I love that they had the guts to try this. Trae Young, the devil that beat the Knicks in round 1, got his ass kicked last night. And I love that he's taking it the right way. He has heart. “That’s all on me,” Young said. “I’ve got to be better at taking care of the ball and just do a better job of at least getting us a shot. Nine turnovers. I’ve got to do better, and I will do better next game.”" created="Sat, 26 Jun 2021 17:33:34 GMT" type="outline" />
 				<outline text="I have another idea for the NYT if they like the way this turns out. Let readers pay to move an article outside the paywall permanently. Something like an NFT. For example we collectively give the Times $1 million, to make this article available to everyone for free forever. I wrote this idea up a few years ago, have to find a link." created="Sat, 26 Jun 2021 17:37:07 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;http://scripting.com/images/2021/06/26/uiTimesGift.png&quot;&gt;Screen shot&lt;/a&gt; of the user interface for gifting a NYT article." created="Sat, 26 Jun 2021 17:58:39 GMT" type="outline" />
-				<outline text="Hello World" created="Sat, 26 Jun 2021 17:57:39 GMT" type="outline" inlineImage="http://scripting.com/images/2021/06/26/helloWorld.png" />
+				<outline text="This is a test." created="Sat, 26 Jun 2021 17:57:39 GMT" type="outline" inlineImage="http://scripting.com/images/2021/06/26/helloWorld.png" />
 				</outline>
 			<outline text="June 25" created="Fri, 25 Jun 2021 13:48:43 GMT" type="calendarDay" name="25" >
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1408443453432909824&quot;&gt;Poll&lt;/a&gt;: In your opinion, which website is more likely to be online, with accurate archives of news published today, in 30 years?" created="Fri, 25 Jun 2021 15:19:42 GMT" type="outline" />
