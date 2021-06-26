@@ -12,14 +12,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 16:28:43 GMT</dateModified>
-		<expansionState>1,2,10,16,26,29</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sat, 26 Jun 2021 17:16:26 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
+			<outline text="June 26" created="Sat, 26 Jun 2021 17:02:43 GMT" type="calendarDay" name="26" >
+				<outline text="I have lots of friends, people I otherwise respect, who won't listen to sports stories. But sports is good thing to talk about, and it's probably the same reason they dismiss it -- sports is of no consequence. It isn't real. It's a human-created pseudo-reality. Basketball, to me, is like watching a great chess tournament, with athletic performance and chance playing a bigger role. If you see any meaning in a random event, you've found god. I loved talking with my uncle about this. His Church of the Non-Functional Probabilities. Like an &lt;a href=&quot;http://scripting.com/davenet/1995/04/24/thebaseballgod.html#3&quot;&gt;earthquake&lt;/a&gt; during a World Series game in in 1989. &quot;The gods made a deal. the Baseball God said to the Earthquake God: 'we gotta stop this!'&quot; These gods aren't gods of war, or punishment of individuals, they are charged with keeping things mostly in balance. They are rules to baseball and earthquakes. When chance seems to be making a moral statement, that's god. Just a choice of terminology. You could call it anything really. God is the box we put all our imagined reasons for all the most weird coincidences. 
+" created="Sat, 26 Jun 2021 17:02:44 GMT" type="outline" image="http://scripting.com/images/2021/06/26/baseballScene.png" />
+				</outline>
 			<outline text="June 25" created="Fri, 25 Jun 2021 13:48:43 GMT" type="calendarDay" name="25" >
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1408443453432909824&quot;&gt;Poll&lt;/a&gt;: In your opinion, which website is more likely to be online, with accurate archives of news published today, in 30 years?" created="Fri, 25 Jun 2021 15:19:42 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;http://scripting.com/2021/06/25/theTreeInTheOutdoorAustinBar.m4a&quot;&gt;Podcast&lt;/a&gt;: How much of what's happening around you now can you perceive with your senses?" created="Fri, 25 Jun 2021 16:26:31 GMT" type="outline" enclosure="http://scripting.com/2021/06/25/theTreeInTheOutdoorAustinBar.m4a" enclosureType="audio/mpeg" enclosureLength="3388231" />
