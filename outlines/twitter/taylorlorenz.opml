@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 21:30:45 GMT</dateModified>
+		<dateModified>Sat, 26 Jun 2021 21:39:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
+				<outline text="Coming along well https://t.co/O8Auletx2N" type="tweet" created="Sat, 26 Jun 2021 21:39:08 GMT" tweetId="1408902676830572546" urltweet="https://twitter.com/taylorlorenz/status/1408902676830572546" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Lol literally https://t.co/Vdtn25NKkL" type="tweet" created="Sat, 26 Jun 2021 21:30:32 GMT" tweetId="1408900509826576389" urltweet="https://twitter.com/taylorlorenz/status/1408900509826576389" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Yup 🤦🏻‍♀️ https://t.co/iHSHvBDRBe" type="tweet" created="Sat, 26 Jun 2021 21:30:06 GMT" tweetId="1408900401714253825" urltweet="https://twitter.com/taylorlorenz/status/1408900401714253825" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I totally agree TV news is bad too, it’s just not my realm of expertise. But yeah, there are huge flaws in our entire media ecosystem and people are left turning to randos on the internet to shape their worldview https://t.co/5CVW2NnZ3k" type="tweet" created="Sat, 26 Jun 2021 21:29:47 GMT" tweetId="1408900322685190144" urltweet="https://twitter.com/taylorlorenz/status/1408900322685190144" inReplyToId="" tweetUserName="taylorlorenz" />
