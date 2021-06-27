@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 27 Jun 2021 01:52:52 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 01:54:52 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 26" type="calendarDay" name="26" >
-				<outline text="You know it’s a Quentin Tarantino movie if people talk about tasty beverages." type="tweet" created="Sun, 27 Jun 2021 01:52:07 GMT" tweetId="1408966340917010436" urltweet="https://twitter.com/davewiner/status/1408966340917010436" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="You know it’s a Quentin Tarantino movie if people talk about tasty beverages." type="tweet" created="Sun, 27 Jun 2021 01:52:07 GMT" tweetId="1408966340917010436" urltweet="https://twitter.com/davewiner/status/1408966340917010436" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="For example… https://t.co/aIZl9YLSFv" type="tweet" created="Sun, 27 Jun 2021 01:54:10 GMT" tweetId="1408966854404722691" urltweet="https://twitter.com/davewiner/status/1408966854404722691" inReplyToId="1408966340917010436" tweetUserName="davewiner" />
+					</outline>
 				<outline text="‘Summer of Soul’ Review: In 1969 Harlem, a Music Festival Stuns. #giftlink https://t.co/iwClEzviZT" type="tweet" created="Sun, 27 Jun 2021 01:23:42 GMT" tweetId="1408959190643712000" urltweet="https://twitter.com/davewiner/status/1408959190643712000" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Heinz Mayochup is an awful idea, so I gave it a try, and it’s delicious! https://t.co/ZyeQXLtqj7" type="tweet" created="Sun, 27 Jun 2021 00:52:16 GMT" tweetId="1408951277422317580" urltweet="https://twitter.com/davewiner/status/1408951277422317580" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="My river of bloggers. https://t.co/MgR4O5XeQ0" type="tweet" created="Sat, 26 Jun 2021 22:14:41 GMT" tweetId="1408911620558966787" urltweet="https://twitter.com/davewiner/status/1408911620558966787" inReplyToId="" tweetUserName="davewiner" />
