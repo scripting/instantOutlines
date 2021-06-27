@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 27 Jun 2021 17:54:43 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 18:09:46 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="Record Heat Wave Set To Scorch Pacific Northwest To Southern California. https://t.co/4iBUr0nOpW" type="tweet" created="Sun, 27 Jun 2021 18:08:53 GMT" tweetId="1409212150594297863" urltweet="https://twitter.com/davewiner/status/1409212150594297863" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="There's a difference in trying to trick a computer into doing your thinking, and using a tool that helps organize your thinking so it's more useful to you.
 
 #toolsforthought" type="tweet" created="Sun, 27 Jun 2021 17:54:15 GMT" tweetId="1409208468226121728" urltweet="https://twitter.com/davewiner/status/1409208468226121728" inReplyToId="" tweetUserName="davewiner" />
