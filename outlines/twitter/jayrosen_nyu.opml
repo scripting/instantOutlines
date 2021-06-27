@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 27 Jun 2021 23:03:03 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 23:52:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
-				<outline text="This is a headline live on the @USAToday site now. https://t.co/LkW9tVp1gV Via @_cingraham https://t.co/ikQKUZHtn1" type="tweet" created="Sun, 27 Jun 2021 23:02:40 GMT" tweetId="1409286084895383554" urltweet="https://twitter.com/jayrosen_nyu/status/1409286084895383554" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="This is a headline live on the @USAToday site now. https://t.co/LkW9tVp1gV Via @_cingraham https://t.co/ikQKUZHtn1" type="tweet" created="Sun, 27 Jun 2021 23:02:40 GMT" tweetId="1409286084895383554" urltweet="https://twitter.com/jayrosen_nyu/status/1409286084895383554" inReplyToId="" tweetUserName="jayrosen_nyu" >
+					<outline text="They changed it. https://t.co/Qj6CuuUq6S" type="tweet" created="Sun, 27 Jun 2021 23:51:43 GMT" tweetId="1409298427968733184" urltweet="https://twitter.com/jayrosen_nyu/status/1409298427968733184" inReplyToId="1409286084895383554" tweetUserName="jayrosen_nyu" />
+					</outline>
 				<outline text="Exactly. All in. Which is why measures stronger than fact-checking are needed from journalists. Examples include: Denial of platform. Relentlessly reminding the public what office-holders did on Jan. 6 or to further the Big Lie. Aggressive questioning that never folds or forgets. https://t.co/dpKYDKgzXa" type="tweet" created="Sun, 27 Jun 2021 22:44:44 GMT" tweetId="1409281570352074755" urltweet="https://twitter.com/jayrosen_nyu/status/1409281570352074755" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Tim Lambert is the speaker. Multimedia News Director and Morning Edition host at WITF, the NPR station in Harrisburg, PA. @nprpolitics could follow its local affiliate's lead in accountability reporting https://t.co/2Q4uP93a97 but it has not done so. WITF is out there on its own. https://t.co/yIhj0nwQb2" type="tweet" created="Sun, 27 Jun 2021 20:40:25 GMT" tweetId="1409250287588679681" urltweet="https://twitter.com/jayrosen_nyu/status/1409250287588679681" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;How Wikipedia deals with the lab leak theory may seem trivial. After all, practically every major newspaper, website [and] ex-late night TV host has wrangled with it in the past few months. But there's something uniquely powerful about Wikipedia.&quot; https://t.co/y8SWnk84uJ" type="tweet" created="Sun, 27 Jun 2021 18:59:07 GMT" tweetId="1409224793069604864" urltweet="https://twitter.com/jayrosen_nyu/status/1409224793069604864" inReplyToId="" tweetUserName="jayrosen_nyu" />
