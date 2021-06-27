@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 27 Jun 2021 13:53:10 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 13:56:11 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="When chance seems to be making a moral statement, that's god. God is the box we put all our imagined reasons for the weirdest coincidences. https://t.co/rgkZtpfJg2" type="tweet" created="Sun, 27 Jun 2021 13:55:33 GMT" tweetId="1409148398054391808" urltweet="https://twitter.com/davewiner/status/1409148398054391808" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Bill Barr on Trump's election fraud claims: &quot;It was all bullshit.&quot; https://t.co/v4ahj766eg" type="tweet" created="Sun, 27 Jun 2021 13:53:02 GMT" tweetId="1409147765276426242" urltweet="https://twitter.com/davewiner/status/1409147765276426242" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Great Resignation: Why Millions of Workers Are Quitting Their Jobs. https://t.co/lapmdKVtj4" type="tweet" created="Sun, 27 Jun 2021 07:41:57 GMT" tweetId="1409054376619040769" urltweet="https://twitter.com/davewiner/status/1409054376619040769" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
