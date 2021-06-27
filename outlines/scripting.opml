@@ -12,8 +12,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 27 Jun 2021 17:43:15 GMT</dateModified>
-		<expansionState>1,2,6,8</expansionState>
+		<dateModified>Sun, 27 Jun 2021 17:43:56 GMT</dateModified>
+		<expansionState>1,2,7,9</expansionState>
 		<lastCursor>2</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
@@ -21,6 +21,7 @@
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 27" created="Sun, 27 Jun 2021 14:49:04 GMT" type="calendarDay" name="27" >
+				<outline text="If the Dems played as hard as the Repubs (they should) they'd be running ads in Florida with live images of the crashed building saying: &quot;This is where 25 years of Republican leadership has gotten you.&quot; Love, The Democrats" created="Sun, 27 Jun 2021 17:43:35 GMT" type="outline" />
 				<outline text="I used to read biographies as a kid, loved reading the stories of great people. Now I have trouble getting through them, because I know the truth and the stories in the biographies are not that. As a kid I reveled in gullibility. " created="Sun, 27 Jun 2021 17:43:06 GMT" type="outline" />
 				<outline text="When you see &lt;a href=&quot;http://scripting.com/2021/06/27/154043.html?title=vanGogh&quot;&gt;art&lt;/a&gt; &lt;a href=&quot;http://scripting.com/2021/06/23/161318.html?title=hopper&quot;&gt;on&lt;/a&gt; &lt;a href=&quot;http://scripting.com/2021/06/24/005557.html?title=pissaro&quot;&gt;this&lt;/a&gt; blog or in my &lt;a href=&quot;https://twitter.com/davewiner/status/1409175921291141127&quot;&gt;tweet stream&lt;/a&gt;, it came from the &lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show app&lt;/a&gt;, which is free for you to use. It's also a &lt;a href=&quot;https://github.com/scripting/artDownloader&quot;&gt;repository&lt;/a&gt; you can &lt;a href=&quot;https://github.com/scripting/artDownloader/archive/refs/heads/main.zip&quot;&gt;download&lt;/a&gt; and hook up to your screen saver. " created="Sun, 27 Jun 2021 15:41:38 GMT" type="outline" />
 				<outline text="A slogan for programmers. &quot;Let's see what happens.&quot; An idea pops into my head. I wonder if that could possibly work? Go for it. Other kinds of product designers, engineers, or screen writers, don't have the luxury that we have. Usually we can try something out and see what happens, and if it blows up, you can shrug and say well I guess it doesn't work. Or maybe it does. Or maybe in its failure it'll give you and idea of what might work. But be careful not to risk actual data. I expect this might show up in my &lt;a href=&quot;https://github.com/scripting/utils/blob/679fe7641178a7946f4b8aab806e0360f85f960d/daveutils.js#L828&quot;&gt;snarkySlogans&lt;/a&gt; array. " created="Sun, 27 Jun 2021 15:33:28 GMT" type="outline" />
