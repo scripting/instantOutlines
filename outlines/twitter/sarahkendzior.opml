@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sun, 27 Jun 2021 13:19:04 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 15:04:25 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="What are 5 movies you're confident you've seen at least 10 times?
+
+1. Spaceballs 
+2. Five Easy Pieces
+3. Bill and Ted's Excellent Adventure
+4. Escape From New York
+5. Vertigo https://t.co/66fKZQcYyH" type="tweet" created="Sun, 27 Jun 2021 15:03:26 GMT" tweetId="1409165480666054659" urltweet="https://twitter.com/sarahkendzior/status/1409165480666054659" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="Thread from December 2020 warning of a future effort to rehabilitate Bill Barr and lie about what he’s done, which is happening right now https://t.co/HsRRZhG5pG" type="tweet" created="Sun, 27 Jun 2021 13:05:14 GMT" tweetId="1409135736583077894" urltweet="https://twitter.com/sarahkendzior/status/1409135736583077894" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="More on Bill Barr’s crime spree in the links below. Transcripts of the episodes are at gaslitnationpod dot com https://t.co/XT80fV2MnX" type="tweet" created="Sun, 27 Jun 2021 13:18:49 GMT" tweetId="1409139156014542851" urltweet="https://twitter.com/sarahkendzior/status/1409139156014542851" inReplyToId="1409135736583077894" tweetUserName="sarahkendzior" />
 					</outline>
