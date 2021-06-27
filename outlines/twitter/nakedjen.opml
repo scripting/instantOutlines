@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 18:54:39 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 21:06:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="This morning I did a *run* with @jesskingnyc in my ears and my heart along the entire Pride Parade route in #NYC. It was pure magic. We should be proud to show up exactly as we are https://t.co/3WiOT3SoeF. #loveislove https://t.co/6eaEdH99Pl" type="tweet" created="Sun, 27 Jun 2021 21:06:25 GMT" tweetId="1409256828886601731" urltweet="https://twitter.com/nakedjen/status/1409256828886601731" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
 			<outline text="June 26" type="calendarDay" name="26" >
 				<outline text="All those years I have showed up at weddings #naked.  I've been doing it wrong! #truestory https://t.co/AXviF5p6SM" type="tweet" created="Sat, 26 Jun 2021 18:51:21 GMT" tweetId="1408860450394017800" urltweet="https://twitter.com/nakedjen/status/1408860450394017800" inReplyToId="" tweetUserName="nakedjen" />
 				</outline>
