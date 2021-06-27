@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 27 Jun 2021 20:51:06 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 20:52:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="I’ll be on the team too. Donate to @hchomeless and watch here: https://t.co/PZH8QhwxnF https://t.co/wktOYGf2LA" type="tweet" created="Sun, 27 Jun 2021 20:51:15 GMT" tweetId="1409253014284627969" urltweet="https://twitter.com/taylorlorenz/status/1409253014284627969" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I’m playing Fortnite to benefit https://t.co/b3bPIqSHHU @hchomeless later today w/ @Kofie @mannyfidel @JordanUhl and more. 
 
 You can donate to make us drop our weapons and basically ruin our chances of winning. Donate/watch: https://t.co/PZH8QhwxnF https://t.co/yeXftxnHlN" type="tweet" created="Sun, 27 Jun 2021 20:50:28 GMT" tweetId="1409252817479499783" urltweet="https://twitter.com/taylorlorenz/status/1409252817479499783" inReplyToId="" tweetUserName="taylorlorenz" />
