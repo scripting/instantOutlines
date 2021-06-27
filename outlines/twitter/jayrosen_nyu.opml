@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 27 Jun 2021 19:00:02 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 20:41:25 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="Tim Lambert is the speaker. Multimedia News Director and Morning Edition host at WITF, the NPR station in Harrisburg, PA. @nprpolitics could follow its local affiliate's lead in accountability reporting https://t.co/2Q4uP93a97 but it has not done so. WITF is out there on its own. https://t.co/yIhj0nwQb2" type="tweet" created="Sun, 27 Jun 2021 20:40:25 GMT" tweetId="1409250287588679681" urltweet="https://twitter.com/jayrosen_nyu/status/1409250287588679681" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;How Wikipedia deals with the lab leak theory may seem trivial. After all, practically every major newspaper, website [and] ex-late night TV host has wrangled with it in the past few months. But there's something uniquely powerful about Wikipedia.&quot; https://t.co/y8SWnk84uJ" type="tweet" created="Sun, 27 Jun 2021 18:59:07 GMT" tweetId="1409224793069604864" urltweet="https://twitter.com/jayrosen_nyu/status/1409224793069604864" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="If you have been meaning to inform yourself about the lab leak hypothesis, but were waiting for the right explainer that would lay out the facts minus the ideological warfare, here you go. https://t.co/GzNArbUq5C By @zeynep in her best &quot;what we know/what we don't know&quot; style." type="tweet" created="Sun, 27 Jun 2021 17:16:03 GMT" tweetId="1409198854352875524" urltweet="https://twitter.com/jayrosen_nyu/status/1409198854352875524" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
