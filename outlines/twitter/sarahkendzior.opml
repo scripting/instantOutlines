@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sun, 27 Jun 2021 15:04:25 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 21:28:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="Thread https://t.co/wvXHD9eJKT" type="tweet" created="Sun, 27 Jun 2021 21:28:38 GMT" tweetId="1409262418748903428" urltweet="https://twitter.com/sarahkendzior/status/1409262418748903428" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="What are 5 movies you're confident you've seen at least 10 times?
 
 1. Spaceballs 
