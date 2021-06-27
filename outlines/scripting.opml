@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 27 Jun 2021 15:48:43 GMT</dateModified>
+		<dateModified>Sun, 27 Jun 2021 15:49:16 GMT</dateModified>
 		<expansionState>1,2,5,7</expansionState>
 		<lastCursor>2</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
@@ -21,7 +21,7 @@
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 27" created="Sun, 27 Jun 2021 14:49:04 GMT" type="calendarDay" name="27" >
-				<outline text="When you see art on this blog, it came from the &lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show app&lt;/a&gt;, which is free for you to use. It's also a &lt;a href=&quot;https://github.com/scripting/artDownloader&quot;&gt;repository&lt;/a&gt; you can &lt;a href=&quot;https://github.com/scripting/artDownloader/archive/refs/heads/main.zip&quot;&gt;download&lt;/a&gt; and hook up to your screen saver. " created="Sun, 27 Jun 2021 15:41:38 GMT" type="outline" />
+				<outline text="When you see &lt;a href=&quot;http://scripting.com/2021/06/27/154043.html?title=vanGogh&quot;&gt;art&lt;/a&gt; on this blog, it came from the &lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;Art Show app&lt;/a&gt;, which is free for you to use. It's also a &lt;a href=&quot;https://github.com/scripting/artDownloader&quot;&gt;repository&lt;/a&gt; you can &lt;a href=&quot;https://github.com/scripting/artDownloader/archive/refs/heads/main.zip&quot;&gt;download&lt;/a&gt; and hook up to your screen saver. " created="Sun, 27 Jun 2021 15:41:38 GMT" type="outline" />
 				<outline text="A slogan for programmers. &quot;Let's see what happens.&quot; An idea pops into my head. I wonder if that could possibly work? Go for it. Other kinds of product designers, engineers, or screen writers, don't have the luxury that we have. Usually we can try something out and see what happens, and if it blows up, you can shrug and say well I guess it doesn't work. Or maybe it does. Or maybe in its failure it'll give you and idea of what might work. Or even better. Be careful not to risk data. I expect this might show up in my &lt;a href=&quot;https://github.com/scripting/utils/blob/679fe7641178a7946f4b8aab806e0360f85f960d/daveutils.js#L828&quot;&gt;snarkySlogans&lt;/a&gt; array. " created="Sun, 27 Jun 2021 15:33:28 GMT" type="outline" />
 				<outline text="van Gogh" created="Sun, 27 Jun 2021 15:40:43 GMT" type="outline" >
 					<outline text="&lt;a href=&quot;https://www.moma.org/learn/moma_learning/vincent-van-gogh-portrait-of-joseph-roulin-1889/&quot;&gt;Portrait of the postman Joseph Roulin&lt;/a&gt;, 1889." created="Sun, 27 Jun 2021 14:49:05 GMT" type="outline" inlineImage="http://scripting.com/images/2021/06/27/vanGoghPostman.png" />
