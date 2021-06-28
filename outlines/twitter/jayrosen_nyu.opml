@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 22:02:44 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 22:19:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="Alright. Let’s see what you got, Trustees. https://t.co/jBDrzMTkqt" type="tweet" created="Mon, 28 Jun 2021 22:19:08 GMT" tweetId="1409637518807420935" urltweet="https://twitter.com/jayrosen_nyu/status/1409637518807420935" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="He’s right . You should read it. https://t.co/MOdNkbcWCB" type="tweet" created="Mon, 28 Jun 2021 22:02:04 GMT" tweetId="1409633223999586306" urltweet="https://twitter.com/jayrosen_nyu/status/1409633223999586306" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="This is a great start. Next step: A link to a longer &quot;here's where I'm coming from&quot; page with personal background, any important disclosures, and other view-from-somewhere information. Scroll down on this page to see what I mean. https://t.co/1qoPQlM6rx https://t.co/NbW14CF3fW" type="tweet" created="Mon, 28 Jun 2021 19:08:59 GMT" tweetId="1409589664910962690" urltweet="https://twitter.com/jayrosen_nyu/status/1409589664910962690" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;The UNC-Chapel Hill Board of Trustees will vote on tenure for Nikole Hannah-Jones this week...&quot; https://t.co/lxjKbleRSM
