@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 15:52:13 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 16:39:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="What's different about this piece is that it frames the campaign to flood the zone with shit (in order to undermine the possibility that Americans can share a common set of facts...) as a national security threat. https://t.co/ipVKkGqL8a Recommended." type="tweet" created="Mon, 28 Jun 2021 16:38:58 GMT" tweetId="1409551911964004358" urltweet="https://twitter.com/jayrosen_nyu/status/1409551911964004358" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Read this man's plea. https://t.co/FjIQL1lQJ2" type="tweet" created="Mon, 28 Jun 2021 15:51:23 GMT" tweetId="1409539937133903876" urltweet="https://twitter.com/jayrosen_nyu/status/1409539937133903876" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="June 27" type="calendarDay" name="27" >
