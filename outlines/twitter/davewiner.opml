@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 28 Jun 2021 13:18:51 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 13:35:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="A #toolsforthought story, should work in any outliner.
+
+1. I start my programming day with a new outline entry where I make notes about the first projects I'm going to do Inevitably, I think of next steps, so I note them too." type="tweet" created="Mon, 28 Jun 2021 13:35:07 GMT" tweetId="1409505644374368256" urltweet="https://twitter.com/davewiner/status/1409505644374368256" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2. At the end of the day, I make notes for the next day, so I never have to worry about showing up to work and having no idea of what I'm supposed to do (this happens sometimes)." type="tweet" created="Mon, 28 Jun 2021 13:35:07 GMT" tweetId="1409505645280251905" urltweet="https://twitter.com/davewiner/status/1409505645280251905" inReplyToId="1409505644374368256" tweetUserName="davewiner" >
+						<outline text="3. In the middle, I note anything I might need to remember about the work in the future, similar to the way a doctor takes notes on your chart as they do an exam, or decide on a plan." type="tweet" created="Mon, 28 Jun 2021 13:35:08 GMT" tweetId="1409505646261714949" urltweet="https://twitter.com/davewiner/status/1409505646261714949" inReplyToId="1409505645280251905" tweetUserName="davewiner" />
+						</outline>
+					</outline>
 				<outline text="Covid remains a serious threat to unvaccinated adults, especially those middle-aged or older. https://t.co/GRsFUNDuto" type="tweet" created="Mon, 28 Jun 2021 13:18:42 GMT" tweetId="1409501514025078793" urltweet="https://twitter.com/davewiner/status/1409501514025078793" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Bids soar to $2.8 million for World Wide Web code NFT. https://t.co/O2I5vLqEfd" type="tweet" created="Mon, 28 Jun 2021 11:47:01 GMT" tweetId="1409478440458330112" urltweet="https://twitter.com/davewiner/status/1409478440458330112" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Trump's Situation Room shouting match with Gen. Mark Milley. https://t.co/HdxkJ5GpDq" type="tweet" created="Mon, 28 Jun 2021 11:46:14 GMT" tweetId="1409478243409924098" urltweet="https://twitter.com/davewiner/status/1409478243409924098" inReplyToId="" tweetUserName="davewiner" />
