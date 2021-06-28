@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 17:15:11 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 17:39:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="Meet me by the 6-foot bronze Elon Musk statue in nyc https://t.co/rYWEXE9dMv" type="tweet" created="Mon, 28 Jun 2021 17:38:48 GMT" tweetId="1409566968617734147" urltweet="https://twitter.com/taylorlorenz/status/1409566968617734147" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Are you a print reader? Donate your extra stacks of clean papers to the @wildbirdfund! https://t.co/rHkmSOXCI0" type="tweet" created="Mon, 28 Jun 2021 17:14:22 GMT" tweetId="1409560821546450944" urltweet="https://twitter.com/taylorlorenz/status/1409560821546450944" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="You get a term sheet https://t.co/g6Pd6EceLd" type="tweet" created="Mon, 28 Jun 2021 17:05:55 GMT" tweetId="1409558694778392579" urltweet="https://twitter.com/taylorlorenz/status/1409558694778392579" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Ppl need to understand that &quot;exposing/deep dive&quot; videos almost universally have an agenda, where things are twisted to fit a narrative and all &quot;evidence&quot; is in service of promoting that narrative. These videos mimic the language of reporting but are nothing like actual journalism https://t.co/obZr4PY181" type="tweet" created="Mon, 28 Jun 2021 16:51:35 GMT" tweetId="1409555085827268609" urltweet="https://twitter.com/taylorlorenz/status/1409555085827268609" inReplyToId="" tweetUserName="taylorlorenz" >
