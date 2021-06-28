@@ -12,11 +12,11 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 15:26:31 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 15:46:34 GMT</dateModified>
 		<expansionState>1,2,8,11,17,19</expansionState>
 		<lastCursor>8</lastCursor>
-		<urlInstant>http://instantoutliner.com/0r</urlInstant>
-		<generator>opmltojs v0.4.10</generator>
+		<generator>publishscriptingopml vpublishscriptingopml</generator>
+		<urInstant>http://instantoutliner.com/qk</urInstant>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
