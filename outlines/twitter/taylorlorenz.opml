@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 20:06:55 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 20:42:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="California’s yoga, wellness and spirituality community has a QAnon problem https://t.co/phLE0MRN1B" type="tweet" created="Mon, 28 Jun 2021 20:41:17 GMT" tweetId="1409612892094095365" urltweet="https://twitter.com/taylorlorenz/status/1409612892094095365" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="So impressed with @theinformation @kyurieff really useful Creator Economy startup database. I'm sure they'll be adding lots more as this sector continue to boom https://t.co/6DVeMk8vOo" type="tweet" created="Mon, 28 Jun 2021 20:01:19 GMT" tweetId="1409602833968635911" urltweet="https://twitter.com/taylorlorenz/status/1409602833968635911" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="BI's @arperelli @dwhate @SydneyKBradley @margauxmaccoll have also made some excellent databases/lists that are totally worth the sub! Here's one they did of top investors/VCs in the influencer industry feat @ljin18 @rex_woodbury @conniechan and more! https://t.co/gfHmbbwIkN" type="tweet" created="Mon, 28 Jun 2021 20:06:14 GMT" tweetId="1409604071930044421" urltweet="https://twitter.com/taylorlorenz/status/1409604071930044421" inReplyToId="1409602833968635911" tweetUserName="taylorlorenz" />
 					</outline>
