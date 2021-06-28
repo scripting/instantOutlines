@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 02:25:36 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 04:26:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="Thank you!! https://t.co/5uwABm2DPy" type="tweet" created="Mon, 28 Jun 2021 04:25:33 GMT" tweetId="1409367339531833345" urltweet="https://twitter.com/taylorlorenz/status/1409367339531833345" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="June 27" type="calendarDay" name="27" >
 				<outline text="✌🏻✌🏻✌🏻 https://t.co/BTSxOeVB1F" type="tweet" created="Mon, 28 Jun 2021 02:25:26 GMT" tweetId="1409337112818683904" urltweet="https://twitter.com/taylorlorenz/status/1409337112818683904" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I’ll be on the team too. Donate to @hchomeless and watch here: https://t.co/PZH8QhwxnF https://t.co/wktOYGf2LA" type="tweet" created="Sun, 27 Jun 2021 20:51:15 GMT" tweetId="1409253014284627969" urltweet="https://twitter.com/taylorlorenz/status/1409253014284627969" inReplyToId="" tweetUserName="taylorlorenz" />
