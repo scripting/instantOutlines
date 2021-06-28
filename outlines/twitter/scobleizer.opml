@@ -6,19 +6,27 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 25 Jun 2021 16:14:18 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 23:52:36 GMT</dateModified>
+		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="I have had MANY arguments with experts over decades. They are usually wrong when going through intense change. Only arguing with lawyers is harder. But must be done. 
+
+Every time we go into a new era they argue with me. Where is Wordperfect? The “experts” said it was best." type="tweet" created="Mon, 28 Jun 2021 23:51:37 GMT" tweetId="1409660789976227840" urltweet="https://twitter.com/scobleizer/status/1409660789976227840" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="Now I am arguing with experts in the audio industry. Such arrogance." type="tweet" created="Mon, 28 Jun 2021 23:52:12 GMT" tweetId="1409660938811109377" urltweet="https://twitter.com/scobleizer/status/1409660938811109377" inReplyToId="1409660789976227840" tweetUserName="scobleizer" />
+					</outline>
+				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
 				<outline text="Playing Spatial Audio off of an M1-based Apple Mac sounds way better than using the latest Apple TV.
 
 Here is the kicker: this is true of you Airplay to that same Apple TV.
 
-If you want the best sound you have to play around." type="tweet" created="Fri, 25 Jun 2021 16:07:21 GMT" tweetId="1408456790983905281" urltweet="https://twitter.com/scobleizer/status/1408456790983905281" inReplyToId="" tweetUserName="scobleizer" />
+If you want the best sound you have to play around." type="tweet" created="Fri, 25 Jun 2021 16:07:21 GMT" tweetId="1408456790983905281" urltweet="https://twitter.com/scobleizer/status/1408456790983905281" tweetUserName="scobleizer" />
 				<outline text="Did you know billionaires have 12K screens and pay up to $500 to watch a cinema-release of a movie? (One I was talking to has a theater in their new home. A bunch called about my lights).
 
-Next year Apple’s “Holodeck” (my made-up name for its VR headset) will be way better. https://t.co/AVDJsEFo3l" type="tweet" created="Fri, 25 Jun 2021 10:31:19 GMT" tweetId="1408372225569263618" urltweet="https://twitter.com/scobleizer/status/1408372225569263618" inReplyToId="" tweetUserName="scobleizer" />
+Next year Apple’s “Holodeck” (my made-up name for its VR headset) will be way better. https://t.co/AVDJsEFo3l" type="tweet" created="Fri, 25 Jun 2021 10:31:19 GMT" tweetId="1408372225569263618" urltweet="https://twitter.com/scobleizer/status/1408372225569263618" tweetUserName="scobleizer" />
 				</outline>
 			</outline>
 		</body>
