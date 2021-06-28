@@ -7,13 +7,22 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sat, 26 Jun 2021 17:26:36 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 15:39:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="0.2.1 is just out! Some highlights:
+1. Namespace pages now display with hierarchy
+2. @devonzuegel polished and refactored setting and shortcut UI
+3 @sebasbensu fixed codemirror click issue and improved calc parsing
+4. Improved markdown/org link syntax behavior
+
+full changelog: https://t.co/eMg4Kk2g9v" type="tweet" created="Mon, 28 Jun 2021 15:38:53 GMT" tweetId="1409536792475279363" urltweet="https://twitter.com/logseq/status/1409536792475279363" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 26" type="calendarDay" name="26" >
-				<outline text="Thank you for the kind words! There are many inputs from the community and our contributors, glad to be more useful as a tool. https://t.co/fg6n1HozaP" type="tweet" created="Sat, 26 Jun 2021 17:26:17 GMT" tweetId="1408839044448985091" urltweet="https://twitter.com/logseq/status/1408839044448985091" inReplyToId="" tweetUserName="logseq" />
-				<outline text="😊 thank you! https://t.co/3NVM9gowUc" type="tweet" created="Sat, 26 Jun 2021 17:21:48 GMT" tweetId="1408837916529360896" urltweet="https://twitter.com/logseq/status/1408837916529360896" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Thank you for the kind words! There are many inputs from the community and our contributors, glad to be more useful as a tool. https://t.co/fg6n1HozaP" type="tweet" created="Sat, 26 Jun 2021 17:26:17 GMT" tweetId="1408839044448985091" urltweet="https://twitter.com/logseq/status/1408839044448985091" tweetUserName="logseq" />
+				<outline text="😊 thank you! https://t.co/3NVM9gowUc" type="tweet" created="Sat, 26 Jun 2021 17:21:48 GMT" tweetId="1408837916529360896" urltweet="https://twitter.com/logseq/status/1408837916529360896" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
 				<outline text="Thanks! https://t.co/0aziXfDl34" type="tweet" created="Fri, 25 Jun 2021 07:10:52 GMT" tweetId="1408321780276625408" urltweet="https://twitter.com/logseq/status/1408321780276625408" tweetUserName="logseq" />
