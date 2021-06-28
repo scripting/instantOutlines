@@ -12,16 +12,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 19:16:35 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 19:33:13 GMT</dateModified>
 		<expansionState>1,2,10,13,19,21</expansionState>
-		<lastCursor>8</lastCursor>
+		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urInstant>http://instantoutliner.com/qk</urInstant>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 28" created="Mon, 28 Jun 2021 13:20:50 GMT" type="calendarDay" name="28" >
-				<outline text="Working my way through Season 4 of In Treatment. I wish they'd spend less time on the story and problems of the therapist. " created="Mon, 28 Jun 2021 14:11:42 GMT" type="outline" />
+				<outline text="Working my way through Season 4 of In Treatment. I wish they'd spend less time on the story and problems of the therapist. " created="Mon, 28 Jun 2021 14:11:42 GMT" type="outline" image="http://scripting.com/images/2011/06/28/elephant.jpg" />
 				<outline text="Last night's &lt;a href=&quot;https://nypost.com/2021/06/27/bucks-top-hawks-trae-young-hurts-ankle-by-stepping-on-ref/&quot;&gt;playoff game&lt;/a&gt; was weird. I went in thinking I wanted Atlanta to win, but it turned out I actually was rooting for Milwaukee, who won again, decisively.  " created="Mon, 28 Jun 2021 14:15:13 GMT" type="outline" />
 				<outline text="There should be a limit on the number of times a team can foul one player. When a team exceeds the limit, the team being fouled gets to choose a player on the fouling team who is fouled out of the game. Do it again, lose another player. &lt;a href=&quot;https://en.wikipedia.org/wiki/Hack-a-Shaq&quot;&gt;Hack-A-Shaq&lt;/a&gt; isn't good for the game. There's no reason a power dunker like &lt;a href=&quot;https://en.wikipedia.org/wiki/Giannis_Antetokounmpo&quot;&gt;Giannis&lt;/a&gt; has to be a good foul shooter. " created="Mon, 28 Jun 2021 14:15:52 GMT" type="outline" />
 				<outline text="I start my programming day with a new outline entry where I make notes about the first projects I'm going to do as I start working on code. Inevitably, I think of next steps, so I note them too. At the end of the day, I make notes for the next day, so I never have to worry about showing up to work and having no idea of what I'm supposed to do (this happens sometimes). In the middle, I note anything I might need to remember about the work in teh future, similar to the way a doctor takes notes on your chart as they do an exam, or decide on a plan. " created="Mon, 28 Jun 2021 13:20:51 GMT" type="outline" />
