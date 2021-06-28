@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 15:46:34 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 16:11:48 GMT</dateModified>
 		<expansionState>1,2,8,11,17,19</expansionState>
 		<lastCursor>8</lastCursor>
 		<generator>publishscriptingopml vpublishscriptingopml</generator>
@@ -27,7 +27,7 @@
 				<outline text="I start my programming day with a new outline entry where I make notes about the first projects I'm going to do as I start working on code. Inevitably, I think of next steps, so I note them too. At the end of the day, I make notes for the next day, so I never have to worry about showing up to work and having no idea of what I'm supposed to do (this happens sometimes). In the middle, I note anything I might need to remember about the work in teh future, similar to the way a doctor takes notes on your chart as they do an exam, or decide on a plan. " created="Mon, 28 Jun 2021 13:20:51 GMT" type="outline" />
 				<outline text="This is an interesting time in the &quot;Drummer&quot; project. I'm deep in InstantOutlineLand, this time doing lots of documenting, sample code writing, and developing flows of automatically updating outlines so we have something to test against. Not too different from the initial development for various other projects, such as podcasting. You need to do all the chickens and eggs if you want a new protocol to develop." created="Mon, 28 Jun 2021 13:22:09 GMT" type="outline" />
 				<outline text="Doc Searls" created="Mon, 28 Jun 2021 15:23:49 GMT" type="outline" metaImage="http://scripting.com/images/2021/06/28/babyDoc.png" description="Doc, as a boy, with his dog, on summer vaction." >
-					<outline text="&lt;a href=&quot;http://twitter.com/dsearls&quot;&gt;Doc&lt;/a&gt;, as a boy, with his dog, on summer vaction. " created="Mon, 28 Jun 2021 15:23:53 GMT" inlineImage="http://scripting.com/images/2021/06/28/babyDoc.png" />
+					<outline text="&lt;a href=&quot;http://twitter.com/dsearls&quot;&gt;Doc&lt;/a&gt;, as a boy, with his dog, on summer vaction." created="Mon, 28 Jun 2021 15:23:53 GMT" inlineImage="http://scripting.com/images/2021/06/28/babyDoc.png" />
 					</outline>
 				<outline text="Paycasts?" created="Mon, 28 Jun 2021 13:57:11 GMT" type="outline" description="It's kind of a shame Apple didn't do something creative with their pricing for podcasts." metaImage="http://scripting.com/images/2021/06/28/parisStreetScene.png" >
 					<outline text="It's kind of a shame Apple didn't do something creative with their pricing for podcasts.   " created="Mon, 28 Jun 2021 13:57:24 GMT" />
