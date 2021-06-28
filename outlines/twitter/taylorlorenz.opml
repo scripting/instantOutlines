@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 15:56:54 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 16:48:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="How YouTube’s rules are used to silence human rights activists https://t.co/HJoXXLSh19" type="tweet" created="Mon, 28 Jun 2021 16:47:25 GMT" tweetId="1409554037037404164" urltweet="https://twitter.com/taylorlorenz/status/1409554037037404164" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Setting an auto responder to, no you can not have 30 min on my calendar" type="tweet" created="Mon, 28 Jun 2021 15:55:53 GMT" tweetId="1409541070849904643" urltweet="https://twitter.com/taylorlorenz/status/1409541070849904643" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is a must read https://t.co/dDJX2BJFPo" type="tweet" created="Mon, 28 Jun 2021 15:48:32 GMT" tweetId="1409539220213960708" urltweet="https://twitter.com/taylorlorenz/status/1409539220213960708" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Thank you!! https://t.co/5uwABm2DPy" type="tweet" created="Mon, 28 Jun 2021 04:25:33 GMT" tweetId="1409367339531833345" urltweet="https://twitter.com/taylorlorenz/status/1409367339531833345" inReplyToId="" tweetUserName="taylorlorenz" />
