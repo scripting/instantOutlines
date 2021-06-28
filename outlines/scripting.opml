@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 14:09:31 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 14:11:18 GMT</dateModified>
 		<expansionState>1,2,5,13,19,21</expansionState>
-		<lastCursor>5</lastCursor>
+		<lastCursor>6</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
@@ -25,7 +25,7 @@
 				<outline text="This is an interesting time in the &quot;Drummer&quot;project. I'm deep in InstantOutlineLand, this time doing lots of documenting, sample code writing, and developing flows of automatically updating outlines so we have something to test against. Not too different from the initial development for various other projects, such as podcasting. You need to do all the chickens and eggs if you want a new protocol to develop." created="Mon, 28 Jun 2021 13:22:09 GMT" type="outline" />
 				<outline text="Paycasts?" created="Mon, 28 Jun 2021 13:57:11 GMT" type="outline" description="It's kind of a shame Apple didn't do something creative with their pricing for podcasts." metaImage="http://scripting.com/images/2021/06/28/parisStreetScene.png" >
 					<outline text="It's kind of a shame Apple didn't do something creative with their pricing for podcasts.  " created="Mon, 28 Jun 2021 13:57:24 GMT" image="http://scripting.com/images/2021/06/28/flower.png" />
-					<outline text="First, pricing for podcasts, as they have implemented it, is awkward and confusing, as evidenced by the way NPR did it. The pricing is voluntary, according to their press release. You can still listen if you don't subscribe (for money). Not sure how it could work otherwise. Would NPR want to transition Fresh Air, one of the founding podcasts? It's kind of like the Meet The Press of podcasting. " created="Mon, 28 Jun 2021 13:57:34 GMT" />
+					<outline text="First, pricing for podcasts, as they have implemented it, is awkward and confusing, as evidenced by the way NPR did it. The pricing is voluntary, according to their &lt;a href=&quot;https://www.npr.org/sections/npr-extra/2021/06/15/1006687574/support-your-favorite-npr-podcasts-with-apple-podcasts-subscriptions&quot;&gt;press release&lt;/a&gt;. You can still listen if you don't subscribe (for money). Not sure how it could work otherwise. Would NPR want to transition Fresh Air, one of the founding podcasts? It's kind of like the Meet The Press of podcasting. " created="Mon, 28 Jun 2021 13:57:34 GMT" />
 					<outline text="But, what if there were something new, call it a &lt;i&gt;paycast&lt;/i&gt; perhaps, where you pay per episode. Maybe $1 per. Flat price, everything costs the same, at least at first. Keep it simple and easy to understand. " created="Mon, 28 Jun 2021 13:58:22 GMT" />
 					<outline text="You need a special app so there's no confusion about what's what. " />
 					<outline text="It's tied to your credit card. Every time you listen to at least 5 minutes of a podcast, you pay. Put a warning beep at 4 minutes 45 seconds." created="Mon, 28 Jun 2021 13:58:37 GMT" />
