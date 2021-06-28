@@ -7,10 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 28 Jun 2021 01:58:46 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 11:40:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="Are you an Amazon Prime subscriber?" type="tweet" created="Mon, 28 Jun 2021 11:40:19 GMT" tweetId="1409476754536898563" urltweet="https://twitter.com/davewiner/status/1409476754536898563" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Amazon Prime Day Is Dystopian. https://t.co/Fsyu4xCwa6" type="tweet" created="Mon, 28 Jun 2021 11:39:49 GMT" tweetId="1409476627394875392" urltweet="https://twitter.com/davewiner/status/1409476627394875392" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="June 27" type="calendarDay" name="27" >
 				<outline text="Remember when you were a kid and your mom used to say dorky things about how it didn't matter if other people liked you, because she liked you. You'd say &quot;Oh mommmm, I know that.&quot; https://t.co/0WMO3Sw15R" type="tweet" created="Mon, 28 Jun 2021 01:58:34 GMT" tweetId="1409330352070463488" urltweet="https://twitter.com/davewiner/status/1409330352070463488" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I actually saw Shaq in Miami in January 2005. 
