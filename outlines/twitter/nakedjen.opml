@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 27 Jun 2021 21:23:34 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 18:11:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="#VenmoMe @Jennifer-Neal-20 https://t.co/h7aRAHeRF7" type="tweet" created="Mon, 28 Jun 2021 18:11:21 GMT" tweetId="1409575159866920961" urltweet="https://twitter.com/nakedjen/status/1409575159866920961" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
 			<outline text="June 27" type="calendarDay" name="27" >
 				<outline text=".@onepeloton when are the VR headsets coming?  During my run this morning, I also thought: Imagine being on the bike, but *riding* this route with @jesskingnyc and sharing all the #joy and PRIDE. xo" type="tweet" created="Sun, 27 Jun 2021 21:22:48 GMT" tweetId="1409260953141530626" urltweet="https://twitter.com/nakedjen/status/1409260953141530626" inReplyToId="" tweetUserName="nakedjen" />
 				<outline text="This morning I did a *run* with @jesskingnyc in my ears and my heart along the entire Pride Parade route in #NYC. It was pure magic. We should be proud to show up exactly as we are https://t.co/3WiOT3SoeF. #loveislove https://t.co/6eaEdH99Pl" type="tweet" created="Sun, 27 Jun 2021 21:06:25 GMT" tweetId="1409256828886601731" urltweet="https://twitter.com/nakedjen/status/1409256828886601731" inReplyToId="" tweetUserName="nakedjen" />
