@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 28 Jun 2021 16:35:18 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 16:39:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="I believe more than ever that twitter is a writers platform." type="tweet" created="Mon, 28 Jun 2021 16:39:14 GMT" tweetId="1409551978364129285" urltweet="https://twitter.com/davewiner/status/1409551978364129285" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This article is very puzzling. They don't say why the athlete felt she was set up by the playing of the national anthem. I'm not saying anyone is right or wrong, how could you when they didn't explain. 
 https://t.co/lX6U7uN0MP" type="tweet" created="Mon, 28 Jun 2021 16:21:41 GMT" tweetId="1409547563217326083" urltweet="https://twitter.com/davewiner/status/1409547563217326083" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="A quick search reveals that the author of the song was a slave-holder, and the &quot;land of the free&quot; part is an insult to black Americans whose ancestors were most certainly not free. Also Francis Scott Keys was himself a slave holder.
