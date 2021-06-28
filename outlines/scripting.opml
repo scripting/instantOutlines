@@ -12,23 +12,23 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 15:24:55 GMT</dateModified>
-		<expansionState>1,2,3,11,17,19</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Mon, 28 Jun 2021 15:26:04 GMT</dateModified>
+		<expansionState>1,2,8,11,17,19</expansionState>
+		<lastCursor>7</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 28" created="Mon, 28 Jun 2021 13:20:50 GMT" type="calendarDay" name="28" >
-				<outline text="Doc Searls" created="Mon, 28 Jun 2021 15:23:49 GMT" type="outline" >
-					<outline text="&lt;a href=&quot;http://twitter.com/dsearls&quot;&gt;Doc&lt;/a&gt;, as a boy, with his dog, on summer vaction." created="Mon, 28 Jun 2021 15:23:53 GMT" inlineImage="http://scripting.com/images/2021/06/28/babyDoc.png" />
-					</outline>
 				<outline text="Working my way through Season 4 of In Treatment. I wish they'd spend less time on the story and problems of the therapist. " created="Mon, 28 Jun 2021 14:11:42 GMT" type="outline" />
 				<outline text="Last night's &lt;a href=&quot;https://nypost.com/2021/06/27/bucks-top-hawks-trae-young-hurts-ankle-by-stepping-on-ref/&quot;&gt;playoff game&lt;/a&gt; was weird. I went in thinking I wanted Atlanta to win, but it turned out I actually was rooting for Milwaukee, who won again, decisively. " created="Mon, 28 Jun 2021 14:15:13 GMT" type="outline" />
 				<outline text="There should be a limit on the number of times a team can foul one player. When a team exceeds the limit, the team being fouled gets to choose a player on the fouling team who is fouled out of the game. Do it again, lose another player. &lt;a href=&quot;https://en.wikipedia.org/wiki/Hack-a-Shaq&quot;&gt;Hack-A-Shaq&lt;/a&gt; isn't good for the game. There's no reason a power dunker like &lt;a href=&quot;https://en.wikipedia.org/wiki/Giannis_Antetokounmpo&quot;&gt;Giannis&lt;/a&gt; has to be a good foul shooter. " created="Mon, 28 Jun 2021 14:15:52 GMT" type="outline" />
 				<outline text="I start my programming day with a new outline entry where I make notes about the first projects I'm going to do as I start working on code. Inevitably, I think of next steps, so I note them too. At the end of the day, I make notes for the next day, so I never have to worry about showing up to work and having no idea of what I'm supposed to do (this happens sometimes). In the middle, I note anything I might need to remember about the work in teh future, similar to the way a doctor takes notes on your chart as they do an exam, or decide on a plan. " created="Mon, 28 Jun 2021 13:20:51 GMT" type="outline" />
 				<outline text="This is an interesting time in the &quot;Drummer&quot; project. I'm deep in InstantOutlineLand, this time doing lots of documenting, sample code writing, and developing flows of automatically updating outlines so we have something to test against. Not too different from the initial development for various other projects, such as podcasting. You need to do all the chickens and eggs if you want a new protocol to develop." created="Mon, 28 Jun 2021 13:22:09 GMT" type="outline" />
+				<outline text="Doc Searls" created="Mon, 28 Jun 2021 15:23:49 GMT" type="outline" metaImage="http://scripting.com/images/2021/06/28/babyDoc.png" description="Doc, as a boy, with his dog, on summer vaction." >
+					<outline text="&lt;a href=&quot;http://twitter.com/dsearls&quot;&gt;Doc&lt;/a&gt;, as a boy, with his dog, on summer vaction." created="Mon, 28 Jun 2021 15:23:53 GMT" inlineImage="http://scripting.com/images/2021/06/28/babyDoc.png" />
+					</outline>
 				<outline text="Paycasts?" created="Mon, 28 Jun 2021 13:57:11 GMT" type="outline" description="It's kind of a shame Apple didn't do something creative with their pricing for podcasts." metaImage="http://scripting.com/images/2021/06/28/parisStreetScene.png" >
 					<outline text="It's kind of a shame Apple didn't do something creative with their pricing for podcasts.   " created="Mon, 28 Jun 2021 13:57:24 GMT" />
 					<outline text="First, pricing for podcasts, as they have implemented it, is awkward and confusing, as evidenced by the way NPR did it. The pricing is voluntary, according to their &lt;a href=&quot;https://www.npr.org/sections/npr-extra/2021/06/15/1006687574/support-your-favorite-npr-podcasts-with-apple-podcasts-subscriptions&quot;&gt;press release&lt;/a&gt;. You can still listen if you don't subscribe (for money). Not sure how it could work otherwise. Would NPR want to transition Fresh Air, one of the founding podcasts? It's kind of like the Meet The Press of podcasting. " created="Mon, 28 Jun 2021 13:57:34 GMT" image="http://scripting.com/images/2021/06/28/flower.png" />
