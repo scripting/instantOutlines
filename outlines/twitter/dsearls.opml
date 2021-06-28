@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 13:38:57 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 14:54:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="@RuffTimo says here https://t.co/c2dpV0t9MG that the EU's new #wallet https://t.co/Yc28HuZ4ow will be huge for #SSI. Anyone have first (eu) sources for that announcement and tech implementation plans?" type="tweet" created="Mon, 28 Jun 2021 14:53:17 GMT" tweetId="1409525315341275148" urltweet="https://twitter.com/dsearls/status/1409525315341275148" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="I just re-logged in to Twitter through my @digime app. The flag @twitter sent me to review the login said I was in Staten Island rather than at the north end of Manhattan. This is no big deal, but does identify a feature of (rather than a bug in) how the Net's innards work." type="tweet" created="Mon, 28 Jun 2021 13:38:13 GMT" tweetId="1409506422463860737" urltweet="https://twitter.com/dsearls/status/1409506422463860737" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="I want a virtual (mirrored? replica'd?) phone on my computer, so I have an easier place to run all the useful apps that are only on phones." type="tweet" created="Mon, 28 Jun 2021 13:32:05 GMT" tweetId="1409504879920529410" urltweet="https://twitter.com/dsearls/status/1409504879920529410" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
