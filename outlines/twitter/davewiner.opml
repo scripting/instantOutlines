@@ -7,11 +7,24 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 28 Jun 2021 13:35:53 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 14:10:58 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="1/9 It's kind of a shame Apple didn't do something creative with their pricing for podcasts." type="tweet" created="Mon, 28 Jun 2021 14:10:30 GMT" tweetId="1409514548357386240" urltweet="https://twitter.com/davewiner/status/1409514548357386240" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2/9 First, pricing for podcasts, as they have implemented it, is awkward and confusing, as evidenced by the way NPR did it. The pricing is voluntary, according to their press release. You can still listen if you don't subscribe (for money). Not sure how it could work otherwise." type="tweet" created="Mon, 28 Jun 2021 14:10:34 GMT" tweetId="1409514565000368129" urltweet="https://twitter.com/davewiner/status/1409514565000368129" inReplyToId="1409514548357386240" tweetUserName="davewiner" >
+						<outline text="3/9 Would NPR want to transition Fresh Air, one of the founding podcasts?" type="tweet" created="Mon, 28 Jun 2021 14:10:38 GMT" tweetId="1409514581781778442" urltweet="https://twitter.com/davewiner/status/1409514581781778442" inReplyToId="1409514565000368129" tweetUserName="davewiner" >
+							<outline text="4/9 But, what if there were something new, call it a &amp;lt;i&amp;gt;paycast&amp;lt;/i&amp;gt; perhaps, where you pay per episode. Maybe $1 per. Flat price, everything costs the same, at least at first. Keep it simple and easy to understand." type="tweet" created="Mon, 28 Jun 2021 14:10:42 GMT" tweetId="1409514599385346053" urltweet="https://twitter.com/davewiner/status/1409514599385346053" inReplyToId="1409514581781778442" tweetUserName="davewiner" >
+								<outline text="5/9 You need a special app so there's no confusion about what's what." type="tweet" created="Mon, 28 Jun 2021 14:10:46 GMT" tweetId="1409514616250634240" urltweet="https://twitter.com/davewiner/status/1409514616250634240" inReplyToId="1409514599385346053" tweetUserName="davewiner" >
+									<outline text="6/9 It's tied to your credit card. Every time you listen to at least 5 minutes of a podcast, you pay. Put a warning beep at 4 minutes 45 seconds." type="tweet" created="Mon, 28 Jun 2021 14:10:50 GMT" tweetId="1409514633925365763" urltweet="https://twitter.com/davewiner/status/1409514633925365763" inReplyToId="1409514616250634240" tweetUserName="davewiner" >
+										<outline text="7/9 I would love to try this out because I'm pretty sure this is the way web news will ultimately work, and there is no pricing model for podcasts, therefore nothing to displace, unless you consider ads a model, see below. As long as we're trying something new, might as well try" type="tweet" created="Mon, 28 Jun 2021 14:10:55 GMT" tweetId="1409514654032932865" urltweet="https://twitter.com/davewiner/status/1409514654032932865" inReplyToId="1409514633925365763" tweetUserName="davewiner" />
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="A #toolsforthought story, should work in any outliner.
 
 1. I start my programming day with a new outline entry where I make notes about the first projects I'm going to do Inevitably, I think of next steps, so I note them too." type="tweet" created="Mon, 28 Jun 2021 13:35:07 GMT" tweetId="1409505644374368256" urltweet="https://twitter.com/davewiner/status/1409505644374368256" inReplyToId="" tweetUserName="davewiner" >
