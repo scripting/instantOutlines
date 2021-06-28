@@ -12,14 +12,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 27 Jun 2021 17:50:51 GMT</dateModified>
-		<expansionState>1,2,8,10</expansionState>
+		<dateModified>Mon, 28 Jun 2021 13:25:04 GMT</dateModified>
+		<expansionState>1,2,5,11,13</expansionState>
 		<lastCursor>3</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
+			<outline text="June 28" created="Mon, 28 Jun 2021 13:20:50 GMT" type="calendarDay" name="28" >
+				<outline text="I start my programming day with a new outline entry where I make notes about the first projects I'm going to do. Inevitably, I think of others, so I note them too. At the end of the day, I make some notes for the next day, so I never have to worry about showing up to work and having no idea of what I'm supposed to do (this happens sometimes). " created="Mon, 28 Jun 2021 13:20:51 GMT" type="outline" />
+				<outline text="This is an interesting time in the &quot;Drummer&quot;project. I'm deep in InstantOutlineLand, this time doing lots of documenting, sample code writing, and developing flows of automatically updating outlines so we have something to test against. Not too different from the initial development for various other projects, such as podcasting. You need to do all the chickens and eggs if you want a new protocol to develop." created="Mon, 28 Jun 2021 13:22:09 GMT" type="outline" />
+				</outline>
 			<outline text="June 27" created="Sun, 27 Jun 2021 14:49:04 GMT" type="calendarDay" name="27" >
 				<outline text="&lt;a href=&quot;https://www.heinz.com/product/00013000013093&quot;&gt;Heinz Mayochup&lt;/a&gt; is an awful idea, so I gave it a try, and it’s delicious!" created="Sun, 27 Jun 2021 17:48:26 GMT" type="outline" />
 				<outline text="If the Dems played as hard as the Repubs (they should) they'd be running ads in Florida with live images of the &lt;a href=&quot;http://scripting.com/images/2021/06/27/crashedBuilding.png&quot;&gt;crashed building&lt;/a&gt; saying: &quot;This is where 25 years of Republican leadership has gotten you.&quot; Love, The Democrats" created="Sun, 27 Jun 2021 17:43:35 GMT" type="outline" image="http://scripting.com/images/2021/06/27/mayochup.png" />
