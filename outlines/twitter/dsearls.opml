@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 26 Jun 2021 19:57:53 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 13:32:56 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="I want a virtual (mirrored? replica'd?) phone on my computer, so I have an easier place to run all the useful apps that are only on phones." type="tweet" created="Mon, 28 Jun 2021 13:32:05 GMT" tweetId="1409504879920529410" urltweet="https://twitter.com/dsearls/status/1409504879920529410" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="June 26" type="calendarDay" name="26" >
 				<outline text="A visit to the site of the historic Marconi wireless station on Cape Cod. https://t.co/eI2aAylRO1" type="tweet" created="Sat, 26 Jun 2021 19:57:16 GMT" tweetId="1408877039961190405" urltweet="https://twitter.com/dsearls/status/1408877039961190405" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
