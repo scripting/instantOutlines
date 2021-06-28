@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 18:14:29 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 19:11:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="There are actually several LLCs called Instagram Husband or some version of that I'm sorry to report 😅 https://t.co/hQLdCJgvro https://t.co/cdWOclw5RZ" type="tweet" created="Mon, 28 Jun 2021 19:10:53 GMT" tweetId="1409590142864486401" urltweet="https://twitter.com/taylorlorenz/status/1409590142864486401" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Meet me by the 6-foot bronze Elon Musk statue in nyc https://t.co/rYWEXE9dMv" type="tweet" created="Mon, 28 Jun 2021 17:38:48 GMT" tweetId="1409566968617734147" urltweet="https://twitter.com/taylorlorenz/status/1409566968617734147" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Bidding 1 zillion dollars so I can ship this statue to @kenklippenstein's living room  https://t.co/sjk70ZN1hh" type="tweet" created="Mon, 28 Jun 2021 18:13:29 GMT" tweetId="1409575696322600962" urltweet="https://twitter.com/taylorlorenz/status/1409575696322600962" inReplyToId="1409566968617734147" tweetUserName="taylorlorenz" />
 					</outline>
