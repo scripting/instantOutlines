@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 13:27:10 GMT</dateModified>
-		<expansionState>1,2,5,11,13</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 28 Jun 2021 14:03:28 GMT</dateModified>
+		<expansionState>1,2,5,13,19,21</expansionState>
+		<lastCursor>10</lastCursor>
 		<urlInstant>http://instantoutliner.com/0r</urlInstant>
 		<generator>opmltojs v0.4.10</generator>
 		</head>
@@ -23,6 +23,15 @@
 			<outline text="June 28" created="Mon, 28 Jun 2021 13:20:50 GMT" type="calendarDay" name="28" >
 				<outline text="I start my programming day with a new outline entry where I make notes about the first projects I'm going to do as I start working on code. Inevitably, I think of next steps, so I note them too. At the end of the day, I make notes for the next day, so I never have to worry about showing up to work and having no idea of what I'm supposed to do (this happens sometimes). In the middle, I note anything I might need to remember about the work in teh future, similar to the way a doctor takes notes on your chart as they do an exam, or decide on a plan. " created="Mon, 28 Jun 2021 13:20:51 GMT" type="outline" />
 				<outline text="This is an interesting time in the &quot;Drummer&quot;project. I'm deep in InstantOutlineLand, this time doing lots of documenting, sample code writing, and developing flows of automatically updating outlines so we have something to test against. Not too different from the initial development for various other projects, such as podcasting. You need to do all the chickens and eggs if you want a new protocol to develop." created="Mon, 28 Jun 2021 13:22:09 GMT" type="outline" />
+				<outline text="Paycasts?" created="Mon, 28 Jun 2021 13:57:11 GMT" type="outline" >
+					<outline text="It's kind of a shame Apple didn't do something creative with their pricing for podcasts. " created="Mon, 28 Jun 2021 13:57:24 GMT" />
+					<outline text="First, pricing for podcasts, as they have implemented it, is awkward and confusing, as evidenced by the way NPR did it. The pricing is voluntary, according to their press release. You can still listen if you don't subscribe (for money). Not sure how it could work otherwise. Would NPR want to transition Fresh Air, one of the founding podcasts? It's kind of like the Meet The Press of podcasting. " created="Mon, 28 Jun 2021 13:57:34 GMT" />
+					<outline text="But, what if there were something new, call it a &lt;i&gt;paycast&lt;/i&gt; perhaps, where you pay per episode. Maybe $1 per. Flat price, everything costs the same, at least at first. Keep it simple and easy to understand. " created="Mon, 28 Jun 2021 13:58:22 GMT" />
+					<outline text="You need a special app so there's no confusion about what's what. " />
+					<outline text="It's tied to your credit card. Every time you listen to at least 5 minutes of a podcast, you pay. Put a warning beep at 4 minutes 45 seconds." created="Mon, 28 Jun 2021 13:58:37 GMT" />
+					<outline text="I would love to try this out because I'm pretty sure this is the way web news will ultimately work, and there is no pricing model for podcasts, therefore nothing to displace, unless you consider ads a model, see below. As long as we're trying something new, might as well try something better than what's already out there, from the point of view of users (we're the ones with your money in our pockets)." created="Mon, 28 Jun 2021 13:58:37 GMT" />
+					<outline text="And btw, no ads please. Ads in podcasts really suck, esp the ones at the beginning. I almost never make it through the ads. " />
+					</outline>
 				</outline>
 			<outline text="June 27" created="Sun, 27 Jun 2021 14:49:04 GMT" type="calendarDay" name="27" >
 				<outline text="&lt;a href=&quot;https://www.heinz.com/product/00013000013093&quot;&gt;Heinz Mayochup&lt;/a&gt; is an awful idea, so I gave it a try, and it’s delicious!" created="Sun, 27 Jun 2021 17:48:26 GMT" type="outline" />
