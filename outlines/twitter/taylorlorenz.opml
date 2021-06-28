@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 28 Jun 2021 19:36:49 GMT</dateModified>
+		<dateModified>Mon, 28 Jun 2021 19:37:49 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="There's no such thing as a coincidence, the fact that you're reading this tweet means you're energetically aligned with me and this message" type="tweet" created="Mon, 28 Jun 2021 19:37:11 GMT" tweetId="1409596761098768393" urltweet="https://twitter.com/taylorlorenz/status/1409596761098768393" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Let him do it https://t.co/Vpa8LCIGeb" type="tweet" created="Mon, 28 Jun 2021 19:36:46 GMT" tweetId="1409596654089478145" urltweet="https://twitter.com/taylorlorenz/status/1409596654089478145" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@kathrynfiona on the digital-media-to-Netflix pipeline and more https://t.co/Ut5UpG4iBG" type="tweet" created="Mon, 28 Jun 2021 19:28:57 GMT" tweetId="1409594688588365824" urltweet="https://twitter.com/taylorlorenz/status/1409594688588365824" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Only in the past year has the tech industry as a whole started to recognize influencers as businesses (and many still have sexist notions &quot;influencer&quot; is vs &quot;creator,&quot; which are the same thing). I think as the space continues to grow in terms of $ more ppl will recognize it! https://t.co/iEoocBC5ng" type="tweet" created="Mon, 28 Jun 2021 19:21:32 GMT" tweetId="1409592821804244997" urltweet="https://twitter.com/taylorlorenz/status/1409592821804244997" inReplyToId="" tweetUserName="taylorlorenz" />
