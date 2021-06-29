@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 21:31:15 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 21:32:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
-				<outline text="No offense please here, but seeing a few takes like this online and *this* is the “worst kind of tech “criticism”. It’s just as important to cover labor issues and exploitation when women are the bosses as when men are. https://t.co/OBf97i7yV4" type="tweet" created="Tue, 29 Jun 2021 21:30:32 GMT" tweetId="1409987676271366151" urltweet="https://twitter.com/taylorlorenz/status/1409987676271366151" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="No offense please here, but seeing a few takes like this online and *this* is the “worst kind of tech “criticism”. It’s just as important to cover labor issues and exploitation when women are the bosses as when men are. https://t.co/OBf97i7yV4" type="tweet" created="Tue, 29 Jun 2021 21:30:32 GMT" tweetId="1409987676271366151" urltweet="https://twitter.com/taylorlorenz/status/1409987676271366151" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="I do agree with Paul on this, there are a million male Holmes. The solution isn’t to allow women to exploit more people, it’s to hold the men doing the same things as accountable. https://t.co/Qzh4xR33kf" type="tweet" created="Tue, 29 Jun 2021 21:32:09 GMT" tweetId="1409988080849674246" urltweet="https://twitter.com/taylorlorenz/status/1409988080849674246" inReplyToId="1409987676271366151" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="What the actual fuck is the matter with this account. This is sick. This young woman wrote a brilliant and personal piece on something SO many young people have struggled with and all these ppl are now mocking and harassing her. It’s disgusting https://t.co/HQDA91yTpQ" type="tweet" created="Tue, 29 Jun 2021 20:15:02 GMT" tweetId="1409968673104621572" urltweet="https://twitter.com/taylorlorenz/status/1409968673104621572" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text=".@deannaschwartzz is one of the most brilliant, empathetic, dogged young reporters. She wrote about young ppl being robbed of pivotal experiences during Covid. And these fucked up people online want to mock her for not having her first kiss. https://t.co/8NaR6nCSTb" type="tweet" created="Tue, 29 Jun 2021 20:20:17 GMT" tweetId="1409969993635090432" urltweet="https://twitter.com/taylorlorenz/status/1409969993635090432" inReplyToId="1409968673104621572" tweetUserName="taylorlorenz" >
 						<outline text="I am so angry about what @deannaschwartzz is being put through. Is this the “welcome to media” experience we want talented young women in the industry to have to endure? It’s fucked up beyond belief. Please send love and encouragement to @deannaschwartzz https://t.co/xoKLYaaJmF" type="tweet" created="Tue, 29 Jun 2021 20:25:21 GMT" tweetId="1409971269429125120" urltweet="https://twitter.com/taylorlorenz/status/1409971269429125120" inReplyToId="1409969993635090432" tweetUserName="taylorlorenz" />
