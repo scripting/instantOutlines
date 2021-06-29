@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 04:19:56 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 05:19:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Great interview with @mekosoff about the realities of the media industry and not tying your self worth to some digital media job https://t.co/p0oKMYyo5D by @bradesposito https://t.co/6rj8pjVcBw" type="tweet" created="Tue, 29 Jun 2021 05:18:36 GMT" tweetId="1409743080756965380" urltweet="https://twitter.com/taylorlorenz/status/1409743080756965380" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="How it started, how it's going https://t.co/Fa1RHPEwKF" type="tweet" created="Tue, 29 Jun 2021 04:19:07 GMT" tweetId="1409728111382462468" urltweet="https://twitter.com/taylorlorenz/status/1409728111382462468" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="June 28" type="calendarDay" name="28" >
