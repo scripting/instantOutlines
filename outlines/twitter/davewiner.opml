@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 29 Jun 2021 14:54:03 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 16:27:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Wouldn't it be great to get Russ Feingold back in the Senate? https://t.co/GSjiVDN06T" type="tweet" created="Tue, 29 Jun 2021 16:26:44 GMT" tweetId="1409911222288461825" urltweet="https://twitter.com/davewiner/status/1409911222288461825" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="GitHub Copilot · Your AI pair programmer. https://t.co/gvIpLysqLL" type="tweet" created="Tue, 29 Jun 2021 14:53:22 GMT" tweetId="1409887722731454470" urltweet="https://twitter.com/davewiner/status/1409887722731454470" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The web still could be a fantastic writing environment." type="tweet" created="Tue, 29 Jun 2021 13:46:03 GMT" tweetId="1409870782738665482" urltweet="https://twitter.com/davewiner/status/1409870782738665482" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Facebook is coming out with a Substack killer. I bet it comes with its own editor. Yet another crappy writing tool that doesn't peer with other writing tools." type="tweet" created="Tue, 29 Jun 2021 13:43:05 GMT" tweetId="1409870036060282887" urltweet="https://twitter.com/davewiner/status/1409870036060282887" inReplyToId="" tweetUserName="davewiner" >
