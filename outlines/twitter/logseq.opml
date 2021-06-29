@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Tue, 29 Jun 2021 02:23:53 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 07:45:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Thanks! https://t.co/N6SyCwnpzV" type="tweet" created="Tue, 29 Jun 2021 07:44:29 GMT" tweetId="1409779793705402372" urltweet="https://twitter.com/logseq/status/1409779793705402372" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="June 28" type="calendarDay" name="28" >
 				<outline text="@jihchi thank you for your donation 🙏 - Your contribution means a lot to us!
 https://t.co/KGsf0HF97g" type="tweet" created="Tue, 29 Jun 2021 02:23:30 GMT" tweetId="1409699015168458752" urltweet="https://twitter.com/logseq/status/1409699015168458752" inReplyToId="" tweetUserName="logseq" />
