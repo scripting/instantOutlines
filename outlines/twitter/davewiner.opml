@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 29 Jun 2021 16:27:15 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 17:08:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Pacific Northwest heat wave eases for some, envelops others. https://t.co/fwxWsO8Lg9" type="tweet" created="Tue, 29 Jun 2021 17:07:23 GMT" tweetId="1409921449222094854" urltweet="https://twitter.com/davewiner/status/1409921449222094854" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Wouldn't it be great to get Russ Feingold back in the Senate? https://t.co/GSjiVDN06T" type="tweet" created="Tue, 29 Jun 2021 16:26:44 GMT" tweetId="1409911222288461825" urltweet="https://twitter.com/davewiner/status/1409911222288461825" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="GitHub Copilot · Your AI pair programmer. https://t.co/gvIpLysqLL" type="tweet" created="Tue, 29 Jun 2021 14:53:22 GMT" tweetId="1409887722731454470" urltweet="https://twitter.com/davewiner/status/1409887722731454470" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The web still could be a fantastic writing environment." type="tweet" created="Tue, 29 Jun 2021 13:46:03 GMT" tweetId="1409870782738665482" urltweet="https://twitter.com/davewiner/status/1409870782738665482" inReplyToId="" tweetUserName="davewiner" />
