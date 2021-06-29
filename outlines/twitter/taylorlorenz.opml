@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 14:24:40 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 15:05:47 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Given FB's history of incentivizing certain people and content on the platform for years, I'm eager to see how well this line ages https://t.co/nSPVS7YP1u https://t.co/b417DS8mGn" type="tweet" created="Tue, 29 Jun 2021 15:05:00 GMT" tweetId="1409890651173494784" urltweet="https://twitter.com/taylorlorenz/status/1409890651173494784" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I wrote about NELK, some of the top earning creators on YouTube, who take zero money from YouTube  https://t.co/ezxqsbppDO" type="tweet" created="Tue, 29 Jun 2021 14:10:58 GMT" tweetId="1409877053466349569" urltweet="https://twitter.com/taylorlorenz/status/1409877053466349569" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="The NELK boys are set to make over $70M from merch alone this year, their Happy Dad seltzer line is causing mobs outside liquor stores across California, they have a wildly popular proprietary subscription platform, and more. https://t.co/ezxqsbppDO" type="tweet" created="Tue, 29 Jun 2021 14:19:00 GMT" tweetId="1409879075825586186" urltweet="https://twitter.com/taylorlorenz/status/1409879075825586186" inReplyToId="1409877053466349569" tweetUserName="taylorlorenz" >
 						<outline text="We’re not going to sacrifice our content or change to make $500,000 a month from YouTube. Maybe in the short term we’re not buying Lambos like other YouTubers, but we could have a multibillion-dollar business on our hands.” https://t.co/ezxqsbppDO" type="tweet" created="Tue, 29 Jun 2021 14:19:56 GMT" tweetId="1409879309221871620" urltweet="https://twitter.com/taylorlorenz/status/1409879309221871620" inReplyToId="1409879075825586186" tweetUserName="taylorlorenz" >
