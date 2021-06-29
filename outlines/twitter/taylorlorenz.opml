@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 15:55:53 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 15:57:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
-				<outline text="NELK's monetization strategy (shunning ad revenue and productizing themselves) is a strategy that's increasingly pursued by creators, and gives YouTube even less of an ability to play kingmaker and police the platform https://t.co/ezxqsb7Ofe" type="tweet" created="Tue, 29 Jun 2021 15:54:55 GMT" tweetId="1409903215471071243" urltweet="https://twitter.com/taylorlorenz/status/1409903215471071243" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="NELK's monetization strategy (shunning ad revenue and productizing themselves) is a strategy that's increasingly pursued by creators, and gives YouTube even less of an ability to play kingmaker and police the platform https://t.co/ezxqsb7Ofe" type="tweet" created="Tue, 29 Jun 2021 15:54:55 GMT" tweetId="1409903215471071243" urltweet="https://twitter.com/taylorlorenz/status/1409903215471071243" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Demonetizing channels (youtube's primary form of punishment) doesn't carry much weight when creators are making tens of thousands of $$ from more direct revenue streams https://t.co/ezxqsb7Ofe" type="tweet" created="Tue, 29 Jun 2021 15:57:19 GMT" tweetId="1409903817953402887" urltweet="https://twitter.com/taylorlorenz/status/1409903817953402887" inReplyToId="1409903215471071243" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="They're multiplying https://t.co/4fs2CXOTEA" type="tweet" created="Tue, 29 Jun 2021 15:52:10 GMT" tweetId="1409902520969826305" urltweet="https://twitter.com/taylorlorenz/status/1409902520969826305" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@kathrynfiona wrote about the Glitch Queen https://t.co/LYsJCJMKkc" type="tweet" created="Tue, 29 Jun 2021 15:45:00 GMT" tweetId="1409900716957782017" urltweet="https://twitter.com/taylorlorenz/status/1409900716957782017" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Oh great https://t.co/up9M5l8oLv https://t.co/4RfD3RL0il" type="tweet" created="Tue, 29 Jun 2021 15:13:00 GMT" tweetId="1409892663885770752" urltweet="https://twitter.com/taylorlorenz/status/1409892663885770752" inReplyToId="" tweetUserName="taylorlorenz" />
