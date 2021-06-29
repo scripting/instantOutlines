@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 17:45:16 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 18:53:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="All these platforms need Waymo editors https://t.co/63znzoOTpL" type="tweet" created="Tue, 29 Jun 2021 18:53:34 GMT" tweetId="1409948171392880641" urltweet="https://twitter.com/taylorlorenz/status/1409948171392880641" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Real Life is the one website where I think I can confidently say I’ve read everything on it. Just subbed to their newsletter too https://t.co/2OXnRIJuIb" type="tweet" created="Tue, 29 Jun 2021 17:44:20 GMT" tweetId="1409930750577700867" urltweet="https://twitter.com/taylorlorenz/status/1409930750577700867" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I think about this meme @rebexxxxa made on a daily basis https://t.co/KWOGhLVB06" type="tweet" created="Tue, 29 Jun 2021 16:40:00 GMT" tweetId="1409914558685220865" urltweet="https://twitter.com/taylorlorenz/status/1409914558685220865" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="A few young writers have messaged me lately about worrying their pieces aren’t definitive enough, or they worry other ppl are judging them for their work, and I just want them and everyone to know (to put it in the context of the meme), we have all done the Cheetos interview" type="tweet" created="Tue, 29 Jun 2021 16:49:28 GMT" tweetId="1409916939934134286" urltweet="https://twitter.com/taylorlorenz/status/1409916939934134286" inReplyToId="1409914558685220865" tweetUserName="taylorlorenz" >
