@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 02:19:44 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 16:13:16 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="&quot;Opposition media traditionally relies on traffic booms when a new party takes office, but right-wing outlets have seen some of the most precipitous declines in readership since a Democratic president took office.&quot; https://t.co/i6U0EwlM9A" type="tweet" created="Tue, 29 Jun 2021 16:13:09 GMT" tweetId="1409907802789789702" urltweet="https://twitter.com/jayrosen_nyu/status/1409907802789789702" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="June 28" type="calendarDay" name="28" >
 				<outline text="The New York Times now allows subscribers to “gift” articles to people who don't subscribe. The gifted articles won’t count towards the limited number of links that non-subscribers can click before hitting a paywall. Recipients have 14 days to read them. https://t.co/SpWBjaP4eH" type="tweet" created="Tue, 29 Jun 2021 02:19:22 GMT" tweetId="1409697972581933066" urltweet="https://twitter.com/jayrosen_nyu/status/1409697972581933066" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="For 35 years I'm on the journalism faculty at NYU. We taught First Amendment. Times vs. Sullivan. Pentagon Papers. Inverted pyramid. (Google it.)
