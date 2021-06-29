@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 18:24:47 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 18:26:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="The problem is that has NOT been my experience so far.  I was prepared for hiccups, but like you, I do not like all the ADS in #podcasts.  So if I am paying the piper, I want what they say the will deliver. I liked your suggestion! #paycasts" type="tweet" created="Tue, 29 Jun 2021 18:26:12 GMT" tweetId="1409941285260062720" urltweet="https://twitter.com/nakedjen/status/1409941285260062720" inReplyToId="" tweetUserName="nakedjen" />
 				<outline text="@davewiner re PAYCASTS.  This is what @apple told me about their podcasts subscription service: &quot;Listeners can hear new and original shows, and get early access to new seasons of critically acclaimed and fan-favorite series, all ad-free!&quot;" type="tweet" created="Tue, 29 Jun 2021 18:24:44 GMT" tweetId="1409940917516083203" urltweet="https://twitter.com/nakedjen/status/1409940917516083203" inReplyToId="" tweetUserName="nakedjen" />
 				</outline>
 			<outline text="June 28" type="calendarDay" name="28" >
