@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 19:23:05 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 21:59:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="It’s a two-party system and one party is increasingly anti-democratic. The direction the GOP travels is not only further to the right, but further from the real. Put ‘em together - the drift away from democracy, away from reality - and the conflict with journalism is structural." type="tweet" created="Tue, 29 Jun 2021 21:58:44 GMT" tweetId="1409994769808429063" urltweet="https://twitter.com/jayrosen_nyu/status/1409994769808429063" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="I would not sign on to this: &quot;Focusing on the supply problem is a waste of energy and resources.&quot; But I agree  that we often focus on the supply side of disinformation because the demand side is hellacious, depressing, confounding, and it makes you weep for this country. https://t.co/WSjDNVWLQG" type="tweet" created="Tue, 29 Jun 2021 19:22:20 GMT" tweetId="1409955412724625413" urltweet="https://twitter.com/jayrosen_nyu/status/1409955412724625413" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Yes. Her name is @Yamiche https://t.co/WBJyD8VKsx" type="tweet" created="Tue, 29 Jun 2021 18:59:06 GMT" tweetId="1409949566540161031" urltweet="https://twitter.com/jayrosen_nyu/status/1409949566540161031" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The top 20 NPR-affiliated public radio stations had on average a total weekly listenership of about 9 million in 2020, down 9% from 2019.
