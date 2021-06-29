@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 15:45:52 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 15:52:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="They're multiplying https://t.co/4fs2CXOTEA" type="tweet" created="Tue, 29 Jun 2021 15:52:10 GMT" tweetId="1409902520969826305" urltweet="https://twitter.com/taylorlorenz/status/1409902520969826305" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@kathrynfiona wrote about the Glitch Queen https://t.co/LYsJCJMKkc" type="tweet" created="Tue, 29 Jun 2021 15:45:00 GMT" tweetId="1409900716957782017" urltweet="https://twitter.com/taylorlorenz/status/1409900716957782017" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Oh great https://t.co/up9M5l8oLv https://t.co/4RfD3RL0il" type="tweet" created="Tue, 29 Jun 2021 15:13:00 GMT" tweetId="1409892663885770752" urltweet="https://twitter.com/taylorlorenz/status/1409892663885770752" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Given FB's history of incentivizing certain people and content on the platform for years, I'm eager to see how well this line ages https://t.co/nSPVS7YP1u https://t.co/b417DS8mGn" type="tweet" created="Tue, 29 Jun 2021 15:05:00 GMT" tweetId="1409890651173494784" urltweet="https://twitter.com/taylorlorenz/status/1409890651173494784" inReplyToId="" tweetUserName="taylorlorenz" />
