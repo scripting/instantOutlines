@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 29 Jun 2021 11:57:26 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 13:43:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Facebook is coming out with a Substack killer. I bet it comes with its own editor. Yet another crappy writing tool that doesn't peer with other writing tools." type="tweet" created="Tue, 29 Jun 2021 13:43:05 GMT" tweetId="1409870036060282887" urltweet="https://twitter.com/davewiner/status/1409870036060282887" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="This is what kills the web as a writing environment. 
+
+We should flush all these pieces of crap down the virtual cyber-toilet. 
+
+If you're going to do something with text, please for writers' sake, do not require them to use your stinking editor to use your service." type="tweet" created="Tue, 29 Jun 2021 13:43:05 GMT" tweetId="1409870036945313802" urltweet="https://twitter.com/davewiner/status/1409870036945313802" inReplyToId="1409870036060282887" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Boring news cycle deals blow to partisan media. https://t.co/HFwd069hed" type="tweet" created="Tue, 29 Jun 2021 11:56:55 GMT" tweetId="1409843318155104263" urltweet="https://twitter.com/davewiner/status/1409843318155104263" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Facebook’s launch plans for Bulletin, its Substack clone. https://t.co/UFCSR41ObF" type="tweet" created="Tue, 29 Jun 2021 11:14:14 GMT" tweetId="1409832578522259461" urltweet="https://twitter.com/davewiner/status/1409832578522259461" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="California adds 5 states to list of places where state-funded travel is banned. https://t.co/pcark4meZZ" type="tweet" created="Tue, 29 Jun 2021 10:39:46 GMT" tweetId="1409823904428957696" urltweet="https://twitter.com/davewiner/status/1409823904428957696" inReplyToId="" tweetUserName="davewiner" />
