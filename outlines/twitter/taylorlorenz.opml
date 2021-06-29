@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 16:01:54 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 16:03:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
-				<outline text="Only thing I'd add to this is the role &quot;snark&quot;/gossip communities play in all this, pushing these narratives &amp;amp; tearing ppl down. So much &quot;drama&quot; that gets picked up by media is just hate campaigns bubbling up from GOMI-like communities pushing a narrative https://t.co/7pBoCruEMC" type="tweet" created="Tue, 29 Jun 2021 16:01:25 GMT" tweetId="1409904849773228032" urltweet="https://twitter.com/taylorlorenz/status/1409904849773228032" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Only thing I'd add to this is the role &quot;snark&quot;/gossip communities play in all this, pushing these narratives &amp;amp; tearing ppl down. So much &quot;drama&quot; that gets picked up by media is just hate campaigns bubbling up from GOMI-like communities pushing a narrative https://t.co/7pBoCruEMC" type="tweet" created="Tue, 29 Jun 2021 16:01:25 GMT" tweetId="1409904849773228032" urltweet="https://twitter.com/taylorlorenz/status/1409904849773228032" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="This all ties back into a certain strain of &quot;accountability&quot; culture, which @cwarzel wrote a great piece on recently too  https://t.co/pbLwM0SEkE" type="tweet" created="Tue, 29 Jun 2021 16:03:08 GMT" tweetId="1409905281178296323" urltweet="https://twitter.com/taylorlorenz/status/1409905281178296323" inReplyToId="1409904849773228032" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="NELK's monetization strategy (shunning ad revenue and productizing themselves) is a strategy that's increasingly pursued by creators, and gives YouTube even less of an ability to play kingmaker and police the platform https://t.co/ezxqsb7Ofe" type="tweet" created="Tue, 29 Jun 2021 15:54:55 GMT" tweetId="1409903215471071243" urltweet="https://twitter.com/taylorlorenz/status/1409903215471071243" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Demonetizing channels (youtube's primary form of punishment) doesn't carry much weight when creators are making tens of thousands of $$ from more direct revenue streams https://t.co/ezxqsb7Ofe" type="tweet" created="Tue, 29 Jun 2021 15:57:19 GMT" tweetId="1409903817953402887" urltweet="https://twitter.com/taylorlorenz/status/1409903817953402887" inReplyToId="1409903215471071243" tweetUserName="taylorlorenz" />
 					</outline>
