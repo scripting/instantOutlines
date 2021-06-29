@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 18:51:56 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 18:59:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Yes. Her name is @Yamiche https://t.co/WBJyD8VKsx" type="tweet" created="Tue, 29 Jun 2021 18:59:06 GMT" tweetId="1409949566540161031" urltweet="https://twitter.com/jayrosen_nyu/status/1409949566540161031" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The top 20 NPR-affiliated public radio stations had on average a total weekly listenership of about 9 million in 2020, down 9% from 2019.
  
 In 2020, the NewsHour on PBS attracted 1.2 million viewers on average, up 18% from the year before. https://t.co/yCZNnl8mKd" type="tweet" created="Tue, 29 Jun 2021 18:51:49 GMT" tweetId="1409947730642886664" urltweet="https://twitter.com/jayrosen_nyu/status/1409947730642886664" inReplyToId="" tweetUserName="jayrosen_nyu" />
