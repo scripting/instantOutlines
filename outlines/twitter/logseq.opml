@@ -7,11 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Mon, 28 Jun 2021 15:39:19 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 02:23:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="@jihchi thank you for your donation 🙏 - Your contribution means a lot to us!
+https://t.co/KGsf0HF97g" type="tweet" created="Tue, 29 Jun 2021 02:23:30 GMT" tweetId="1409699015168458752" urltweet="https://twitter.com/logseq/status/1409699015168458752" inReplyToId="" tweetUserName="logseq" />
 				<outline text="0.2.1 is just out! Some highlights:
 1. Namespace pages now display with hierarchy
 2. @devonzuegel polished and refactored setting and shortcut UI
