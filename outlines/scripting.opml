@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 13:33:14 GMT</dateModified>
+		<dateModified>Tue, 29 Jun 2021 13:38:04 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>3</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urInstant>http://instantoutliner.com/qk</urInstant>
 		</head>
@@ -22,6 +22,7 @@
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 29" created="Tue, 29 Jun 2021 13:13:44 GMT" type="calendarDay" name="29" >
 				<outline text="I noticed yesterday that &lt;a href=&quot;https://archive.org/&quot;&gt;archive.org&lt;/a&gt; may not have a good &lt;a href=&quot;https://web.archive.org/web/*/http://scripting.com/&quot;&gt;record&lt;/a&gt; for this blog. When you go to &lt;a href=&quot;https://web.archive.org/web/20210308124857/http://scripting.com/&quot;&gt;one&lt;/a&gt; of their archive pages, the shell is visible -- the header graphic, title, footer, but the contents is missing. &lt;a href=&quot;http://scripting.com/images/2021/06/29/archiveOrgScriptingScreen.png&quot;&gt;Screen shot&lt;/a&gt;. If you &lt;a href=&quot;http://scripting.com/images/2021/06/29/consoleErrors.png&quot;&gt;look&lt;/a&gt; in the console, there are errors. If you look at the &lt;a href=&quot;http://scripting.com/2021/03/08.html&quot;&gt;actual page&lt;/a&gt; on the web, it renders fine. If a simple site like this blog can't be rendered by archive.org, perhaps we are making a mistake by &lt;a href=&quot;http://scripting.com/2019/08/14/132503.html&quot;&gt;depending&lt;/a&gt; on it as the record for what was said on the web. The question remains how do you maintain a record for a medium that thrives on its distributed nature that has a chance of lasting for decades or even centuries. The programmers at archive.org have an inhumanly impossible task, with all the experimentation on the web, over time, and like all programmers, they can make mistakes. Developers of websites make mistakes too -- a lot of the early UserLand sites are inaccessible via archive.org because they saw its crawler as a denial of service attack. Obviously our code was wrong, but there's no way to go back and fix the bug. The sites are long gone. " created="Tue, 29 Jun 2021 13:13:45 GMT" type="outline" image="http://scripting.com/images/2021/06/29/monaLisa.png" />
+				<outline text="&lt;a href=&quot;https://web.archive.org/web/20050205074827/http://thetwowayweb.com/&quot;&gt;TheTwoWayWeb.com&lt;/a&gt; appears to be well archived. " created="Tue, 29 Jun 2021 13:37:32 GMT" type="outline" />
 				</outline>
 			<outline text="June 28" created="Mon, 28 Jun 2021 13:20:50 GMT" type="calendarDay" name="28" >
 				<outline text="A new header image, a &lt;a href=&quot;http://scripting.com/images/2021/06/28/fridaKahloSelfPortraitSlice.png&quot;&gt;slice&lt;/a&gt; of a &lt;a href=&quot;https://www.wikiart.org/en/frida-kahlo/self-portrait-with-bonito-1941&quot;&gt;Frida Kahlo self-portrait&lt;/a&gt;. Just her eyes. Staring &lt;a href=&quot;http://scripting.com/images/2021/06/28/theEyesStaringAtYou.png&quot;&gt;at you&lt;/a&gt; while you read &lt;a href=&quot;http://scripting.com/2021/06/28.html&quot;&gt;my blog&lt;/a&gt;.  " created="Mon, 28 Jun 2021 22:39:11 GMT" type="outline" />
