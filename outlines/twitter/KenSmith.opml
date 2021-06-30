@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 16:10:24 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 17:03:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="Old blog post:
+
+Twitter sort of relentlessly says, &quot;You will not shape anything but an endless, ever-vanishing flow of your tweets in our space. On our terms, not yours. With our goals in mind, not yours.&quot;" type="tweet" created="Wed, 30 Jun 2021 17:02:58 GMT" tweetId="1410282727761448962" urltweet="https://twitter.com/KenSmith/status/1410282727761448962" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="A friend of mine, who was there, finds that day pretty hard to talk about. https://t.co/SvkD4ELukZ" type="tweet" created="Wed, 30 Jun 2021 16:10:09 GMT" tweetId="1410269435852734468" urltweet="https://twitter.com/KenSmith/status/1410269435852734468" inReplyToId="" tweetUserName="KenSmith" >
 					<outline text="But sometimes he gives me clues... https://t.co/S3tkTXDpJ4" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269437211590663" urltweet="https://twitter.com/KenSmith/status/1410269437211590663" inReplyToId="1410269435852734468" tweetUserName="KenSmith" >
 						<outline text="And sometimes I guess what it all implies about we who sent them... https://t.co/TLTm4BLLGs" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269438964867072" urltweet="https://twitter.com/KenSmith/status/1410269438964867072" inReplyToId="1410269437211590663" tweetUserName="KenSmith" >
