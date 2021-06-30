@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@KenSmith</title>
+		<dateCreated>Wed, 30 Jun 2021 13:55:59 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Wed, 30 Jun 2021 13:55:59 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="I wonder when folks who say they think the U.S. eventually got over its bad case of racism--I wonder when they think the getting over it happened? Surely not in the golden age of lynching--must be later. Not in the golden age of redlining. Not before people could readily vote..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879040882794496" urltweet="https://twitter.com/KenSmith/status/1409879040882794496" inReplyToId="" tweetUserName="KenSmith" >
+					<outline text="...and not before they could count on sending their kids to good public schools. Not before people could readily build careers in leadership roles rather than muscle roles in sports or subordinate roles elsewhere. The list goes on..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879042174689283" urltweet="https://twitter.com/KenSmith/status/1409879042174689283" inReplyToId="1409879040882794496" tweetUserName="KenSmith" >
+						<outline text="Maybe the folks who say the U.S. eventually got over its bad case of racism think the getting over took place last Tuesday. Dunno. Or maybe they don't even believe what they say. Maybe their aspirations for continuing in power depend on pretending racism is over." type="tweet" created="Tue, 29 Jun 2021 14:18:53 GMT" tweetId="1409879044808654849" urltweet="https://twitter.com/KenSmith/status/1409879044808654849" inReplyToId="1409879042174689283" tweetUserName="KenSmith" >
+							<outline text="Today Krugman provides a data point--no way racism was over in 1938 if the FHA was supporting segregation in this way. Maybe it ended last Tuesday after all.
+
+https://t.co/O1SdjigCaA" type="tweet" created="Tue, 29 Jun 2021 14:24:26 GMT" tweetId="1409880441549692930" urltweet="https://twitter.com/KenSmith/status/1409880441549692930" inReplyToId="1409879044808654849" tweetUserName="KenSmith" />
+							</outline>
+						</outline>
+					</outline>
+				<outline text="&quot;You can't make revolution with employees.&quot; https://t.co/EnsQGdvxGg" type="tweet" created="Tue, 29 Jun 2021 13:43:46 GMT" tweetId="1409870207238250506" urltweet="https://twitter.com/KenSmith/status/1409870207238250506" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="“Ties everyone into the ecosystem then.”
+
+When speaking of social platforms, that’s a phrasing that can be used over and over again, describing practices that work to the detriment of users, both writers and readers. Handcuffs software creators too, I hear. https://t.co/NrvI9j2Nmf" type="tweet" created="Mon, 28 Jun 2021 22:14:33 GMT" tweetId="1409636364094631937" urltweet="https://twitter.com/KenSmith/status/1409636364094631937" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="“There's no media ecosystem that's focused on how crazy the Republican Party is. There's no intensive conversation about what the Republican Party has been doing for the last five years as it has progressively fallen down the pathway towards fascism.” https://t.co/Azbn1UbzhE" type="tweet" created="Mon, 28 Jun 2021 14:19:46 GMT" tweetId="1409516878846902278" urltweet="https://twitter.com/KenSmith/status/1409516878846902278" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Of its moment but also still a pressing account of economic and authority pressures on journalism, and the trembling foundations of society. @ARusbridger in 2006 explaining why the Guardian continued to innovate in the digital space by inviting readers to write. https://t.co/UZ0WuK6PcO" type="tweet" created="Fri, 25 Jun 2021 20:32:02 GMT" tweetId="1408523401485029384" urltweet="https://twitter.com/KenSmith/status/1408523401485029384" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="“Politicians, for all that they despair of newspapers sometimes, would find countries very difficult to govern unless you had a sufficiently informed citizenship.”
+
+@ARusbridger’s “Newspapers in the Age of Blogs” talk at the RSA in 2006 (57:45)
+
+https://t.co/gf7R1HrmJJ" type="tweet" created="Fri, 25 Jun 2021 20:28:35 GMT" tweetId="1408522533218009102" urltweet="https://twitter.com/KenSmith/status/1408522533218009102" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="Penelope Fitzgerald’s short story “The Axe” is presented as a business report the narrator has written in a time of crisis for her boss. Here is the story’s (and the report’s) second paragraph. https://t.co/N9CZNhfdK2" type="tweet" created="Thu, 24 Jun 2021 16:51:47 GMT" tweetId="1408105584000385029" urltweet="https://twitter.com/KenSmith/status/1408105584000385029" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
