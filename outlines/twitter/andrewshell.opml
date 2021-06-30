@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@andrewshell</title>
+		<dateCreated>Wed, 30 Jun 2021 13:47:52 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/andrewshell.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Wed, 30 Jun 2021 13:47:53 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 16" type="calendarDay" name="16" >
+				<outline text="I wish I could add hashtags as members of a Twitter list." type="tweet" created="Wed, 16 Jun 2021 11:46:16 GMT" tweetId="1405129595658113026" urltweet="https://twitter.com/andrewshell/status/1405129595658113026" inReplyToId="" tweetUserName="andrewshell" />
+				</outline>
+			<outline text="June 9" type="calendarDay" name="09" >
+				<outline text="@beauhaan I've discovered your system on YouTube and it makes a lot of sense but there were a few things that left me scratching my head. I've signed up for the next @RoamBookClub so maybe they will be explained in there. I'll post my questions in this thread. Thanks! :-)" type="tweet" created="Wed, 09 Jun 2021 10:19:35 GMT" tweetId="1402571066283905027" urltweet="https://twitter.com/andrewshell/status/1402571066283905027" inReplyToId="" tweetUserName="andrewshell" >
+					<outline text="It seems you go from Fleeting to Literature to Permanent notes in one go. But if you're taking notes about a book, this process may take days/weeks with many note-taking sessions. Do you link together all the notes for a single source?" type="tweet" created="Wed, 09 Jun 2021 10:24:56 GMT" tweetId="1402572411128668160" urltweet="https://twitter.com/andrewshell/status/1402572411128668160" inReplyToId="1402571066283905027" tweetUserName="andrewshell" >
+						<outline text="When taking Fleeting &amp;amp; Literature notes, you nest them under a single Permanent note. How do you handle the case where your F&amp;amp;L notes lead to multiple P notes? Just a new P-note with a reference to the other F&amp;amp;L notes?" type="tweet" created="Wed, 09 Jun 2021 10:27:27 GMT" tweetId="1402573045064216579" urltweet="https://twitter.com/andrewshell/status/1402573045064216579" inReplyToId="1402572411128668160" tweetUserName="andrewshell" >
+							<outline text="I do a lot of journaling in Roam. Do you treat these as a source and create a new note stack where you take Fleeting notes as you reread your journal entry, then link to the journal entry under the Reference note?" type="tweet" created="Wed, 09 Jun 2021 10:30:56 GMT" tweetId="1402573924450328582" urltweet="https://twitter.com/andrewshell/status/1402573924450328582" inReplyToId="1402573045064216579" tweetUserName="andrewshell" />
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>
