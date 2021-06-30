@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 01:00:15 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 06:37:41 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="This is literally not true and I had absolutely zero to do with Choire leaving NYT. Please stop trying to relate every story about the NYT back to me https://t.co/NzsaXrsE57" type="tweet" created="Wed, 30 Jun 2021 06:37:35 GMT" tweetId="1410125341901791233" urltweet="https://twitter.com/taylorlorenz/status/1410125341901791233" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="June 29" type="calendarDay" name="29" >
 				<outline text="@Sodapoppintv check DM 🙏🏻" type="tweet" created="Wed, 30 Jun 2021 01:00:08 GMT" tweetId="1410040419753234434" urltweet="https://twitter.com/taylorlorenz/status/1410040419753234434" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Just contemplating what this could mean for C*risti*n’s TikTok career https://t.co/zE8V4THhi4" type="tweet" created="Wed, 30 Jun 2021 00:47:12 GMT" tweetId="1410037168689487876" urltweet="https://twitter.com/taylorlorenz/status/1410037168689487876" inReplyToId="" tweetUserName="taylorlorenz" />
