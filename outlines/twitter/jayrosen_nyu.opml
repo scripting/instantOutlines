@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 13:47:52 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 13:57:45 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="Why cover Tucker? 
+
+@brianstelter: &quot;He hosts the single biggest gathering of GOP diehards anywhere on TV... the rest of us have to decide: Ignore what he spews, or scrutinize it and supply a reality check, knowing that's going to cause him to double down?&quot; https://t.co/JK39pIU0Vp" type="tweet" created="Wed, 30 Jun 2021 13:57:24 GMT" tweetId="1410236027327893507" urltweet="https://twitter.com/jayrosen_nyu/status/1410236027327893507" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="June 29" type="calendarDay" name="29" >
 				<outline text="It’s a two-party system and one party is increasingly anti-democratic. The direction the GOP travels is not only further to the right, but further from the real. Put ‘em together - the drift away from democracy, away from reality - and the conflict with journalism is structural." type="tweet" created="Tue, 29 Jun 2021 21:58:44 GMT" tweetId="1409994769808429063" urltweet="https://twitter.com/jayrosen_nyu/status/1409994769808429063" tweetUserName="jayrosen_nyu" />
 				<outline text="I would not sign on to this: &quot;Focusing on the supply problem is a waste of energy and resources.&quot; But I agree  that we often focus on the supply side of disinformation because the demand side is hellacious, depressing, confounding, and it makes you weep for this country. https://t.co/WSjDNVWLQG" type="tweet" created="Tue, 29 Jun 2021 19:22:20 GMT" tweetId="1409955412724625413" urltweet="https://twitter.com/jayrosen_nyu/status/1409955412724625413" tweetUserName="jayrosen_nyu" />
