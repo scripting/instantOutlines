@@ -6,38 +6,39 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 18:19:50 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 18:51:07 GMT</dateModified>
+		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
-				<outline text="Hammer in the grass. https://t.co/lZO0vW10sO" type="tweet" created="Wed, 30 Jun 2021 18:18:59 GMT" tweetId="1410301858938339330" urltweet="https://twitter.com/KenSmith/status/1410301858938339330" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="How I'll remember him. https://t.co/UuZUef84OA" type="tweet" created="Wed, 30 Jun 2021 17:44:59 GMT" tweetId="1410293300964245513" urltweet="https://twitter.com/KenSmith/status/1410293300964245513" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="Hammer in the grass. https://t.co/lZO0vW10sO" type="tweet" created="Wed, 30 Jun 2021 18:18:59 GMT" tweetId="1410301858938339330" urltweet="https://twitter.com/KenSmith/status/1410301858938339330" tweetUserName="KenSmith" />
+				<outline text="How I'll remember him. https://t.co/UuZUef84OA" type="tweet" created="Wed, 30 Jun 2021 17:44:59 GMT" tweetId="1410293300964245513" urltweet="https://twitter.com/KenSmith/status/1410293300964245513" tweetUserName="KenSmith" />
 				<outline text="A different kind of account of that day.
 
-https://t.co/u92b9pcHBx https://t.co/rnd3lsBDqC" type="tweet" created="Wed, 30 Jun 2021 17:29:41 GMT" tweetId="1410289449745928195" urltweet="https://twitter.com/KenSmith/status/1410289449745928195" inReplyToId="" tweetUserName="KenSmith" />
+https://t.co/u92b9pcHBx https://t.co/rnd3lsBDqC" type="tweet" created="Wed, 30 Jun 2021 17:29:41 GMT" tweetId="1410289449745928195" urltweet="https://twitter.com/KenSmith/status/1410289449745928195" tweetUserName="KenSmith" />
 				<outline text="A website from his home state commemorates Ted Belcher.
 
-https://t.co/ddqLJ62zMh https://t.co/wQmGXBzrhw" type="tweet" created="Wed, 30 Jun 2021 17:25:51 GMT" tweetId="1410288483579699205" urltweet="https://twitter.com/KenSmith/status/1410288483579699205" inReplyToId="" tweetUserName="KenSmith" />
+https://t.co/ddqLJ62zMh https://t.co/wQmGXBzrhw" type="tweet" created="Wed, 30 Jun 2021 17:25:51 GMT" tweetId="1410288483579699205" urltweet="https://twitter.com/KenSmith/status/1410288483579699205" tweetUserName="KenSmith" />
 				<outline text="Old blog post:
 
-Twitter sort of relentlessly says, &quot;You will not shape anything but an endless, ever-vanishing flow of your tweets in our space. On our terms, not yours. With our goals in mind, not yours.&quot;" type="tweet" created="Wed, 30 Jun 2021 17:02:58 GMT" tweetId="1410282727761448962" urltweet="https://twitter.com/KenSmith/status/1410282727761448962" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="A friend of mine, who was there, finds that day pretty hard to talk about. https://t.co/SvkD4ELukZ" type="tweet" created="Wed, 30 Jun 2021 16:10:09 GMT" tweetId="1410269435852734468" urltweet="https://twitter.com/KenSmith/status/1410269435852734468" inReplyToId="" tweetUserName="KenSmith" >
+Twitter sort of relentlessly says, &quot;You will not shape anything but an endless, ever-vanishing flow of your tweets in our space. On our terms, not yours. With our goals in mind, not yours.&quot;" type="tweet" created="Wed, 30 Jun 2021 17:02:58 GMT" tweetId="1410282727761448962" urltweet="https://twitter.com/KenSmith/status/1410282727761448962" tweetUserName="KenSmith" />
+				<outline text="A friend of mine, who was there, finds that day pretty hard to talk about. https://t.co/SvkD4ELukZ" type="tweet" created="Wed, 30 Jun 2021 16:10:09 GMT" tweetId="1410269435852734468" urltweet="https://twitter.com/KenSmith/status/1410269435852734468" tweetUserName="KenSmith" >
 					<outline text="But sometimes he gives me clues... https://t.co/S3tkTXDpJ4" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269437211590663" urltweet="https://twitter.com/KenSmith/status/1410269437211590663" inReplyToId="1410269435852734468" tweetUserName="KenSmith" >
 						<outline text="And sometimes I guess what it all implies about we who sent them... https://t.co/TLTm4BLLGs" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269438964867072" urltweet="https://twitter.com/KenSmith/status/1410269438964867072" inReplyToId="1410269437211590663" tweetUserName="KenSmith" >
 							<outline text="If they're going to go there in our name, the least we owe is our reflection... https://t.co/bFjRX69BRN" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269440625811460" urltweet="https://twitter.com/KenSmith/status/1410269440625811460" inReplyToId="1410269438964867072" tweetUserName="KenSmith" />
 							</outline>
 						</outline>
 					</outline>
-				<outline text="The shaggy professor who cannot speak. https://t.co/zb53n7Yi1l" type="tweet" created="Wed, 30 Jun 2021 15:43:46 GMT" tweetId="1410262795950739456" urltweet="https://twitter.com/KenSmith/status/1410262795950739456" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="The shaggy professor who cannot speak. https://t.co/zb53n7Yi1l" type="tweet" created="Wed, 30 Jun 2021 15:43:46 GMT" tweetId="1410262795950739456" urltweet="https://twitter.com/KenSmith/status/1410262795950739456" tweetUserName="KenSmith" />
 				<outline text="Understanding blogging. Dave Winer's prompt and my reply.
 
 https://t.co/5NZ32HQDw6
 
-...it is about the unfinished business of making sense of our lives. We all need help in that area, if we can get it, although some people believe or pretend otherwise... https://t.co/XIfNuC0waO" type="tweet" created="Wed, 30 Jun 2021 15:33:54 GMT" tweetId="1410260312322887686" urltweet="https://twitter.com/KenSmith/status/1410260312322887686" inReplyToId="" tweetUserName="KenSmith" />
+...it is about the unfinished business of making sense of our lives. We all need help in that area, if we can get it, although some people believe or pretend otherwise... https://t.co/XIfNuC0waO" type="tweet" created="Wed, 30 Jun 2021 15:33:54 GMT" tweetId="1410260312322887686" urltweet="https://twitter.com/KenSmith/status/1410260312322887686" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="June 29" type="calendarDay" name="29" >
-				<outline text="I wonder when folks who say they think the U.S. eventually got over its bad case of racism--I wonder when they think the getting over it happened? Surely not in the golden age of lynching--must be later. Not in the golden age of redlining. Not before people could readily vote..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879040882794496" urltweet="https://twitter.com/KenSmith/status/1409879040882794496" inReplyToId="" tweetUserName="KenSmith" >
+				<outline text="I wonder when folks who say they think the U.S. eventually got over its bad case of racism--I wonder when they think the getting over it happened? Surely not in the golden age of lynching--must be later. Not in the golden age of redlining. Not before people could readily vote..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879040882794496" urltweet="https://twitter.com/KenSmith/status/1409879040882794496" tweetUserName="KenSmith" >
 					<outline text="...and not before they could count on sending their kids to good public schools. Not before people could readily build careers in leadership roles rather than muscle roles in sports or subordinate roles elsewhere. The list goes on..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879042174689283" urltweet="https://twitter.com/KenSmith/status/1409879042174689283" inReplyToId="1409879040882794496" tweetUserName="KenSmith" >
 						<outline text="Maybe the folks who say the U.S. eventually got over its bad case of racism think the getting over took place last Tuesday. Dunno. Or maybe they don't even believe what they say. Maybe their aspirations for continuing in power depend on pretending racism is over." type="tweet" created="Tue, 29 Jun 2021 14:18:53 GMT" tweetId="1409879044808654849" urltweet="https://twitter.com/KenSmith/status/1409879044808654849" inReplyToId="1409879042174689283" tweetUserName="KenSmith" >
 							<outline text="Today Krugman provides a data point--no way racism was over in 1938 if the FHA was supporting segregation in this way. Maybe it ended last Tuesday after all.
@@ -46,24 +47,24 @@ https://t.co/O1SdjigCaA" type="tweet" created="Tue, 29 Jun 2021 14:24:26 GMT" tw
 							</outline>
 						</outline>
 					</outline>
-				<outline text="&quot;You can't make revolution with employees.&quot; https://t.co/EnsQGdvxGg" type="tweet" created="Tue, 29 Jun 2021 13:43:46 GMT" tweetId="1409870207238250506" urltweet="https://twitter.com/KenSmith/status/1409870207238250506" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="&quot;You can't make revolution with employees.&quot; https://t.co/EnsQGdvxGg" type="tweet" created="Tue, 29 Jun 2021 13:43:46 GMT" tweetId="1409870207238250506" urltweet="https://twitter.com/KenSmith/status/1409870207238250506" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="June 28" type="calendarDay" name="28" >
 				<outline text="“Ties everyone into the ecosystem then.”
 
-When speaking of social platforms, that’s a phrasing that can be used over and over again, describing practices that work to the detriment of users, both writers and readers. Handcuffs software creators too, I hear. https://t.co/NrvI9j2Nmf" type="tweet" created="Mon, 28 Jun 2021 22:14:33 GMT" tweetId="1409636364094631937" urltweet="https://twitter.com/KenSmith/status/1409636364094631937" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="“There's no media ecosystem that's focused on how crazy the Republican Party is. There's no intensive conversation about what the Republican Party has been doing for the last five years as it has progressively fallen down the pathway towards fascism.” https://t.co/Azbn1UbzhE" type="tweet" created="Mon, 28 Jun 2021 14:19:46 GMT" tweetId="1409516878846902278" urltweet="https://twitter.com/KenSmith/status/1409516878846902278" inReplyToId="" tweetUserName="KenSmith" />
+When speaking of social platforms, that’s a phrasing that can be used over and over again, describing practices that work to the detriment of users, both writers and readers. Handcuffs software creators too, I hear. https://t.co/NrvI9j2Nmf" type="tweet" created="Mon, 28 Jun 2021 22:14:33 GMT" tweetId="1409636364094631937" urltweet="https://twitter.com/KenSmith/status/1409636364094631937" tweetUserName="KenSmith" />
+				<outline text="“There's no media ecosystem that's focused on how crazy the Republican Party is. There's no intensive conversation about what the Republican Party has been doing for the last five years as it has progressively fallen down the pathway towards fascism.” https://t.co/Azbn1UbzhE" type="tweet" created="Mon, 28 Jun 2021 14:19:46 GMT" tweetId="1409516878846902278" urltweet="https://twitter.com/KenSmith/status/1409516878846902278" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
-				<outline text="Of its moment but also still a pressing account of economic and authority pressures on journalism, and the trembling foundations of society. @ARusbridger in 2006 explaining why the Guardian continued to innovate in the digital space by inviting readers to write. https://t.co/UZ0WuK6PcO" type="tweet" created="Fri, 25 Jun 2021 20:32:02 GMT" tweetId="1408523401485029384" urltweet="https://twitter.com/KenSmith/status/1408523401485029384" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="Of its moment but also still a pressing account of economic and authority pressures on journalism, and the trembling foundations of society. @ARusbridger in 2006 explaining why the Guardian continued to innovate in the digital space by inviting readers to write. https://t.co/UZ0WuK6PcO" type="tweet" created="Fri, 25 Jun 2021 20:32:02 GMT" tweetId="1408523401485029384" urltweet="https://twitter.com/KenSmith/status/1408523401485029384" tweetUserName="KenSmith" />
 				<outline text="“Politicians, for all that they despair of newspapers sometimes, would find countries very difficult to govern unless you had a sufficiently informed citizenship.”
 
 @ARusbridger’s “Newspapers in the Age of Blogs” talk at the RSA in 2006 (57:45)
 
-https://t.co/gf7R1HrmJJ" type="tweet" created="Fri, 25 Jun 2021 20:28:35 GMT" tweetId="1408522533218009102" urltweet="https://twitter.com/KenSmith/status/1408522533218009102" inReplyToId="" tweetUserName="KenSmith" />
+https://t.co/gf7R1HrmJJ" type="tweet" created="Fri, 25 Jun 2021 20:28:35 GMT" tweetId="1408522533218009102" urltweet="https://twitter.com/KenSmith/status/1408522533218009102" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="June 24" type="calendarDay" name="24" >
-				<outline text="Penelope Fitzgerald’s short story “The Axe” is presented as a business report the narrator has written in a time of crisis for her boss. Here is the story’s (and the report’s) second paragraph. https://t.co/N9CZNhfdK2" type="tweet" created="Thu, 24 Jun 2021 16:51:47 GMT" tweetId="1408105584000385029" urltweet="https://twitter.com/KenSmith/status/1408105584000385029" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="Penelope Fitzgerald’s short story “The Axe” is presented as a business report the narrator has written in a time of crisis for her boss. Here is the story’s (and the report’s) second paragraph. https://t.co/N9CZNhfdK2" type="tweet" created="Thu, 24 Jun 2021 16:51:47 GMT" tweetId="1408105584000385029" urltweet="https://twitter.com/KenSmith/status/1408105584000385029" tweetUserName="KenSmith" />
 				</outline>
 			</outline>
 		</body>
