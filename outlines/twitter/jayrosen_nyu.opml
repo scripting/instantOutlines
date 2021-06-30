@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 13:57:45 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 14:51:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="One way you know Fox is not a news network is that when Carlson makes a wild — but important-if-true — factual claim, the so-called &quot;news side&quot; doesn't confirm it, refute it, or even tell you they're working on it. A news network would not act like that. https://t.co/3Rn1e3tGxS" type="tweet" created="Wed, 30 Jun 2021 14:51:51 GMT" tweetId="1410249730395979776" urltweet="https://twitter.com/jayrosen_nyu/status/1410249730395979776" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Why cover Tucker? 
 
 @brianstelter: &quot;He hosts the single biggest gathering of GOP diehards anywhere on TV... the rest of us have to decide: Ignore what he spews, or scrutinize it and supply a reality check, knowing that's going to cause him to double down?&quot; https://t.co/JK39pIU0Vp" type="tweet" created="Wed, 30 Jun 2021 13:57:24 GMT" tweetId="1410236027327893507" urltweet="https://twitter.com/jayrosen_nyu/status/1410236027327893507" inReplyToId="" tweetUserName="jayrosen_nyu" />
