@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 30 Jun 2021 00:36:30 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 11:21:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="New @gaslitnation is out! Louis DeJoy and the plot to strip the US down and sell it for parts, the latest on the Trump Organization investigation, Giuliani and what a “Trump lawyer” actually does, more https://t.co/36QeN4ysQz" type="tweet" created="Wed, 30 Jun 2021 11:21:22 GMT" tweetId="1410196760648167428" urltweet="https://twitter.com/sarahkendzior/status/1410196760648167428" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="June 29" type="calendarDay" name="29" >
 				<outline text="What worries me about MO and NV being top two in Delta is that both have cities that are major tourist attractions where people are crammed in close quarters: Vegas and Branson (which is in the region of MO with highest rate of infection). Seem likely pathways to spread across US https://t.co/B4kOr9Oxny" type="tweet" created="Wed, 30 Jun 2021 00:35:36 GMT" tweetId="1410034249730830337" urltweet="https://twitter.com/sarahkendzior/status/1410034249730830337" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="New @gaslitnation is on the way, stay tuned!
