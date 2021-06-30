@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 29 Jun 2021 21:35:16 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 00:48:12 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="Just contemplating what this could mean for C*risti*n’s TikTok career https://t.co/zE8V4THhi4" type="tweet" created="Wed, 30 Jun 2021 00:47:12 GMT" tweetId="1410037168689487876" urltweet="https://twitter.com/taylorlorenz/status/1410037168689487876" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="No offense please here, but seeing a few takes like this online and *this* is the “worst kind of tech “criticism”. It’s just as important to cover labor issues and exploitation when women are the bosses as when men are. https://t.co/OBf97i7yV4" type="tweet" created="Tue, 29 Jun 2021 21:30:32 GMT" tweetId="1409987676271366151" urltweet="https://twitter.com/taylorlorenz/status/1409987676271366151" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="I do agree with Paul on this, there are a million male Holmes. The solution isn’t to allow women to exploit more people, it’s to hold the men doing the same things as accountable. https://t.co/Qzh4xR33kf" type="tweet" created="Tue, 29 Jun 2021 21:32:09 GMT" tweetId="1409988080849674246" urltweet="https://twitter.com/taylorlorenz/status/1409988080849674246" inReplyToId="1409987676271366151" tweetUserName="taylorlorenz" >
 						<outline text="“Female founder implosion stories” also cover companies that matter to lots of women. Those stories are important to tell! We should not be doing less of that, the media should just hold men to the same standards (as many women tech reporters have been trying to do for years)" type="tweet" created="Tue, 29 Jun 2021 21:35:01 GMT" tweetId="1409988802773340163" urltweet="https://twitter.com/taylorlorenz/status/1409988802773340163" inReplyToId="1409988080849674246" tweetUserName="taylorlorenz" />
