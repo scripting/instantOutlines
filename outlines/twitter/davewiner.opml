@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 30 Jun 2021 09:07:41 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 10:44:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="Barr didn’t break with Trump. He saw the writing on the wall and has been trying to save himself. https://t.co/cSEsHfPNWc" type="tweet" created="Wed, 30 Jun 2021 10:43:27 GMT" tweetId="1410187219206389765" urltweet="https://twitter.com/davewiner/status/1410187219206389765" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Healthiest Counties in the US. https://t.co/5cPNiJUAm1" type="tweet" created="Wed, 30 Jun 2021 09:06:42 GMT" tweetId="1410162869979824131" urltweet="https://twitter.com/davewiner/status/1410162869979824131" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Ground Temperatures Hit 118 Degrees in the Arctic Circle. https://t.co/byevPNp5kF" type="tweet" created="Wed, 30 Jun 2021 08:50:42 GMT" tweetId="1410158844173557763" urltweet="https://twitter.com/davewiner/status/1410158844173557763" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
