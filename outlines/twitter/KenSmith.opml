@@ -6,10 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 13:55:59 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 15:34:16 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="Understanding blogging. Dave Winer's prompt and my reply.
+
+https://t.co/5NZ32HQDw6
+
+...it is about the unfinished business of making sense of our lives. We all need help in that area, if we can get it, although some people believe or pretend otherwise... https://t.co/XIfNuC0waO" type="tweet" created="Wed, 30 Jun 2021 15:33:54 GMT" tweetId="1410260312322887686" urltweet="https://twitter.com/KenSmith/status/1410260312322887686" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="June 29" type="calendarDay" name="29" >
 				<outline text="I wonder when folks who say they think the U.S. eventually got over its bad case of racism--I wonder when they think the getting over it happened? Surely not in the golden age of lynching--must be later. Not in the golden age of redlining. Not before people could readily vote..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879040882794496" urltweet="https://twitter.com/KenSmith/status/1409879040882794496" inReplyToId="" tweetUserName="KenSmith" >
 					<outline text="...and not before they could count on sending their kids to good public schools. Not before people could readily build careers in leadership roles rather than muscle roles in sports or subordinate roles elsewhere. The list goes on..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879042174689283" urltweet="https://twitter.com/KenSmith/status/1409879042174689283" inReplyToId="1409879040882794496" tweetUserName="KenSmith" >
