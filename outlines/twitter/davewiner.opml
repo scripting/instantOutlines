@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 30 Jun 2021 13:55:58 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 16:12:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="OMG the peaches are sooo good." type="tweet" created="Wed, 30 Jun 2021 16:11:56 GMT" tweetId="1410269885171650571" urltweet="https://twitter.com/davewiner/status/1410269885171650571" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Book Review: A Philosophy of Software Design. https://t.co/B8vzgwK5iX" type="tweet" created="Wed, 30 Jun 2021 13:06:06 GMT" tweetId="1410223116702339076" urltweet="https://twitter.com/davewiner/status/1410223116702339076" tweetUserName="davewiner" />
 				<outline text="Barr didn’t break with Trump. He saw the writing on the wall and has been trying to save himself. https://t.co/cSEsHfPNWc" type="tweet" created="Wed, 30 Jun 2021 10:43:27 GMT" tweetId="1410187219206389765" urltweet="https://twitter.com/davewiner/status/1410187219206389765" tweetUserName="davewiner" />
 				<outline text="Healthiest Counties in the US. https://t.co/5cPNiJUAm1" type="tweet" created="Wed, 30 Jun 2021 09:06:42 GMT" tweetId="1410162869979824131" urltweet="https://twitter.com/davewiner/status/1410162869979824131" tweetUserName="davewiner" />
