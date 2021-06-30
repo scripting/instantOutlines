@@ -6,13 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 06:39:41 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 06:45:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
 				<outline text="This is literally not true and I had absolutely zero to do with Choire leaving NYT. Please stop trying to relate every story about the NYT back to me https://t.co/NzsaXrsE57" type="tweet" created="Wed, 30 Jun 2021 06:37:35 GMT" tweetId="1410125341901791233" urltweet="https://twitter.com/taylorlorenz/status/1410125341901791233" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="In zero way do I “engage with online critics” other than by speaking broadly about .001% of the harassment and BS I’ve had to deal with online. Stop acting like this is a 2 sided thing, it’s not. Media organizations should not treat it that way." type="tweet" created="Wed, 30 Jun 2021 06:39:40 GMT" tweetId="1410125867288719360" urltweet="https://twitter.com/taylorlorenz/status/1410125867288719360" inReplyToId="1410125341901791233" tweetUserName="taylorlorenz" >
+						<outline text="These ppl aren’t “critics”, their goal is to smear and attack reporters they consider vulnerable. They make entire news cycles abt me saying I’m tired or celebrating international women’s day. This is not good faith “criticism”. Not that I’d expect Daily Beast to know the diff" type="tweet" created="Wed, 30 Jun 2021 06:44:44 GMT" tweetId="1410127143149850629" urltweet="https://twitter.com/taylorlorenz/status/1410127143149850629" inReplyToId="1410125867288719360" tweetUserName="taylorlorenz" />
+						</outline>
 					<outline text="In zero way do I “engage with online critics” other than by speaking broadly about .001% of the harassment and BS I’ve had to deal with online. Stop acting like this is a 2 sided thing, it’s not. Media organizations should not treat it that way." type="tweet" created="Wed, 30 Jun 2021 06:39:40 GMT" tweetId="1410125867288719360" urltweet="https://twitter.com/taylorlorenz/status/1410125867288719360" inReplyToId="1410125341901791233" tweetUserName="taylorlorenz" />
 					</outline>
 				</outline>
