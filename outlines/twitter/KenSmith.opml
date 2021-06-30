@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 18:51:07 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 23:59:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="I bet people my age can name at least half of these folks, even in a weak resolution image... https://t.co/AjJAW5icqa" type="tweet" created="Wed, 30 Jun 2021 23:59:02 GMT" tweetId="1410387432781066241" urltweet="https://twitter.com/KenSmith/status/1410387432781066241" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Hammer in the grass. https://t.co/lZO0vW10sO" type="tweet" created="Wed, 30 Jun 2021 18:18:59 GMT" tweetId="1410301858938339330" urltweet="https://twitter.com/KenSmith/status/1410301858938339330" tweetUserName="KenSmith" />
 				<outline text="How I'll remember him. https://t.co/UuZUef84OA" type="tweet" created="Wed, 30 Jun 2021 17:44:59 GMT" tweetId="1410293300964245513" urltweet="https://twitter.com/KenSmith/status/1410293300964245513" tweetUserName="KenSmith" />
 				<outline text="A different kind of account of that day.
