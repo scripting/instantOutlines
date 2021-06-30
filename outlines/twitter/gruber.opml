@@ -7,12 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Sun, 27 Jun 2021 15:28:29 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 18:51:07 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
-				<outline text="For your weekend listening enjoyment: https://t.co/mYGYFNO1Uz" type="tweet" created="Sun, 27 Jun 2021 15:27:33 GMT" tweetId="1409171550939582465" urltweet="https://twitter.com/gruber/status/1409171550939582465" inReplyToId="" tweetUserName="gruber" />
+				<outline text="For your weekend listening enjoyment: https://t.co/mYGYFNO1Uz" type="tweet" created="Sun, 27 Jun 2021 15:27:33 GMT" tweetId="1409171550939582465" urltweet="https://twitter.com/gruber/status/1409171550939582465" tweetUserName="gruber" />
 				</outline>
 			<outline text="June 20" type="calendarDay" name="20" >
 				<outline text="I’ll bet KD would like that last shot back." type="tweet" created="Sun, 20 Jun 2021 06:31:21 GMT" tweetId="1406499898283937794" urltweet="https://twitter.com/gruber/status/1406499898283937794" tweetUserName="gruber" />
