@@ -7,11 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Tue, 29 Jun 2021 09:41:50 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 00:26:27 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="New @gaslitnation is on the way, stay tuned!
+
+Keep our podcast independent and accessible to all by supporting us on Patreon! https://t.co/Na8D7sa2BC" type="tweet" created="Wed, 30 Jun 2021 00:26:17 GMT" tweetId="1410031903453888515" urltweet="https://twitter.com/sarahkendzior/status/1410031903453888515" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="Thread https://t.co/KxuMtSVz3t" type="tweet" created="Tue, 29 Jun 2021 09:41:40 GMT" tweetId="1409809280954474505" urltweet="https://twitter.com/sarahkendzior/status/1409809280954474505" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
 			<outline text="June 28" type="calendarDay" name="28" >
