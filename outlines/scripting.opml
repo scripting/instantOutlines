@@ -12,16 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 12:45:47 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 14:37:32 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>3</lastCursor>
+		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urInstant>http://instantoutliner.com/qk</urInstant>
 		</head>
 	<body>
 		<outline text="June 2021" created="Tue, 01 Jun 2021 12:29:09 GMT" name="june2021" type="calendarMonth" >
 			<outline text="June 30" created="Wed, 30 Jun 2021 12:45:17 GMT" type="calendarDay" name="30" >
-				<outline text="I posted a &lt;a href=&quot;https://github.com/Leonidas-from-XIV/node-xml2js/issues/380#issuecomment-871369365&quot;&gt;question/suggestion&lt;/a&gt; on a thread on the xml2js issues board. " created="Wed, 30 Jun 2021 12:45:18 GMT" type="outline" />
+				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215&quot;&gt;Braintrust query&lt;/a&gt;. I suck at regular expressions. " created="Wed, 30 Jun 2021 14:36:59 GMT" type="outline" />
+				<outline text="I posted a &lt;a href=&quot;https://github.com/Leonidas-from-XIV/node-xml2js/issues/380#issuecomment-871369365&quot;&gt;question/suggestion&lt;/a&gt; on the xml2js issues board. " created="Wed, 30 Jun 2021 12:45:18 GMT" type="outline" />
 				</outline>
 			<outline text="June 29" created="Tue, 29 Jun 2021 13:13:44 GMT" type="calendarDay" name="29" >
 				<outline text="The web still could be a fantastic writing environment." created="Tue, 29 Jun 2021 20:13:09 GMT" type="outline" />
