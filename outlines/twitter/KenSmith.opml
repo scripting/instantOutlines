@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 17:03:33 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 17:26:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="A website from his home state commemorates Ted Belcher.
+
+https://t.co/ddqLJ62zMh https://t.co/wQmGXBzrhw" type="tweet" created="Wed, 30 Jun 2021 17:25:51 GMT" tweetId="1410288483579699205" urltweet="https://twitter.com/KenSmith/status/1410288483579699205" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Old blog post:
 
 Twitter sort of relentlessly says, &quot;You will not shape anything but an endless, ever-vanishing flow of your tweets in our space. On our terms, not yours. With our goals in mind, not yours.&quot;" type="tweet" created="Wed, 30 Jun 2021 17:02:58 GMT" tweetId="1410282727761448962" urltweet="https://twitter.com/KenSmith/status/1410282727761448962" inReplyToId="" tweetUserName="KenSmith" />
