@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 15:44:18 GMT</dateModified>
+		<dateModified>Wed, 30 Jun 2021 16:10:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="A friend of mine, who was there, finds that day pretty hard to talk about. https://t.co/SvkD4ELukZ" type="tweet" created="Wed, 30 Jun 2021 16:10:09 GMT" tweetId="1410269435852734468" urltweet="https://twitter.com/KenSmith/status/1410269435852734468" inReplyToId="" tweetUserName="KenSmith" >
+					<outline text="But sometimes he gives me clues... https://t.co/S3tkTXDpJ4" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269437211590663" urltweet="https://twitter.com/KenSmith/status/1410269437211590663" inReplyToId="1410269435852734468" tweetUserName="KenSmith" >
+						<outline text="And sometimes I guess what it all implies about we who sent them... https://t.co/TLTm4BLLGs" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269438964867072" urltweet="https://twitter.com/KenSmith/status/1410269438964867072" inReplyToId="1410269437211590663" tweetUserName="KenSmith" >
+							<outline text="If they're going to go there in our name, the least we owe is our reflection... https://t.co/bFjRX69BRN" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269440625811460" urltweet="https://twitter.com/KenSmith/status/1410269440625811460" inReplyToId="1410269438964867072" tweetUserName="KenSmith" />
+							</outline>
+						</outline>
+					</outline>
 				<outline text="The shaggy professor who cannot speak. https://t.co/zb53n7Yi1l" type="tweet" created="Wed, 30 Jun 2021 15:43:46 GMT" tweetId="1410262795950739456" urltweet="https://twitter.com/KenSmith/status/1410262795950739456" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Understanding blogging. Dave Winer's prompt and my reply.
 
