@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 20:29:56 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 20:54:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="That was quick &lt;a href=&quot;https://twitter.com/stoolpresidente/status/1410677050357207049&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 20:53:39 GMT" tweetId="1410703169408045065" urltweet="https://twitter.com/taylorlorenz/status/1410703169408045065" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Daddy braddy &lt;a href=&quot;https://twitter.com/a_dsgnr/status/1410690421106241539&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 20:24:01 GMT" tweetId="1410695712443043841" urltweet="https://twitter.com/taylorlorenz/status/1410695712443043841" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Interesting thread &lt;a href=&quot;https://twitter.com/jayhoovy/status/1409586831411191817&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:54:14 GMT" tweetId="1410688216873594887" urltweet="https://twitter.com/taylorlorenz/status/1410688216873594887" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I HAVE MADE IT! 😭 cc @ColinandSamir @ljin18 &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1410686850298118145/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:48:49 GMT" tweetId="1410686850298118145" urltweet="https://twitter.com/taylorlorenz/status/1410686850298118145" inReplyToId="" tweetUserName="taylorlorenz" />
