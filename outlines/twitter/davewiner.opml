@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 01 Jul 2021 14:34:32 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 15:14:46 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
@@ -18,14 +18,14 @@ If you use an outliner and write code, you should try writing code in the outlin
 
 Here's an example, a full web server in JavaScript in an outliner.
 
-https://t.co/7KGiNB1jbm https://t.co/QEEAuU3Qzz" type="tweet" created="Thu, 01 Jul 2021 14:34:26 GMT" tweetId="1410607734689439755" urltweet="https://twitter.com/davewiner/status/1410607734689439755" inReplyToId="" tweetUserName="davewiner" />
+https://t.co/7KGiNB1jbm https://t.co/QEEAuU3Qzz" type="tweet" created="Thu, 01 Jul 2021 14:34:26 GMT" tweetId="1410607734689439755" urltweet="https://twitter.com/davewiner/status/1410607734689439755" tweetUserName="davewiner" />
 				<outline text="a #toolsforthought use case.
 
 If you use an outliner and write code, you should try writing code in the outliner. 
 
 Here's an example, a full web server in JavaScript in an outliner.
 
-https://t.co/7KGiNB1jbm" type="tweet" created="Thu, 01 Jul 2021 14:16:30 GMT" tweetId="1410603220930494466" urltweet="https://twitter.com/davewiner/status/1410603220930494466" inReplyToId="" tweetUserName="davewiner" >
+https://t.co/7KGiNB1jbm" type="tweet" created="Thu, 01 Jul 2021 14:16:30 GMT" tweetId="1410603220930494466" urltweet="https://twitter.com/davewiner/status/1410603220930494466" tweetUserName="davewiner" >
 					<outline text="The big win is you can organize your code in an outline the way it is organized in the programming language. 
 
 So you can move functions around by dragging their top headline, and dropping it where you want it." type="tweet" created="Thu, 01 Jul 2021 14:16:30 GMT" tweetId="1410603222226505746" urltweet="https://twitter.com/davewiner/status/1410603222226505746" inReplyToId="1410603220930494466" tweetUserName="davewiner" >
@@ -38,18 +38,18 @@ When you turn a headline into a comment, everything subordinate is treated as a 
 					</outline>
 				<outline text="What kind of a record is https://t.co/TEYsDJh6dC creating?
 
-https://t.co/dE7WJnA1kR https://t.co/MyKZe37sJJ" type="tweet" created="Thu, 01 Jul 2021 12:58:00 GMT" tweetId="1410583468292165636" urltweet="https://twitter.com/davewiner/status/1410583468292165636" inReplyToId="" tweetUserName="davewiner" />
+https://t.co/dE7WJnA1kR https://t.co/MyKZe37sJJ" type="tweet" created="Thu, 01 Jul 2021 12:58:00 GMT" tweetId="1410583468292165636" urltweet="https://twitter.com/davewiner/status/1410583468292165636" tweetUserName="davewiner" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
-				<outline text="Apple's original iPhone went on sale 14 years ago. https://t.co/rCCnXy1lrg" type="tweet" created="Thu, 01 Jul 2021 01:17:29 GMT" tweetId="1410407177320292357" urltweet="https://twitter.com/davewiner/status/1410407177320292357" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Fauci warns there may soon be 'two Americas' as vaccination divide widens. https://t.co/dxMqo0ooFM" type="tweet" created="Thu, 01 Jul 2021 00:09:37 GMT" tweetId="1410390098672340993" urltweet="https://twitter.com/davewiner/status/1410390098672340993" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Real Time Lightning Map. https://t.co/1Y9fVshVgT" type="tweet" created="Wed, 30 Jun 2021 22:49:33 GMT" tweetId="1410369945637117960" urltweet="https://twitter.com/davewiner/status/1410369945637117960" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Bill Cosby freed from prison, his sex conviction overturned. https://t.co/dVAoZxDOIJ" type="tweet" created="Wed, 30 Jun 2021 22:03:14 GMT" tweetId="1410358291125964801" urltweet="https://twitter.com/davewiner/status/1410358291125964801" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Inside the Jan. 6 Capitol Riot: An Exclusive Video Investigation. #giftlink https://t.co/ZZeIvVe99Q" type="tweet" created="Wed, 30 Jun 2021 21:27:00 GMT" tweetId="1410349171413032977" urltweet="https://twitter.com/davewiner/status/1410349171413032977" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Donald Rumsfeld: Former secretary of defense dies at 88. https://t.co/nLuQeztekL" type="tweet" created="Wed, 30 Jun 2021 21:13:36 GMT" tweetId="1410345799448514565" urltweet="https://twitter.com/davewiner/status/1410345799448514565" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="Sir Tim Berners-Lee’s web source code NFT sells for $5.4 million. https://t.co/RJ8IkMaQHt" type="tweet" created="Wed, 30 Jun 2021 20:25:51 GMT" tweetId="1410333782519988228" urltweet="https://twitter.com/davewiner/status/1410333782519988228" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Apple's original iPhone went on sale 14 years ago. https://t.co/rCCnXy1lrg" type="tweet" created="Thu, 01 Jul 2021 01:17:29 GMT" tweetId="1410407177320292357" urltweet="https://twitter.com/davewiner/status/1410407177320292357" tweetUserName="davewiner" />
+				<outline text="Fauci warns there may soon be 'two Americas' as vaccination divide widens. https://t.co/dxMqo0ooFM" type="tweet" created="Thu, 01 Jul 2021 00:09:37 GMT" tweetId="1410390098672340993" urltweet="https://twitter.com/davewiner/status/1410390098672340993" tweetUserName="davewiner" />
+				<outline text="Real Time Lightning Map. https://t.co/1Y9fVshVgT" type="tweet" created="Wed, 30 Jun 2021 22:49:33 GMT" tweetId="1410369945637117960" urltweet="https://twitter.com/davewiner/status/1410369945637117960" tweetUserName="davewiner" />
+				<outline text="Bill Cosby freed from prison, his sex conviction overturned. https://t.co/dVAoZxDOIJ" type="tweet" created="Wed, 30 Jun 2021 22:03:14 GMT" tweetId="1410358291125964801" urltweet="https://twitter.com/davewiner/status/1410358291125964801" tweetUserName="davewiner" />
+				<outline text="Inside the Jan. 6 Capitol Riot: An Exclusive Video Investigation. #giftlink https://t.co/ZZeIvVe99Q" type="tweet" created="Wed, 30 Jun 2021 21:27:00 GMT" tweetId="1410349171413032977" urltweet="https://twitter.com/davewiner/status/1410349171413032977" tweetUserName="davewiner" />
+				<outline text="Donald Rumsfeld: Former secretary of defense dies at 88. https://t.co/nLuQeztekL" type="tweet" created="Wed, 30 Jun 2021 21:13:36 GMT" tweetId="1410345799448514565" urltweet="https://twitter.com/davewiner/status/1410345799448514565" tweetUserName="davewiner" />
+				<outline text="Sir Tim Berners-Lee’s web source code NFT sells for $5.4 million. https://t.co/RJ8IkMaQHt" type="tweet" created="Wed, 30 Jun 2021 20:25:51 GMT" tweetId="1410333782519988228" urltweet="https://twitter.com/davewiner/status/1410333782519988228" tweetUserName="davewiner" />
 				<outline text="I have a Trek Verve + and love it. https://t.co/IJ1uhBBQc3" type="tweet" created="Wed, 30 Jun 2021 16:12:58 GMT" tweetId="1410270145822474241" urltweet="https://twitter.com/davewiner/status/1410270145822474241" tweetUserName="davewiner" />
 				<outline text="OMG the peaches are sooo good." type="tweet" created="Wed, 30 Jun 2021 16:11:56 GMT" tweetId="1410269885171650571" urltweet="https://twitter.com/davewiner/status/1410269885171650571" tweetUserName="davewiner" />
 				<outline text="Book Review: A Philosophy of Software Design. https://t.co/B8vzgwK5iX" type="tweet" created="Wed, 30 Jun 2021 13:06:06 GMT" tweetId="1410223116702339076" urltweet="https://twitter.com/davewiner/status/1410223116702339076" tweetUserName="davewiner" />
