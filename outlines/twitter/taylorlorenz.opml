@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 19:16:38 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 19:18:39 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
-				<outline text="I love reading the comments on some of my stories &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:16:09 GMT" tweetId="1410678632817709056" urltweet="https://twitter.com/taylorlorenz/status/1410678632817709056" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="I love reading the comments on some of my stories &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:16:09 GMT" tweetId="1410678632817709056" urltweet="https://twitter.com/taylorlorenz/status/1410678632817709056" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Roger! &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt; https://t.co/2KjxBbZRYs" type="tweet" created="Thu, 01 Jul 2021 19:18:24 GMT" tweetId="1410679198084001792" urltweet="https://twitter.com/taylorlorenz/status/1410679198084001792" inReplyToId="1410678632817709056" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Excited to chat with these fine folks about social media and internet stuff!! &lt;a href=&quot;https://twitter.com/MorningBrew/status/1410669388873842690&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 18:50:57 GMT" tweetId="1410672287674560514" urltweet="https://twitter.com/taylorlorenz/status/1410672287674560514" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="When will the creator economy reach the point where I get royalties for all the free content I’ve generated for meme accounts over the years? (this one from 2015 is still going!) &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1410661424037208067/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 18:07:46 GMT" tweetId="1410661424037208067" urltweet="https://twitter.com/taylorlorenz/status/1410661424037208067" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This man is an absolute master of his craft and I will watch every one of his videos &lt;a href=&quot;https://twitter.com/foundhergrail/status/1410602427556892672&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 17:53:26 GMT" tweetId="1410657814125502466" urltweet="https://twitter.com/taylorlorenz/status/1410657814125502466" inReplyToId="" tweetUserName="taylorlorenz" >
