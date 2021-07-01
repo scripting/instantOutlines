@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 15:29:03 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 15:58:53 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,6 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 1" created="Thu, 01 Jul 2021 12:37:39 GMT" type="calendarDay" name="01" >
+				<outline text="Peeve: Someone I'm collaborating with says they'll read my email later because they're busy now. Then they say what they're doing. The point of using asynchronous tools is  you don't have to care what I'm doing now, and I don't have to stop everything to do something for you." created="Thu, 01 Jul 2021 15:58:51 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-872340008&quot;&gt;Follow-up&lt;/a&gt; on yesterday's braintrust query. Using a regular expression, I find a t.co link in a tweet, and replace it with something smaller and less distracting. Remember this is a writing environment, so the result must be as simple as possible for readers. :smile: " created="Thu, 01 Jul 2021 15:27:52 GMT" type="outline" />
 				<outline text="A &quot;Tools For Thought&quot; use-case: &lt;a href=&quot;https://twitter.com/davewiner/status/1410603220930494466&quot;&gt;Writing code in an outliner&lt;/a&gt;. " created="Thu, 01 Jul 2021 14:19:22 GMT" type="outline" />
 				<outline text="I'm really confused about what's up with &lt;a href=&quot;https://archive.org/&quot;&gt;archive.org&lt;/a&gt;. As I &lt;a href=&quot;http://scripting.com/2021/06/29.html#a131345&quot;&gt;reported&lt;/a&gt; on Tuesday, they clearly aren't archiving this blog in any meaningful way. I write this blog with history in mind. I put things here and on the &lt;a href=&quot;http://scripting.com/?tab=links&quot;&gt;linkblog&lt;/a&gt; because I want to be sure historians in the future will find at least one link to this stuff. If archive.org isn't backing it up, that's a big problem. And it raises an even bigger question -- what else aren't they archiving? And how do they decide what to archive and not to archive? Do they run the JavaScript on a page to get a rendering? If not, there's a huge amount of our knowledge that isn't being recorded. Are they trying to be neutral or do their friends and people who donate get preferential treatment? " created="Thu, 01 Jul 2021 12:37:40 GMT" type="outline" image="http://scripting.com/images/2021/06/29/monaLisa.png" />
