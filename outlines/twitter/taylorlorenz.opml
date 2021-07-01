@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 20:24:54 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 20:29:56 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -68,7 +68,9 @@ This one is labeled “Patriots Push Back” and “Patriots only!” https://t.
 				<outline text="A six-month Times investigation has synchronized and mapped out thousands of videos and police radio communications from the Jan. 6 Capitol riot, providing the most complete picture to date of what happened — and why https://t.co/paPs5W9vEJ" type="tweet" created="Wed, 30 Jun 2021 19:41:46 GMT" tweetId="1410322689571450883" urltweet="https://twitter.com/taylorlorenz/status/1410322689571450883" tweetUserName="taylorlorenz" />
 				<outline text="Venmo pulling the Jeffree Star PR playbook https://t.co/0mroeZhQe9" type="tweet" created="Wed, 30 Jun 2021 19:40:49 GMT" tweetId="1410322450332536833" urltweet="https://twitter.com/taylorlorenz/status/1410322450332536833" tweetUserName="taylorlorenz" />
 				<outline text="IG is finally productizing what influencers have been doing for years now (charging people to subscribe to their Close Friends content) https://t.co/W8rhalvCZ8" type="tweet" created="Wed, 30 Jun 2021 15:50:13 GMT" tweetId="1410264417665642499" urltweet="https://twitter.com/taylorlorenz/status/1410264417665642499" tweetUserName="taylorlorenz" />
-				<outline text="You should be able to post to mutuals only or close friends on twitter" type="tweet" created="Wed, 30 Jun 2021 14:36:02 GMT" tweetId="1410245747778326532" urltweet="https://twitter.com/taylorlorenz/status/1410245747778326532" tweetUserName="taylorlorenz" />
+				<outline text="You should be able to post to mutuals only or close friends on twitter" type="tweet" created="Wed, 30 Jun 2021 14:36:02 GMT" tweetId="1410245747778326532" urltweet="https://twitter.com/taylorlorenz/status/1410245747778326532" tweetUserName="taylorlorenz" >
+					<outline text="Psyched to see Twitter exploring this!! &lt;a href=&quot;https://twitter.com/a_dsgnr/status/1410690425963180032&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 20:29:02 GMT" tweetId="1410696973842223107" urltweet="https://twitter.com/taylorlorenz/status/1410696973842223107" inReplyToId="1410245747778326532" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="This is literally not true and I had absolutely zero to do with Choire leaving NYT. Please stop trying to relate every story about the NYT back to me https://t.co/NzsaXrsE57" type="tweet" created="Wed, 30 Jun 2021 06:37:35 GMT" tweetId="1410125341901791233" urltweet="https://twitter.com/taylorlorenz/status/1410125341901791233" tweetUserName="taylorlorenz" >
 					<outline text="In zero way do I “engage with online critics” other than by speaking broadly about .001% of the harassment and BS I’ve had to deal with online. Stop acting like this is a 2 sided thing, it’s not. Media organizations should not treat it that way." type="tweet" created="Wed, 30 Jun 2021 06:39:40 GMT" tweetId="1410125867288719360" urltweet="https://twitter.com/taylorlorenz/status/1410125867288719360" inReplyToId="1410125341901791233" tweetUserName="taylorlorenz" >
 						<outline text="These ppl aren’t “critics”, their goal is to smear and attack reporters they consider vulnerable. They make entire news cycles abt me saying I’m tired or celebrating international women’s day. This is not good faith “criticism”. Not that I’d expect Daily Beast to know the diff" type="tweet" created="Wed, 30 Jun 2021 06:44:44 GMT" tweetId="1410127143149850629" urltweet="https://twitter.com/taylorlorenz/status/1410127143149850629" inReplyToId="1410125867288719360" tweetUserName="taylorlorenz" />
