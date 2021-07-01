@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 01 Jul 2021 21:03:53 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 21:52:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="Since @twitter is thinking about new features, copy the Snooze feature in Facebook." type="tweet" created="Thu, 01 Jul 2021 21:51:17 GMT" tweetId="1410717670547378181" urltweet="https://twitter.com/davewiner/status/1410717670547378181" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Delays in cannabis nominations may stall recreational sales in New York. &lt;a href=&quot;https://www.politico.com/news/2021/06/21/delays-cannabis-nominations-new-york-495381&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 21:03:04 GMT" tweetId="1410705538321731587" urltweet="https://twitter.com/davewiner/status/1410705538321731587" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Twitter considers new features for tweeting only to friends, under different personas, and more. &lt;a href=&quot;https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/amp/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly90LmNvL0lLMTM2MlJCVkE_YW1wPTE&amp;guce_referrer_sig=AQAAAGgAcCRD5trB6wXGnuc2tcUu_ubvMoLAah_6jbdVZNEPs9Qrgp8oso0ex3nxlUjrqAacj7URWjKoaFAgfJKlXyL05Xx4S95zZsngg6u2J-uNjmi5nHzD3_wy07BVTdsQNmbuPs-FvYe7yi2DJanCpK0MlRG2tSxXvIujgw-D956A&amp;__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 20:54:14 GMT" tweetId="1410703315877433348" urltweet="https://twitter.com/davewiner/status/1410703315877433348" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Trump Organization expected to be charged with tax crimes. &lt;a href=&quot;https://www.cnn.com/politics/live-news/trump-organization-charges-07-01-21/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:04:37 GMT" tweetId="1410675727251476488" urltweet="https://twitter.com/davewiner/status/1410675727251476488" inReplyToId="" tweetUserName="davewiner" />
