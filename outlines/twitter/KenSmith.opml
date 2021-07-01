@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 09:09:30 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 13:45:33 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
@@ -22,7 +22,9 @@ In 1979, an Exxon study said that burning fossil fuels “will cause dramatic en
 			<outline text="June 30" type="calendarDay" name="30" >
 				<outline text="I bet people my age can name at least half of these folks, even in a weak resolution image... https://t.co/AjJAW5icqa" type="tweet" created="Wed, 30 Jun 2021 23:59:02 GMT" tweetId="1410387432781066241" urltweet="https://twitter.com/KenSmith/status/1410387432781066241" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Hammer in the grass. https://t.co/lZO0vW10sO" type="tweet" created="Wed, 30 Jun 2021 18:18:59 GMT" tweetId="1410301858938339330" urltweet="https://twitter.com/KenSmith/status/1410301858938339330" tweetUserName="KenSmith" />
-				<outline text="How I'll remember him. https://t.co/UuZUef84OA" type="tweet" created="Wed, 30 Jun 2021 17:44:59 GMT" tweetId="1410293300964245513" urltweet="https://twitter.com/KenSmith/status/1410293300964245513" tweetUserName="KenSmith" />
+				<outline text="How I'll remember him. https://t.co/UuZUef84OA" type="tweet" created="Wed, 30 Jun 2021 17:44:59 GMT" tweetId="1410293300964245513" urltweet="https://twitter.com/KenSmith/status/1410293300964245513" tweetUserName="KenSmith" >
+					<outline text="Perhaps obvious, but this is not a portrait of Rumsfeld..." type="tweet" created="Thu, 01 Jul 2021 13:45:06 GMT" tweetId="1410595321046999051" urltweet="https://twitter.com/KenSmith/status/1410595321046999051" inReplyToId="1410293300964245513" tweetUserName="KenSmith" />
+					</outline>
 				<outline text="A different kind of account of that day.
 
 https://t.co/u92b9pcHBx https://t.co/rnd3lsBDqC" type="tweet" created="Wed, 30 Jun 2021 17:29:41 GMT" tweetId="1410289449745928195" urltweet="https://twitter.com/KenSmith/status/1410289449745928195" tweetUserName="KenSmith" />
