@@ -6,10 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 22:11:27 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 04:26:04 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
+		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="If you missed it.
+
+&quot;Trustees for the University of North Carolina at Chapel Hill voted Wednesday afternoon at a closed session to give tenure to star New York Times writer Nikole Hannah-Jones several months after refusing to consider her proposed tenure.&quot; https://t.co/UuR0lgGEMh" type="tweet" created="Thu, 01 Jul 2021 04:25:34 GMT" tweetId="1410454510108041217" urltweet="https://twitter.com/jayrosen_nyu/status/1410454510108041217" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
+			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
 				<outline text="When it came down to the Board of Trustees being held accountable for their votes, different story. Congratulations to @nhannahjones, tenured professor. https://t.co/OM77Y7BxN9" type="tweet" created="Wed, 30 Jun 2021 22:11:03 GMT" tweetId="1410360260251078665" urltweet="https://twitter.com/jayrosen_nyu/status/1410360260251078665" inReplyToId="" tweetUserName="jayrosen_nyu" />
