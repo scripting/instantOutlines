@@ -6,12 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 15:14:57 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 15:28:59 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="The sexist/anti media people really don’t know what to do with a woman in her 30s. Am I a dumb “very young, much younger than most at the NYT” girl, like Tucker said? or am I an old hag who should retire b/c I’m still writing about culture in my mid 30s? They really can’t decide" type="tweet" created="Thu, 01 Jul 2021 15:28:58 GMT" tweetId="1410621458204684290" urltweet="https://twitter.com/taylorlorenz/status/1410621458204684290" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="😌 &lt;a href=&quot;https://twitter.com/ositanwanevu/status/1410609734231547914&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 15:01:04 GMT" tweetId="1410614435790548995" urltweet="https://twitter.com/taylorlorenz/status/1410614435790548995" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“The ad-peddling model that dominates the internet and hijacks our minds is costing us too much by being ‘free’” writes Substack CEO @cjgbest &lt;a href=&quot;https://blog.substack.com/p/breaking-off-the-engagement&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 14:55:27 GMT" tweetId="1410613025136996352" urltweet="https://twitter.com/taylorlorenz/status/1410613025136996352" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			</outline>
