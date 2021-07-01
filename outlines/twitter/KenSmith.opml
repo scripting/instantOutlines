@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 06:24:44 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 09:09:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="A sample paragraph:
+
+In 1979, an Exxon study said that burning fossil fuels “will cause dramatic environmental effects” in the coming decades. “The potential problem is great and urgent,” it concluded. https://t.co/W153z1IlU0" type="tweet" created="Thu, 01 Jul 2021 09:09:01 GMT" tweetId="1410525839138213890" urltweet="https://twitter.com/KenSmith/status/1410525839138213890" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Just goes to show... https://t.co/0lMhasPQyR" type="tweet" created="Thu, 01 Jul 2021 06:24:27 GMT" tweetId="1410484425872248833" urltweet="https://twitter.com/KenSmith/status/1410484425872248833" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			</outline>
