@@ -7,9 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 30 Jun 2021 21:52:25 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 13:20:26 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="This is a massive crisis in an era of rising autocracy and widespread disinformation and propaganda campaigns, especially those seeking to bury or rewrite history https://t.co/dQZLMDLyvE" type="tweet" created="Thu, 01 Jul 2021 13:20:18 GMT" tweetId="1410589078802898946" urltweet="https://twitter.com/sarahkendzior/status/1410589078802898946" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
+			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
 				<outline text="My grandma listened to then watched this show for 70 years! I got to hear about this pivotal day in the history of her “stories” many times lol https://t.co/SIHXqbKmQV" type="tweet" created="Wed, 30 Jun 2021 21:51:26 GMT" tweetId="1410355319797071872" urltweet="https://twitter.com/sarahkendzior/status/1410355319797071872" inReplyToId="" tweetUserName="sarahkendzior" />
