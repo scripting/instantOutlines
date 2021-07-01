@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Thu, 01 Jul 2021 13:20:26 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 13:23:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="I'm sick and unfortunately won't be there tonight. But I strongly urge people to attend and to support the other speakers. I'm grateful to the organizers and hope to be at the next event. https://t.co/qRz5bznIVO" type="tweet" created="Thu, 01 Jul 2021 13:22:38 GMT" tweetId="1410589667792195586" urltweet="https://twitter.com/sarahkendzior/status/1410589667792195586" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="This is a massive crisis in an era of rising autocracy and widespread disinformation and propaganda campaigns, especially those seeking to bury or rewrite history https://t.co/dQZLMDLyvE" type="tweet" created="Thu, 01 Jul 2021 13:20:18 GMT" tweetId="1410589078802898946" urltweet="https://twitter.com/sarahkendzior/status/1410589078802898946" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
 			</outline>
