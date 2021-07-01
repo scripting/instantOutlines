@@ -7,11 +7,28 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 01 Jul 2021 12:58:19 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 14:17:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="a #toolsforthought use case.
+
+If you use an outliner and write code, you should try writing code in the outliner. 
+
+Here's an example, a full web server in JavaScript in an outliner.
+
+https://t.co/7KGiNB1jbm" type="tweet" created="Thu, 01 Jul 2021 14:16:30 GMT" tweetId="1410603220930494466" urltweet="https://twitter.com/davewiner/status/1410603220930494466" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="The big win is you can organize your code in an outline the way it is organized in the programming language. 
+
+So you can move functions around by dragging their top headline, and dropping it where you want it." type="tweet" created="Thu, 01 Jul 2021 14:16:30 GMT" tweetId="1410603222226505746" urltweet="https://twitter.com/davewiner/status/1410603222226505746" inReplyToId="1410603220930494466" tweetUserName="davewiner" >
+						<outline text="There's no limit to the size of comments, because they remain collapsed until you expand them.
+
+I find the change notes at the top of a long-lived function are like a blog. 
+
+When you turn a headline into a comment, everything subordinate is treated as a comment." type="tweet" created="Thu, 01 Jul 2021 14:16:30 GMT" tweetId="1410603223384170496" urltweet="https://twitter.com/davewiner/status/1410603223384170496" inReplyToId="1410603222226505746" tweetUserName="davewiner" />
+						</outline>
+					</outline>
 				<outline text="What kind of a record is https://t.co/TEYsDJh6dC creating?
 
 https://t.co/dE7WJnA1kR https://t.co/MyKZe37sJJ" type="tweet" created="Thu, 01 Jul 2021 12:58:00 GMT" tweetId="1410583468292165636" urltweet="https://twitter.com/davewiner/status/1410583468292165636" inReplyToId="" tweetUserName="davewiner" />
