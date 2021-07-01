@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 16:34:06 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 16:43:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="So excited for the @kieranpressreyn era on @thisisinsider &lt;a href=&quot;https://twitter.com/kieranpressreyn/status/1409980847713886214&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 16:42:41 GMT" tweetId="1410640010756321282" urltweet="https://twitter.com/taylorlorenz/status/1410640010756321282" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="So police are playing copyrighted music while being recorded in an attempt to ensure that the footage will get DMCAd when shared on social &lt;a href=&quot;https://twitter.com/APTPaction/status/1410633647670005760&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 16:28:29 GMT" tweetId="1410636435930062851" urltweet="https://twitter.com/taylorlorenz/status/1410636435930062851" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Similar instance from back in February &lt;a href=&quot;https://www.newsweek.com/california-police-officer-plays-music-copyright-social-media-livestream-1568253&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 16:29:23 GMT" tweetId="1410636662896402433" urltweet="https://twitter.com/taylorlorenz/status/1410636662896402433" inReplyToId="1410636435930062851" tweetUserName="taylorlorenz" >
 						<outline text="&quot;In at least three cases, Beverly Hills Cops have started playing music seemingly to prevent themselves from being filmed by an activist.&quot; 
