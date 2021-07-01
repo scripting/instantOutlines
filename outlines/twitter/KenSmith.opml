@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 13:45:33 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 13:53:35 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="“Conspiracy practices – the methods by which true conspiracies such as gerrymandering, or the debt industry, or mass surveillance are realized – are almost always overshadowed by conspiracy theories: those malevolent falsehoods...” —Edward Snowden. https://t.co/iXFoNb7Skq" type="tweet" created="Thu, 01 Jul 2021 13:53:16 GMT" tweetId="1410597374401998853" urltweet="https://twitter.com/KenSmith/status/1410597374401998853" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="A sample paragraph:
 
 In 1979, an Exxon study said that burning fossil fuels “will cause dramatic environmental effects” in the coming decades. “The potential problem is great and urgent,” it concluded. https://t.co/W153z1IlU0" type="tweet" created="Thu, 01 Jul 2021 09:09:01 GMT" tweetId="1410525839138213890" urltweet="https://twitter.com/KenSmith/status/1410525839138213890" inReplyToId="" tweetUserName="KenSmith" />
