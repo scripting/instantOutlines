@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 30 Jun 2021 23:59:58 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 06:24:44 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
+		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="Just goes to show... https://t.co/0lMhasPQyR" type="tweet" created="Thu, 01 Jul 2021 06:24:27 GMT" tweetId="1410484425872248833" urltweet="https://twitter.com/KenSmith/status/1410484425872248833" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
+			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
 				<outline text="I bet people my age can name at least half of these folks, even in a weak resolution image... https://t.co/AjJAW5icqa" type="tweet" created="Wed, 30 Jun 2021 23:59:02 GMT" tweetId="1410387432781066241" urltweet="https://twitter.com/KenSmith/status/1410387432781066241" inReplyToId="" tweetUserName="KenSmith" />
