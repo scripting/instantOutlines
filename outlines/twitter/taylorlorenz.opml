@@ -6,14 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 16:30:05 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 16:32:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
 				<outline text="So police are playing copyrighted music while being recorded in an attempt to ensure that the footage will get DMCAd when shared on social &lt;a href=&quot;https://twitter.com/APTPaction/status/1410633647670005760&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 16:28:29 GMT" tweetId="1410636435930062851" urltweet="https://twitter.com/taylorlorenz/status/1410636435930062851" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="Similar instance from back in February &lt;a href=&quot;https://www.newsweek.com/california-police-officer-plays-music-copyright-social-media-livestream-1568253&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 16:29:23 GMT" tweetId="1410636662896402433" urltweet="https://twitter.com/taylorlorenz/status/1410636662896402433" inReplyToId="1410636435930062851" tweetUserName="taylorlorenz" />
+					<outline text="Similar instance from back in February &lt;a href=&quot;https://www.newsweek.com/california-police-officer-plays-music-copyright-social-media-livestream-1568253&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 16:29:23 GMT" tweetId="1410636662896402433" urltweet="https://twitter.com/taylorlorenz/status/1410636662896402433" inReplyToId="1410636435930062851" tweetUserName="taylorlorenz" >
+						<outline text="&quot;In at least three cases, Beverly Hills Cops have started playing music seemingly to prevent themselves from being filmed by an activist.&quot; 
+
+&lt;a href=&quot;https://www.vice.com/en/article/bvxa7q/new-video-shows-beverly-hills-cops-playing-beatles-to-trigger-instagram-copyright-filter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 16:31:25 GMT" tweetId="1410637176103047176" urltweet="https://twitter.com/taylorlorenz/status/1410637176103047176" inReplyToId="1410636662896402433" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				<outline text="The sexist/anti media people really don’t know what to do with a woman in her 30s. Am I a dumb “very young, much younger than most at the NYT” girl, like Tucker said? or am I an old hag who should retire b/c I’m still writing about culture in my mid 30s? They really can’t decide" type="tweet" created="Thu, 01 Jul 2021 15:28:58 GMT" tweetId="1410621458204684290" urltweet="https://twitter.com/taylorlorenz/status/1410621458204684290" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="😌 &lt;a href=&quot;https://twitter.com/ositanwanevu/status/1410609734231547914&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 15:01:04 GMT" tweetId="1410614435790548995" urltweet="https://twitter.com/taylorlorenz/status/1410614435790548995" inReplyToId="" tweetUserName="taylorlorenz" />
