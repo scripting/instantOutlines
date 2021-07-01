@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 15:14:48 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 17:09:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="Best sentence I read yesterday.
+
+&quot;Rumsfeld started being wrong within hours of the attacks and never stopped.&quot; &lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2021/06/how-donald-rumsfeld-deserves-be-remembered/619334/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 17:08:45 GMT" tweetId="1410646568936615940" urltweet="https://twitter.com/jayrosen_nyu/status/1410646568936615940" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="There should be a term for that state of human affairs when an event happens, there is public interest in it, people want information —  they want to consume news — but there is no news to be had because it is simply too early in the event, and what fills the vacuum is... crappy." type="tweet" created="Thu, 01 Jul 2021 14:47:04 GMT" tweetId="1410610913367920661" urltweet="https://twitter.com/jayrosen_nyu/status/1410610913367920661" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The research program I direct, @membershippzzle, is sunsetting in August. But first we're having a big event to sum up the state of membership models in news. It's online, for 2-3 hours a day, August 2-6. Hundreds already signed up across the globe. Program is taking shape too. https://t.co/5rmR8zP0op" type="tweet" created="Thu, 01 Jul 2021 14:15:52 GMT" tweetId="1410603063677657088" urltweet="https://twitter.com/jayrosen_nyu/status/1410603063677657088" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;Rumsfeld started being wrong within hours of the attacks and never stopped.&quot; https://t.co/pGv2mNmuaN
