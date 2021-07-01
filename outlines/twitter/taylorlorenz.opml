@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 19:19:39 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 19:21:40 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="July 1" type="calendarDay" name="01" >
 				<outline text="I love reading the comments on some of my stories &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:16:09 GMT" tweetId="1410678632817709056" urltweet="https://twitter.com/taylorlorenz/status/1410678632817709056" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Roger! &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt; https://t.co/2KjxBbZRYs" type="tweet" created="Thu, 01 Jul 2021 19:18:24 GMT" tweetId="1410679198084001792" urltweet="https://twitter.com/taylorlorenz/status/1410679198084001792" inReplyToId="1410678632817709056" tweetUserName="taylorlorenz" >
-						<outline text="Unionize Nelk &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt; https://t.co/evnbExCLFF" type="tweet" created="Thu, 01 Jul 2021 19:19:30 GMT" tweetId="1410679472290889728" urltweet="https://twitter.com/taylorlorenz/status/1410679472290889728" inReplyToId="1410679198084001792" tweetUserName="taylorlorenz" />
+						<outline text="Unionize Nelk &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt; https://t.co/evnbExCLFF" type="tweet" created="Thu, 01 Jul 2021 19:19:30 GMT" tweetId="1410679472290889728" urltweet="https://twitter.com/taylorlorenz/status/1410679472290889728" inReplyToId="1410679198084001792" tweetUserName="taylorlorenz" >
+							<outline text="“So was the unabomber” &lt;a href=&quot;https://www.nytimes.com/2021/06/29/style/nelk-youtube.html&quot;&gt;[link]&lt;/a&gt; https://t.co/bUdAJViLRh" type="tweet" created="Thu, 01 Jul 2021 19:20:41 GMT" tweetId="1410679773840379905" urltweet="https://twitter.com/taylorlorenz/status/1410679773840379905" inReplyToId="1410679472290889728" tweetUserName="taylorlorenz" />
+							</outline>
 						</outline>
 					</outline>
 				<outline text="Excited to chat with these fine folks about social media and internet stuff!! &lt;a href=&quot;https://twitter.com/MorningBrew/status/1410669388873842690&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 18:50:57 GMT" tweetId="1410672287674560514" urltweet="https://twitter.com/taylorlorenz/status/1410672287674560514" inReplyToId="" tweetUserName="taylorlorenz" />
