@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 30 Jun 2021 22:49:34 GMT</dateModified>
+		<dateModified>Thu, 01 Jul 2021 00:09:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="Fauci warns there may soon be 'two Americas' as vaccination divide widens. https://t.co/dxMqo0ooFM" type="tweet" created="Thu, 01 Jul 2021 00:09:37 GMT" tweetId="1410390098672340993" urltweet="https://twitter.com/davewiner/status/1410390098672340993" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Real Time Lightning Map. https://t.co/1Y9fVshVgT" type="tweet" created="Wed, 30 Jun 2021 22:49:33 GMT" tweetId="1410369945637117960" urltweet="https://twitter.com/davewiner/status/1410369945637117960" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Bill Cosby freed from prison, his sex conviction overturned. https://t.co/dVAoZxDOIJ" type="tweet" created="Wed, 30 Jun 2021 22:03:14 GMT" tweetId="1410358291125964801" urltweet="https://twitter.com/davewiner/status/1410358291125964801" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Inside the Jan. 6 Capitol Riot: An Exclusive Video Investigation. #giftlink https://t.co/ZZeIvVe99Q" type="tweet" created="Wed, 30 Jun 2021 21:27:00 GMT" tweetId="1410349171413032977" urltweet="https://twitter.com/davewiner/status/1410349171413032977" inReplyToId="" tweetUserName="davewiner" />
