@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 00:37:49 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 00:40:50 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 1" type="calendarDay" name="01" >
-				<outline text="FaZe Clan has removed Kay from the organization and suspended Jarvis, Teeqo, and Nikan following allegations that they participated in a crypto scam &lt;a href=&quot;https://twitter.com/FaZeClan/status/1410745951120101378&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 00:37:48 GMT" tweetId="1410759576748584962" urltweet="https://twitter.com/taylorlorenz/status/1410759576748584962" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="FaZe Clan has removed Kay from the organization and suspended Jarvis, Teeqo, and Nikan following allegations that they participated in a crypto scam &lt;a href=&quot;https://twitter.com/FaZeClan/status/1410745951120101378&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 00:37:48 GMT" tweetId="1410759576748584962" urltweet="https://twitter.com/taylorlorenz/status/1410759576748584962" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="The controversy surrounds an alt coin called Save The Kids coin. This video outlines what took place. h/t @IAmAsarch  &lt;a href=&quot;https://www.youtube.com/watch?v=Kv6ne6VQCZI&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 00:40:14 GMT" tweetId="1410760190262071298" urltweet="https://twitter.com/taylorlorenz/status/1410760190262071298" inReplyToId="1410759576748584962" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="That was quick &lt;a href=&quot;https://twitter.com/stoolpresidente/status/1410677050357207049&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 20:53:39 GMT" tweetId="1410703169408045065" urltweet="https://twitter.com/taylorlorenz/status/1410703169408045065" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Daddy braddy &lt;a href=&quot;https://twitter.com/a_dsgnr/status/1410690421106241539&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 20:24:01 GMT" tweetId="1410695712443043841" urltweet="https://twitter.com/taylorlorenz/status/1410695712443043841" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Interesting thread &lt;a href=&quot;https://twitter.com/jayhoovy/status/1409586831411191817&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:54:14 GMT" tweetId="1410688216873594887" urltweet="https://twitter.com/taylorlorenz/status/1410688216873594887" inReplyToId="" tweetUserName="taylorlorenz" />
