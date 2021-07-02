@@ -6,22 +6,25 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 13:53:35 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 11:12:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="A country in need of a shared narrative, an honorable narrative with places in it for everyone. A country that doesn’t tell its best stories richly, accurately, or well. &lt;a href=&quot;https://twitter.com/nytdavidbrooks/status/1410790282354958337&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 11:11:14 GMT" tweetId="1410918984925560837" urltweet="https://twitter.com/KenSmith/status/1410918984925560837" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
-				<outline text="“Conspiracy practices – the methods by which true conspiracies such as gerrymandering, or the debt industry, or mass surveillance are realized – are almost always overshadowed by conspiracy theories: those malevolent falsehoods...” —Edward Snowden. https://t.co/iXFoNb7Skq" type="tweet" created="Thu, 01 Jul 2021 13:53:16 GMT" tweetId="1410597374401998853" urltweet="https://twitter.com/KenSmith/status/1410597374401998853" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="“Conspiracy practices – the methods by which true conspiracies such as gerrymandering, or the debt industry, or mass surveillance are realized – are almost always overshadowed by conspiracy theories: those malevolent falsehoods...” —Edward Snowden. https://t.co/iXFoNb7Skq" type="tweet" created="Thu, 01 Jul 2021 13:53:16 GMT" tweetId="1410597374401998853" urltweet="https://twitter.com/KenSmith/status/1410597374401998853" tweetUserName="KenSmith" />
 				<outline text="A sample paragraph:
 
-In 1979, an Exxon study said that burning fossil fuels “will cause dramatic environmental effects” in the coming decades. “The potential problem is great and urgent,” it concluded. https://t.co/W153z1IlU0" type="tweet" created="Thu, 01 Jul 2021 09:09:01 GMT" tweetId="1410525839138213890" urltweet="https://twitter.com/KenSmith/status/1410525839138213890" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="Just goes to show... https://t.co/0lMhasPQyR" type="tweet" created="Thu, 01 Jul 2021 06:24:27 GMT" tweetId="1410484425872248833" urltweet="https://twitter.com/KenSmith/status/1410484425872248833" inReplyToId="" tweetUserName="KenSmith" />
+In 1979, an Exxon study said that burning fossil fuels “will cause dramatic environmental effects” in the coming decades. “The potential problem is great and urgent,” it concluded. https://t.co/W153z1IlU0" type="tweet" created="Thu, 01 Jul 2021 09:09:01 GMT" tweetId="1410525839138213890" urltweet="https://twitter.com/KenSmith/status/1410525839138213890" tweetUserName="KenSmith" />
+				<outline text="Just goes to show... https://t.co/0lMhasPQyR" type="tweet" created="Thu, 01 Jul 2021 06:24:27 GMT" tweetId="1410484425872248833" urltweet="https://twitter.com/KenSmith/status/1410484425872248833" tweetUserName="KenSmith" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
-				<outline text="I bet people my age can name at least half of these folks, even in a weak resolution image... https://t.co/AjJAW5icqa" type="tweet" created="Wed, 30 Jun 2021 23:59:02 GMT" tweetId="1410387432781066241" urltweet="https://twitter.com/KenSmith/status/1410387432781066241" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="I bet people my age can name at least half of these folks, even in a weak resolution image... https://t.co/AjJAW5icqa" type="tweet" created="Wed, 30 Jun 2021 23:59:02 GMT" tweetId="1410387432781066241" urltweet="https://twitter.com/KenSmith/status/1410387432781066241" tweetUserName="KenSmith" />
 				<outline text="Hammer in the grass. https://t.co/lZO0vW10sO" type="tweet" created="Wed, 30 Jun 2021 18:18:59 GMT" tweetId="1410301858938339330" urltweet="https://twitter.com/KenSmith/status/1410301858938339330" tweetUserName="KenSmith" />
 				<outline text="How I'll remember him. https://t.co/UuZUef84OA" type="tweet" created="Wed, 30 Jun 2021 17:44:59 GMT" tweetId="1410293300964245513" urltweet="https://twitter.com/KenSmith/status/1410293300964245513" tweetUserName="KenSmith" >
 					<outline text="Perhaps obvious, but this is not a portrait of Rumsfeld..." type="tweet" created="Thu, 01 Jul 2021 13:45:06 GMT" tweetId="1410595321046999051" urltweet="https://twitter.com/KenSmith/status/1410595321046999051" inReplyToId="1410293300964245513" tweetUserName="KenSmith" />
