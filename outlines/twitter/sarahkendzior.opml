@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Thu, 01 Jul 2021 23:28:24 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 14:01:41 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="New @gaslitnation transcript is out! Read &quot;Why Are the Democrats Keeping Louis DeJoy?&quot;, which also touches on the Trump Org investigation, here: &lt;a href=&quot;https://www.gaslitnationpod.com/episodes-transcripts-20/2021/6/30/why-are-the-democrats-keeping-louis-dejoy&quot;&gt;[link]&lt;/a&gt; https://t.co/0FFise3c2Y" type="tweet" created="Fri, 02 Jul 2021 14:01:28 GMT" tweetId="1410961827064958984" urltweet="https://twitter.com/sarahkendzior/status/1410961827064958984" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
 				<outline text="Thread &lt;a href=&quot;https://twitter.com/elienyc/status/1410731188520579086&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 23:28:14 GMT" tweetId="1410742070520676358" urltweet="https://twitter.com/sarahkendzior/status/1410742070520676358" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="I'm sick and unfortunately won't be there tonight. But I strongly urge people to attend and to support the other speakers. I'm grateful to the organizers and hope to be at the next event. https://t.co/qRz5bznIVO" type="tweet" created="Thu, 01 Jul 2021 13:22:38 GMT" tweetId="1410589667792195586" urltweet="https://twitter.com/sarahkendzior/status/1410589667792195586" tweetUserName="sarahkendzior" />
