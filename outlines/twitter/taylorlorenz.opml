@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 18:23:38 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 18:29:39 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="How it started, how it’s going &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1411029105630334976/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 18:28:49 GMT" tweetId="1411029105630334976" urltweet="https://twitter.com/taylorlorenz/status/1411029105630334976" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="~Personal news~ I’m so excited to announce that I’m joining @nytimesbusiness!!! This is such a huge step forward for my beat &amp;amp; I’m so excited to keep going all in on covering online creators and internet culture. So grateful to everyone on @NYTStyles (I’ll still be contributing!)" type="tweet" created="Fri, 02 Jul 2021 18:20:52 GMT" tweetId="1411027106574651395" urltweet="https://twitter.com/taylorlorenz/status/1411027106574651395" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="I’ve been contributing to Business for a while, but in the past yr my beat has exploded. I got to write the A1 $GME story, collab with biz reporters on TikTok houses going public, market craziness, creators going mainstream, &amp;amp; all the ways online influence is shaping our economy" type="tweet" created="Fri, 02 Jul 2021 18:22:33 GMT" tweetId="1411027531507986433" urltweet="https://twitter.com/taylorlorenz/status/1411027531507986433" inReplyToId="1411027106574651395" tweetUserName="taylorlorenz" >
 						<outline text="This has been a watershed year where the tech industry and traditional business leaders finally began to acknowledge and invest in online influence, the “creator economy” and internet culture. I can’t think of a better place to cover that than @nytimesbusiness 🥰" type="tweet" created="Fri, 02 Jul 2021 18:23:19 GMT" tweetId="1411027721866543110" urltweet="https://twitter.com/taylorlorenz/status/1411027721866543110" inReplyToId="1411027531507986433" tweetUserName="taylorlorenz" />
