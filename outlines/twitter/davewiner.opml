@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 02 Jul 2021 21:28:05 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 22:44:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="Back to the Future with RSS. &lt;a href=&quot;https://ncase.me/rss/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 22:44:17 GMT" tweetId="1411093399017607176" urltweet="https://twitter.com/davewiner/status/1411093399017607176" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/6 I was glad to see @zittrain write about making the web future-safe. I'd love to work on this with him and others. I don't think the way we're going about it has much of a chance of working." type="tweet" created="Fri, 02 Jul 2021 21:27:42 GMT" tweetId="1411074123569287169" urltweet="https://twitter.com/davewiner/status/1411074123569287169" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/6 I think we'll get better results sooner if we go for a sustainable web. That will require new financial structures and organizations that have longevity built into their models, for example, universities like Harvard. Insurance companies." type="tweet" created="Fri, 02 Jul 2021 21:27:46 GMT" tweetId="1411074140078067715" urltweet="https://twitter.com/davewiner/status/1411074140078067715" inReplyToId="1411074123569287169" tweetUserName="davewiner" >
 						<outline text="3/6 Say I want to give someone $10K to keep some of the domains I've registered going for say 100 years. And I give them say 10GB of static content. Add another $10K." type="tweet" created="Fri, 02 Jul 2021 21:27:50 GMT" tweetId="1411074156771356672" urltweet="https://twitter.com/davewiner/status/1411074156771356672" inReplyToId="1411074140078067715" tweetUserName="davewiner" >
