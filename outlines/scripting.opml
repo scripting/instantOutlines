@@ -12,14 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 02:51:48 GMT</dateModified>
-		<expansionState>1,2,11</expansionState>
+		<dateModified>Fri, 02 Jul 2021 13:08:51 GMT</dateModified>
+		<expansionState>1,2,4,13</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 2" created="Fri, 02 Jul 2021 13:05:22 GMT" type="calendarDay" name="02" >
+				<outline text="I haven't been to NYC in two years, even though I live two hours north of the city by car. The last couple of days my friend Sanford Dickert, who now lives in London, has been waling around the city with his iPhone on a stick, broadcasting his travels over Facebook. I tune in when I can when he does it in London, but this week I've been feeling homesick for the city. It's still there, but also quite empty. I hadn't counted on that. Those streets are just begging for me to ride on them by bike. Hotel rates are still pretty cheap, a nice hotel goes for about $150 a night. I probably should go down for a few days before the summer is over. I do miss the city, which is surprising to me. I no longer have family there, maybe that's why I'm staying away?  " created="Fri, 02 Jul 2021 13:05:23 GMT" type="outline" />
+				</outline>
 			<outline text="July 1" created="Thu, 01 Jul 2021 12:37:39 GMT" type="calendarDay" name="01" >
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1410779293202980867&quot;&gt;Poll&lt;/a&gt;: Crunchy or smooth peanut butter?" created="Fri, 02 Jul 2021 02:51:06 GMT" type="outline" />
 				<outline text="One day on &lt;a href=&quot;https://en.wikipedia.org/wiki/Houston_Street&quot;&gt;Houston St&lt;/a&gt; in NYC, while I was visiting at &lt;a href=&quot;https://www.nyu.edu/footer/map.html&quot;&gt;NYU&lt;/a&gt; for a couple of years, I was standing around, waiting for a student, not doing anything, daydreaming a bit, and all of a sudden there's a gorgeous, dark-haired young woman wearing a black dress, standing immediately in front of me. This is the kind of woman you see in Manhattan, perfectly made up, wearing a black dress that perfectly fits her body. They congregate here, somehow knowing this is where they should be. She is a Master of the Universe, can instantly command the attention of anyone she wants. And this godess wants to speak to me.&lt;i&gt;Me?&lt;/i&gt; What. It couldn't be. Must be a mistake. But in an instant, I realized this was the student I was waiting for. Of course she was talking to me. But in that split second my reaction was instinctual, not intellectual, a whole story had played out. I thought of this story the other day, while looking out of my house at a green mountain far in the distance, a field in the foreground, a stand of trees, a huge bird of prey flying overhead. Everything verdant, alive, ideal, perfect as a young confident aloof woman in a black dress in Manhattan. As impossible to describe as a whole. That I could be in such a place, that this scene had assembled itself with me in it, me. Me. How did this happen? At my advanced age, I'm just beginning to understand that I am part of this world. " created="Thu, 01 Jul 2021 21:53:43 GMT" type="outline" image="http://scripting.com/images/2021/07/01/womanInBlackDress.png" />
