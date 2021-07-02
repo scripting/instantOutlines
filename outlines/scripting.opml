@@ -12,15 +12,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 15:45:50 GMT</dateModified>
-		<expansionState>1,2,7,16</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Fri, 02 Jul 2021 19:26:43 GMT</dateModified>
+		<expansionState>1,2,8,17</expansionState>
+		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 2" created="Fri, 02 Jul 2021 13:05:22 GMT" type="calendarDay" name="02" >
+				<outline text="PagePark RFC: &lt;a href=&quot;https://github.com/scripting/pagePark/issues/19&quot;&gt;default domains folder&lt;/a&gt;." created="Fri, 02 Jul 2021 19:24:53 GMT" type="outline" />
 				<outline text="With better production tools and AI, and integration between them, it'll be possible to produce TV series about current events within weeks, then days, then perhaps almost instantaneously. " created="Fri, 02 Jul 2021 14:34:00 GMT" type="outline" image="http://scripting.com/images/2017/09/15/uhuru.png" />
 				<outline text="When I was planning the third &quot;BloggerCon&quot;, I realized at one point that I could, if I wanted, have every &lt;a href=&quot;http://bloggercon.scripting.com/iv/format.html&quot;&gt;discussion leader&lt;/a&gt; of every session be a woman. I didn't go for it, felt like a stunt. Discussion leaders are like editors or teachers. They choose people to speak. We tried to discourage people from raising their hands (hard to enforce). The discussion leader is also empowered to move the mike to another person via a monitor (a human being, usually a student), who &quot;owned&quot; the mike. That's why things kept moving. I didn't choose DLs based on their fame, though I admit sometimes I gave into that, I chose people who could think on their feet in a classroom setting. So I often went with teachers, if one was available. There was a rule that vendors couldn't talk about their product. That became an issue at BloggerCon III at Stanford because Silicon Valley, and entrepreneurs will whore their product no matter what you say. BloggerCon was a users conference. We need to get back to that. Not just marketing events, but where users get together to talk about what they're doing and what they want." created="Fri, 02 Jul 2021 15:37:41 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/In_Treatment#Season_4&quot;&gt;Season 4&lt;/a&gt; of In Treatment became unwatchable. I skipped the last two episodes with Colin. I came close to skipping the other patients, and the two episodes about the therapist and her boyfriend and drinking were most unwatchable, but since one of them was the &lt;a href=&quot;https://tvline.com/2021/06/28/in-treatment-recap-season-4-finale-brooke-eladio-colin-laila/&quot;&gt;finale&lt;/a&gt;, I watched it, and hated it. The season started off so good and the actors, esp &lt;a href=&quot;https://en.wikipedia.org/wiki/Uzo_Aduba&quot;&gt;Uzo Aduba&lt;/a&gt; are fantastic. I don't know who the writers are, but the characters they created are just foils for speeches on social issues. I don't mind, if there's some art to it. Something to think about. But they're at the level of decade-old Twitter rants, I've heard it all so many times before. At least with Twitter I have a mute button. The concept of the show is very good when there's suspension of disbelief. While this season started out great, in the end the story was bleh, and the telling of it cringe-worthy." created="Fri, 02 Jul 2021 13:17:38 GMT" type="outline" />
