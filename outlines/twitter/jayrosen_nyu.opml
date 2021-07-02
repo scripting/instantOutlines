@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 16:06:56 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 17:16:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="@willwilkinson This was good, Will. &lt;a href=&quot;https://modelcitizen.substack.com/p/q-trust-and-you&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 17:15:54 GMT" tweetId="1411010757773365250" urltweet="https://twitter.com/jayrosen_nyu/status/1411010757773365250" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="I have met Times people in that room. Even an outsider can surmise that its value to the organization is... high. &lt;a href=&quot;https://twitter.com/marclacey/status/1410765744044969993&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 16:06:28 GMT" tweetId="1410993285489954819" urltweet="https://twitter.com/jayrosen_nyu/status/1410993285489954819" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
