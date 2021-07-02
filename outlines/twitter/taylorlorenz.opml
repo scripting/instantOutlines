@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 04:27:38 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 04:44:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text=".@hasanthehun is one of the few creators that’s really good at articulating the difference between commentary and journalism &lt;a href=&quot;https://twitter.com/niemanlab/status/1410762398877765632&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 04:44:06 GMT" tweetId="1410821559254716418" urltweet="https://twitter.com/taylorlorenz/status/1410821559254716418" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This @annamerlan piece really was so prescient &lt;a href=&quot;https://twitter.com/timmarchman/status/1410655238651105287&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 04:27:07 GMT" tweetId="1410817285321891842" urltweet="https://twitter.com/taylorlorenz/status/1410817285321891842" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
