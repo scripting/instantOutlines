@@ -6,10 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 15:14:46 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 17:17:16 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
+		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="Not a thread, but perhaps a thing: better #epitaphs
+To get started: 
+&quot;I was almost finished&quot; 
+&quot;Sorry, I'm on mute&quot;
+&quot;Finally, shovel-ready&quot;
+&quot;Pardon my daisies&quot;
+&quot;Can you step to the left, please? Thanks.&quot;" type="tweet" created="Fri, 02 Jul 2021 17:17:13 GMT" tweetId="1411011086690750470" urltweet="https://twitter.com/dsearls/status/1411011086690750470" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
+			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
 				<outline text="What is the gesture on an @Apple magic mouse that  makes the tweet one is writing vanish without a trace, along with its tab? #Annoying doesn't cover how what that is." type="tweet" created="Wed, 30 Jun 2021 14:05:43 GMT" tweetId="1410238119086018568" urltweet="https://twitter.com/dsearls/status/1410238119086018568" tweetUserName="dsearls" />
