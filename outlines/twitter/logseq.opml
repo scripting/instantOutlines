@@ -7,15 +7,20 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 30 Jun 2021 09:32:57 GMT</dateModified>
+		<dateModified>Fri, 02 Jul 2021 15:39:58 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="Wow, this website is published using Logseq! &lt;a href=&quot;https://twitter.com/Oscillations_1/status/1410961915157811206&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 15:39:21 GMT" tweetId="1410986460040208384" urltweet="https://twitter.com/logseq/status/1410986460040208384" inReplyToId="" tweetUserName="logseq" />
+				</outline>
+			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 30" type="calendarDay" name="30" >
-				<outline text="Hello, friends of Logseq! What should we call a user of Logseq?" type="tweet" created="Wed, 30 Jun 2021 09:32:40 GMT" tweetId="1410169405036634120" urltweet="https://twitter.com/logseq/status/1410169405036634120" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Hello, friends of Logseq! What should we call a user of Logseq?" type="tweet" created="Wed, 30 Jun 2021 09:32:40 GMT" tweetId="1410169405036634120" urltweet="https://twitter.com/logseq/status/1410169405036634120" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 29" type="calendarDay" name="29" >
-				<outline text="🥳 https://t.co/jHfVbk0hgL" type="tweet" created="Wed, 30 Jun 2021 02:25:27 GMT" tweetId="1410061890814824449" urltweet="https://twitter.com/logseq/status/1410061890814824449" inReplyToId="" tweetUserName="logseq" />
+				<outline text="🥳 https://t.co/jHfVbk0hgL" type="tweet" created="Wed, 30 Jun 2021 02:25:27 GMT" tweetId="1410061890814824449" urltweet="https://twitter.com/logseq/status/1410061890814824449" tweetUserName="logseq" />
 				<outline text="0.2.2 is just out!
 https://t.co/QAMiWg2IR3
 
@@ -25,19 +30,19 @@ Some highlights:
 3. dragging files might create duplicated files
 4. @sebasbensu  allow numbers to have commas in `calculator`
 
-Full changelog at https://t.co/DWvR7fFjNk https://t.co/DivbeuG40v" type="tweet" created="Tue, 29 Jun 2021 15:47:55 GMT" tweetId="1409901453494259715" urltweet="https://twitter.com/logseq/status/1409901453494259715" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thanks! https://t.co/N6SyCwnpzV" type="tweet" created="Tue, 29 Jun 2021 07:44:29 GMT" tweetId="1409779793705402372" urltweet="https://twitter.com/logseq/status/1409779793705402372" inReplyToId="" tweetUserName="logseq" />
+Full changelog at https://t.co/DWvR7fFjNk https://t.co/DivbeuG40v" type="tweet" created="Tue, 29 Jun 2021 15:47:55 GMT" tweetId="1409901453494259715" urltweet="https://twitter.com/logseq/status/1409901453494259715" tweetUserName="logseq" />
+				<outline text="Thanks! https://t.co/N6SyCwnpzV" type="tweet" created="Tue, 29 Jun 2021 07:44:29 GMT" tweetId="1409779793705402372" urltweet="https://twitter.com/logseq/status/1409779793705402372" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 28" type="calendarDay" name="28" >
 				<outline text="@jihchi thank you for your donation 🙏 - Your contribution means a lot to us!
-https://t.co/KGsf0HF97g" type="tweet" created="Tue, 29 Jun 2021 02:23:30 GMT" tweetId="1409699015168458752" urltweet="https://twitter.com/logseq/status/1409699015168458752" inReplyToId="" tweetUserName="logseq" />
+https://t.co/KGsf0HF97g" type="tweet" created="Tue, 29 Jun 2021 02:23:30 GMT" tweetId="1409699015168458752" urltweet="https://twitter.com/logseq/status/1409699015168458752" tweetUserName="logseq" />
 				<outline text="0.2.1 is just out! Some highlights:
 1. Namespace pages now display with hierarchy
 2. @devonzuegel polished and refactored setting and shortcut UI
 3 @sebasbensu fixed codemirror click issue and improved calc parsing
 4. Improved markdown/org link syntax behavior
 
-full changelog: https://t.co/eMg4Kk2g9v" type="tweet" created="Mon, 28 Jun 2021 15:38:53 GMT" tweetId="1409536792475279363" urltweet="https://twitter.com/logseq/status/1409536792475279363" inReplyToId="" tweetUserName="logseq" />
+full changelog: https://t.co/eMg4Kk2g9v" type="tweet" created="Mon, 28 Jun 2021 15:38:53 GMT" tweetId="1409536792475279363" urltweet="https://twitter.com/logseq/status/1409536792475279363" tweetUserName="logseq" />
 				</outline>
 			<outline text="June 26" type="calendarDay" name="26" >
 				<outline text="Thank you for the kind words! There are many inputs from the community and our contributors, glad to be more useful as a tool. https://t.co/fg6n1HozaP" type="tweet" created="Sat, 26 Jun 2021 17:26:17 GMT" tweetId="1408839044448985091" urltweet="https://twitter.com/logseq/status/1408839044448985091" tweetUserName="logseq" />
