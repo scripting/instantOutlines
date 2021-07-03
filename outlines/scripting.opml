@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 03 Jul 2021 13:49:18 GMT</dateModified>
+		<dateModified>Sat, 03 Jul 2021 13:50:05 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,7 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 3" created="Sat, 03 Jul 2021 13:41:17 GMT" type="calendarDay" name="03" >
-				<outline text="Andrew Shell has put together a &lt;a href=&quot;https://github.com/scripting/pagePark/issues/20&quot;&gt;checklist&lt;/a&gt; for installing PagePark on Glitch. It's pretty straightforward. Getting PagePark to run on your own server is something that &quot;Drummer&quot; will be able to take advantage of. It's really important that people who want complete independence can have it. No silos here. We want to do the same for Digital Ocean and AWS. If you're the kind of person who likes to run their own server, please pitch in, and provide feedback. I did it myself, it takes about ten minutes. And we may be able to make it even simpler, depending on how this experiment goes. Thanks in advance! :boom:" created="Sat, 03 Jul 2021 13:44:17 GMT" type="outline" image="http://scripting.com/images/2019/12/24/drummer.png" />
+				<outline text="Andrew Shell has put together a &lt;a href=&quot;https://github.com/scripting/pagePark/issues/20&quot;&gt;checklist&lt;/a&gt; for installing PagePark on Glitch. It's pretty straightforward. Getting PagePark to run on your own server is something that &quot;Drummer&quot; will be able to run on. It's really important that people who want complete independence can have it. No silos here. We want to do the same for Digital Ocean and AWS. If you're the kind of person who likes to run their own server, please pitch in, and provide feedback. I did it myself, it takes about ten minutes. And we may be able to make it even simpler, depending on how this experiment goes. Thanks in advance! :boom:" created="Sat, 03 Jul 2021 13:44:17 GMT" type="outline" image="http://scripting.com/images/2019/12/24/drummer.png" />
 				<outline text="The most realistic idea of what's up with Trump continues to be, imho, the &lt;a href=&quot;https://podcasts.apple.com/us/podcast/wounded-trump-is-dangerous-trump-conversation-david/id1530639447?i=1000527576909&quot;&gt;Mea Culpa podcast&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/MichaelCohen212&quot;&gt;Michael Cohen&lt;/a&gt; has the best perspective, having been &lt;a href=&quot;https://en.wikipedia.org/wiki/Michael_Cohen_(lawyer)&quot;&gt;Trump's fixer&lt;/a&gt;. He doesn't mind saying what he really thinks. This week's episode is especially good. " created="Sat, 03 Jul 2021 13:41:18 GMT" type="outline" />
 				</outline>
 			<outline text="July 2" created="Fri, 02 Jul 2021 13:05:22 GMT" type="calendarDay" name="02" >
