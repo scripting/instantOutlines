@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 21:40:08 GMT</dateModified>
+		<dateModified>Sat, 03 Jul 2021 19:43:26 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 3" type="calendarDay" name="03" >
+				<outline text="Good weekend to sit down, brace yourself, and watch this. It is a superior act of reporting, with the simple goal of establishing what happened on Jan. 6th. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1410698772418600965&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 19:43:05 GMT" tweetId="1411410183541112836" urltweet="https://twitter.com/jayrosen_nyu/status/1411410183541112836" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 2" type="calendarDay" name="02" >
 				<outline text="The sooner we start connecting the cooked books in the failed case for war during the W. Bush years… to “flood the zone with shit” and 30,000 lies and misleading statements during the Trump years… the better off we will be in comprehending the Republican Party we have today. &lt;a href=&quot;https://twitter.com/fmkaplan/status/1410606298157051916&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 21:39:57 GMT" tweetId="1411077209108926464" urltweet="https://twitter.com/jayrosen_nyu/status/1411077209108926464" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Beyond fact-checking lies a world where the events themselves are false. &lt;a href=&quot;https://twitter.com/tackettdc/status/1411008716439175168&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 18:14:25 GMT" tweetId="1411025481814654977" urltweet="https://twitter.com/jayrosen_nyu/status/1411025481814654977" inReplyToId="" tweetUserName="jayrosen_nyu" />
