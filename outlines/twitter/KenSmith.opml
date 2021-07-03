@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 11:12:11 GMT</dateModified>
+		<dateModified>Sat, 03 Jul 2021 01:00:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="Note to self. &lt;a href=&quot;https://twitter.com/KenSmith/status/1411127471186059265/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 00:59:41 GMT" tweetId="1411127471186059265" urltweet="https://twitter.com/KenSmith/status/1411127471186059265" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="A country in need of a shared narrative, an honorable narrative with places in it for everyone. A country that doesn’t tell its best stories richly, accurately, or well. &lt;a href=&quot;https://twitter.com/nytdavidbrooks/status/1410790282354958337&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 11:11:14 GMT" tweetId="1410918984925560837" urltweet="https://twitter.com/KenSmith/status/1410918984925560837" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
