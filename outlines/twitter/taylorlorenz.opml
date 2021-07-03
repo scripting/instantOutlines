@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 03 Jul 2021 02:54:32 GMT</dateModified>
+		<dateModified>Sat, 03 Jul 2021 18:36:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 3" type="calendarDay" name="03" >
+				<outline text="Moving to Paris to run this bistro. via @amrith &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1411393353598570497/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 18:36:12 GMT" tweetId="1411393353598570497" urltweet="https://twitter.com/taylorlorenz/status/1411393353598570497" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 2" type="calendarDay" name="02" >
 				<outline text="This looks like something from Godzilla vs. Kong &lt;a href=&quot;https://twitter.com/eoinhiggins_/status/1411075158006284290&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 02:54:24 GMT" tweetId="1411156340240695300" urltweet="https://twitter.com/taylorlorenz/status/1411156340240695300" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Hire/commission this man! &lt;a href=&quot;https://twitter.com/moisesfenty/status/1411063512026255365&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 20:47:10 GMT" tweetId="1411063926293286921" urltweet="https://twitter.com/taylorlorenz/status/1411063926293286921" inReplyToId="" tweetUserName="taylorlorenz" />
