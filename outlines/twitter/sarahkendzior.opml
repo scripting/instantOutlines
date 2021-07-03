@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sat, 03 Jul 2021 19:05:23 GMT</dateModified>
+		<dateModified>Sat, 03 Jul 2021 19:06:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 3" type="calendarDay" name="03" >
-				<outline text="Flooded Missouri River &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1411400484548718598/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 19:04:32 GMT" tweetId="1411400484548718598" urltweet="https://twitter.com/sarahkendzior/status/1411400484548718598" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="Flooded Missouri River &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1411400484548718598/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 19:04:32 GMT" tweetId="1411400484548718598" urltweet="https://twitter.com/sarahkendzior/status/1411400484548718598" inReplyToId="" tweetUserName="sarahkendzior" >
+					<outline text="First fried Oreos since 2019 👍 &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1411400750417297409/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 19:05:36 GMT" tweetId="1411400750417297409" urltweet="https://twitter.com/sarahkendzior/status/1411400750417297409" inReplyToId="1411400484548718598" tweetUserName="sarahkendzior" />
+					</outline>
 				</outline>
 			<outline text="July 2" type="calendarDay" name="02" >
 				<outline text="Cosby lived across the street from Jeffrey Epstein. Cosby's lawyer, Castor, is enmeshed in the same crime cult, even representing Trump at his second impeachment hearing. &lt;a href=&quot;https://twitter.com/KlasfeldReports/status/1411058662420910080&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 20:39:16 GMT" tweetId="1411061935970426888" urltweet="https://twitter.com/sarahkendzior/status/1411061935970426888" inReplyToId="" tweetUserName="sarahkendzior" />
