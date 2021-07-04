@@ -12,14 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 03 Jul 2021 20:08:12 GMT</dateModified>
-		<expansionState>1,2,6,7</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Sun, 04 Jul 2021 14:12:45 GMT</dateModified>
+		<expansionState>1,2,4,8,9</expansionState>
+		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 4" created="Sun, 04 Jul 2021 14:12:42 GMT" type="calendarDay" name="04" >
+				<outline text="Suggestion: Choose to not be offended, at least once a day." created="Sun, 04 Jul 2021 14:12:43 GMT" type="outline" />
+				</outline>
 			<outline text="July 3" created="Sat, 03 Jul 2021 13:41:17 GMT" type="calendarDay" name="03" >
 				<outline text="I binged &lt;a href=&quot;https://www.metacritic.com/tv/hacks/season-1&quot;&gt;Hacks&lt;/a&gt; on HBO in one day. It's that &lt;a href=&quot;http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fhacks%2Fseason-1&quot;&gt;good&lt;/a&gt;. " created="Sat, 03 Jul 2021 14:15:54 GMT" type="outline" />
 				<outline text="Andrew Shell has put together a &lt;a href=&quot;https://github.com/scripting/pagePark/issues/20&quot;&gt;checklist&lt;/a&gt; for installing PagePark on Glitch. It's pretty straightforward. Getting PagePark to run on your own server is something that &quot;Drummer&quot; will be able to connect to for storage. It's really important that people who want complete independence can have it. No silos here. We want to do the same for Digital Ocean and AWS. If you're the kind of person who likes to run their own server, please pitch in, and provide feedback. I did it myself, it takes about ten minutes. And we may be able to make it even simpler, depending on how this experiment goes. Thanks! :boom:" created="Sat, 03 Jul 2021 13:44:17 GMT" type="outline" image="http://scripting.com/images/2019/12/24/drummer.png" />
