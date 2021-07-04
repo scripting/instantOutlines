@@ -6,14 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 10:36:12 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 11:46:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 4" type="calendarDay" name="04" >
 				<outline text="😌 &lt;a href=&quot;https://twitter.com/thecut/status/1411626711574269955&quot;&gt;[link]&lt;/a&gt; https://t.co/lE2qd8Afi7" type="tweet" created="Sun, 04 Jul 2021 10:35:48 GMT" tweetId="1411634843306369026" urltweet="https://twitter.com/taylorlorenz/status/1411634843306369026" inReplyToId="" tweetUserName="taylorlorenz" />
-				<outline text="Here’s me &lt;a href=&quot;https://twitter.com/elamin88/status/1411554081710161924/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 05:28:54 GMT" tweetId="1411557609799360515" urltweet="https://twitter.com/taylorlorenz/status/1411557609799360515" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Here’s me &lt;a href=&quot;https://twitter.com/elamin88/status/1411554081710161924/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 05:28:54 GMT" tweetId="1411557609799360515" urltweet="https://twitter.com/taylorlorenz/status/1411557609799360515" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Follow this man 👆🏻👆🏻👆🏻 @paddy_delaney" type="tweet" created="Sun, 04 Jul 2021 11:45:30 GMT" tweetId="1411652384200302593" urltweet="https://twitter.com/taylorlorenz/status/1411652384200302593" inReplyToId="1411557609799360515" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="cc everyone on twitter &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1411551047026421760/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 05:02:49 GMT" tweetId="1411551047026421760" urltweet="https://twitter.com/taylorlorenz/status/1411551047026421760" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="July 3" type="calendarDay" name="03" >
