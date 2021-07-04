@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 04 Jul 2021 14:12:57 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 14:57:03 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 4" type="calendarDay" name="04" >
+				<outline text="@joetrippi -- suggest you have @sarahkendzior as a guest." type="tweet" created="Sun, 04 Jul 2021 14:56:46 GMT" tweetId="1411700520637669376" urltweet="https://twitter.com/davewiner/status/1411700520637669376" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Suggestion: Choose to not be offended, at least once a day." type="tweet" created="Sun, 04 Jul 2021 14:12:53 GMT" tweetId="1411689477337141250" urltweet="https://twitter.com/davewiner/status/1411689477337141250" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="65-year-old retiree left the U.S. for Mexico: 'I now spend $160 a month on eating out and shopping.' &lt;a href=&quot;https://www.cnbc.com/2021/07/01/this-65-year-old-retiree-left-us-for-mexico-and-spends-160-per-month-on-eating-out-and-shopping.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 14:09:22 GMT" tweetId="1411688590208376838" urltweet="https://twitter.com/davewiner/status/1411688590208376838" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Northwest heat wave feels apocalyptic. &lt;a href=&quot;https://www.washingtonpost.com/outlook/2021/06/29/northwest-heat-wave-apocalyptic/?fbclid=IwAR33da9WbrL7_T-YnAU779JzwKF7x40MRV4CMa_Ll2q4rftKSExc4DkXJwU&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 13:25:10 GMT" tweetId="1411677468960907264" urltweet="https://twitter.com/davewiner/status/1411677468960907264" inReplyToId="" tweetUserName="davewiner" />
