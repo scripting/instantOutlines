@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 19:59:24 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 20:09:26 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 4" type="calendarDay" name="04" >
+				<outline text="You know those media bias charts that claim to arrange the major news providers from left to right leaning? I'd like to see one that tries to position popular news sources on a standards-of-verification axis. In other words, from most likely to be evidence-based to least likely. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1411778978436747266/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 20:08:32 GMT" tweetId="1411778978436747266" urltweet="https://twitter.com/jayrosen_nyu/status/1411778978436747266" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Just a test. Only a test. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1411776513083650051/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 19:58:44 GMT" tweetId="1411776513083650051" urltweet="https://twitter.com/jayrosen_nyu/status/1411776513083650051" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 3" type="calendarDay" name="03" >
