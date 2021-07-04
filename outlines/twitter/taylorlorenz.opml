@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 15:15:39 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 15:22:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 4" type="calendarDay" name="04" >
+				<outline text="Same energy &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1411707058555166721/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 15:22:45 GMT" tweetId="1411707058555166721" urltweet="https://twitter.com/taylorlorenz/status/1411707058555166721" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="With all due respect what is this emoji doing 😶‍🌫️" type="tweet" created="Sun, 04 Jul 2021 13:10:35 GMT" tweetId="1411673797799841792" urltweet="https://twitter.com/taylorlorenz/status/1411673797799841792" tweetUserName="taylorlorenz" />
 				<outline text="Sort of insane given the shift toward more ephemeral content over the years and the clear context collapse that happens on twitter, that the platform doesn’t make it easier to delete tweets or set an expiration date on tweets. cc @a_dsgnr" type="tweet" created="Sun, 04 Jul 2021 12:57:23 GMT" tweetId="1411670473977511939" urltweet="https://twitter.com/taylorlorenz/status/1411670473977511939" tweetUserName="taylorlorenz" />
 				<outline text="Love googling ways to cope with grief and the advice is like, “drink water!” Ok thanks." type="tweet" created="Sun, 04 Jul 2021 12:23:34 GMT" tweetId="1411661966465175552" urltweet="https://twitter.com/taylorlorenz/status/1411661966465175552" tweetUserName="taylorlorenz" />
