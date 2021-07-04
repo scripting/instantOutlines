@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 04 Jul 2021 03:10:06 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 13:22:44 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 4" type="calendarDay" name="04" >
+				<outline text="Captain Fantastic is a very fine movie. On Netflix. &lt;a href=&quot;https://www.metacritic.com/movie/captain-fantastic/critic-reviews&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 13:21:59 GMT" tweetId="1411676665932140547" urltweet="https://twitter.com/davewiner/status/1411676665932140547" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="July 3" type="calendarDay" name="03" >
 				<outline text="The disgustingness of this song and video are so over the top it’s hard not to watch. &lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;v=wvUQcnfwUUM&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 03:09:58 GMT" tweetId="1411522648220307458" urltweet="https://twitter.com/davewiner/status/1411522648220307458" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Target, Walgreens make drastic changes due to increase in San Francisco thefts. &lt;a href=&quot;https://abc7news.com/target-hours-san-francisco-walgreens-closing-sf-crime-near-me/10854900/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 02:41:21 GMT" tweetId="1411515444876435464" urltweet="https://twitter.com/davewiner/status/1411515444876435464" inReplyToId="" tweetUserName="davewiner" />
