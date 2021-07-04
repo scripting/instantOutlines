@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 04 Jul 2021 17:49:59 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 17:52:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
@@ -17,7 +17,11 @@
 						<outline text="We lie to ourselves all the time about what this supposedly great country stands for." type="tweet" created="Sun, 04 Jul 2021 17:49:30 GMT" tweetId="1411743989016023043" urltweet="https://twitter.com/davewiner/status/1411743989016023043" inReplyToId="1411743987757690882" tweetUserName="davewiner" >
 							<outline text="We stand for slavery, about half of us, and we stand against slavery, the other half. 
 
-No one is undecided on this one." type="tweet" created="Sun, 04 Jul 2021 17:49:30 GMT" tweetId="1411743989775192069" urltweet="https://twitter.com/davewiner/status/1411743989775192069" inReplyToId="1411743989016023043" tweetUserName="davewiner" />
+No one is undecided on this one." type="tweet" created="Sun, 04 Jul 2021 17:49:30 GMT" tweetId="1411743989775192069" urltweet="https://twitter.com/davewiner/status/1411743989775192069" inReplyToId="1411743989016023043" tweetUserName="davewiner" >
+								<outline text="More here..
+
+https://t.co/sCI9et0rvh" type="tweet" created="Sun, 04 Jul 2021 17:50:29 GMT" tweetId="1411744238107303938" urltweet="https://twitter.com/davewiner/status/1411744238107303938" inReplyToId="1411743989775192069" tweetUserName="davewiner" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
