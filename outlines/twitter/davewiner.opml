@@ -7,12 +7,20 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 04 Jul 2021 17:48:59 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 17:49:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 4" type="calendarDay" name="04" >
-				<outline text="I don't think people get it -- even the smartest pundits -- but we're still fighting over slavery in this country." type="tweet" created="Sun, 04 Jul 2021 17:48:15 GMT" tweetId="1411743673268813835" urltweet="https://twitter.com/davewiner/status/1411743673268813835" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="I don't think people get it -- even the smartest pundits -- but we're still fighting over slavery in this country." type="tweet" created="Sun, 04 Jul 2021 17:48:15 GMT" tweetId="1411743673268813835" urltweet="https://twitter.com/davewiner/status/1411743673268813835" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Independence Day is a good time to ponder this, because slavery is the exact opposite of independence." type="tweet" created="Sun, 04 Jul 2021 17:49:30 GMT" tweetId="1411743987757690882" urltweet="https://twitter.com/davewiner/status/1411743987757690882" inReplyToId="1411743673268813835" tweetUserName="davewiner" >
+						<outline text="We lie to ourselves all the time about what this supposedly great country stands for." type="tweet" created="Sun, 04 Jul 2021 17:49:30 GMT" tweetId="1411743989016023043" urltweet="https://twitter.com/davewiner/status/1411743989016023043" inReplyToId="1411743987757690882" tweetUserName="davewiner" >
+							<outline text="We stand for slavery, about half of us, and we stand against slavery, the other half. 
+
+No one is undecided on this one." type="tweet" created="Sun, 04 Jul 2021 17:49:30 GMT" tweetId="1411743989775192069" urltweet="https://twitter.com/davewiner/status/1411743989775192069" inReplyToId="1411743989016023043" tweetUserName="davewiner" />
+							</outline>
+						</outline>
+					</outline>
 				<outline text="America still has to renounce slavery, understand what that means, and mean it.  https://t.co/sCI9et0rvh" type="tweet" created="Sun, 04 Jul 2021 15:13:12 GMT" tweetId="1411704653222449155" urltweet="https://twitter.com/davewiner/status/1411704653222449155" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="@joetrippi -- suggest you have @sarahkendzior as a guest." type="tweet" created="Sun, 04 Jul 2021 14:56:46 GMT" tweetId="1411700520637669376" urltweet="https://twitter.com/davewiner/status/1411700520637669376" tweetUserName="davewiner" />
 				<outline text="Suggestion: Choose to not be offended, at least once a day." type="tweet" created="Sun, 04 Jul 2021 14:12:53 GMT" tweetId="1411689477337141250" urltweet="https://twitter.com/davewiner/status/1411689477337141250" tweetUserName="davewiner" />
