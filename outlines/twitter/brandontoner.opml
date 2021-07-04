@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 02 Jul 2021 03:01:14 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 15:15:39 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -14,8 +14,8 @@
 			<outline text="July 1" type="calendarDay" name="01" >
 				<outline text="This might be my new favourite music-related question.
 
-The answers are great for discovery and the reflective process is great for rediscovery. &lt;a href=&quot;https://twitter.com/noahpinion/status/1410786720459657219&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 03:01:02 GMT" tweetId="1410795623939444736" urltweet="https://twitter.com/brandontoner/status/1410795623939444736" inReplyToId="" tweetUserName="brandontoner" />
-				<outline text="This is absolutely wild. &lt;a href=&quot;https://twitter.com/alexandernl/status/1410253599502962692&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:06:47 GMT" tweetId="1410676275673538562" urltweet="https://twitter.com/brandontoner/status/1410676275673538562" inReplyToId="" tweetUserName="brandontoner" />
+The answers are great for discovery and the reflective process is great for rediscovery. &lt;a href=&quot;https://twitter.com/noahpinion/status/1410786720459657219&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 03:01:02 GMT" tweetId="1410795623939444736" urltweet="https://twitter.com/brandontoner/status/1410795623939444736" tweetUserName="brandontoner" />
+				<outline text="This is absolutely wild. &lt;a href=&quot;https://twitter.com/alexandernl/status/1410253599502962692&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 19:06:47 GMT" tweetId="1410676275673538562" urltweet="https://twitter.com/brandontoner/status/1410676275673538562" tweetUserName="brandontoner" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
