@@ -6,14 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 01 Jul 2021 18:11:14 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 17:33:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/ql</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 4" type="calendarDay" name="04" >
+				<outline text="Just posted a photo @ The Salty Sanctuary &lt;a href=&quot;https://www.instagram.com/p/CQ6e3PUB3cY/?utm_medium=twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 17:33:29 GMT" tweetId="1411739956649811975" urltweet="https://twitter.com/nakedjen/status/1411739956649811975" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
-				<outline text="If you actually live in #Utah, you may want to read this entire thread. And consider still #masking even if you ARE #vaccinated. #Delta is highly contagious and our hospitals are FULL. #savemylife &lt;a href=&quot;https://twitter.com/RobertGehrke/status/1410650031787429888&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 18:11:07 GMT" tweetId="1410662267021004801" urltweet="https://twitter.com/nakedjen/status/1410662267021004801" inReplyToId="" tweetUserName="nakedjen" />
-				<outline text="I am so sad I missed this golden ticket opportunity.  These would have made some very beautiful #ART. xo &lt;a href=&quot;https://twitter.com/PatinkinMandy/status/1410394837132660736&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 18:01:13 GMT" tweetId="1410659771691114502" urltweet="https://twitter.com/nakedjen/status/1410659771691114502" inReplyToId="" tweetUserName="nakedjen" />
+				<outline text="If you actually live in #Utah, you may want to read this entire thread. And consider still #masking even if you ARE #vaccinated. #Delta is highly contagious and our hospitals are FULL. #savemylife &lt;a href=&quot;https://twitter.com/RobertGehrke/status/1410650031787429888&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 18:11:07 GMT" tweetId="1410662267021004801" urltweet="https://twitter.com/nakedjen/status/1410662267021004801" tweetUserName="nakedjen" />
+				<outline text="I am so sad I missed this golden ticket opportunity.  These would have made some very beautiful #ART. xo &lt;a href=&quot;https://twitter.com/PatinkinMandy/status/1410394837132660736&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 01 Jul 2021 18:01:13 GMT" tweetId="1410659771691114502" urltweet="https://twitter.com/nakedjen/status/1410659771691114502" tweetUserName="nakedjen" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
