@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 03 Jul 2021 19:45:35 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 03:54:29 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 3" type="calendarDay" name="03" >
+				<outline text="Such a boom &lt;a href=&quot;https://twitter.com/darrenrovell/status/1411383802002300928&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 03:54:26 GMT" tweetId="1411533837247684608" urltweet="https://twitter.com/taylorlorenz/status/1411533837247684608" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Ok interesting &lt;a href=&quot;https://www.scientificamerican.com/article/gray-hair-can-return-to-its-original-color-mdash-and-stress-is-involved-of-course/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 19:44:43 GMT" tweetId="1411410594075496456" urltweet="https://twitter.com/taylorlorenz/status/1411410594075496456" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Moving to Paris to run this bistro. via @amrith &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1411393353598570497/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 18:36:12 GMT" tweetId="1411393353598570497" urltweet="https://twitter.com/taylorlorenz/status/1411393353598570497" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
