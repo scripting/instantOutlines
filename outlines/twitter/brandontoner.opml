@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 17:34:04 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 17:36:04 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -24,7 +24,11 @@ Paper as the cutting edge, electronics as the full framework and repository." ty
 
 Like clicking into a node and just exploring thoughts in whatever form feels right.
 
-Then compressing that exploration into electronic edits." type="tweet" created="Sun, 04 Jul 2021 17:33:17 GMT" tweetId="1411739909430419465" urltweet="https://twitter.com/brandontoner/status/1411739909430419465" inReplyToId="1411738105816748034" tweetUserName="brandontoner" />
+Then compressing that exploration into electronic edits." type="tweet" created="Sun, 04 Jul 2021 17:33:17 GMT" tweetId="1411739909430419465" urltweet="https://twitter.com/brandontoner/status/1411739909430419465" inReplyToId="1411738105816748034" tweetUserName="brandontoner" >
+									<outline text="Paper isn’t always the right tool, of course. It has clear limitations. 
+
+But wow does it ever feel freeing." type="tweet" created="Sun, 04 Jul 2021 17:35:21 GMT" tweetId="1411740429326901251" urltweet="https://twitter.com/brandontoner/status/1411740429326901251" inReplyToId="1411739909430419465" tweetUserName="brandontoner" />
+									</outline>
 								</outline>
 							</outline>
 						</outline>
