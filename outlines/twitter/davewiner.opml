@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 04 Jul 2021 18:27:03 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 23:10:02 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 4" type="calendarDay" name="04" >
+				<outline text="New Climate Maps Show a Transformed United States. &lt;a href=&quot;https://projects.propublica.org/climate-migration/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 23:09:55 GMT" tweetId="1411824622698442759" urltweet="https://twitter.com/davewiner/status/1411824622698442759" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Which Simpson's character is most like you?" type="tweet" created="Sun, 04 Jul 2021 18:26:21 GMT" tweetId="1411753261267304450" urltweet="https://twitter.com/davewiner/status/1411753261267304450" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="NBA fans, what's the best NBA podcast?
 
