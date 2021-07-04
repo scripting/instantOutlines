@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 23:42:18 GMT</dateModified>
+		<dateModified>Sun, 04 Jul 2021 23:43:51 GMT</dateModified>
 		<expansionState>1,2,5,9,16,20,21</expansionState>
-		<lastCursor>6</lastCursor>
+		<lastCursor>7</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
@@ -26,7 +26,7 @@
 				<outline text="Do the Bucks need Giannis?" created="Sun, 04 Jul 2021 23:36:51 GMT" type="outline" >
 					<outline text="NBA fans, what's the best NBA podcast? Not too many ads, esp up front. Not too much bullshit about the people talking. Truly interesting ideas about what's going on." created="Sun, 04 Jul 2021 23:36:59 GMT" image="http://scripting.com/images/2020/12/26/mandolin.png" />
 					<outline text="For example, the Bucks did so well with Lopez playing a role similar to &lt;a href=&quot;https://en.wikipedia.org/wiki/Giannis_Antetokounmpo&quot;&gt;Giannis&lt;/a&gt; in game 5, but in game 6 he's back to (mostly) shooting corner 3's? Why? I have a hunch. Giannis is kind of like Melo was when things worked without him at the Knicks in 2012. Nothing cool could happen on the Knicks, &lt;a href=&quot;https://clutchpoints.com/carmelo-anthony-jeremy-lin-story-did-melo-force-linsanity-out-of-new-york/&quot;&gt;said Melo&lt;/a&gt; (in my imagination) without it going through me, said Melo." created="Sun, 04 Jul 2021 23:37:25 GMT" />
-					<outline text="I also think Giannis is a liability, in that the Bucks play better without him because his foul shots break up any energy the Bucks build. It's a free timeout for their opponent. If Lopez can do what Giannis does, without the foul shot liability, who needs Giannis?" created="Sun, 04 Jul 2021 23:38:03 GMT" />
+					<outline text="I also think Giannis is a liability, in that the Bucks play better without him because his &lt;a href=&quot;https://www.youtube.com/watch?v=3yH5w7INbDA&quot;&gt;foul shots&lt;/a&gt; break up any energy the Bucks build. It's a free timeout for their opponent. If Lopez can do what Giannis does, without the foul shot liability, who needs Giannis?" created="Sun, 04 Jul 2021 23:38:03 GMT" />
 					</outline>
 				<outline text="America is not great" created="Sun, 04 Jul 2021 14:39:13 GMT" type="outline" description="I knew slavery was part of our legacy, but I didn't know that it was pretty much our whole legacy. " metaImage="http://scripting.com/images/2021/07/04/insurrection.png" >
 					<outline text="I was taught as a youngster that the US was the greatest country ever, both at home and in school. I imagine this is the same education kids in every terrible country ever got. And my parents were biased, they were immigrants who would have died for sure in Europe during WW II if the US hadn't taken them in. " created="Sun, 04 Jul 2021 14:39:33 GMT" image="http://scripting.com/images/2021/07/04/dempsey.png" imageLink="https://twitter.com/MartinAchard/status/1411707571510054916/photo/1" />
