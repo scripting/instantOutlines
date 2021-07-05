@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 05 Jul 2021 16:48:22 GMT</dateModified>
+		<dateModified>Mon, 05 Jul 2021 20:42:43 GMT</dateModified>
 		<expansionState>1,2,11,14,18,25,29,30</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>3</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
@@ -22,7 +22,7 @@
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 5" created="Mon, 05 Jul 2021 13:02:24 GMT" type="calendarDay" name="05" >
 				<outline text="Podcast/rant: &lt;a href=&quot;http://scripting.com/2021/07/05/ourOngoingCivilWarIsAboutSlavery.m4a&quot;&gt;Our ongoing civil war is about slavery&lt;/a&gt;." created="Mon, 05 Jul 2021 16:47:20 GMT" type="outline" enclosure="http://scripting.com/2021/07/05/ourOngoingCivilWarIsAboutSlavery.m4a" enclosureType="audio/mpeg" enclosureLength="8680040" />
-				<outline text="BTW, there's a new &lt;a href=&quot;https://github.com/scripting/pagePark#v0820-7521-by-dw&quot;&gt;version&lt;/a&gt; of PagePark, v0.8.20, that has the feature described in the &lt;a href=&quot;https://github.com/scripting/pagePark/issues/19&quot;&gt;RFC from Friday&lt;/a&gt;. It makes it a bit simpler to set up a Glitch server, for example, for people who are new to PP." created="Mon, 05 Jul 2021 16:10:48 GMT" type="outline" />
+				<outline text="BTW, there's a new &lt;a href=&quot;https://github.com/scripting/pagePark#v0820-7521-by-dw&quot;&gt;version&lt;/a&gt; of PagePark, v0.8.20, that has the feature described in the &lt;a href=&quot;https://github.com/scripting/pagePark/issues/19&quot;&gt;RFC from Friday&lt;/a&gt;. It makes it a bit simpler to set up a Glitch server, for example, for people who are new to PP." created="Mon, 05 Jul 2021 16:10:48 GMT" type="outline" image="http://scripting.com/images/2021/07/05/fridaBarbie.png" />
 				<outline text="A problem happens when an app running in &quot;PagePark&quot; makes a request of another app that's running on the same machine. It reared its ugly head again today, and I had a heck of a time finding &lt;a href=&quot;https://github.com/scripting/pagePark/issues/17&quot;&gt;this thread&lt;/a&gt; by searching. In this post I used all the terms I used in my search, so hopefully if I ever hit it again, I'll find my way back here, with &lt;a href=&quot;https://github.com/scripting/pagePark/issues/17&quot;&gt;this link&lt;/a&gt; to the answer. " created="Mon, 05 Jul 2021 15:49:41 GMT" type="outline" />
 				<outline text="America’s &lt;a href=&quot;https://politicalwire.com/2021/07/05/americas-politics-are-stubbornly-fixed/&quot;&gt;politics&lt;/a&gt; appear to be stubbornly fixed. That's just a symptom. The bigger problem is the US has a genetic defect that makes it impossible for it to be united. Slavery. Everyone has a position on that. Either for or against. Not too many people in the middle. And the division in the country, to me, appears to be right along that line. People may be pro-slavery without putting it that way. " created="Mon, 05 Jul 2021 15:11:26 GMT" type="outline" />
 				<outline text="If you think archive.org is backing up all the stuff you care about, check it out, see if they are. " created="Mon, 05 Jul 2021 13:49:57 GMT" type="tweet" tweetId="1412046361877532678" tweetUserName="davewiner" />
