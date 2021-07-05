@@ -7,12 +7,22 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 05 Jul 2021 15:12:13 GMT</dateModified>
+		<dateModified>Mon, 05 Jul 2021 15:26:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 5" type="calendarDay" name="05" >
-				<outline text="America’s politics appear to be stubbornly fixed. That's like saying someone with the flu has a high temperature. The actual problem is the US had a genetic defect at birth that makes it seemingly impossible for it to be united. Slavery.  &lt;a href=&quot;https://politicalwire.com/2021/07/05/americas-politics-are-stubbornly-fixed/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 15:11:20 GMT" tweetId="1412066571472756739" urltweet="https://twitter.com/davewiner/status/1412066571472756739" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="America’s politics appear to be stubbornly fixed. That's like saying someone with the flu has a high temperature. The actual problem is the US had a genetic defect at birth that makes it seemingly impossible for it to be united. Slavery.  &lt;a href=&quot;https://politicalwire.com/2021/07/05/americas-politics-are-stubbornly-fixed/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 15:11:20 GMT" tweetId="1412066571472756739" urltweet="https://twitter.com/davewiner/status/1412066571472756739" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="This is the big picture.
+
+I'd like to inject this into the global discussion.
+
+It isn't just America's problem, our slavery was part of Europe's exploitation of Africa too. 
+
+We are raised with the self-image of our parents and grandparents. That's how this continues." type="tweet" created="Mon, 05 Jul 2021 15:25:53 GMT" tweetId="1412070234371117059" urltweet="https://twitter.com/davewiner/status/1412070234371117059" inReplyToId="1412066571472756739" tweetUserName="davewiner" >
+						<outline text="Every generation starts with the assumption that everything will change because of them. Some have it stronger than others. But it's always wrong. We are formed by our parents, even if we don't think we are." type="tweet" created="Mon, 05 Jul 2021 15:25:53 GMT" tweetId="1412070235344146432" urltweet="https://twitter.com/davewiner/status/1412070235344146432" inReplyToId="1412070234371117059" tweetUserName="davewiner" />
+						</outline>
+					</outline>
 				<outline text="If you think &lt;a href=&quot;https://archive.org/&quot;&gt;[link]&lt;/a&gt; is backing up your stuff, check it out, see if they really are." type="tweet" created="Mon, 05 Jul 2021 13:51:01 GMT" tweetId="1412046361877532678" urltweet="https://twitter.com/davewiner/status/1412046361877532678" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Here's a screen shot that shows how frequently &lt;a href=&quot;https://archive.org/&quot;&gt;[link]&lt;/a&gt; samples the RSS 2.0 spec.
 
