@@ -12,8 +12,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 05 Jul 2021 15:48:35 GMT</dateModified>
-		<expansionState>1,2,8,11,15,22,26,27</expansionState>
+		<dateModified>Mon, 05 Jul 2021 15:52:19 GMT</dateModified>
+		<expansionState>1,2,9,12,16,23,27,28</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
@@ -21,6 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 5" created="Mon, 05 Jul 2021 13:02:24 GMT" type="calendarDay" name="05" >
+				<outline text="A problem happens when an app running in &quot;PagePark&quot; makes a request of another app that's running on the same machine. It reared its ugly head again today, and I had a heck of a time finding this thread by searching. In this post I used all the terms I used in my search, so hopefully if I ever hit it again, I'll find my way back here, with &lt;a href=&quot;https://github.com/scripting/pagePark/issues/17&quot;&gt;this link&lt;/a&gt; to the answer. " created="Mon, 05 Jul 2021 15:49:41 GMT" type="outline" />
 				<outline text="America’s &lt;a href=&quot;https://politicalwire.com/2021/07/05/americas-politics-are-stubbornly-fixed/&quot;&gt;politics&lt;/a&gt; appear to be stubbornly fixed. That's just a symptom. The bigger problem is the US has a genetic defect that makes it impossible for it to be united. Slavery. Everyone has a position on that. Either for or against. Not too many people in the middle. And the division in the country, to me, appears to be right along that line. People may be pro-slavery without putting it that way. " created="Mon, 05 Jul 2021 15:11:26 GMT" type="outline" />
 				<outline text="If you think archive.org is backing up all the stuff you care about, check it out, see if they are. " created="Mon, 05 Jul 2021 13:49:57 GMT" type="tweet" tweetId="1412046361877532678" tweetUserName="davewiner" />
 				<outline text="I am happy to report that archive.org has a &lt;a href=&quot;https://web.archive.org/web/20170705073731/http://dev.opml.org/spec2.html&quot;&gt;good copy&lt;/a&gt; of the &lt;a href=&quot;http://dev.opml.org/spec2.html&quot;&gt;OPML 2.0 spec&lt;/a&gt;. It's the easiest kind of page to archive, static HTML, stored in an Amazon S3 bucket. They started sampling it in 2016, even though the page has been there since the mid-00s." created="Mon, 05 Jul 2021 13:02:25 GMT" type="outline" />
