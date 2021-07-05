@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 05 Jul 2021 15:22:59 GMT</dateModified>
+		<dateModified>Mon, 05 Jul 2021 15:48:35 GMT</dateModified>
 		<expansionState>1,2,8,11,15,22,26,27</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,7 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 5" created="Mon, 05 Jul 2021 13:02:24 GMT" type="calendarDay" name="05" >
-				<outline text="America’s &lt;a href=&quot;https://politicalwire.com/2021/07/05/americas-politics-are-stubbornly-fixed/&quot;&gt;politics&lt;/a&gt; appear to be stubbornly fixed. The bigger problem is the US has a genetic defect that makes it impossible for it to be united. Slavery. " created="Mon, 05 Jul 2021 15:11:26 GMT" type="outline" />
+				<outline text="America’s &lt;a href=&quot;https://politicalwire.com/2021/07/05/americas-politics-are-stubbornly-fixed/&quot;&gt;politics&lt;/a&gt; appear to be stubbornly fixed. That's just a symptom. The bigger problem is the US has a genetic defect that makes it impossible for it to be united. Slavery. Everyone has a position on that. Either for or against. Not too many people in the middle. And the division in the country, to me, appears to be right along that line. People may be pro-slavery without putting it that way. " created="Mon, 05 Jul 2021 15:11:26 GMT" type="outline" />
 				<outline text="If you think archive.org is backing up all the stuff you care about, check it out, see if they are. " created="Mon, 05 Jul 2021 13:49:57 GMT" type="tweet" tweetId="1412046361877532678" tweetUserName="davewiner" />
 				<outline text="I am happy to report that archive.org has a &lt;a href=&quot;https://web.archive.org/web/20170705073731/http://dev.opml.org/spec2.html&quot;&gt;good copy&lt;/a&gt; of the &lt;a href=&quot;http://dev.opml.org/spec2.html&quot;&gt;OPML 2.0 spec&lt;/a&gt;. It's the easiest kind of page to archive, static HTML, stored in an Amazon S3 bucket. They started sampling it in 2016, even though the page has been there since the mid-00s." created="Mon, 05 Jul 2021 13:02:25 GMT" type="outline" />
 				<outline text="It's really weird &lt;a href=&quot;https://web.archive.org/web/20190815000000*/https://cyber.harvard.edu/rss/rss.html&quot;&gt;how they do&lt;/a&gt; the &lt;a href=&quot;https://cyber.harvard.edu/rss/rss.html&quot;&gt;RSS 2.0 spec&lt;/a&gt;. They're sampling it every day, as many as 17 times a day. &lt;a href=&quot;http://scripting.com/images/2021/07/05/rss2archiveorgsampling.png&quot;&gt;Screen shot&lt;/a&gt;. It's a static page for a format that's been frozen since 2002. A few samplings a year would be sufficient. As with the OPML spec, their archive starts in 2016, but the doc has been there at since 2003. " created="Mon, 05 Jul 2021 13:04:15 GMT" type="outline" />
