@@ -7,12 +7,15 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 02 Jul 2021 15:39:58 GMT</dateModified>
+		<dateModified>Mon, 05 Jul 2021 13:40:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 5" type="calendarDay" name="05" >
+				<outline text="Looks great! &lt;a href=&quot;https://twitter.com/manojnayak/status/1411697632083275785&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 13:40:03 GMT" tweetId="1412043601907884036" urltweet="https://twitter.com/logseq/status/1412043601907884036" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="July 2" type="calendarDay" name="02" >
-				<outline text="Wow, this website is published using Logseq! &lt;a href=&quot;https://twitter.com/Oscillations_1/status/1410961915157811206&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 15:39:21 GMT" tweetId="1410986460040208384" urltweet="https://twitter.com/logseq/status/1410986460040208384" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Wow, this website is published using Logseq! &lt;a href=&quot;https://twitter.com/Oscillations_1/status/1410961915157811206&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 15:39:21 GMT" tweetId="1410986460040208384" urltweet="https://twitter.com/logseq/status/1410986460040208384" tweetUserName="logseq" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
