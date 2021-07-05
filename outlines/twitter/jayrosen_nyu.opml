@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 20:09:26 GMT</dateModified>
+		<dateModified>Mon, 05 Jul 2021 16:28:25 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 5" type="calendarDay" name="05" >
+				<outline text="&quot;Over the past nine months I have tried, with increasing bluntness, to get Rupert to understand the real damage that Fox News is doing to America. I failed, and it was arrogant and naïve to ever have thought that I could succeed.&quot; &lt;a href=&quot;https://www.thedailybeast.com/former-murdoch-exec-says-fox-news-is-poison-for-america&quot;&gt;[link]&lt;/a&gt;
+
+Indeed it was." type="tweet" created="Mon, 05 Jul 2021 16:28:08 GMT" tweetId="1412085900444672007" urltweet="https://twitter.com/jayrosen_nyu/status/1412085900444672007" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 4" type="calendarDay" name="04" >
 				<outline text="You know those media bias charts that claim to arrange the major news providers from left to right leaning? I'd like to see one that tries to position popular news sources on a standards-of-verification axis. In other words, from most likely to be evidence-based to least likely. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1411778978436747266/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 20:08:32 GMT" tweetId="1411778978436747266" urltweet="https://twitter.com/jayrosen_nyu/status/1411778978436747266" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Just a test. Only a test. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1411776513083650051/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 19:58:44 GMT" tweetId="1411776513083650051" urltweet="https://twitter.com/jayrosen_nyu/status/1411776513083650051" inReplyToId="" tweetUserName="jayrosen_nyu" />
