@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 05 Jul 2021 23:30:06 GMT</dateModified>
+		<dateModified>Mon, 05 Jul 2021 23:35:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 5" type="calendarDay" name="05" >
+				<outline text="Trump has cut off Rudy Giuliani, and is annoyed that he asked to be paid for his work on challenging the election, book says. &lt;a href=&quot;https://news.yahoo.com/trump-cut-off-rudy-giuliani-123404013.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 23:34:49 GMT" tweetId="1412193279056220162" urltweet="https://twitter.com/davewiner/status/1412193279056220162" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Do you love Marvel movies? Why?
 
 &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Black_Widow_(2021_film)&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 23:30:03 GMT" tweetId="1412192077660803072" urltweet="https://twitter.com/davewiner/status/1412192077660803072" inReplyToId="" tweetUserName="davewiner" />
