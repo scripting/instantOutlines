@@ -12,16 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 05 Jul 2021 13:03:14 GMT</dateModified>
-		<expansionState>1,2,4,7,11,18,22,23</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 05 Jul 2021 13:13:49 GMT</dateModified>
+		<expansionState>1,2,5,8,12,19,23,24</expansionState>
+		<lastCursor>3</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 5" created="Mon, 05 Jul 2021 13:02:24 GMT" type="calendarDay" name="05" >
-				<outline text="I am happy to report that archive.org has a &lt;a href=&quot;https://web.archive.org/web/20170705073731/http://dev.opml.org/spec2.html&quot;&gt;good copy&lt;/a&gt; of the OPML 2.0 spec. It's the easiest kind of page to archive, static HTML, stored in an Amazon S3 bucket. " created="Mon, 05 Jul 2021 13:02:25 GMT" type="outline" />
+				<outline text="I am happy to report that archive.org has a &lt;a href=&quot;https://web.archive.org/web/20170705073731/http://dev.opml.org/spec2.html&quot;&gt;good copy&lt;/a&gt; of the OPML 2.0 spec. It's the easiest kind of page to archive, static HTML, stored in an Amazon S3 bucket. They started sampling it in 2016, even though the page has been there since the mid-00s." created="Mon, 05 Jul 2021 13:02:25 GMT" type="outline" />
+				<outline text="It's really weird &lt;a href=&quot;https://web.archive.org/web/20190815000000*/https://cyber.harvard.edu/rss/rss.html&quot;&gt;how they do&lt;/a&gt; the &lt;a href=&quot;https://cyber.harvard.edu/rss/rss.html&quot;&gt;RSS 2.0 spec&lt;/a&gt;. The archive starts in 2016, but the doc has been there at since 2003. They're sampling it every day, as many as 17 times a day. &lt;a href=&quot;https://web.archive.org/web/20170705073731/http://dev.opml.org/spec2.html&quot;&gt;Screen shot&lt;/a&gt;. It's a static page for a format that's been frozen since 2002. A few samplings a year would be sufficient. " created="Mon, 05 Jul 2021 13:04:15 GMT" type="outline" />
 				</outline>
 			<outline text="July 4" created="Sun, 04 Jul 2021 14:12:42 GMT" type="calendarDay" name="04" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=rdPOAhBp2Ag&quot;&gt;I'm Uncle Sam, how do you do?&lt;/a&gt;" created="Sun, 04 Jul 2021 14:31:44 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=rdPOAhBp2Ag" />
