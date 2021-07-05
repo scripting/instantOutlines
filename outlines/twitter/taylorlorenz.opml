@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 23:45:17 GMT</dateModified>
+		<dateModified>Mon, 05 Jul 2021 21:19:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 5" type="calendarDay" name="05" >
+				<outline text="&lt;a href=&quot;https://theintercept.com/2021/07/04/milf-mobile-maine-free-speech/&quot;&gt;[link]&lt;/a&gt; https://t.co/T7rXBfa1V9 https://t.co/xzE77h8cpP" type="tweet" created="Mon, 05 Jul 2021 21:18:48 GMT" tweetId="1412159049580359681" urltweet="https://twitter.com/taylorlorenz/status/1412159049580359681" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 4" type="calendarDay" name="04" >
 				<outline text="This is the most American piece of content I’ve seen in some time &lt;a href=&quot;https://twitter.com/leahmcelrath/status/1411786856065290245&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 23:44:20 GMT" tweetId="1411833284544372742" urltweet="https://twitter.com/taylorlorenz/status/1411833284544372742" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Same energy &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1411707058555166721/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 15:22:45 GMT" tweetId="1411707058555166721" urltweet="https://twitter.com/taylorlorenz/status/1411707058555166721" inReplyToId="" tweetUserName="taylorlorenz" >
