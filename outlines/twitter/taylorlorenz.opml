@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 03:04:11 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 11:19:27 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="These fake livestreams are becoming way too common. Seen several of influencers like Charli, Addison etc as well. They usually choose really personal Lives (a popular one is one where Charli is crying), also the watermelon rubber band guy. &lt;a href=&quot;https://twitter.com/nickabouzeid/status/1412267091177136131&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 11:19:16 GMT" tweetId="1412370557887209472" urltweet="https://twitter.com/taylorlorenz/status/1412370557887209472" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 5" type="calendarDay" name="05" >
 				<outline text="This movement would not last one day on the streets of nyc &lt;a href=&quot;https://twitter.com/mkarolian/status/1412242867913957379&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 03:03:53 GMT" tweetId="1412245891956752384" urltweet="https://twitter.com/taylorlorenz/status/1412245891956752384" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Feature or a bug? &lt;a href=&quot;https://twitter.com/ztpetrizzo/status/1412077526986465284&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 02:13:19 GMT" tweetId="1412233164098056193" urltweet="https://twitter.com/taylorlorenz/status/1412233164098056193" inReplyToId="" tweetUserName="taylorlorenz" />
