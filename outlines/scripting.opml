@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 15:35:45 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 15:36:15 GMT</dateModified>
 		<expansionState>1,2,7,15,17,26,29,33,40,44,45</expansionState>
 		<lastCursor>13</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -32,7 +32,7 @@
 					<outline text="Their company was named Forethought. Which now I see was a clever pun, which I had not seen before. " created="Tue, 06 Jul 2021 15:33:49 GMT" />
 					<outline text="A #toolforthought made by a company named Forethought. Ha! ;-)" created="Tue, 06 Jul 2021 15:33:50 GMT" />
 					<outline text="BTW, we all won. So we can be friends. " created="Tue, 06 Jul 2021 15:34:52 GMT" />
-					<outline text="PS: Ooops I remembered incorrectly. Their company was named &lt;a href=&quot;https://en.wikipedia.org/wiki/Framework_(office_suite)#Forefront_Corporation&quot;&gt;Forefront&lt;/a&gt;, not Forethought. Never mind. " created="Tue, 06 Jul 2021 15:34:54 GMT" />
+					<outline text="PS: Ooops I remembered incorrectly. Their company was named &lt;a href=&quot;https://en.wikipedia.org/wiki/Framework_(office_suite)#Forefront_Corporation&quot;&gt;Forefront&lt;/a&gt;, not Forethought. &lt;a href=&quot;https://www.youtube.com/watch?v=fZLeaSWY37I&quot;&gt;Never mind&lt;/a&gt;. " created="Tue, 06 Jul 2021 15:34:54 GMT" />
 					</outline>
 				<outline text="Edward Hopper " created="Tue, 06 Jul 2021 15:20:55 GMT" type="outline" >
 					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/gas&quot;&gt;Gas&lt;/a&gt;, 1940." created="Tue, 06 Jul 2021 15:19:33 GMT" type="outline" inlineImage="http://scripting.com/images/2021/07/06/hopperGasStation.png" />
