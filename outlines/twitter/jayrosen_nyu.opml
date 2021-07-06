@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 00:24:25 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 14:26:10 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="Please read the statement of @nhannahjones on why she turned down the appointment at University of North Carolina- Chapel Hill and took a (tenured) job at Howard University instead. &lt;a href=&quot;https://www.naacpldf.org/press-release/nikole-hannah-jones-issues-statement-on-decision-to-decline-tenure-offer-at-university-of-north-carolina-chapel-hill-and-to-accept-knight-chair-appointment-at-howard-university/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 14:25:53 GMT" tweetId="1412417524327649290" urltweet="https://twitter.com/jayrosen_nyu/status/1412417524327649290" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 5" type="calendarDay" name="05" >
 				<outline text="Public service announcement. The Hill is not a news source. It's an SEO company attached to a right wing blog, and its owner is trying to sell it. &lt;a href=&quot;https://www.axios.com/the-hill-nexstar-acquisition-e1906f1d-6b85-4219-8074-e5ae47e23155.html&quot;&gt;[link]&lt;/a&gt; https://t.co/ZhGC32wG5F" type="tweet" created="Tue, 06 Jul 2021 00:24:02 GMT" tweetId="1412205664898781186" urltweet="https://twitter.com/jayrosen_nyu/status/1412205664898781186" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Further to the right doesn’t capture it. The GOP is moving further from the real. &lt;a href=&quot;https://twitter.com/brianstelter/status/1412160166108217347&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 22:19:25 GMT" tweetId="1412174302246539265" urltweet="https://twitter.com/jayrosen_nyu/status/1412174302246539265" inReplyToId="" tweetUserName="jayrosen_nyu" />
