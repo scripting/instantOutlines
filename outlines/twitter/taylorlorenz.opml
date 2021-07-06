@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 19:31:13 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 20:46:31 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="Summer 2021 mood &lt;a href=&quot;https://twitter.com/EmojiMashupBot/status/1409934745895583750&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 20:46:00 GMT" tweetId="1412513180966809603" urltweet="https://twitter.com/taylorlorenz/status/1412513180966809603" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is such a fantastic, essential piece. &lt;a href=&quot;https://twitter.com/VICENews/status/1412435959694741508&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 19:30:33 GMT" tweetId="1412494194913038339" urltweet="https://twitter.com/taylorlorenz/status/1412494194913038339" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I keep being introduced as being a Forbes 30 under 30 😅. No hate, but I've never been on any 30 under 30 list (I spent the majority of my 20s working temp jobs).Ty to everyone for assuming I'm much younger/more successful than I am!! I do not support any age based lists though&amp;lt;3" type="tweet" created="Tue, 06 Jul 2021 16:48:38 GMT" tweetId="1412453447530594310" urltweet="https://twitter.com/taylorlorenz/status/1412453447530594310" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="No, I'm 50 and thriving &lt;a href=&quot;https://twitter.com/DanGarcia1980/status/1412453679240826885&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 16:51:09 GMT" tweetId="1412454080723800068" urltweet="https://twitter.com/taylorlorenz/status/1412454080723800068" inReplyToId="1412453447530594310" tweetUserName="taylorlorenz" />
