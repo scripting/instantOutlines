@@ -6,14 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 03 Jul 2021 01:00:06 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 00:05:24 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 5" type="calendarDay" name="05" >
+				<outline text="In 1852, Frederick Douglass spoke about what the 4th of July meant to an enslaved person. &lt;a href=&quot;https://twitter.com/edgeofsports/status/1411677339893780480&quot;&gt;[link]&lt;/a&gt; https://t.co/jng08n7vs2" type="tweet" created="Tue, 06 Jul 2021 00:04:52 GMT" tweetId="1412200838727151618" urltweet="https://twitter.com/KenSmith/status/1412200838727151618" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 2" type="calendarDay" name="02" >
-				<outline text="Note to self. &lt;a href=&quot;https://twitter.com/KenSmith/status/1411127471186059265/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 00:59:41 GMT" tweetId="1411127471186059265" urltweet="https://twitter.com/KenSmith/status/1411127471186059265" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="A country in need of a shared narrative, an honorable narrative with places in it for everyone. A country that doesn’t tell its best stories richly, accurately, or well. &lt;a href=&quot;https://twitter.com/nytdavidbrooks/status/1410790282354958337&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 11:11:14 GMT" tweetId="1410918984925560837" urltweet="https://twitter.com/KenSmith/status/1410918984925560837" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="Note to self. &lt;a href=&quot;https://twitter.com/KenSmith/status/1411127471186059265/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 00:59:41 GMT" tweetId="1411127471186059265" urltweet="https://twitter.com/KenSmith/status/1411127471186059265" tweetUserName="KenSmith" />
+				<outline text="A country in need of a shared narrative, an honorable narrative with places in it for everyone. A country that doesn’t tell its best stories richly, accurately, or well. &lt;a href=&quot;https://twitter.com/nytdavidbrooks/status/1410790282354958337&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 11:11:14 GMT" tweetId="1410918984925560837" urltweet="https://twitter.com/KenSmith/status/1410918984925560837" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
 				<outline text="“Conspiracy practices – the methods by which true conspiracies such as gerrymandering, or the debt industry, or mass surveillance are realized – are almost always overshadowed by conspiracy theories: those malevolent falsehoods...” —Edward Snowden. https://t.co/iXFoNb7Skq" type="tweet" created="Thu, 01 Jul 2021 13:53:16 GMT" tweetId="1410597374401998853" urltweet="https://twitter.com/KenSmith/status/1410597374401998853" tweetUserName="KenSmith" />
