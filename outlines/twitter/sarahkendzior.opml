@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Mon, 05 Jul 2021 19:15:06 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 13:57:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="Thread &lt;a href=&quot;https://twitter.com/joekillianpw/status/1412388863985819653&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 13:57:55 GMT" tweetId="1412410485295783946" urltweet="https://twitter.com/sarahkendzior/status/1412410485295783946" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="July 5" type="calendarDay" name="05" >
 				<outline text="At the Abraham Lincoln Presidential Library in Springfield there are now museum exhibits on Cheap Trick, Richard Marx, Ministry, and Styx &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1412127219686780929/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 19:12:19 GMT" tweetId="1412127219686780929" urltweet="https://twitter.com/sarahkendzior/status/1412127219686780929" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="Extremely &quot;Bill and Ted&quot; vibe from this Abraham Lincoln exhibit &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1412127701461254151/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 19:14:14 GMT" tweetId="1412127701461254151" urltweet="https://twitter.com/sarahkendzior/status/1412127701461254151" inReplyToId="1412127219686780929" tweetUserName="sarahkendzior" />
