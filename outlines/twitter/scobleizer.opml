@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 19:36:13 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 19:38:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,9 @@ That will change." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId=
 					<outline text="Apple is about to launch a new iPod, which will do a new version of Spatial Audio, that will push Apple way ahead of Spotify and Tidal in audio quality. 
 
 No one will be able to catch up until they figure out how to put AI capabilities into a mesh network in your home." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId="1412495393879855104" urltweet="https://twitter.com/scobleizer/status/1412495393879855104" inReplyToId="1412495392994840578" tweetUserName="scobleizer" >
-						<outline text="Spatial Audio plays best on M1 Macs that have a lot of AI capabilities. Apple uses those capabilities to make the sound better. Soon a LOT better because Apple will start locking audio to the real world to prepare for its VR device, which I call the Holodeck, coming next year." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId="1412495394764845058" urltweet="https://twitter.com/scobleizer/status/1412495394764845058" inReplyToId="1412495393879855104" tweetUserName="scobleizer" />
+						<outline text="Spatial Audio plays best on M1 Macs that have a lot of AI capabilities. Apple uses those capabilities to make the sound better. Soon a LOT better because Apple will start locking audio to the real world to prepare for its VR device, which I call the Holodeck, coming next year." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId="1412495394764845058" urltweet="https://twitter.com/scobleizer/status/1412495394764845058" inReplyToId="1412495393879855104" tweetUserName="scobleizer" >
+							<outline text="It is also amazing the resistance my research found, to pushing people into Apple's ecosystem. Most refuse to even give Apple a serious listen to see the difference. It's amazing the resistance people give to something that legitimately is a lot better." type="tweet" created="Tue, 06 Jul 2021 19:37:20 GMT" tweetId="1412495903051583488" urltweet="https://twitter.com/scobleizer/status/1412495903051583488" inReplyToId="1412495394764845058" tweetUserName="scobleizer" />
+							</outline>
 						</outline>
 					</outline>
 				<outline text="Rats in VR? Yes! &lt;a href=&quot;https://twitter.com/BrennanSpiegel/status/1412493387060584451&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 19:28:33 GMT" tweetId="1412493689524428802" urltweet="https://twitter.com/scobleizer/status/1412493689524428802" inReplyToId="" tweetUserName="scobleizer" />
