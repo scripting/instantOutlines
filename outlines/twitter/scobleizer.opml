@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 19:38:14 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 19:59:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="It wasn't just the camera that doomed it. Fun report on what happened to Google Glass. &lt;a href=&quot;https://video.foxnews.com/v/6262482235001&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 19:58:21 GMT" tweetId="1412501189669777410" urltweet="https://twitter.com/scobleizer/status/1412501189669777410" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Apple's Spatial Audio is not understood by most of the market yet, my research shows. I'm convinced that they only wanted nerds like me to know about it. Most people don't use Apple Music. Most people also don't have the audio equipment to properly hear it. 
 
 That will change." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId="1412495392994840578" urltweet="https://twitter.com/scobleizer/status/1412495392994840578" inReplyToId="" tweetUserName="scobleizer" >
