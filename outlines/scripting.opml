@@ -12,8 +12,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 14:11:18 GMT</dateModified>
-		<expansionState>1,2,4,13,16,20,27,31,32</expansionState>
+		<dateModified>Tue, 06 Jul 2021 14:58:13 GMT</dateModified>
+		<expansionState>1,2,6,15,18,22,29,33,34</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
@@ -21,6 +21,8 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 6" created="Tue, 06 Jul 2021 13:21:50 GMT" type="calendarDay" name="06" >
+				<outline text="For review: &lt;a href=&quot;https://github.com/scripting/opmlPackage/issues/1&quot;&gt;A developer's toolkit for OPML support&lt;/a&gt;. " created="Tue, 06 Jul 2021 14:56:33 GMT" type="outline" />
+				<outline text="Web devs -- if you work in JavaScript and sometimes think of adding a feature that uses OPML but think it's too much trouble, I've put together a toolkit in the form of an NPM package and browser-based code that makes supporting OPML as simple as JSON. There's a new explosion of interest in outliners, so now is a great time to start wiring these things together to create truly world wide applications. We're on the cusp of greatness, again. Imho, ymmv, mmlm. :rocket:" created="Tue, 06 Jul 2021 14:57:47 GMT" type="outline" />
 				<outline text="I'm having one of the most promising collaborations of my career with the &quot;logseq&quot; guys. You can see it in this &lt;a href=&quot;https://twitter.com/davewiner/status/1412237057641127937&quot;&gt;Twitter thread&lt;/a&gt;. There are also back-channel conversations. I developed something to help with their use of OPML, I'll post an announcement here in a bit. " created="Tue, 06 Jul 2021 13:21:51 GMT" type="outline" />
 				</outline>
 			<outline text="July 5" created="Mon, 05 Jul 2021 13:02:24 GMT" type="calendarDay" name="05" >
