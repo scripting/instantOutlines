@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 15:36:15 GMT</dateModified>
-		<expansionState>1,2,7,15,17,26,29,33,40,44,45</expansionState>
-		<lastCursor>13</lastCursor>
+		<dateModified>Tue, 06 Jul 2021 15:37:57 GMT</dateModified>
+		<expansionState>1,2,7,9,18,21,25,32,36,37</expansionState>
+		<lastCursor>5</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
@@ -25,15 +25,6 @@
 				<outline text="Web devs -- if you work in JavaScript and sometimes think of adding a feature that uses OPML but think it's too much trouble, I've put together a &lt;a href=&quot;https://github.com/scripting/opmlPackage&quot;&gt;toolkit&lt;/a&gt; in the form of an &lt;a href=&quot;https://www.npmjs.com/package/opml&quot;&gt;NPM package&lt;/a&gt; and &lt;a href=&quot;https://github.com/scripting/opmlPackage/blob/main/client/opml.js&quot;&gt;browser-based code&lt;/a&gt; that makes supporting OPML as simple as JSON. There's a new explosion of interest in outliners, so now is a great time to start wiring these things together to create truly world wide applications. We're on the cusp of greatness, again. Imho, ymmv, mmlm. :rocket:" created="Tue, 06 Jul 2021 14:57:47 GMT" type="outline" />
 				<outline text="If you have comments or questions on the developer toolkit, please &lt;a href=&quot;https://github.com/scripting/opmlPackage/issues/1&quot;&gt;use this thread&lt;/a&gt;. " created="Tue, 06 Jul 2021 15:12:27 GMT" type="outline" />
 				<outline text="I'm having one of the most promising collaborations of my career with the &quot;logseq&quot; guys. You can see it in this &lt;a href=&quot;https://twitter.com/davewiner/status/1412237057641127937&quot;&gt;Twitter thread&lt;/a&gt;. There are also back-channel conversations. " created="Tue, 06 Jul 2021 13:21:51 GMT" type="outline" />
-				<outline text="Forethought memory" created="Tue, 06 Jul 2021 15:31:16 GMT" type="outline" >
-					<outline text="A story for old friends Robert Carr and Greg Stikeleather, who made a product called Framework, which I kind of hated because it was an outliner, easily as famous as ours was, even though they were nice people, and neighbors, and we spoke each others' language. " created="Tue, 06 Jul 2021 15:31:29 GMT" />
-					<outline text="Many years have passed, and I'm still in touch with Stikeleather, because we're on Facebook, have lots of friends in common and we have the same birthday. We exchange emails every year, also with Roger McNamee who also shares our birthday." created="Tue, 06 Jul 2021 15:32:07 GMT" />
-					<outline text="Anyway, Robert and Greg would probably like that outliners are rebooting now, and one of the tags for the category is #toolsforthought. The other day I had an aha moment about this. " created="Tue, 06 Jul 2021 15:33:09 GMT" />
-					<outline text="Their company was named Forethought. Which now I see was a clever pun, which I had not seen before. " created="Tue, 06 Jul 2021 15:33:49 GMT" />
-					<outline text="A #toolforthought made by a company named Forethought. Ha! ;-)" created="Tue, 06 Jul 2021 15:33:50 GMT" />
-					<outline text="BTW, we all won. So we can be friends. " created="Tue, 06 Jul 2021 15:34:52 GMT" />
-					<outline text="PS: Ooops I remembered incorrectly. Their company was named &lt;a href=&quot;https://en.wikipedia.org/wiki/Framework_(office_suite)#Forefront_Corporation&quot;&gt;Forefront&lt;/a&gt;, not Forethought. &lt;a href=&quot;https://www.youtube.com/watch?v=fZLeaSWY37I&quot;&gt;Never mind&lt;/a&gt;. " created="Tue, 06 Jul 2021 15:34:54 GMT" />
-					</outline>
 				<outline text="Edward Hopper " created="Tue, 06 Jul 2021 15:20:55 GMT" type="outline" >
 					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/gas&quot;&gt;Gas&lt;/a&gt;, 1940." created="Tue, 06 Jul 2021 15:19:33 GMT" type="outline" inlineImage="http://scripting.com/images/2021/07/06/hopperGasStation.png" />
 					</outline>
