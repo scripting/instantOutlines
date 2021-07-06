@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 04 Jul 2021 17:36:04 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 14:46:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="I’m getting a lot of Twitter “Topics” on my feed all of a sudden. 
+
+Anyone else? How do I make them go away?" type="tweet" created="Tue, 06 Jul 2021 14:46:00 GMT" tweetId="1412422585971773447" urltweet="https://twitter.com/brandontoner/status/1412422585971773447" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
 			<outline text="July 4" type="calendarDay" name="04" >
 				<outline text="Paper is awesome. Tools for thought still have a long way to go to catch paper." type="tweet" created="Sun, 04 Jul 2021 17:17:40 GMT" tweetId="1411735979455565828" urltweet="https://twitter.com/brandontoner/status/1411735979455565828" inReplyToId="" tweetUserName="brandontoner" >
 					<outline text="Making outlines, maps, lists — drawing lines — new drafts — spreading them all out over the table." type="tweet" created="Sun, 04 Jul 2021 17:20:07 GMT" tweetId="1411736594491510787" urltweet="https://twitter.com/brandontoner/status/1411736594491510787" inReplyToId="1411735979455565828" tweetUserName="brandontoner" >
