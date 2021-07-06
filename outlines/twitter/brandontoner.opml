@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 23:01:55 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 23:02:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,9 @@ Fully agree and hold the same intention for this sort of thing.
 
 There is a difference between wanting something and committing to doing it. 
 
-Subtle but important. &lt;a href=&quot;https://twitter.com/askyatharth/status/1412320015152336896&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 23:01:42 GMT" tweetId="1412547331992457219" urltweet="https://twitter.com/brandontoner/status/1412547331992457219" inReplyToId="" tweetUserName="brandontoner" />
+Subtle but important. &lt;a href=&quot;https://twitter.com/askyatharth/status/1412320015152336896&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 23:01:42 GMT" tweetId="1412547331992457219" urltweet="https://twitter.com/brandontoner/status/1412547331992457219" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="Plant seeds liberally and enthusiastically; tend to them when inspired to do so." type="tweet" created="Tue, 06 Jul 2021 23:02:35 GMT" tweetId="1412547556140326912" urltweet="https://twitter.com/brandontoner/status/1412547556140326912" inReplyToId="1412547331992457219" tweetUserName="brandontoner" />
+					</outline>
 				<outline text="I’m getting a lot of Twitter “Topics” on my feed all of a sudden. 
 
 Anyone else? How do I make them go away?" type="tweet" created="Tue, 06 Jul 2021 14:46:00 GMT" tweetId="1412422585971773447" urltweet="https://twitter.com/brandontoner/status/1412422585971773447" inReplyToId="" tweetUserName="brandontoner" />
