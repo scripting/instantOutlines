@@ -6,12 +6,23 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 17:22:41 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 17:23:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="Story I heard.
+
+Gadamer, nearing 100 years of age, frail at the podium, lectured in Boston. Finishing, he offered to take questions.
+
+“Who will refute me?” he asked.
+
+No hands raised.
+
+“Very well,” he said, “I shall refute myself.”
+
+And he explored weaknesses in his argument." type="tweet" created="Tue, 06 Jul 2021 17:23:28 GMT" tweetId="1412462212489359360" urltweet="https://twitter.com/KenSmith/status/1412462212489359360" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Story I heard.
 
 Gadamer, nearing 100 years of age, frail at the podium, lectured in Boston. Finishing, he offered to take questions.
