@@ -6,12 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 14:46:06 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 23:01:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="Wonderful subtext for “I want to” statements.
+
+Fully agree and hold the same intention for this sort of thing. 
+
+There is a difference between wanting something and committing to doing it. 
+
+Subtle but important. &lt;a href=&quot;https://twitter.com/askyatharth/status/1412320015152336896&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 23:01:42 GMT" tweetId="1412547331992457219" urltweet="https://twitter.com/brandontoner/status/1412547331992457219" inReplyToId="" tweetUserName="brandontoner" />
 				<outline text="I’m getting a lot of Twitter “Topics” on my feed all of a sudden. 
 
 Anyone else? How do I make them go away?" type="tweet" created="Tue, 06 Jul 2021 14:46:00 GMT" tweetId="1412422585971773447" urltweet="https://twitter.com/brandontoner/status/1412422585971773447" inReplyToId="" tweetUserName="brandontoner" />
