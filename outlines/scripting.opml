@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 13:50:17 GMT</dateModified>
+		<dateModified>Tue, 06 Jul 2021 13:51:21 GMT</dateModified>
 		<expansionState>1,2,4,13,16,20,27,31,32</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,7 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 6" created="Tue, 06 Jul 2021 13:21:50 GMT" type="calendarDay" name="06" >
-				<outline text="I'm having one of the most promising collaborations of my career with the &quot;logseq&quot; guys. You can see it in this &lt;a href=&quot;https://twitter.com/davewiner/status/1412237057641127937&quot;&gt;Twitter thread&lt;/a&gt;, though there are also back-channel conversations, not public. I developed something to help with their use of OPML, I'll write up and post an announcement here in a bit. " created="Tue, 06 Jul 2021 13:21:51 GMT" type="outline" />
+				<outline text="I'm having one of the most promising collaborations of my career with the &quot;logseq&quot; guys. You can see it in this &lt;a href=&quot;https://twitter.com/davewiner/status/1412237057641127937&quot;&gt;Twitter thread&lt;/a&gt;, though there are also back-channel conversations. I developed something to help with their use of OPML, I'll write up and post an announcement here in a bit." created="Tue, 06 Jul 2021 13:21:51 GMT" type="outline" />
 				</outline>
 			<outline text="July 5" created="Mon, 05 Jul 2021 13:02:24 GMT" type="calendarDay" name="05" >
 				<outline text="Podcast/rant: &lt;a href=&quot;http://scripting.com/2021/07/05/ourOngoingCivilWarIsAboutSlavery.m4a&quot;&gt;Our ongoing civil war is about slavery&lt;/a&gt;." created="Mon, 05 Jul 2021 16:47:20 GMT" type="outline" enclosure="http://scripting.com/2021/07/05/ourOngoingCivilWarIsAboutSlavery.m4a" enclosureType="audio/mpeg" enclosureLength="8680040" />
