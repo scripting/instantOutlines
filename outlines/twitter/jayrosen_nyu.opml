@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 22:56:14 GMT</dateModified>
+		<dateModified>Wed, 07 Jul 2021 23:14:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="Meanwhile,@ThePlumLineGS explains how Kevin McCarthy hath more to gain by trying to appoint crazies to the select committee investigating the events of January 6th. Recommended. &lt;a href=&quot;https://twitter.com/theplumlinegs/status/1412903912231907333&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 23:13:25 GMT" tweetId="1412912667665305601" urltweet="https://twitter.com/jayrosen_nyu/status/1412912667665305601" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Not just further to the right, but further from the real. That’s the direction the Party is moving in. 
 
 Deadliest case: vaccination rates in the red states. There’s nothing inherently “conservative” (or pro-life) about being anti-vax.
