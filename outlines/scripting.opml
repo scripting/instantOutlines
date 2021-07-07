@@ -12,8 +12,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 14:44:08 GMT</dateModified>
-		<expansionState>1,2,4,10,12,21,24,28,35,39,40</expansionState>
+		<dateModified>Wed, 07 Jul 2021 18:40:08 GMT</dateModified>
+		<expansionState>1,2,5,11,13,22,25,29,36,40,41</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
@@ -21,7 +21,8 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 7" created="Wed, 07 Jul 2021 14:44:06 GMT" type="calendarDay" name="07" >
-				<outline text="I have made dreams of mine come true several times before, so I know it can happen. We're almost there with outliners. The web was designed to be organized by outliners. Very few people know this, but the ones who do, are very excited. I'm one of them. ;-)" created="Wed, 07 Jul 2021 14:44:07 GMT" type="outline" />
+				<outline text="About &lt;a href=&quot;https://apnews.com/article/lawsuits-business-government-and-politics-c7e26858dcb553f92d98706d12ad510c&quot;&gt;Trump's claim&lt;/a&gt; that Twitter and Facebook are obligated by the First Amendment, I'm not sure that's wrong, as some people are. If a social network is so large that they effectively control all speech in a channel, if there's no way around them, different rules should apply. On the other hand, speech, even as guaranteed by the government, is not an absolute. The Constitution is not a &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Constitution_is_not_a_suicide_pact&quot;&gt;suicide pact&lt;/a&gt;, President Lincoln said." created="Wed, 07 Jul 2021 15:48:41 GMT" type="outline" />
+				<outline text="I have made dreams of mine come true several times before, so I know it can happen. We're almost there with &lt;a href=&quot;http://outlinerhowto.opml.org/&quot;&gt;outliners&lt;/a&gt;. The web was designed to be organized by outliners. Very few people know this, but the ones who do, are very excited. I'm one of them. ;-)" created="Wed, 07 Jul 2021 14:44:07 GMT" type="outline" />
 				</outline>
 			<outline text="July 6" created="Tue, 06 Jul 2021 13:21:50 GMT" type="calendarDay" name="06" >
 				<outline text="For review: &lt;a href=&quot;https://github.com/scripting/opmlPackage&quot;&gt;A developer's toolkit for OPML support&lt;/a&gt;. " created="Tue, 06 Jul 2021 14:56:33 GMT" type="outline" />
