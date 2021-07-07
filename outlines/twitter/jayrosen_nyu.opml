@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 15:30:51 GMT</dateModified>
+		<dateModified>Wed, 07 Jul 2021 15:37:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="UNC J-faculty support @nhannahjones decision not to become their colleague. &quot;The appalling treatment of one of our nation’s most-decorated journalists by her own alma mater was humiliating, inappropriate, and unjust. We will be frank: It was racist.&quot;   &lt;a href=&quot;https://hussmanfaculty.medium.com/racism-and-reactionary-politics-kept-nikole-hannah-jones-from-joining-unc-54b947a4cb9c&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 15:36:58 GMT" tweetId="1412797800929234948" urltweet="https://twitter.com/jayrosen_nyu/status/1412797800929234948" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="@JoekillianPW Hi, Joe. Forgive me if you have already done something on this. But did you see in a piece published Tuesday Walter Hussman's flat denials that he lobbied against a tenured appointment for @nhannahjones? &lt;a href=&quot;https://www.poynter.org/educators-students/2021/unc-donor-says-he-has-no-regrets-about-his-role-in-the-journalism-school-losing-nikole-hannah-jones/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 15:30:49 GMT" tweetId="1412796251213533187" urltweet="https://twitter.com/jayrosen_nyu/status/1412796251213533187" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
