@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 11:01:06 GMT</dateModified>
+		<dateModified>Wed, 07 Jul 2021 16:04:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="It seems like Twitter “verified” badges could be better used to signal a “verified human” rather than a public figure. 
+
+There are a lot of bots. I’d like to have a visual indicator that I could use as a surrogate for authenticity." type="tweet" created="Wed, 07 Jul 2021 16:03:02 GMT" tweetId="1412804358182518790" urltweet="https://twitter.com/brandontoner/status/1412804358182518790" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="I like the existing verified thing though, so it’s probably more a “why not both” sorta dilemma." type="tweet" created="Wed, 07 Jul 2021 16:03:43 GMT" tweetId="1412804531205951493" urltweet="https://twitter.com/brandontoner/status/1412804531205951493" inReplyToId="1412804358182518790" tweetUserName="brandontoner" />
+					</outline>
 				<outline text="A step by step guide on how to build a social scene. &lt;a href=&quot;https://twitter.com/visakanv/status/1412674634848235522&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 10:35:52 GMT" tweetId="1412722023676137477" urltweet="https://twitter.com/brandontoner/status/1412722023676137477" inReplyToId="" tweetUserName="brandontoner" >
 					<outline text="The beautiful thing about these sorts of threads is that every time I read one, I believe in the vision a little bit more. 
 
