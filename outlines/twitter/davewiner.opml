@@ -7,11 +7,20 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 07 Jul 2021 10:51:57 GMT</dateModified>
+		<dateModified>Wed, 07 Jul 2021 13:10:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="I was asked &quot;What is an outliner?&quot; 
+
+An outliner is a text editor that organizes information in a hierarchy, allowing users to control the level of detail and to reorganize according to structure.
+
+Much more here...
+
+https://t.co/s2RAlWp8nd
+
+#toolsforthought" type="tweet" created="Wed, 07 Jul 2021 13:10:27 GMT" tweetId="1412760928148459524" urltweet="https://twitter.com/davewiner/status/1412760928148459524" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Fake Tesla, Apple, Amazon Stocks Are Trading on Blockchains. &lt;a href=&quot;https://finance.yahoo.com/news/fake-tesla-apple-amazon-stocks-174327721.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 10:51:30 GMT" tweetId="1412725957505470465" urltweet="https://twitter.com/davewiner/status/1412725957505470465" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Smokers of menthol cigarettes have a harder time quitting. &lt;a href=&quot;https://www.statnews.com/2021/07/06/smokers-of-menthol-cigarettes-have-a-harder-time-quitting-study-finds/?utm_source=STAT+Newsletters&amp;utm_campaign=79e851f08b-Daily_Recap&amp;utm_medium=email&amp;utm_term=0_8cab1d7961-79e851f08b-149675769&amp;fbclid=IwAR2SuWgMG9q5Fs6y2uSOqo5lBjUPy99QHTUTlqDOWRe2lwmmR7LBIejwhNc&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 09:14:29 GMT" tweetId="1412701544185798660" urltweet="https://twitter.com/davewiner/status/1412701544185798660" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
