@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 00:23:11 GMT</dateModified>
+		<dateModified>Wed, 07 Jul 2021 15:30:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="@JoekillianPW Hi, Joe. Forgive me if you have already done something on this. But did you see in a piece published Tuesday Walter Hussman's flat denials that he lobbied against a tenured appointment for @nhannahjones? &lt;a href=&quot;https://www.poynter.org/educators-students/2021/unc-donor-says-he-has-no-regrets-about-his-role-in-the-journalism-school-losing-nikole-hannah-jones/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 15:30:49 GMT" tweetId="1412796251213533187" urltweet="https://twitter.com/jayrosen_nyu/status/1412796251213533187" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="What's a centrist? &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1412567833691762692/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 00:23:10 GMT" tweetId="1412567833691762692" urltweet="https://twitter.com/jayrosen_nyu/status/1412567833691762692" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="This interview with Walter Hussman Jr. says that after his gift to UNC he began talking to leading executives and journalism educators about his ideas. At one point he was going to challenge me to a debate about objectivity. &lt;a href=&quot;https://www.poynter.org/educators-students/2021/unc-donor-says-he-has-no-regrets-about-his-role-in-the-journalism-school-losing-nikole-hannah-jones/&quot;&gt;[link]&lt;/a&gt; First I am hearing of it." type="tweet" created="Wed, 07 Jul 2021 00:18:01 GMT" tweetId="1412566537148448768" urltweet="https://twitter.com/jayrosen_nyu/status/1412566537148448768" inReplyToId="" tweetUserName="jayrosen_nyu" />
