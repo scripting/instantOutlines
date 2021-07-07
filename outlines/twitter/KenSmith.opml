@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 17:23:42 GMT</dateModified>
+		<dateModified>Wed, 07 Jul 2021 12:59:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="University of Notre Dame failed to reshape a dorm’s culture:
+
+ “..significant vandalism over many years within and beyond the building..demonstrated disrespect for University officials, deliberate disregard for University COVID-19 testing protocols..” &lt;a href=&quot;https://magazine.nd.edu/stories/zahm-hall-ends-its-84-year-run-as-a-traditional-residence-hall/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 12:59:21 GMT" tweetId="1412758135299883010" urltweet="https://twitter.com/KenSmith/status/1412758135299883010" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="Story I heard.
 
