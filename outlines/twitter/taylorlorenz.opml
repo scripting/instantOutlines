@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 13:35:44 GMT</dateModified>
+		<dateModified>Wed, 07 Jul 2021 14:02:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="Love these trolls let's keep it up &lt;a href=&quot;https://twitter.com/BW/status/1412768111292469252&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 14:02:36 GMT" tweetId="1412774052004077569" urltweet="https://twitter.com/taylorlorenz/status/1412774052004077569" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Don't get my hopes up 😭 &lt;a href=&quot;https://twitter.com/WeAreMel/status/1412765862625484804&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 13:35:42 GMT" tweetId="1412767282657386506" urltweet="https://twitter.com/taylorlorenz/status/1412767282657386506" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="In a coma from consuming 4 bagels a day in nyc to make up for lost time" type="tweet" created="Wed, 07 Jul 2021 13:05:10 GMT" tweetId="1412759596431777793" urltweet="https://twitter.com/taylorlorenz/status/1412759596431777793" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Terrifying thread, this stuff desperately needs to be taken more seriously &lt;a href=&quot;https://twitter.com/goddammitsarah/status/1412434922636120065&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 05:07:59 GMT" tweetId="1412639510417055745" urltweet="https://twitter.com/taylorlorenz/status/1412639510417055745" inReplyToId="" tweetUserName="taylorlorenz" />
