@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 00:12:41 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 00:15:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,9 @@
 							<outline text=".@kyurieff's newsletter on the business of the online creator world &lt;a href=&quot;https://www.theinformation.com/newsletters/creator-economy&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:06:36 GMT" tweetId="1412926050900774912" urltweet="https://twitter.com/taylorlorenz/status/1412926050900774912" inReplyToId="1412925901654921222" tweetUserName="taylorlorenz" >
 								<outline text="@kyurieff .@ColinandSamir's creator industry roundup &lt;a href=&quot;https://www.thepublishpress.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:07:47 GMT" tweetId="1412926351544307712" urltweet="https://twitter.com/taylorlorenz/status/1412926351544307712" inReplyToId="1412926050900774912" tweetUserName="taylorlorenz" >
 									<outline text="@kyurieff @ColinandSamir And of course @iamaliceophelia and @maidmentfaye's High Tea newsletter on internet culture.   &lt;a href=&quot;https://hightea.substack.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:11:38 GMT" tweetId="1412927321028370432" urltweet="https://twitter.com/taylorlorenz/status/1412927321028370432" inReplyToId="1412926351544307712" tweetUserName="taylorlorenz" >
-										<outline text="There are about 100 more I'd add but I'm going to stop here b/c I don't want to seem like some ppl are getting left out. But those are the ones I always click fastest in my inbox!!" type="tweet" created="Thu, 08 Jul 2021 00:12:24 GMT" tweetId="1412927512523509761" urltweet="https://twitter.com/taylorlorenz/status/1412927512523509761" inReplyToId="1412927321028370432" tweetUserName="taylorlorenz" />
+										<outline text="There are about 100 more I'd add but I'm going to stop here b/c I don't want to seem like some ppl are getting left out. But those are the ones I always click fastest in my inbox!!" type="tweet" created="Thu, 08 Jul 2021 00:12:24 GMT" tweetId="1412927512523509761" urltweet="https://twitter.com/taylorlorenz/status/1412927512523509761" inReplyToId="1412927321028370432" tweetUserName="taylorlorenz" >
+											<outline text="Wait also OBVIOUSLY I have to plug my own Substack too. I send it very randomly, whenever I remember. So it will keep you guessing! 😅 It's a great way to keep up with my work! &amp;lt;3 &lt;a href=&quot;https://taylorlorenz.substack.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:15:02 GMT" tweetId="1412928172958568451" urltweet="https://twitter.com/taylorlorenz/status/1412928172958568451" inReplyToId="1412927512523509761" tweetUserName="taylorlorenz" />
+											</outline>
 										</outline>
 									</outline>
 								</outline>
