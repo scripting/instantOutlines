@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 14:28:48 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 14:32:49 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="A farmer’s lifelong web of observation, reflection, and insight, expressed with modest urgency, lacking perhaps any other way to share it. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1413112394809761795&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:32:25 GMT" tweetId="1413143941239562252" urltweet="https://twitter.com/KenSmith/status/1413143941239562252" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Potent, insightful verb here.
 
 My father’s fillet knife was the sharpest, the most wicked-looking knife, used for quickly taking the choicest parts of a bass for cooking. Toss the scraps back into the lake.
