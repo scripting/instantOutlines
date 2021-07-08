@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 00:06:40 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 00:08:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -15,7 +15,9 @@
 				<outline text="Many of these are great but if I may be so bold as to add a few more....! &lt;a href=&quot;https://www.thecut.com/2021/07/newsletter-writers-on-their-favorite-newsletters.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:04:36 GMT" tweetId="1412925550558056450" urltweet="https://twitter.com/taylorlorenz/status/1412925550558056450" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text=".@Lucas_Shaw's Screentime is essential reading on tech, entertainment, and online creators  &lt;a href=&quot;https://www.bloomberg.com/account/newsletters/screentime&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:05:16 GMT" tweetId="1412925715507449857" urltweet="https://twitter.com/taylorlorenz/status/1412925715507449857" inReplyToId="1412925550558056450" tweetUserName="taylorlorenz" >
 						<outline text=".@arperelli's newsletter on what's new in the business of YouTube, Instagram, and the influencer industry at large. &lt;a href=&quot;https://newsletter.businessinsider.com/join/newsletter.businessinsider.com/join/4np/insider-influencers&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:06:00 GMT" tweetId="1412925901654921222" urltweet="https://twitter.com/taylorlorenz/status/1412925901654921222" inReplyToId="1412925715507449857" tweetUserName="taylorlorenz" >
-							<outline text=".@kyurieff's newsletter on the business of the online creator world &lt;a href=&quot;https://www.theinformation.com/newsletters/creator-economy&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:06:36 GMT" tweetId="1412926050900774912" urltweet="https://twitter.com/taylorlorenz/status/1412926050900774912" inReplyToId="1412925901654921222" tweetUserName="taylorlorenz" />
+							<outline text=".@kyurieff's newsletter on the business of the online creator world &lt;a href=&quot;https://www.theinformation.com/newsletters/creator-economy&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:06:36 GMT" tweetId="1412926050900774912" urltweet="https://twitter.com/taylorlorenz/status/1412926050900774912" inReplyToId="1412925901654921222" tweetUserName="taylorlorenz" >
+								<outline text="@kyurieff .@ColinandSamir's creator industry roundup &lt;a href=&quot;https://www.thepublishpress.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:07:47 GMT" tweetId="1412926351544307712" urltweet="https://twitter.com/taylorlorenz/status/1412926351544307712" inReplyToId="1412926050900774912" tweetUserName="taylorlorenz" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
