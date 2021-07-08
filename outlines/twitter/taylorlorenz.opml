@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 19:53:53 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 21:39:22 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="😰 &lt;a href=&quot;https://twitter.com/paulleewr/status/1413234413337563138&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 21:38:49 GMT" tweetId="1413251247562534912" urltweet="https://twitter.com/taylorlorenz/status/1413251247562534912" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="The producers of Queer Eye are on a nationwide search for people with crypto wallets who locked themselves out &lt;a href=&quot;https://www.castingdepot.com/p/cryptocasting&quot;&gt;[link]&lt;/a&gt; https://t.co/xs3wjhGcaJ" type="tweet" created="Thu, 08 Jul 2021 18:10:46 GMT" tweetId="1413198892812935172" urltweet="https://twitter.com/taylorlorenz/status/1413198892812935172" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Made it to NYC hacker house TikTok &lt;a href=&quot;https://twitter.com/vikushavas/status/1413161535346823179/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 15:54:23 GMT" tweetId="1413164571448287234" urltweet="https://twitter.com/taylorlorenz/status/1413164571448287234" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Any corporate brand people up for chatting with me about TikTok's new resume feature? Please DM me if so! Would love to hear from companies if they do or don't plan to leverage this &lt;a href=&quot;https://newsroom.tiktok.com/en-us/find-a-job-with-tiktok-resumes&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:12:24 GMT" tweetId="1413138907005284363" urltweet="https://twitter.com/taylorlorenz/status/1413138907005284363" inReplyToId="" tweetUserName="taylorlorenz" />
