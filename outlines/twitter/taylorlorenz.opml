@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 03:11:21 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 03:55:32 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
-				<outline text="I post a lot on here if you think of it as a social media site I guess, but I consider Twitter a chat room" type="tweet" created="Thu, 08 Jul 2021 03:11:08 GMT" tweetId="1412972491795013632" urltweet="https://twitter.com/taylorlorenz/status/1412972491795013632" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="I post a lot on here if you think of it as a social media site I guess, but I consider Twitter a chat room" type="tweet" created="Thu, 08 Jul 2021 03:11:08 GMT" tweetId="1412972491795013632" urltweet="https://twitter.com/taylorlorenz/status/1412972491795013632" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Ice gets it &lt;a href=&quot;https://twitter.com/finallevel/status/1202360515298758656&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 03:54:37 GMT" tweetId="1412983434725756933" urltweet="https://twitter.com/taylorlorenz/status/1412983434725756933" inReplyToId="1412972491795013632" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Read @bettinamak on “hot girl food” &lt;a href=&quot;https://www.vice.com/en/article/4avqpj/why-is-tinned-fish-hot-girl-food-now&quot;&gt;[link]&lt;/a&gt; https://t.co/3tloIL9GO5" type="tweet" created="Thu, 08 Jul 2021 03:08:34 GMT" tweetId="1412971847126237186" urltweet="https://twitter.com/taylorlorenz/status/1412971847126237186" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Someone mentioned @edzitron “the substacker” to me today which means he is officially a Newsletter Guy on here" type="tweet" created="Thu, 08 Jul 2021 02:33:25 GMT" tweetId="1412963001422974980" urltweet="https://twitter.com/taylorlorenz/status/1412963001422974980" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I love @CreatorsDigest, a 2x a week rundown featuring industry news, company hires, and deep dives on certain influencers. Shout out @shardulgo for putting it together! &lt;a href=&quot;https://creatorsdigest.substack.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:57:07 GMT" tweetId="1412938765207748608" urltweet="https://twitter.com/taylorlorenz/status/1412938765207748608" inReplyToId="" tweetUserName="taylorlorenz" />
