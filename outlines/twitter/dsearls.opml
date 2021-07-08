@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 06 Jul 2021 22:05:42 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 18:06:26 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="Go here  &lt;a href=&quot;https://www.lightningmaps.org/#m=oss;t=3;s=0;o=0;b=0.00;ts=0;y=40.9757;x=-73.9042;z=11;d=2;dl=2;dc=0&quot;&gt;[link]&lt;/a&gt;; and watch lighting flashes and expanding circles of thunder mark the path of a storm cell, now over Bergen County in NJ, and moving northeast across Rockland and Westchester Counties in NY." type="tweet" created="Thu, 08 Jul 2021 18:05:47 GMT" tweetId="1413197638934179842" urltweet="https://twitter.com/dsearls/status/1413197638934179842" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="Lotta lightning/thunder in the Northeast right now: &lt;a href=&quot;https://www.lightningmaps.org/#m=oss;t=3;s=0;o=0;b=0.00;ts=0;y=41.5621;x=-72.8831;z=8;d=2;dl=2;dc=0;&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 22:04:45 GMT" tweetId="1412533001016184841" urltweet="https://twitter.com/dsearls/status/1412533001016184841" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="When my phone looks at the QR code on desktop @signalapp, it says &quot;No usable data found.&quot; Also, do these directions under the QR code mean Signal Settings in the phone's settings for Signal, or settings in the Signal app on the phone? I don't see either. &lt;a href=&quot;https://twitter.com/dsearls/status/1412399194237767681/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 13:13:03 GMT" tweetId="1412399194237767681" urltweet="https://twitter.com/dsearls/status/1412399194237767681" inReplyToId="" tweetUserName="dsearls" />
