@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 00:04:40 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 00:05:41 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
-				<outline text="Many of these are great but if I may be so bold as to add a few more....! &lt;a href=&quot;https://www.thecut.com/2021/07/newsletter-writers-on-their-favorite-newsletters.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:04:36 GMT" tweetId="1412925550558056450" urltweet="https://twitter.com/taylorlorenz/status/1412925550558056450" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Many of these are great but if I may be so bold as to add a few more....! &lt;a href=&quot;https://www.thecut.com/2021/07/newsletter-writers-on-their-favorite-newsletters.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:04:36 GMT" tweetId="1412925550558056450" urltweet="https://twitter.com/taylorlorenz/status/1412925550558056450" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text=".@Lucas_Shaw's Screentime is essential reading on tech, entertainment, and online creators  &lt;a href=&quot;https://www.bloomberg.com/account/newsletters/screentime&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:05:16 GMT" tweetId="1412925715507449857" urltweet="https://twitter.com/taylorlorenz/status/1412925715507449857" inReplyToId="1412925550558056450" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="“It’s time that we see the development of discriminatory technological products as an intentional act done by the largely white male executives of Silicon Valley to uphold the systems of racism, misogyny, ability, class and other axis of oppression…” &lt;a href=&quot;https://slate.com/technology/2021/07/silicon-valley-algorithmic-bias-structural-racism.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 22:25:23 GMT" tweetId="1412900581426049026" urltweet="https://twitter.com/taylorlorenz/status/1412900581426049026" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Happy one year anniversary of the TikTokcalypse and subsequent Hype House vs Sway Boys showdown &lt;a href=&quot;https://www.instagram.com/tiktokleakins/&quot;&gt;[link]&lt;/a&gt; https://t.co/nSoFWUjIs3" type="tweet" created="Wed, 07 Jul 2021 20:20:41 GMT" tweetId="1412869200096399363" urltweet="https://twitter.com/taylorlorenz/status/1412869200096399363" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I’ll accept that 😂 is cringe but 🤣 is elite" type="tweet" created="Wed, 07 Jul 2021 19:01:22 GMT" tweetId="1412849238967455749" urltweet="https://twitter.com/taylorlorenz/status/1412849238967455749" inReplyToId="" tweetUserName="taylorlorenz" />
