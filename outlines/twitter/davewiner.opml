@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 08 Jul 2021 15:07:44 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 15:37:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="Dropbox is reopening its offices — but they’re not offices anymore. &lt;a href=&quot;https://www.protocol.com/dropbox-studios&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 15:37:47 GMT" tweetId="1413160391882989571" urltweet="https://twitter.com/davewiner/status/1413160391882989571" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If there was any doubt that substack is a blogging platform... &lt;a href=&quot;https://twitter.com/SubstackInc/status/1413152199991906310&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 15:07:31 GMT" tweetId="1413152777627373569" urltweet="https://twitter.com/davewiner/status/1413152777627373569" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Why does the beloved photo-sharing service have to copy everyone else, and not simply do what it is best at? (If we had good APIs, then apps could specialize. That's the goal I'm reaching for with OPML and outliners.) &lt;a href=&quot;https://stratechery.com/2021/instagrams-evolution/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 11:57:45 GMT" tweetId="1413105017419091971" urltweet="https://twitter.com/davewiner/status/1413105017419091971" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="A podcast I recorded on July 4 about why interop is so important in outliners, and how the OPML toolkit for JavaScript facilitates that.
