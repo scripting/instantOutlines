@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 00:54:52 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 00:57:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="I love @CreatorsDigest, a 2x a week rundown featuring industry news, company hires, and deep dives on certain influencers. Shout out @shardulgo for putting it together! &lt;a href=&quot;https://creatorsdigest.substack.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:57:07 GMT" tweetId="1412938765207748608" urltweet="https://twitter.com/taylorlorenz/status/1412938765207748608" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@KaitlynFehr00 on Tana's new “influencer agency.” &lt;a href=&quot;https://berkeleybeacon.com/tana-mongeaus-dizzy-history-of-youtube-controversy/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:54:36 GMT" tweetId="1412938130978705409" urltweet="https://twitter.com/taylorlorenz/status/1412938130978705409" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@adamlashinsky on the creator boom &lt;a href=&quot;https://www.businessinsider.com/what-could-go-wrong-with-creator-economy-boom-2021-6&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 00:48:31 GMT" tweetId="1412936600829497347" urltweet="https://twitter.com/taylorlorenz/status/1412936600829497347" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;Thousands of would-be pop stars mailed demo tapes in a time before streaming, but the record labels didn’t get to sell ads against them. Tech giants benefit massively from the infinite number of hopefuls entering the fray&quot; &lt;a href=&quot;https://www.wired.com/story/twitch-turns-10-creator-economy/&quot;&gt;[link]&lt;/a&gt; by @cecianasta" type="tweet" created="Thu, 08 Jul 2021 00:47:14 GMT" tweetId="1412936277343842304" urltweet="https://twitter.com/taylorlorenz/status/1412936277343842304" inReplyToId="" tweetUserName="taylorlorenz" />
