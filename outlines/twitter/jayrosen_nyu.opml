@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 02:18:01 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 16:33:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="Today @cwarzel writes about &quot;hyperobjects&quot;— threats so large, and yet so gradual, that it makes a twisted kind of sense to do nothing about them, even though we can see the devastation to come. He says the &quot;normalcy bias&quot; in journalism makes it even worse. &lt;a href=&quot;https://warzel.substack.com/p/we-are-not-ready&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 16:32:57 GMT" tweetId="1413174275322822663" urltweet="https://twitter.com/jayrosen_nyu/status/1413174275322822663" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="&quot;Too unsafe to inhabit and too expensive to repair.&quot; Kinda like the GOP. &lt;a href=&quot;https://twitter.com/BiancaJoanie/status/1412906321876295681&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 02:17:59 GMT" tweetId="1412959117057175562" urltweet="https://twitter.com/jayrosen_nyu/status/1412959117057175562" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;Tucker Carlson sought Putin interview at time of spying claim.&quot; &lt;a href=&quot;https://www.axios.com/tucker-carlson-putin-interview-surveillance-c9952d7c-33d7-45e9-be68-2ba4c3817f98.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 01:53:08 GMT" tweetId="1412952861470863360" urltweet="https://twitter.com/jayrosen_nyu/status/1412952861470863360" inReplyToId="" tweetUserName="jayrosen_nyu" />
