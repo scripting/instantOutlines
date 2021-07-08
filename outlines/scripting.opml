@@ -12,8 +12,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 11:43:18 GMT</dateModified>
-		<expansionState>1,2,4,9,15,17,26,29,33,40,44,45</expansionState>
+		<dateModified>Thu, 08 Jul 2021 11:54:41 GMT</dateModified>
+		<expansionState>1,2,5,10,16,18,27,30,34,41,45,46</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
@@ -21,6 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 8" created="Thu, 08 Jul 2021 11:23:13 GMT" type="calendarDay" name="08" >
+				<outline text="My outlines are a mess. I'm always giving myself shit about that, but I should stop. The important thing is that the ideas make it into the structure. I do need better ways to pull stuff out of the structures. " created="Thu, 08 Jul 2021 11:53:43 GMT" type="outline" />
 				<outline text="A &lt;a href=&quot;http://scripting.com/2021/07/04/myPitchForOpml.m4a&quot;&gt;podcast&lt;/a&gt; I recorded on July 4 about why interop is so important in outliners, and how the OPML toolkit for JavaScript facilitates that. Also a bit of RSS history, because there's a connection between RSS and OPML. This is part of getting ready for &quot;Drummer&quot;. And there's at least one mistake in the podcast, the package in the browser requires jQuery. I said it's completely self-contained. Not true. " created="Thu, 08 Jul 2021 11:23:14 GMT" type="outline" enclosure="http://scripting.com/2021/07/04/myPitchForOpml.m4a" enclosureType="audio/mpeg" enclosureLength="9087677" />
 				</outline>
 			<outline text="July 7" created="Wed, 07 Jul 2021 14:44:06 GMT" type="calendarDay" name="07" >
