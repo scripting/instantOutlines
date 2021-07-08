@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 07 Jul 2021 14:58:49 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 13:29:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="I went on a hike at night in Missouri to look at bats &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1413127910416916484/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 13:28:43 GMT" tweetId="1413127910416916484" urltweet="https://twitter.com/sarahkendzior/status/1413127910416916484" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="&quot;Gaslit Nation is resisting the paywall tide because we believe the public should not have to pay to stay informed about various apocalyptic developments.&quot;
 
