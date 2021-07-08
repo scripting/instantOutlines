@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 16:06:00 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 04:22:33 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="Just got through a big couple weeks of school and work — back to learning about websites and blogs 🤓" type="tweet" created="Thu, 08 Jul 2021 04:21:55 GMT" tweetId="1412990305285066757" urltweet="https://twitter.com/brandontoner/status/1412990305285066757" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="It seems like Twitter “verified” badges could be better used to signal a “verified human” rather than a public figure. 
 
