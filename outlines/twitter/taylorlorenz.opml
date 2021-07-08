@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 03:55:32 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 11:13:22 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="IG meme pages literally devolving into that Matt Bors comic &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1413093822091911170/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 11:13:15 GMT" tweetId="1413093822091911170" urltweet="https://twitter.com/taylorlorenz/status/1413093822091911170" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="I post a lot on here if you think of it as a social media site I guess, but I consider Twitter a chat room" type="tweet" created="Thu, 08 Jul 2021 03:11:08 GMT" tweetId="1412972491795013632" urltweet="https://twitter.com/taylorlorenz/status/1412972491795013632" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Ice gets it &lt;a href=&quot;https://twitter.com/finallevel/status/1202360515298758656&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 03:54:37 GMT" tweetId="1412983434725756933" urltweet="https://twitter.com/taylorlorenz/status/1412983434725756933" inReplyToId="1412972491795013632" tweetUserName="taylorlorenz" />
