@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 07 Jul 2021 13:09:38 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 14:28:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="Potent, insightful verb here.
+
+My father’s fillet knife was the sharpest, the most wicked-looking knife, used for quickly taking the choicest parts of a bass for cooking. Toss the scraps back into the lake.
+
+Citizens grow active or what they care about gets filleted by others. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1347849513323659264&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:28:31 GMT" tweetId="1413142962138083328" urltweet="https://twitter.com/KenSmith/status/1413142962138083328" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="“So what! Finders keepers! Shut up!” 
 
