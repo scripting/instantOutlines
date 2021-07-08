@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 11:24:57 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 11:40:16 GMT</dateModified>
 		<expansionState>1,2,4,9,15,17,26,29,33,40,44,45</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,7 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 8" created="Thu, 08 Jul 2021 11:23:13 GMT" type="calendarDay" name="08" >
-				<outline text="A &lt;a href=&quot;http://scripting.com/2021/07/04/myPitchForOpml.m4a&quot;&gt;podcast&lt;/a&gt; I recorded on July 4 about why interop is so important in outliners, and how the OPML toolkit for JavaScript facilitates that. " created="Thu, 08 Jul 2021 11:23:14 GMT" type="outline" enclosure="http://scripting.com/2021/07/04/myPitchForOpml.m4a" enclosureType="audio/mpeg" enclosureLength="9087677" />
+				<outline text="A &lt;a href=&quot;http://scripting.com/2021/07/04/myPitchForOpml.m4a&quot;&gt;podcast&lt;/a&gt; I recorded on July 4 about why interop is so important in outliners, and how the OPML toolkit for JavaScript facilitates that. There's at least one mistake in the podcast, the package in the browser requires jQuery." created="Thu, 08 Jul 2021 11:23:14 GMT" type="outline" enclosure="http://scripting.com/2021/07/04/myPitchForOpml.m4a" enclosureType="audio/mpeg" enclosureLength="9087677" />
 				</outline>
 			<outline text="July 7" created="Wed, 07 Jul 2021 14:44:06 GMT" type="calendarDay" name="07" >
 				<outline text="It's important to know what you don't know." created="Wed, 07 Jul 2021 20:20:08 GMT" type="outline" />
