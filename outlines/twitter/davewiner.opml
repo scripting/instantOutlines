@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 08 Jul 2021 21:59:16 GMT</dateModified>
+		<dateModified>Thu, 08 Jul 2021 23:00:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
@@ -22,7 +22,9 @@ But it isn't there.
 
 Fully updated iPhone and Mac. 
 
-Help?" type="tweet" created="Thu, 08 Jul 2021 21:58:23 GMT" tweetId="1413256173525118977" urltweet="https://twitter.com/davewiner/status/1413256173525118977" inReplyToId="" tweetUserName="davewiner" />
+Help?" type="tweet" created="Thu, 08 Jul 2021 21:58:23 GMT" tweetId="1413256173525118977" urltweet="https://twitter.com/davewiner/status/1413256173525118977" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Apparently the problem was the cable. When I replaced it with a different cable the phone showed up in the sidebar. Thanks for all the suggestions." type="tweet" created="Thu, 08 Jul 2021 22:59:48 GMT" tweetId="1413271629963091968" urltweet="https://twitter.com/davewiner/status/1413271629963091968" inReplyToId="1413256173525118977" tweetUserName="davewiner" />
+					</outline>
 				<outline text="The Tokyo Olympics, Naomi Osaka, and the death of sports access. &lt;a href=&quot;https://www.cjr.org/podcast/tokyo-olympics-naomi-osaka-athlete-access.php&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 19:59:13 GMT" tweetId="1413226184331116546" urltweet="https://twitter.com/davewiner/status/1413226184331116546" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Finally something I agree with @rbriech on. &lt;a href=&quot;https://twitter.com/RBReich/status/1413196447281991684&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 19:47:24 GMT" tweetId="1413223208740868112" urltweet="https://twitter.com/davewiner/status/1413223208740868112" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Like everyone, I like drugs. https://t.co/jUVBMuLZj1" type="tweet" created="Thu, 08 Jul 2021 19:29:13 GMT" tweetId="1413218632788758531" urltweet="https://twitter.com/davewiner/status/1413218632788758531" inReplyToId="" tweetUserName="davewiner" />
