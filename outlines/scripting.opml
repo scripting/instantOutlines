@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 12:05:35 GMT</dateModified>
-		<expansionState>1,2,6,11,17,19,28,31,35,42,46,47</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Thu, 08 Jul 2021 12:32:19 GMT</dateModified>
+		<expansionState>1,2,7,12,18,20,29,32,36,43,47,48</expansionState>
+		<lastCursor>5</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
@@ -24,6 +24,7 @@
 				<outline text="A &lt;a href=&quot;http://scripting.com/2021/07/04/myPitchForOpml.m4a&quot;&gt;podcast&lt;/a&gt; I recorded on July 4 about why interop is so important in outliners, and how the OPML toolkit for JavaScript facilitates that. Also a bit of RSS history, because there's a connection between RSS and OPML. This is part of getting ready for &quot;Drummer&quot;. And there's at least one mistake in the podcast, the package in the browser requires jQuery. I said it's completely self-contained. Not true. " created="Thu, 08 Jul 2021 11:23:14 GMT" type="outline" enclosure="http://scripting.com/2021/07/04/myPitchForOpml.m4a" enclosureType="audio/mpeg" enclosureLength="9087677" />
 				<outline text="&lt;a href=&quot;https://stratechery.com/2021/instagrams-evolution/&quot;&gt;Ben Thompson&lt;/a&gt;: &quot;Why does the beloved photo-sharing service have to copy everyone else, and not simply do what it is best at?&quot;" created="Thu, 08 Jul 2021 12:05:06 GMT" type="outline" />
 				<outline text="My outlines are a mess. I'm always giving myself shit about that, but I should stop. The important thing is that the ideas make it into the structure. I do need better ways to pull stuff out of the structures. " created="Thu, 08 Jul 2021 11:53:43 GMT" type="outline" />
+				<outline text="I'm listening to the &lt;a href=&quot;https://www.audible.com/pd/The-Autobiography-of-Malcolm-X-Audiobook/B084YVRDJX?ref=a_library_t_c5_libItem_&amp;pf_rd_p=fd324a4f-488e-4a24-a1a8-462a3e819d7b&amp;pf_rd_r=0J6ECV6GPWMXDP4N07DW&quot;&gt;Autobiography of Malcolm X&lt;/a&gt; and loving it. " created="Thu, 08 Jul 2021 12:31:57 GMT" type="outline" />
 				</outline>
 			<outline text="July 7" created="Wed, 07 Jul 2021 14:44:06 GMT" type="calendarDay" name="07" >
 				<outline text="It's important to know what you don't know." created="Wed, 07 Jul 2021 20:20:08 GMT" type="outline" />
