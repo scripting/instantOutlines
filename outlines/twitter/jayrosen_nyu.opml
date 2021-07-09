@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 09 Jul 2021 23:03:25 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 23:32:34 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="It’s likely you have never seen my typology of newspaper names. You might like it. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1317273282165559299&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 23:31:54 GMT" tweetId="1413642095349350401" urltweet="https://twitter.com/jayrosen_nyu/status/1413642095349350401" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="One of the more telling things I have read about the Washington press corps and what it prizes. The theme is coming down from the insane high of Trump to the sedate professionalism of the Biden White House.
 
 In commenting on this they reveal themselves.  &lt;a href=&quot;https://ckarchive.com/b/k0umh6h0wo69&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 23:03:16 GMT" tweetId="1413634888515915777" urltweet="https://twitter.com/jayrosen_nyu/status/1413634888515915777" inReplyToId="" tweetUserName="jayrosen_nyu" />
