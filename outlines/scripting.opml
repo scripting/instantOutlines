@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 09 Jul 2021 15:07:39 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 15:09:13 GMT</dateModified>
 		<expansionState>1,2,5,9,14,19,25,30,36,38,47,50,54,61,65,66</expansionState>
-		<lastCursor>9</lastCursor>
+		<lastCursor>10</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
@@ -30,7 +30,7 @@
 					<outline text="The world I imagine is something like 1980s software model with a much more efficient distribution system. And the product, unlike the one from the 80s, is built around networking, where the networking features of MORE and ThinkTank were barely a twinkle in the eye. There was no software to back it up " created="Fri, 09 Jul 2021 14:33:30 GMT" collapse="false" >
 						<outline text="One of the reasons I wanted Symantec to &lt;a href=&quot;https://techmonitor.ai/techonology/symantec_acquires_think_technologies&quot;&gt;buy&lt;/a&gt; Think Technologies: they had one of the leading Mac email packages at the time, a product called InBox. There were two others, and I was friends with them too. I wanted desperately to get real networking support into MORE. Never happened, unfortunately, that had to wait for Frontier. " created="Fri, 09 Jul 2021 14:42:17 GMT" />
 						</outline>
-					<outline text="I'm starting to put the pieces together. One of them is to get the hosting working on systems like AWS, Digital Ocean and Glitch. So a user can just launch a server from a repo, have it mostly configure itself and have a Drummer server running in minutes. That's the goal. We have some experience with this, the various &lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+%22for+poets%22&quot;&gt;For Poets&lt;/a&gt; projects we've done here. " created="Fri, 09 Jul 2021 14:38:15 GMT" />
+					<outline text="I'm starting to put the pieces together. One of them is to get the hosting working on systems like AWS, Digital Ocean and Glitch. So a user can just launch a server from a repo, have it mostly configure itself, have a Drummer server running in minutes. That's the goal. We have some experience with this, the various &lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+%22for+poets%22&quot;&gt;For Poets&lt;/a&gt; projects we've done here. " created="Fri, 09 Jul 2021 14:38:15 GMT" />
 					<outline text="I've started a &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/216&quot;&gt;thread&lt;/a&gt; if you have questions or suggestions. " created="Fri, 09 Jul 2021 14:40:31 GMT" />
 					<outline text="PS: For programmers, the key piece of software has a very funny name. &lt;a href=&quot;https://github.com/scripting/appServer&quot;&gt;daveappserver&lt;/a&gt;. It's an application server, perfectly set up to host Drummer, because in fact it is what I use to host Drummer. :smile:" created="Fri, 09 Jul 2021 14:52:13 GMT" />
 					</outline>
