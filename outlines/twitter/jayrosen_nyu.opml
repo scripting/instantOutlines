@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 09 Jul 2021 15:10:37 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 19:11:26 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="Well, Susan, is there more violent crime now compared to 30 years ago? You're allowed to say. &lt;a href=&quot;https://twitter.com/SusanPage/status/1413146886148554765&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 19:11:18 GMT" tweetId="1413576515762237446" urltweet="https://twitter.com/jayrosen_nyu/status/1413576515762237446" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Another way you know Fox is not a news network: At a news network, the claim 'NSA spies on a journalist, wants him off the air' would be treated as a major scoop (if true) and the newsroom would follow up, work the phones, try to confirm. At Fox it's, &quot;oh, that's Tucker's thing.&quot; &lt;a href=&quot;https://twitter.com/justinbaragona/status/1413169907777384449&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 15:10:03 GMT" tweetId="1413515800556736515" urltweet="https://twitter.com/jayrosen_nyu/status/1413515800556736515" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 8" type="calendarDay" name="08" >
