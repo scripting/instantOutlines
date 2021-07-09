@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 09 Jul 2021 14:46:09 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 14:46:42 GMT</dateModified>
 		<expansionState>1,2,5,9,13,18,24,29,35,37,46,49,53,60,64,65</expansionState>
 		<lastCursor>7</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -26,7 +26,7 @@
 				<outline text="Drummer for poets?" created="Fri, 09 Jul 2021 14:28:55 GMT" type="outline" description="Nodes in my network are minds, not computers. " >
 					<outline text="I'm thinking about how people will host their own Drummers. " created="Fri, 09 Jul 2021 14:32:42 GMT" />
 					<outline text="I don't want to run the only server, I might not even want to run the main server. I do want to continue developing the software. This is different from how Facebook and Twitter run, I'm not trying to create another walled garden. It's not the kind of work I like, or am particularly good at. It's much more like how WordPress works. Only I think Drummer can be even easier to set up and manage. " created="Fri, 09 Jul 2021 14:33:21 GMT" />
-					<outline text="I want to create networks of outliner users. I call this &quot;Communication with a big C.&quot; Not the wires, but the ideas that go over the wires. Nodes in my network are minds, not computers. " created="Fri, 09 Jul 2021 14:34:53 GMT" />
+					<outline text="I want to create networks of outliner users. I call this &quot;Communication with a big C.&quot; Not the wires, but the ideas that go over the wires. Nodes in my network are human minds, not computers. " created="Fri, 09 Jul 2021 14:34:53 GMT" />
 					<outline text="The world I imagine is something like 1980s software model with a much more efficient distribution system. And the product, unlike the one from the 80s, is built around networking, where the networking features of MORE and ThinkTank were barely a twinkle in the eye. There was no software to back it up " created="Fri, 09 Jul 2021 14:33:30 GMT" >
 						<outline text="One of the reasons I wanted Symantec to buy Think Technologies, btw -- they had one of the leading Mac email packages at the time, a product called InBox. There were two others, and I was friends with them too." created="Fri, 09 Jul 2021 14:42:17 GMT" />
 						</outline>
