@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 09 Jul 2021 16:28:56 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 16:39:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -25,7 +25,9 @@
 				<outline text="How are we supposed to get work done today with links like this floating around!? &lt;a href=&quot;https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 13:38:26 GMT" tweetId="1413130356589350917" urltweet="https://twitter.com/taylorlorenz/status/1413130356589350917" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is a really shocking story and good reminder of how many of us take clean air for granted &lt;a href=&quot;https://twitter.com/charlesornstein/status/1413089716635947008&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 11:28:15 GMT" tweetId="1413097596244144132" urltweet="https://twitter.com/taylorlorenz/status/1413097596244144132" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="IG meme pages literally devolving into that Matt Bors comic &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1413093822091911170/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 11:13:15 GMT" tweetId="1413093822091911170" urltweet="https://twitter.com/taylorlorenz/status/1413093822091911170" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="Weird! Some of these pages are the ones who ran Bloomberg sponcon too. If anyone else notices big traditional meme pages shifting into politicized content please send to me. Would be interested in looking into &lt;a href=&quot;https://twitter.com/shawnragell/status/1413219797366566912&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 19:53:38 GMT" tweetId="1413224777792331781" urltweet="https://twitter.com/taylorlorenz/status/1413224777792331781" inReplyToId="1413093822091911170" tweetUserName="taylorlorenz" />
+					<outline text="Weird! Some of these pages are the ones who ran Bloomberg sponcon too. If anyone else notices big traditional meme pages shifting into politicized content please send to me. Would be interested in looking into &lt;a href=&quot;https://twitter.com/shawnragell/status/1413219797366566912&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 19:53:38 GMT" tweetId="1413224777792331781" urltweet="https://twitter.com/taylorlorenz/status/1413224777792331781" inReplyToId="1413093822091911170" tweetUserName="taylorlorenz" >
+						<outline text="I'm old enough to remember when this account just reposted months old tweets like &quot;can you marry pizza&quot; &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1413538320173391886/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 16:39:32 GMT" tweetId="1413538320173391886" urltweet="https://twitter.com/taylorlorenz/status/1413538320173391886" inReplyToId="1413224777792331781" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
