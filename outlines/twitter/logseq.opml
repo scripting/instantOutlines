@@ -7,10 +7,22 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Tue, 06 Jul 2021 05:56:57 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 15:57:50 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="Logseqers! Good Friday and 0.2.3 is just out!
+Some highlights:
+1. new shiny graph
+2. page search preview
+3. right-click a block bullet and export block as text or opml
+4. enhanced document mode
+5. new frameless look for desktop mac
+
+full changelog:
+&lt;a href=&quot;https://logseq.github.io/#/page/60e81184-6ec6-46fe-8456-5bb2480ab32c&quot;&gt;[link]&lt;/a&gt; https://t.co/z51mlyNyMN" type="tweet" created="Fri, 09 Jul 2021 15:57:05 GMT" tweetId="1413527639537577993" urltweet="https://twitter.com/logseq/status/1413527639537577993" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="Hi everyone, the beautiful queries and indentation from @OneStuttering! 🥳🥳
 &lt;a href=&quot;https://www.youtube.com/watch?v=qQ8DzumRZkM&amp;ab_channel=OneStutteringMind&quot;&gt;[link]&lt;/a&gt; https://t.co/46ji2kk9Wn" type="tweet" created="Tue, 06 Jul 2021 05:56:48 GMT" tweetId="1412289406342373393" urltweet="https://twitter.com/logseq/status/1412289406342373393" inReplyToId="" tweetUserName="logseq" />
