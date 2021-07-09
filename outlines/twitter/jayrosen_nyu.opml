@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 23:38:44 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 15:10:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="Another way you know Fox is not a news network: At a news network, the claim 'NSA spies on a journalist, wants him off the air' would be treated as a major scoop (if true) and the newsroom would follow up, work the phones, try to confirm. At Fox it's, &quot;oh, that's Tucker's thing.&quot; &lt;a href=&quot;https://twitter.com/justinbaragona/status/1413169907777384449&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 15:10:03 GMT" tweetId="1413515800556736515" urltweet="https://twitter.com/jayrosen_nyu/status/1413515800556736515" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 8" type="calendarDay" name="08" >
 				<outline text="Important if true. &lt;a href=&quot;https://twitter.com/risj_oxford/status/1413279480399945729&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 23:38:35 GMT" tweetId="1413281388887937030" urltweet="https://twitter.com/jayrosen_nyu/status/1413281388887937030" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="I recommend @Edsall on a &quot;renegade segment of the electorate [that] welcomes authoritarian techniques to crush racial and cultural liberalism, seeks to wrest away the election machinery, and suffers from the mass delusion that Trump won last November.&quot; &lt;a href=&quot;https://www.nytimes.com/2021/07/07/opinion/trump-gop.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 18:56:56 GMT" tweetId="1413210510946971650" urltweet="https://twitter.com/jayrosen_nyu/status/1413210510946971650" inReplyToId="" tweetUserName="jayrosen_nyu" />
