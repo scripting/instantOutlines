@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 09 Jul 2021 04:54:15 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 13:38:34 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="Excited for this &lt;a href=&quot;https://twitter.com/johncarreyrou/status/1413152952294940679&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 13:37:46 GMT" tweetId="1413492575365963776" urltweet="https://twitter.com/taylorlorenz/status/1413492575365963776" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Thank u to everyone who came to hang out with me! Congrats to all of us for making it through this year 💓 &lt;a href=&quot;https://twitter.com/aaronisnotcool/status/1413324072067518473&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 04:53:35 GMT" tweetId="1413360661741150210" urltweet="https://twitter.com/taylorlorenz/status/1413360661741150210" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="July 8" type="calendarDay" name="08" >
