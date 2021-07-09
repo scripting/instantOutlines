@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 18:06:26 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 14:19:33 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="Something I wrote about the #internet in @LinuxJournal , comparing it to a 3-D #giantzero, a sphere of nothing but ends with the experience of absent distance between them all: &lt;a href=&quot;https://www.linuxjournal.com/content/giant-zero-part-0x&quot;&gt;[link]&lt;/a&gt; HT to @craigburton for the #metaphor." type="tweet" created="Fri, 09 Jul 2021 14:18:59 GMT" tweetId="1413502949041614848" urltweet="https://twitter.com/dsearls/status/1413502949041614848" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="July 8" type="calendarDay" name="08" >
 				<outline text="Go here  &lt;a href=&quot;https://www.lightningmaps.org/#m=oss;t=3;s=0;o=0;b=0.00;ts=0;y=40.9757;x=-73.9042;z=11;d=2;dl=2;dc=0&quot;&gt;[link]&lt;/a&gt;; and watch lighting flashes and expanding circles of thunder mark the path of a storm cell, now over Bergen County in NJ, and moving northeast across Rockland and Westchester Counties in NY." type="tweet" created="Thu, 08 Jul 2021 18:05:47 GMT" tweetId="1413197638934179842" urltweet="https://twitter.com/dsearls/status/1413197638934179842" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
