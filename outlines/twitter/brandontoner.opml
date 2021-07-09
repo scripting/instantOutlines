@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 09 Jul 2021 02:50:38 GMT</dateModified>
+		<dateModified>Fri, 09 Jul 2021 15:48:47 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="Woahhhhhh, this is a cool crowdsourced knowledge infrastructure.
+
+GitHub with textfiles atomized to one .md per concept.
+
+*following* &lt;a href=&quot;https://twitter.com/balajis/status/1413055681582682114&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 15:47:55 GMT" tweetId="1413525329377902593" urltweet="https://twitter.com/brandontoner/status/1413525329377902593" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
 			<outline text="July 8" type="calendarDay" name="08" >
 				<outline text="Potent illusion. &lt;a href=&quot;https://twitter.com/jagarikin/status/1413091404079714306&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 02:48:41 GMT" tweetId="1413329230809772034" urltweet="https://twitter.com/brandontoner/status/1413329230809772034" inReplyToId="" tweetUserName="brandontoner" >
 					<outline text="Here’s what’s happening &lt;a href=&quot;https://twitter.com/toshchy/status/1413141299897651210&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 02:48:59 GMT" tweetId="1413329304562372613" urltweet="https://twitter.com/brandontoner/status/1413329304562372613" inReplyToId="1413329230809772034" tweetUserName="brandontoner" >
