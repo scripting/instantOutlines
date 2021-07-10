@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 00:28:56 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 00:39:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 9" type="calendarDay" name="09" >
+				<outline text="Lol reflecting on the fact that I was excited to be done studying so that I could go study internet stuff again. &lt;a href=&quot;https://twitter.com/brandontoner/status/1412990305285066757&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 00:38:41 GMT" tweetId="1413658904223834114" urltweet="https://twitter.com/brandontoner/status/1413658904223834114" inReplyToId="" tweetUserName="brandontoner" />
 				<outline text="I want a medium that is sufficiently lossy, as to promote prolific creation and exploration.
 
 But sufficiently lossless to promote building ideas like cathedrals." type="tweet" created="Sat, 10 Jul 2021 00:19:55 GMT" tweetId="1413654180313640967" urltweet="https://twitter.com/brandontoner/status/1413654180313640967" inReplyToId="" tweetUserName="brandontoner" >
