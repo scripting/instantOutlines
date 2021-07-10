@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@AndySylvester99</title>
+		<dateCreated>Sat, 10 Jul 2021 14:59:24 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/AndySylvester99.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Sat, 10 Jul 2021 14:59:25 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="April 2021" type="calendarMonth" name="april2021" >
+			<outline text="April 8" type="calendarDay" name="08" >
+				<outline text="A first look at Bookdown for book publishing cc: @rstudio @xieyihui &lt;a href=&quot;https://andysylvester.com/2021/04/04/a-first-look-at-bookdown-for-book-publishing/&quot;&gt;[link]&lt;/a&gt; #bookdown" type="tweet" created="Thu, 08 Apr 2021 15:15:46 GMT" tweetId="1380177555785875460" urltweet="https://twitter.com/AndySylvester99/status/1380177555785875460" inReplyToId="" tweetUserName="AndySylvester99" />
+				</outline>
+			</outline>
+		<outline text="March 2021" type="calendarMonth" name="march2021" >
+			<outline text="March 3" type="calendarDay" name="03" >
+				<outline text="An excellent presentation from @andrewshell on improving your personal productivity, I got several good ideas from this, definitely worth your time. &lt;a href=&quot;https://www.youtube.com/watch?v=qmtaARlUmMY&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 03 Mar 2021 17:35:29 GMT" tweetId="1367166752195403777" urltweet="https://twitter.com/AndySylvester99/status/1367166752195403777" inReplyToId="" tweetUserName="AndySylvester99" />
+				</outline>
+			</outline>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 19" type="calendarDay" name="19" >
+				<outline text="@ravernkoh I tried installing bookshelves (&lt;a href=&quot;https://github.com/ravern/bookshelves&quot;&gt;[link]&lt;/a&gt;), got this response, but could not connect on port 8080 - any ideas? https://t.co/DKSq0OmeWq" type="tweet" created="Sat, 19 Jun 2021 21:51:27 GMT" tweetId="1406369058727989248" urltweet="https://twitter.com/AndySylvester99/status/1406369058727989248" inReplyToId="" tweetUserName="AndySylvester99" />
+				</outline>
+			</outline>
+		<outline text="February 2021" type="calendarMonth" name="february2021" >
+			<outline text="February 5" type="calendarDay" name="05" >
+				<outline text="I did not realize how dependent farmers were on software…. &lt;a href=&quot;https://twitter.com/KenSmith/status/1357402057544712192&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 05 Feb 2021 20:56:23 GMT" tweetId="1357795227755417600" urltweet="https://twitter.com/AndySylvester99/status/1357795227755417600" inReplyToId="" tweetUserName="AndySylvester99" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
