@@ -12,8 +12,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 14:54:26 GMT</dateModified>
-		<expansionState>1,2,3,12,15,19,24,29,35,40,46,48,57,60,64,71,75,76</expansionState>
+		<dateModified>Sat, 10 Jul 2021 14:56:17 GMT</dateModified>
+		<expansionState>1,2,3,13,16,20,25,30,36,41,47,49,58,61,65,72,76,77</expansionState>
 		<lastCursor>3</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
@@ -22,6 +22,7 @@
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 10" created="Sat, 10 Jul 2021 14:52:08 GMT" type="calendarDay" name="10" >
 				<outline text="The Oatmeal and RSS" created="Sat, 10 Jul 2021 14:52:09 GMT" type="outline" >
+					<outline text="&lt;i&gt;This piece started as a Twitter &lt;a href=&quot;https://twitter.com/davewiner/status/1413871847238782990&quot;&gt;thread&lt;/a&gt;. &lt;/i&gt;" created="Sat, 10 Jul 2021 14:55:09 GMT" />
 					<outline text="A few days ago the &lt;a href=&quot;https://twitter.com/Oatmeal&quot;&gt;Oatmeal&lt;/a&gt; person lamented that &quot;RSS&quot; was not a wave anymore. It's more like a big lake not a roiling ocean.   People go boating, have a picnic, swim in RSS-land, but it isn't like a moon mission or even a Sting concert. :-)" type="tweet" created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871847238782990" urltweet="https://twitter.com/davewiner/status/1413871847238782990" inReplyToId="" tweetUserName="davewiner" />
 					<outline text="I responded that RSS could be fun again if people would work with each other. Instead of being in it for their own glory, only -- people have to see the benefit of other people and products winning alongside them." type="tweet" created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871848127926273" urltweet="https://twitter.com/davewiner/status/1413871848127926273" inReplyToId="1413871847238782990" tweetUserName="davewiner" />
 					<outline text="This is not the way tech thinks, or news. They all build self-contained castles. And very rarely do people work together. And that's why RSS stays where it is. Its growth feeds off collaboration." type="tweet" created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871849017069576" urltweet="https://twitter.com/davewiner/status/1413871849017069576" inReplyToId="1413871848127926273" tweetUserName="davewiner" />
