@@ -7,11 +7,32 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 10 Jul 2021 13:34:47 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 14:45:42 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 10" type="calendarDay" name="10" >
+				<outline text="A few days ago the @oatmeal person lamented that RSS was not a wave anymore. 
+
+It's more like a big lake not a roiling ocean. 
+
+People go boating, have a picnic, swim in RSS-land, but it isn't like a moon mission or even a Sting concert. ;-)" type="tweet" created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871847238782990" urltweet="https://twitter.com/davewiner/status/1413871847238782990" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="I responded that RSS could be fun again if people would work with each other. Instead of being in it for their own glory, only -- people have to see the benefit of other products and people winning alongside them." type="tweet" created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871848127926273" urltweet="https://twitter.com/davewiner/status/1413871848127926273" inReplyToId="1413871847238782990" tweetUserName="davewiner" >
+						<outline text="This is not the way tech thinks, or news. They all build tall self-contained castles. And very rarely do people work together. And that's why RSS stays where it is. Its growth feeds off collaboration." type="tweet" created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871849017069576" urltweet="https://twitter.com/davewiner/status/1413871849017069576" inReplyToId="1413871848127926273" tweetUserName="davewiner" >
+							<outline text="People don't know this, but RSS got its initial wave, the one you all remember so fondly, from a collaboration between UserLand Software and the New York Times." type="tweet" created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871849906352131" urltweet="https://twitter.com/davewiner/status/1413871849906352131" inReplyToId="1413871849017069576" tweetUserName="davewiner" >
+								<outline text="We're still coasting off the energy unleashed in that combo. That's how stuff like this happens. 
+
+People still have the myth of The Great Visionary who sees the right path and leads us out of the wilderness. But that's not how it works." type="tweet" created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871850782969861" urltweet="https://twitter.com/davewiner/status/1413871850782969861" inReplyToId="1413871849906352131" tweetUserName="davewiner" >
+									<outline text="Instead, two parties with enough power and influence decide, consciously and deliberately, to work together." type="tweet" created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871851688845312" urltweet="https://twitter.com/davewiner/status/1413871851688845312" inReplyToId="1413871850782969861" tweetUserName="davewiner" >
+										<outline text="If you want to win big, put aside self-glorification and getting ahead for a brief moment, and focus on how you and someone else can break through, creating something that could never exist otherwise. For everyone, not just yourself." type="tweet" created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871852506779649" urltweet="https://twitter.com/davewiner/status/1413871852506779649" inReplyToId="1413871851688845312" tweetUserName="davewiner" >
+											<outline text="And if someone offers to work with you, think of reasons to say yes." type="tweet" created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871853362454529" urltweet="https://twitter.com/davewiner/status/1413871853362454529" inReplyToId="1413871852506779649" tweetUserName="davewiner" />
+											</outline>
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="2016: News doesn't work. https://t.co/rraPBnRFPX" type="tweet" created="Sat, 10 Jul 2021 13:32:31 GMT" tweetId="1413853643946831878" urltweet="https://twitter.com/davewiner/status/1413853643946831878" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Lyme Disease: Symptoms, Causes, and When We’ll Get a Vaccine. &lt;a href=&quot;https://nymag.com/intelligencer/article/lyme-disease-symptoms-causes-vaccine-explainer.html?utm_source=flipboard.com&amp;utm_medium=social_acct&amp;utm_campaign=feed-part&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 12:43:21 GMT" tweetId="1413841268980043777" urltweet="https://twitter.com/davewiner/status/1413841268980043777" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Catskills swimming hole now charges $10 for a dip. &lt;a href=&quot;https://www.timesunion.com/hudsonvalley/outdoors/article/pay-to-swim-peekamoose-swimming-hole-catskills-16289665.php?utm_source=marketing&amp;utm_medium=facebook_content_SND&amp;utm_campaign=Expansion&amp;utm_content=Hudson_Valley&amp;fbclid=IwAR1RlvirxmaouASfPSofSP1CzstEpnqfouoBcDgIvUWOr55vfzfsBMNbNnE&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 12:34:38 GMT" tweetId="1413839076097236997" urltweet="https://twitter.com/davewiner/status/1413839076097236997" inReplyToId="" tweetUserName="davewiner" />
