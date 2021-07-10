@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 13:04:34 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 13:28:41 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -15,7 +15,9 @@
 				<outline text="The quote tweets on this are wild, it’s very common to get a celeb to do red carpet Qs! This takes place often at award shows and other events. &lt;a href=&quot;https://twitter.com/whoisaddison/status/1413656072678641664&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 12:54:03 GMT" tweetId="1413843965237997569" urltweet="https://twitter.com/taylorlorenz/status/1413843965237997569" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="A celeb asking some easy Qs on the red carpet is not “stealing jobs from those more deserving.” It is their celebrity/fame that qualifies them for that type of opportunity. Having a famous person ask other famous people Qs is a tactic to build buzz and get people to watch" type="tweet" created="Sat, 10 Jul 2021 12:56:50 GMT" tweetId="1413844665762254851" urltweet="https://twitter.com/taylorlorenz/status/1413844665762254851" inReplyToId="1413843965237997569" tweetUserName="taylorlorenz" >
 						<outline text="Exactly &lt;a href=&quot;https://twitter.com/mohamadtm91/status/1413844826760519683&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 12:58:12 GMT" tweetId="1413845009728741376" urltweet="https://twitter.com/taylorlorenz/status/1413845009728741376" inReplyToId="1413844665762254851" tweetUserName="taylorlorenz" >
-							<outline text="Yup this too &lt;a href=&quot;https://twitter.com/mohamadtm91/status/1413845757141024771&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 13:03:51 GMT" tweetId="1413846429911691269" urltweet="https://twitter.com/taylorlorenz/status/1413846429911691269" inReplyToId="1413845009728741376" tweetUserName="taylorlorenz" />
+							<outline text="Yup this too &lt;a href=&quot;https://twitter.com/mohamadtm91/status/1413845757141024771&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 13:03:51 GMT" tweetId="1413846429911691269" urltweet="https://twitter.com/taylorlorenz/status/1413846429911691269" inReplyToId="1413845009728741376" tweetUserName="taylorlorenz" >
+								<outline text="I think some ppl aren’t aware of how woven into the media ecosystem influencers are. Having over 120M followers across platforms does qualify someone for opportunities like this b/c they’re being hired in a promotional capacity. This is stuff I wish journalism schools would teach &lt;a href=&quot;https://twitter.com/mtzler/status/1413850796458917891&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 13:28:02 GMT" tweetId="1413852516526272512" urltweet="https://twitter.com/taylorlorenz/status/1413852516526272512" inReplyToId="1413846429911691269" tweetUserName="taylorlorenz" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
