@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 18:35:36 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 21:47:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 10" type="calendarDay" name="10" >
+				<outline text="&quot;As a paid product, though, it’s now part of a giant content muddle. If you’ve decided you’re willing to pay for online news, why would you pick USA Today over the Post or Times — or over your local daily?&quot; &lt;a href=&quot;https://www.niemanlab.org/2021/07/usa-today-is-getting-a-paywall-whos-the-audience-for-it/&quot;&gt;[link]&lt;/a&gt;
+
+Indeed, why? I don't see the value proposition." type="tweet" created="Sat, 10 Jul 2021 21:46:21 GMT" tweetId="1413977920452890629" urltweet="https://twitter.com/jayrosen_nyu/status/1413977920452890629" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Everyone can see how this toxic triangle operates. &lt;a href=&quot;https://www.rollingstone.com/politics/politics-features/trump-mccarthy-republican-party-critical-race-theory-1184610/&quot;&gt;[link]&lt;/a&gt; https://t.co/71y9XVv1xa" type="tweet" created="Sat, 10 Jul 2021 18:35:33 GMT" tweetId="1413929903603519490" urltweet="https://twitter.com/jayrosen_nyu/status/1413929903603519490" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="When @propublica does an investigation and gets criticism from the people investigated, they don't just say, &quot;we stand by our story,&quot; or run a letter to the editor. They communicate with the complainants and respond point by point. &lt;a href=&quot;https://www.propublica.org/article/sugar-companies-said-our-investigation-is-flawed-and-biased-lets-dive-into-why-thats-not-the-case&quot;&gt;[link]&lt;/a&gt; An excellent practice." type="tweet" created="Sat, 10 Jul 2021 17:42:27 GMT" tweetId="1413916543742844928" urltweet="https://twitter.com/jayrosen_nyu/status/1413916543742844928" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="D.C. journalists launch media company with $10 million in funding. &lt;a href=&quot;https://www.axios.com/dc-journalists-launch-media-company-ee38d5f8-0d45-490e-90c2-0cc1ba1036a7.html&quot;&gt;[link]&lt;/a&gt;
