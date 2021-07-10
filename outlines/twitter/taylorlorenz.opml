@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 12:54:31 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 12:57:32 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 10" type="calendarDay" name="10" >
-				<outline text="The quote tweets on this are wild, it’s very common to get a celeb to do red carpet Qs! This takes place often at award shows and other events. &lt;a href=&quot;https://twitter.com/whoisaddison/status/1413656072678641664&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 12:54:03 GMT" tweetId="1413843965237997569" urltweet="https://twitter.com/taylorlorenz/status/1413843965237997569" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="The quote tweets on this are wild, it’s very common to get a celeb to do red carpet Qs! This takes place often at award shows and other events. &lt;a href=&quot;https://twitter.com/whoisaddison/status/1413656072678641664&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 12:54:03 GMT" tweetId="1413843965237997569" urltweet="https://twitter.com/taylorlorenz/status/1413843965237997569" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="A celeb asking some easy Qs on the red carpet is not “stealing jobs from those more deserving.” It is their celebrity/fame that qualifies them for that type of opportunity. Having a famous person ask other famous people Qs is a tactic to build buzz and get people to watch" type="tweet" created="Sat, 10 Jul 2021 12:56:50 GMT" tweetId="1413844665762254851" urltweet="https://twitter.com/taylorlorenz/status/1413844665762254851" inReplyToId="1413843965237997569" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
 				<outline text="This is amazing, what a great team @BostonJoan has assembled! &lt;a href=&quot;https://twitter.com/JaneLytv/status/1413586949722492928&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 19:55:39 GMT" tweetId="1413587674099855360" urltweet="https://twitter.com/taylorlorenz/status/1413587674099855360" inReplyToId="" tweetUserName="taylorlorenz" />
