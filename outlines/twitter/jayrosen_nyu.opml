@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 16:53:11 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 17:43:23 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 10" type="calendarDay" name="10" >
+				<outline text="When @propublica does an investigation and gets criticism from the people investigated, they don't just say, &quot;we stand by our story,&quot; or run a letter to the editor. They communicate with the complainants and respond point by point. &lt;a href=&quot;https://www.propublica.org/article/sugar-companies-said-our-investigation-is-flawed-and-biased-lets-dive-into-why-thats-not-the-case&quot;&gt;[link]&lt;/a&gt; An excellent practice." type="tweet" created="Sat, 10 Jul 2021 17:42:27 GMT" tweetId="1413916543742844928" urltweet="https://twitter.com/jayrosen_nyu/status/1413916543742844928" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="D.C. journalists launch media company with $10 million in funding. &lt;a href=&quot;https://www.axios.com/dc-journalists-launch-media-company-ee38d5f8-0d45-490e-90c2-0cc1ba1036a7.html&quot;&gt;[link]&lt;/a&gt;
 
 Good for them. But I can't tell what this is yet. Supposed to be &quot;a radically different publication, one that uses a distinct set of formats to deliver a nuanced and comprehensive view...&quot;" type="tweet" created="Sat, 10 Jul 2021 16:52:44 GMT" tweetId="1413904030234030092" urltweet="https://twitter.com/jayrosen_nyu/status/1413904030234030092" inReplyToId="" tweetUserName="jayrosen_nyu" />
