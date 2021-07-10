@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 14:56:17 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 14:57:26 GMT</dateModified>
 		<expansionState>1,2,3,13,16,20,25,30,36,41,47,49,58,61,65,72,76,77</expansionState>
 		<lastCursor>3</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
