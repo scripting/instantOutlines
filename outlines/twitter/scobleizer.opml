@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 03:09:44 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 05:35:25 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 10" type="calendarDay" name="10" >
+				<outline text="Yoke haters are wrong. Sat in a Plaid today. Stuff that made no sense last year." type="tweet" created="Sat, 10 Jul 2021 05:35:21 GMT" tweetId="1413733563048947716" urltweet="https://twitter.com/scobleizer/status/1413733563048947716" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
 				<outline text="I had a dream that I was at SpaceX and took a photo of a firetruck.
 
