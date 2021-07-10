@@ -7,14 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sat, 10 Jul 2021 13:35:36 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 13:45:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 10" type="calendarDay" name="10" >
 				<outline text="Massive lightning storm in U City, lots of loud explosions, power out, and it's still going #stlwx" type="tweet" created="Sat, 10 Jul 2021 06:18:37 GMT" tweetId="1413744448073252866" urltweet="https://twitter.com/sarahkendzior/status/1413744448073252866" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="No power in my neighborhood, branches and lines down all over the place. No indication of when electricity will return. Remembering the summer of 2006 when it took eight days... #stlwx" type="tweet" created="Sat, 10 Jul 2021 12:43:08 GMT" tweetId="1413841217977294850" urltweet="https://twitter.com/sarahkendzior/status/1413841217977294850" inReplyToId="1413744448073252866" tweetUserName="sarahkendzior" >
-						<outline text="The storm cut the flowers like a sword &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1413854277324484612/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 13:35:02 GMT" tweetId="1413854277324484612" urltweet="https://twitter.com/sarahkendzior/status/1413854277324484612" inReplyToId="1413841217977294850" tweetUserName="sarahkendzior" />
+						<outline text="The storm cut the flowers like a sword &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1413854277324484612/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 13:35:02 GMT" tweetId="1413854277324484612" urltweet="https://twitter.com/sarahkendzior/status/1413854277324484612" inReplyToId="1413841217977294850" tweetUserName="sarahkendzior" >
+							<outline text="The Lord is angry with Missouri; he hath struck our most sacred vessel &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1413856735958347789/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 13:44:48 GMT" tweetId="1413856735958347789" urltweet="https://twitter.com/sarahkendzior/status/1413856735958347789" inReplyToId="1413854277324484612" tweetUserName="sarahkendzior" />
+							</outline>
 						</outline>
 					</outline>
 				</outline>
