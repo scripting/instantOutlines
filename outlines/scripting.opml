@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 15:09:33 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 15:12:37 GMT</dateModified>
 		<expansionState>1,2,3,13,16,20,25,30,36,41,47,49,58,61,65,72,76,77</expansionState>
-		<lastCursor>5</lastCursor>
+		<lastCursor>8</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
@@ -23,14 +23,14 @@
 			<outline text="July 10" created="Sat, 10 Jul 2021 14:52:08 GMT" type="calendarDay" name="10" >
 				<outline text="The Oatmeal and RSS" created="Sat, 10 Jul 2021 14:52:09 GMT" type="outline" >
 					<outline text="&lt;i&gt;This piece started as a Twitter &lt;a href=&quot;https://twitter.com/davewiner/status/1413871847238782990&quot;&gt;thread&lt;/a&gt;. &lt;/i&gt;" created="Sat, 10 Jul 2021 14:55:09 GMT" />
-					<outline text="A few days ago the &lt;a href=&quot;https://twitter.com/Oatmeal&quot;&gt;Oatmeal&lt;/a&gt; person lamented that &quot;RSS&quot; was not a wave anymore. It's more like a big lake not a roiling ocean.   People go boating, have a picnic, swim in RSS-land, but it isn't like a moon mission or even a Sting concert. :-)" created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871847238782990" urltweet="https://twitter.com/davewiner/status/1413871847238782990" inReplyToId="" tweetUserName="davewiner" />
+					<outline text="A few days ago the &lt;a href=&quot;https://twitter.com/Oatmeal&quot;&gt;Oatmeal&lt;/a&gt; person lamented that &quot;RSS&quot; was not a wave anymore. It's more like a big lake not a roiling ocean.   People go boating, have a picnic, swim in RSS-land, but it isn't like a moon mission or even a Sting concert. :-)" created="Sat, 10 Jul 2021 14:44:51 GMT" />
 					<outline text="I responded that RSS could be fun again if people would work with each other. Instead of being in it for their own glory, only -- people have to see the benefit of other people and products winning alongside them.  " created="Sat, 10 Jul 2021 14:44:51 GMT" />
-					<outline text="This is not the way tech thinks, or news. They all build self-contained castles. And very rarely do people work together. And that's why RSS stays where it is. Its growth feeds off collaboration." created="Sat, 10 Jul 2021 14:44:51 GMT" tweetId="1413871849017069576" urltweet="https://twitter.com/davewiner/status/1413871849017069576" inReplyToId="1413871848127926273" tweetUserName="davewiner" />
-					<outline text="People don't know this, but RSS got its initial wave, the one you all remember so fondly, from a collaboration between UserLand Software and the New York Times." created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871849906352131" urltweet="https://twitter.com/davewiner/status/1413871849906352131" inReplyToId="1413871849017069576" tweetUserName="davewiner" />
-					<outline text="We're still coasting off the energy unleashed in that combo. That's how stuff like this happens.   People still have the myth of The Great Visionary who sees the right path and leads us out of the wilderness. But that's not how it works." created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871850782969861" urltweet="https://twitter.com/davewiner/status/1413871850782969861" inReplyToId="1413871849906352131" tweetUserName="davewiner" />
-					<outline text="Instead, two parties with enough power and influence decide, consciously and deliberately, to work together." created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871851688845312" urltweet="https://twitter.com/davewiner/status/1413871851688845312" inReplyToId="1413871850782969861" tweetUserName="davewiner" />
-					<outline text="If you want to win big, put aside self-glorification and getting ahead for a brief moment, and focus on how you and someone else can break through, creating something that could never exist otherwise. For everyone, not just yourself." created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871852506779649" urltweet="https://twitter.com/davewiner/status/1413871852506779649" inReplyToId="1413871851688845312" tweetUserName="davewiner" />
-					<outline text="And if someone offers to work with you, think of reasons to say yes." created="Sat, 10 Jul 2021 14:44:52 GMT" tweetId="1413871853362454529" urltweet="https://twitter.com/davewiner/status/1413871853362454529" inReplyToId="1413871852506779649" tweetUserName="davewiner" />
+					<outline text="This is not the way tech thinks, or news. They all build self-contained castles. And very rarely do people work together. And that's why RSS stays where it is. Its growth feeds off collaboration." created="Sat, 10 Jul 2021 14:44:51 GMT" />
+					<outline text="People don't know this, but RSS got its initial wave, the one you all remember so fondly, from a collaboration between UserLand Software and the New York Times." created="Sat, 10 Jul 2021 14:44:52 GMT" />
+					<outline text="We're still coasting off the energy unleashed in that combo. That's how stuff like this happens.   People still have the myth of The Great Visionary who sees the right path and leads us out of the wilderness. But that's not how it works." created="Sat, 10 Jul 2021 14:44:52 GMT" />
+					<outline text="Instead, two parties with enough power and influence decide, consciously and deliberately, to work together." created="Sat, 10 Jul 2021 14:44:52 GMT" />
+					<outline text="If you want to win big, put aside self-glorification and getting ahead for a brief moment, and focus on how you and someone else can break through, creating something that could never exist otherwise. For everyone, not just yourself." created="Sat, 10 Jul 2021 14:44:52 GMT" />
+					<outline text="And if someone offers to work with you, think of reasons to say yes." created="Sat, 10 Jul 2021 14:44:52 GMT" />
 					</outline>
 				</outline>
 			<outline text="July 9" created="Fri, 09 Jul 2021 13:35:58 GMT" type="calendarDay" name="09" >
