@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 00:24:55 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 00:25:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -29,7 +29,11 @@ Full steam QUESTION
 
 then 
 
-Full steam BUILD, MIX, MODEL" type="tweet" created="Sat, 10 Jul 2021 00:24:42 GMT" tweetId="1413655385018351623" urltweet="https://twitter.com/brandontoner/status/1413655385018351623" inReplyToId="1413655076003004416" tweetUserName="brandontoner" />
+Full steam BUILD, MIX, MODEL" type="tweet" created="Sat, 10 Jul 2021 00:24:42 GMT" tweetId="1413655385018351623" urltweet="https://twitter.com/brandontoner/status/1413655385018351623" inReplyToId="1413655076003004416" tweetUserName="brandontoner" >
+										<outline text="I want to remove all resistance. 
+
+Or to consciously choose certain resistance in the form of constraints that suit a mode of thinking." type="tweet" created="Sat, 10 Jul 2021 00:25:18 GMT" tweetId="1413655535073873926" urltweet="https://twitter.com/brandontoner/status/1413655535073873926" inReplyToId="1413655385018351623" tweetUserName="brandontoner" />
+										</outline>
 									</outline>
 								</outline>
 							</outline>
