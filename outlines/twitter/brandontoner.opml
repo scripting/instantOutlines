@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 00:27:56 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 00:28:56 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -42,7 +42,9 @@ At least, in the widely applicable tools-for-thought genre." type="tweet" create
 
 So I can use that app for a particular mode of thought. 
 
-Interoperability is especially key if constraints are being imposed." type="tweet" created="Sat, 10 Jul 2021 00:27:34 GMT" tweetId="1413656105717223425" urltweet="https://twitter.com/brandontoner/status/1413656105717223425" inReplyToId="1413655774014976002" tweetUserName="brandontoner" />
+Interoperability is especially key if constraints are being imposed." type="tweet" created="Sat, 10 Jul 2021 00:27:34 GMT" tweetId="1413656105717223425" urltweet="https://twitter.com/brandontoner/status/1413656105717223425" inReplyToId="1413655774014976002" tweetUserName="brandontoner" >
+													<outline text="Wow I really took the @knovigator energy over onto Twitter here. &lt;a href=&quot;https://twitter.com/brandontoner/status/1413656380624474113/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 00:28:40 GMT" tweetId="1413656380624474113" urltweet="https://twitter.com/brandontoner/status/1413656380624474113" inReplyToId="1413656105717223425" tweetUserName="brandontoner" />
+													</outline>
 												</outline>
 											</outline>
 										</outline>
