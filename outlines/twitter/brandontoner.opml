@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 00:20:54 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 00:21:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,13 @@
 			<outline text="July 9" type="calendarDay" name="09" >
 				<outline text="I want a medium that is sufficiently lossy, as to promote prolific creation and exploration.
 
-But sufficiently lossless to promote building ideas like cathedrals." type="tweet" created="Sat, 10 Jul 2021 00:19:55 GMT" tweetId="1413654180313640967" urltweet="https://twitter.com/brandontoner/status/1413654180313640967" inReplyToId="" tweetUserName="brandontoner" />
+But sufficiently lossless to promote building ideas like cathedrals." type="tweet" created="Sat, 10 Jul 2021 00:19:55 GMT" tweetId="1413654180313640967" urltweet="https://twitter.com/brandontoner/status/1413654180313640967" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="*out-of context a-ha moment while ravaging the keyboard in @knovigator *" type="tweet" created="Sat, 10 Jul 2021 00:20:54 GMT" tweetId="1413654425067995136" urltweet="https://twitter.com/brandontoner/status/1413654425067995136" inReplyToId="1413654180313640967" tweetUserName="brandontoner" >
+						<outline text="I’m starting to hone-in on what feels good in creative media. 
+
+What kind of environments I want to think in and think with." type="tweet" created="Sat, 10 Jul 2021 00:21:34 GMT" tweetId="1413654593242796038" urltweet="https://twitter.com/brandontoner/status/1413654593242796038" inReplyToId="1413654425067995136" tweetUserName="brandontoner" />
+						</outline>
+					</outline>
 				<outline text="Woahhhhhh, this is a cool crowdsourced knowledge infrastructure.
 
 GitHub with textfiles atomized to one .md per concept.
