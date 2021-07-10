@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 00:21:54 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 00:22:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,9 @@ But sufficiently lossless to promote building ideas like cathedrals." type="twee
 					<outline text="*out-of context a-ha moment while ravaging the keyboard in @knovigator *" type="tweet" created="Sat, 10 Jul 2021 00:20:54 GMT" tweetId="1413654425067995136" urltweet="https://twitter.com/brandontoner/status/1413654425067995136" inReplyToId="1413654180313640967" tweetUserName="brandontoner" >
 						<outline text="I’m starting to hone-in on what feels good in creative media. 
 
-What kind of environments I want to think in and think with." type="tweet" created="Sat, 10 Jul 2021 00:21:34 GMT" tweetId="1413654593242796038" urltweet="https://twitter.com/brandontoner/status/1413654593242796038" inReplyToId="1413654425067995136" tweetUserName="brandontoner" />
+What kind of environments I want to think in and think with." type="tweet" created="Sat, 10 Jul 2021 00:21:34 GMT" tweetId="1413654593242796038" urltweet="https://twitter.com/brandontoner/status/1413654593242796038" inReplyToId="1413654425067995136" tweetUserName="brandontoner" >
+							<outline text="A key theme that keeps coming up is that I want effortless entry and capture. I want to think freely and chaotically. Allowing stream-of-consciousness explorations whenever that mood strikes." type="tweet" created="Sat, 10 Jul 2021 00:22:38 GMT" tweetId="1413654863569903618" urltweet="https://twitter.com/brandontoner/status/1413654863569903618" inReplyToId="1413654593242796038" tweetUserName="brandontoner" />
+							</outline>
 						</outline>
 					</outline>
 				<outline text="Woahhhhhh, this is a cool crowdsourced knowledge infrastructure.
