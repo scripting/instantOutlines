@@ -6,13 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 00:43:00 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 23:54:57 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 10" type="calendarDay" name="10" >
+				<outline text="Some of my favourite questions to research are simple ones like: 
+
+• “What is the internet?” 
+• “How does the internet work?” 
+• “What is needed to create an host a website?”" type="tweet" created="Sat, 10 Jul 2021 23:54:44 GMT" tweetId="1414010227922460675" urltweet="https://twitter.com/brandontoner/status/1414010227922460675" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
-				<outline text="Lol reflecting on the fact that I was excited to be done studying so that I could go study internet stuff again. &lt;a href=&quot;https://twitter.com/brandontoner/status/1412990305285066757&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 00:38:41 GMT" tweetId="1413658904223834114" urltweet="https://twitter.com/brandontoner/status/1413658904223834114" inReplyToId="" tweetUserName="brandontoner" >
+				<outline text="Lol reflecting on the fact that I was excited to be done studying so that I could go study internet stuff again. &lt;a href=&quot;https://twitter.com/brandontoner/status/1412990305285066757&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 00:38:41 GMT" tweetId="1413658904223834114" urltweet="https://twitter.com/brandontoner/status/1413658904223834114" tweetUserName="brandontoner" >
 					<outline text="Self-directed learning quests &amp;gt;&amp;gt;&amp;gt; School-directed learning quests" type="tweet" created="Sat, 10 Jul 2021 00:39:08 GMT" tweetId="1413659015393984517" urltweet="https://twitter.com/brandontoner/status/1413659015393984517" inReplyToId="1413658904223834114" tweetUserName="brandontoner" >
 						<outline text="Funny part is that I would legit study the stuff I HAD to study, for fun — at the right time in the right mood. 
 
@@ -27,7 +34,7 @@ But wow it’s a mental battle at times." type="tweet" created="Sat, 10 Jul 2021
 					</outline>
 				<outline text="I want a medium that is sufficiently lossy, as to promote prolific creation and exploration.
 
-But sufficiently lossless to promote building ideas like cathedrals." type="tweet" created="Sat, 10 Jul 2021 00:19:55 GMT" tweetId="1413654180313640967" urltweet="https://twitter.com/brandontoner/status/1413654180313640967" inReplyToId="" tweetUserName="brandontoner" >
+But sufficiently lossless to promote building ideas like cathedrals." type="tweet" created="Sat, 10 Jul 2021 00:19:55 GMT" tweetId="1413654180313640967" urltweet="https://twitter.com/brandontoner/status/1413654180313640967" tweetUserName="brandontoner" >
 					<outline text="*out-of context a-ha moment while ravaging the keyboard in @knovigator *" type="tweet" created="Sat, 10 Jul 2021 00:20:54 GMT" tweetId="1413654425067995136" urltweet="https://twitter.com/brandontoner/status/1413654425067995136" inReplyToId="1413654180313640967" tweetUserName="brandontoner" >
 						<outline text="I’m starting to hone-in on what feels good in creative media. 
 
@@ -70,29 +77,29 @@ Interoperability is especially key if constraints are being imposed." type="twee
 
 GitHub with textfiles atomized to one .md per concept.
 
-*following* &lt;a href=&quot;https://twitter.com/balajis/status/1413055681582682114&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 15:47:55 GMT" tweetId="1413525329377902593" urltweet="https://twitter.com/brandontoner/status/1413525329377902593" inReplyToId="" tweetUserName="brandontoner" >
+*following* &lt;a href=&quot;https://twitter.com/balajis/status/1413055681582682114&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 15:47:55 GMT" tweetId="1413525329377902593" urltweet="https://twitter.com/brandontoner/status/1413525329377902593" tweetUserName="brandontoner" >
 					<outline text="Priority of learning GitHub/Git intensifies." type="tweet" created="Fri, 09 Jul 2021 16:46:07 GMT" tweetId="1413539976743108610" urltweet="https://twitter.com/brandontoner/status/1413539976743108610" inReplyToId="1413525329377902593" tweetUserName="brandontoner" />
 					</outline>
 				</outline>
 			<outline text="July 8" type="calendarDay" name="08" >
-				<outline text="Potent illusion. &lt;a href=&quot;https://twitter.com/jagarikin/status/1413091404079714306&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 02:48:41 GMT" tweetId="1413329230809772034" urltweet="https://twitter.com/brandontoner/status/1413329230809772034" inReplyToId="" tweetUserName="brandontoner" >
+				<outline text="Potent illusion. &lt;a href=&quot;https://twitter.com/jagarikin/status/1413091404079714306&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 02:48:41 GMT" tweetId="1413329230809772034" urltweet="https://twitter.com/brandontoner/status/1413329230809772034" tweetUserName="brandontoner" >
 					<outline text="Here’s what’s happening &lt;a href=&quot;https://twitter.com/toshchy/status/1413141299897651210&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 02:48:59 GMT" tweetId="1413329304562372613" urltweet="https://twitter.com/brandontoner/status/1413329304562372613" inReplyToId="1413329230809772034" tweetUserName="brandontoner" >
 						<outline text="Production &lt;a href=&quot;https://twitter.com/timwinfree/status/1413261896506032137&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 09 Jul 2021 02:49:42 GMT" tweetId="1413329485227769864" urltweet="https://twitter.com/brandontoner/status/1413329485227769864" inReplyToId="1413329304562372613" tweetUserName="brandontoner" />
 						</outline>
 					</outline>
-				<outline text="Just got through a big couple weeks of school and work — back to learning about websites and blogs 🤓" type="tweet" created="Thu, 08 Jul 2021 04:21:55 GMT" tweetId="1412990305285066757" urltweet="https://twitter.com/brandontoner/status/1412990305285066757" inReplyToId="" tweetUserName="brandontoner" />
+				<outline text="Just got through a big couple weeks of school and work — back to learning about websites and blogs 🤓" type="tweet" created="Thu, 08 Jul 2021 04:21:55 GMT" tweetId="1412990305285066757" urltweet="https://twitter.com/brandontoner/status/1412990305285066757" tweetUserName="brandontoner" />
 				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="It seems like Twitter “verified” badges could be better used to signal a “verified human” rather than a public figure. 
 
-There are a lot of bots. I’d like to have a visual indicator that I could use as a surrogate for authenticity." type="tweet" created="Wed, 07 Jul 2021 16:03:02 GMT" tweetId="1412804358182518790" urltweet="https://twitter.com/brandontoner/status/1412804358182518790" inReplyToId="" tweetUserName="brandontoner" >
+There are a lot of bots. I’d like to have a visual indicator that I could use as a surrogate for authenticity." type="tweet" created="Wed, 07 Jul 2021 16:03:02 GMT" tweetId="1412804358182518790" urltweet="https://twitter.com/brandontoner/status/1412804358182518790" tweetUserName="brandontoner" >
 					<outline text="I like the existing verified thing though, so it’s probably more a “why not both” sorta dilemma." type="tweet" created="Wed, 07 Jul 2021 16:03:43 GMT" tweetId="1412804531205951493" urltweet="https://twitter.com/brandontoner/status/1412804531205951493" inReplyToId="1412804358182518790" tweetUserName="brandontoner" >
 						<outline text="But my hesitancy on having both would be visual noise. 
 
 Some clever solution probably exists, though." type="tweet" created="Wed, 07 Jul 2021 16:05:04 GMT" tweetId="1412804870671900672" urltweet="https://twitter.com/brandontoner/status/1412804870671900672" inReplyToId="1412804531205951493" tweetUserName="brandontoner" />
 						</outline>
 					</outline>
-				<outline text="A step by step guide on how to build a social scene. &lt;a href=&quot;https://twitter.com/visakanv/status/1412674634848235522&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 10:35:52 GMT" tweetId="1412722023676137477" urltweet="https://twitter.com/brandontoner/status/1412722023676137477" inReplyToId="" tweetUserName="brandontoner" >
+				<outline text="A step by step guide on how to build a social scene. &lt;a href=&quot;https://twitter.com/visakanv/status/1412674634848235522&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 10:35:52 GMT" tweetId="1412722023676137477" urltweet="https://twitter.com/brandontoner/status/1412722023676137477" tweetUserName="brandontoner" >
 					<outline text="The beautiful thing about these sorts of threads is that every time I read one, I believe in the vision a little bit more. 
 
 A bit more color, a bit more shape." type="tweet" created="Wed, 07 Jul 2021 11:00:48 GMT" tweetId="1412728297822343169" urltweet="https://twitter.com/brandontoner/status/1412728297822343169" inReplyToId="1412722023676137477" tweetUserName="brandontoner" />
@@ -105,7 +112,7 @@ Fully agree and hold the same intention for this sort of thing.
 
 There is a difference between wanting something and committing to doing it. 
 
-Subtle but important. &lt;a href=&quot;https://twitter.com/askyatharth/status/1412320015152336896&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 23:01:42 GMT" tweetId="1412547331992457219" urltweet="https://twitter.com/brandontoner/status/1412547331992457219" inReplyToId="" tweetUserName="brandontoner" >
+Subtle but important. &lt;a href=&quot;https://twitter.com/askyatharth/status/1412320015152336896&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 23:01:42 GMT" tweetId="1412547331992457219" urltweet="https://twitter.com/brandontoner/status/1412547331992457219" tweetUserName="brandontoner" >
 					<outline text="Plant seeds liberally and enthusiastically; tend to them when inspired to do so." type="tweet" created="Tue, 06 Jul 2021 23:02:35 GMT" tweetId="1412547556140326912" urltweet="https://twitter.com/brandontoner/status/1412547556140326912" inReplyToId="1412547331992457219" tweetUserName="brandontoner" >
 						<outline text="These is no limit to the number of seeds you plant. 
 
@@ -116,10 +123,10 @@ It is freeing to dream without attachment. That’s when I’m my most creative.
 					</outline>
 				<outline text="I’m getting a lot of Twitter “Topics” on my feed all of a sudden. 
 
-Anyone else? How do I make them go away?" type="tweet" created="Tue, 06 Jul 2021 14:46:00 GMT" tweetId="1412422585971773447" urltweet="https://twitter.com/brandontoner/status/1412422585971773447" inReplyToId="" tweetUserName="brandontoner" />
+Anyone else? How do I make them go away?" type="tweet" created="Tue, 06 Jul 2021 14:46:00 GMT" tweetId="1412422585971773447" urltweet="https://twitter.com/brandontoner/status/1412422585971773447" tweetUserName="brandontoner" />
 				</outline>
 			<outline text="July 4" type="calendarDay" name="04" >
-				<outline text="Paper is awesome. Tools for thought still have a long way to go to catch paper." type="tweet" created="Sun, 04 Jul 2021 17:17:40 GMT" tweetId="1411735979455565828" urltweet="https://twitter.com/brandontoner/status/1411735979455565828" inReplyToId="" tweetUserName="brandontoner" >
+				<outline text="Paper is awesome. Tools for thought still have a long way to go to catch paper." type="tweet" created="Sun, 04 Jul 2021 17:17:40 GMT" tweetId="1411735979455565828" urltweet="https://twitter.com/brandontoner/status/1411735979455565828" tweetUserName="brandontoner" >
 					<outline text="Making outlines, maps, lists — drawing lines — new drafts — spreading them all out over the table." type="tweet" created="Sun, 04 Jul 2021 17:20:07 GMT" tweetId="1411736594491510787" urltweet="https://twitter.com/brandontoner/status/1411736594491510787" inReplyToId="1411735979455565828" tweetUserName="brandontoner" >
 						<outline text="An AR environment I’d like would simply replicate the ability to write stuff on a tablet, then spread them out into my physical surroundings." type="tweet" created="Sun, 04 Jul 2021 17:23:57 GMT" tweetId="1411737557788995587" urltweet="https://twitter.com/brandontoner/status/1411737557788995587" inReplyToId="1411736594491510787" tweetUserName="brandontoner" >
 							<outline text="And also better paper → electronic conversion workflows.
