@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 23:55:57 GMT</dateModified>
+		<dateModified>Sat, 10 Jul 2021 23:56:57 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -19,7 +19,11 @@
 • “What is needed to create an host a website?”" type="tweet" created="Sat, 10 Jul 2021 23:54:44 GMT" tweetId="1414010227922460675" urltweet="https://twitter.com/brandontoner/status/1414010227922460675" inReplyToId="" tweetUserName="brandontoner" >
 					<outline text="It’s so easy to breeze over the basics of something — and take a thing for granted. 
 
-Digging into those “right under your nose”-type questions are my favourite." type="tweet" created="Sat, 10 Jul 2021 23:55:30 GMT" tweetId="1414010422550749185" urltweet="https://twitter.com/brandontoner/status/1414010422550749185" inReplyToId="1414010227922460675" tweetUserName="brandontoner" />
+Digging into those “right under your nose”-type questions are my favourite." type="tweet" created="Sat, 10 Jul 2021 23:55:30 GMT" tweetId="1414010422550749185" urltweet="https://twitter.com/brandontoner/status/1414010422550749185" inReplyToId="1414010227922460675" tweetUserName="brandontoner" >
+						<outline text="I often find that the simple answers to simple questions facilitate my best ideas. 
+
+Fundamentals are mind-blowing." type="tweet" created="Sat, 10 Jul 2021 23:56:29 GMT" tweetId="1414010672023851009" urltweet="https://twitter.com/brandontoner/status/1414010672023851009" inReplyToId="1414010422550749185" tweetUserName="brandontoner" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
