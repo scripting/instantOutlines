@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 00:58:18 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 00:59:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,14 @@
 			<outline text="July 10" type="calendarDay" name="10" >
 				<outline text="Loving TedEd’s user experience. 
 
-It’s especially fun to interact with since one of my courses right now is a brief intro to educational theory &amp;amp; design. &lt;a href=&quot;https://twitter.com/brandontoner/status/1414025982596501508/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 00:57:20 GMT" tweetId="1414025982596501508" urltweet="https://twitter.com/brandontoner/status/1414025982596501508" inReplyToId="" tweetUserName="brandontoner" />
+It’s especially fun to interact with since one of my courses right now is a brief intro to educational theory &amp;amp; design. &lt;a href=&quot;https://twitter.com/brandontoner/status/1414025982596501508/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 00:57:20 GMT" tweetId="1414025982596501508" urltweet="https://twitter.com/brandontoner/status/1414025982596501508" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="In particular, I LOVE that side-pane.
+
+• Watch
+• Think 
+• Dig Deeper
+• Discuss &lt;a href=&quot;https://twitter.com/brandontoner/status/1414026235987075075/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 00:58:20 GMT" tweetId="1414026235987075075" urltweet="https://twitter.com/brandontoner/status/1414026235987075075" inReplyToId="1414025982596501508" tweetUserName="brandontoner" />
+					</outline>
 				<outline text="Some of my favourite questions to research are simple ones like: 
 
 • “What is the internet?” 
