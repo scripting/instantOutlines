@@ -7,12 +7,14 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sun, 11 Jul 2021 17:49:14 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 17:50:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 11" type="calendarDay" name="11" >
-				<outline text="Unfortunately, we'll deprecate github integration when the mobile app is out for testing, it might be in 1-2 months. The mobile app will supports loading files from the local filesystem, which means we can still use iCloud, GDrive, Dropbox, etc. to sync our notes. &lt;a href=&quot;https://twitter.com/k0sengan/status/1414279129931739136&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 17:49:03 GMT" tweetId="1414280592376569856" urltweet="https://twitter.com/logseq/status/1414280592376569856" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Unfortunately, we'll deprecate github integration when the mobile app is out for testing, it might be in 1-2 months. The mobile app will supports loading files from the local filesystem, which means we can still use iCloud, GDrive, Dropbox, etc. to sync our notes. &lt;a href=&quot;https://twitter.com/k0sengan/status/1414279129931739136&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 17:49:03 GMT" tweetId="1414280592376569856" urltweet="https://twitter.com/logseq/status/1414280592376569856" inReplyToId="" tweetUserName="logseq" >
+					<outline text="After that we'll build our own storage and collaboration." type="tweet" created="Sun, 11 Jul 2021 17:50:09 GMT" tweetId="1414280868009373699" urltweet="https://twitter.com/logseq/status/1414280868009373699" inReplyToId="1414280592376569856" tweetUserName="logseq" />
+					</outline>
 				<outline text="Me too! &lt;a href=&quot;https://twitter.com/fioritto/status/1414272155039289351&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 17:18:46 GMT" tweetId="1414272970080456710" urltweet="https://twitter.com/logseq/status/1414272970080456710" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Welcome! I don't know we can run an AppImage on Chromebook, super cool! &lt;a href=&quot;https://twitter.com/fioritto/status/1414270888028090368&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 17:17:34 GMT" tweetId="1414272667205529602" urltweet="https://twitter.com/logseq/status/1414272667205529602" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thanks for trying us! &lt;a href=&quot;https://twitter.com/xllora/status/1414247446356668418&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 16:09:00 GMT" tweetId="1414255410194747395" urltweet="https://twitter.com/logseq/status/1414255410194747395" inReplyToId="" tweetUserName="logseq" />
