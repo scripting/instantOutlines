@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 16:53:26 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 17:00:47 GMT</dateModified>
 		<expansionState>1,2,4,6,8,18,21,25,30,35,41,46,52,54,63,66,70,77,81,82</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,7 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 11" created="Sun, 11 Jul 2021 16:45:48 GMT" type="calendarDay" name="11" >
-				<outline text="&lt;a href=&quot;https://twitter.com/markgraham&quot;&gt;Mark Graham&lt;/a&gt; who works at archive.org &lt;a href=&quot;https://twitter.com/MarkGraham/status/1414217978778988547&quot;&gt;reports&lt;/a&gt; that they've fixed a playback issue with &lt;a href=&quot;https://web.archive.org/web/20210702040625/http://scripting.com/&quot;&gt;their rendering&lt;/a&gt; of &quot;Scripting News&quot; in the archive. That's great news. Thanks for persevering! :smile: " created="Sun, 11 Jul 2021 16:50:05 GMT" type="outline" />
+				<outline text="&lt;a href=&quot;https://twitter.com/markgraham&quot;&gt;Mark Graham&lt;/a&gt; who works at archive.org &lt;a href=&quot;https://twitter.com/MarkGraham/status/1414217978778988547&quot;&gt;reports&lt;/a&gt; that they've fixed a playback issue with &lt;a href=&quot;https://web.archive.org/web/20210702040625/http://scripting.com/&quot;&gt;their rendering&lt;/a&gt; of &quot;Scripting News&quot; in the archive. I &lt;a href=&quot;http://scripting.com/2021/07/01.html#a123740&quot;&gt;wrote&lt;/a&gt; about &lt;a href=&quot;http://scripting.com/2021/06/29.html#a131345&quot;&gt;this&lt;/a&gt; previously. That's great news. Thanks for persevering! :smile: " created="Sun, 11 Jul 2021 16:50:05 GMT" type="outline" />
 				<outline text="Edward Hopper" created="Sun, 11 Jul 2021 16:45:49 GMT" type="outline" >
 					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/adam-s-house&quot;&gt;Adam's house&lt;/a&gt;, 1928." created="Sun, 11 Jul 2021 16:45:52 GMT" inlineImage="http://scripting.com/images/2021/07/11/adamsHouse.png" />
 					</outline>
