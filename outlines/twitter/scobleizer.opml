@@ -6,26 +6,31 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 05:35:25 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 03:41:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 10" type="calendarDay" name="10" >
-				<outline text="Yoke haters are wrong. Sat in a Plaid today. Stuff that made no sense last year." type="tweet" created="Sat, 10 Jul 2021 05:35:21 GMT" tweetId="1413733563048947716" urltweet="https://twitter.com/scobleizer/status/1413733563048947716" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="If I had a time machine I would go back to when my mom was yelling at me to sit away from the TV.
+
+But first I would get my @MojoVisionInc’s contact lens which puts a TV onto the surface of your eyes.
+
+This is why I can’t stand audio purists who say Spatial Audio is evil." type="tweet" created="Sun, 11 Jul 2021 03:41:00 GMT" tweetId="1414067172196765698" urltweet="https://twitter.com/scobleizer/status/1414067172196765698" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Yoke haters are wrong. Sat in a Plaid today. Stuff that made no sense last year." type="tweet" created="Sat, 10 Jul 2021 05:35:21 GMT" tweetId="1413733563048947716" urltweet="https://twitter.com/scobleizer/status/1413733563048947716" tweetUserName="scobleizer" />
 				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
 				<outline text="I had a dream that I was at SpaceX and took a photo of a firetruck.
 
 Dream achieved.
 
-I made up the part about the firetruck. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1413696841674215426/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 03:09:26 GMT" tweetId="1413696841674215426" urltweet="https://twitter.com/scobleizer/status/1413696841674215426" inReplyToId="" tweetUserName="scobleizer" />
+I made up the part about the firetruck. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1413696841674215426/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 03:09:26 GMT" tweetId="1413696841674215426" urltweet="https://twitter.com/scobleizer/status/1413696841674215426" tweetUserName="scobleizer" />
 				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
-				<outline text="It wasn't just the camera that doomed it. Fun report on what happened to Google Glass. &lt;a href=&quot;https://video.foxnews.com/v/6262482235001&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 19:58:21 GMT" tweetId="1412501189669777410" urltweet="https://twitter.com/scobleizer/status/1412501189669777410" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="It wasn't just the camera that doomed it. Fun report on what happened to Google Glass. &lt;a href=&quot;https://video.foxnews.com/v/6262482235001&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 19:58:21 GMT" tweetId="1412501189669777410" urltweet="https://twitter.com/scobleizer/status/1412501189669777410" tweetUserName="scobleizer" />
 				<outline text="Apple's Spatial Audio is not understood by most of the market yet, my research shows. I'm convinced that they only wanted nerds like me to know about it. Most people don't use Apple Music. Most people also don't have the audio equipment to properly hear it. 
 
-That will change." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId="1412495392994840578" urltweet="https://twitter.com/scobleizer/status/1412495392994840578" inReplyToId="" tweetUserName="scobleizer" >
+That will change." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId="1412495392994840578" urltweet="https://twitter.com/scobleizer/status/1412495392994840578" tweetUserName="scobleizer" >
 					<outline text="Apple is about to launch a new iPod, which will do a new version of Spatial Audio, that will push Apple way ahead of Spotify and Tidal in audio quality. 
 
 No one will be able to catch up until they figure out how to put AI capabilities into a mesh network in your home." type="tweet" created="Tue, 06 Jul 2021 19:35:19 GMT" tweetId="1412495393879855104" urltweet="https://twitter.com/scobleizer/status/1412495393879855104" inReplyToId="1412495392994840578" tweetUserName="scobleizer" >
@@ -34,8 +39,8 @@ No one will be able to catch up until they figure out how to put AI capabilities
 							</outline>
 						</outline>
 					</outline>
-				<outline text="Rats in VR? Yes! &lt;a href=&quot;https://twitter.com/BrennanSpiegel/status/1412493387060584451&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 19:28:33 GMT" tweetId="1412493689524428802" urltweet="https://twitter.com/scobleizer/status/1412493689524428802" inReplyToId="" tweetUserName="scobleizer" />
-				<outline text="My Airtags have survived two washings. Shower photo next? :-)" type="tweet" created="Tue, 06 Jul 2021 07:03:41 GMT" tweetId="1412306240567353362" urltweet="https://twitter.com/scobleizer/status/1412306240567353362" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Rats in VR? Yes! &lt;a href=&quot;https://twitter.com/BrennanSpiegel/status/1412493387060584451&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 06 Jul 2021 19:28:33 GMT" tweetId="1412493689524428802" urltweet="https://twitter.com/scobleizer/status/1412493689524428802" tweetUserName="scobleizer" />
+				<outline text="My Airtags have survived two washings. Shower photo next? :-)" type="tweet" created="Tue, 06 Jul 2021 07:03:41 GMT" tweetId="1412306240567353362" urltweet="https://twitter.com/scobleizer/status/1412306240567353362" tweetUserName="scobleizer" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
