@@ -6,32 +6,35 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 08 Jul 2021 20:34:02 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 07:57:23 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 11" type="calendarDay" name="11" >
+				<outline text="...moving to a land where most failed to hear the urgency of samizdat... &lt;a href=&quot;https://twitter.com/ilya_poet/status/1413946559318962177&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 07:56:28 GMT" tweetId="1414131460156575747" urltweet="https://twitter.com/KenSmith/status/1414131460156575747" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 8" type="calendarDay" name="08" >
-				<outline text="Judging by a three-minute teaser, gutless sycophant Bill O’Reilly will be lobbing softballs on tv tonight to a loser ex-President on his best behavior, answering coyly and vapidly, and desperate to get back in front of a public which by the tens of millions despises him." type="tweet" created="Thu, 08 Jul 2021 20:33:33 GMT" tweetId="1413234823188123650" urltweet="https://twitter.com/KenSmith/status/1413234823188123650" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="Mergers disadvantage workers. &lt;a href=&quot;https://twitter.com/upshotnyt/status/1412837336833040387&quot;&gt;[link]&lt;/a&gt; https://t.co/l59RuzYnvh" type="tweet" created="Thu, 08 Jul 2021 15:36:02 GMT" tweetId="1413159952458321930" urltweet="https://twitter.com/KenSmith/status/1413159952458321930" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="This article’s detailed introduction to Big Ag, pollution, and politics in Iowa is frankly disgusting. Powerhouse work by Paul Brennan. &lt;a href=&quot;https://twitter.com/austinfrerick/status/1413142947156004869&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 15:01:49 GMT" tweetId="1413151342479044609" urltweet="https://twitter.com/KenSmith/status/1413151342479044609" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="In 1979, my first spring in Iowa, the tap water in Iowa City came for a time to reek of chlorine as, I gathered, the animal waste and fertilizer thawed from the farmland, filled the streams and rivers, and taxed the water treatment plants. I hear Iowa rivers are worse now. &lt;a href=&quot;https://twitter.com/austinfrerick/status/1413142947156004869&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:41:25 GMT" tweetId="1413146205782114309" urltweet="https://twitter.com/KenSmith/status/1413146205782114309" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="A farmer’s lifelong web of observation, reflection, and insight, expressed with modest urgency, lacking perhaps any other way to share it. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1413112394809761795&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:32:25 GMT" tweetId="1413143941239562252" urltweet="https://twitter.com/KenSmith/status/1413143941239562252" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="Judging by a three-minute teaser, gutless sycophant Bill O’Reilly will be lobbing softballs on tv tonight to a loser ex-President on his best behavior, answering coyly and vapidly, and desperate to get back in front of a public which by the tens of millions despises him." type="tweet" created="Thu, 08 Jul 2021 20:33:33 GMT" tweetId="1413234823188123650" urltweet="https://twitter.com/KenSmith/status/1413234823188123650" tweetUserName="KenSmith" />
+				<outline text="Mergers disadvantage workers. &lt;a href=&quot;https://twitter.com/upshotnyt/status/1412837336833040387&quot;&gt;[link]&lt;/a&gt; https://t.co/l59RuzYnvh" type="tweet" created="Thu, 08 Jul 2021 15:36:02 GMT" tweetId="1413159952458321930" urltweet="https://twitter.com/KenSmith/status/1413159952458321930" tweetUserName="KenSmith" />
+				<outline text="This article’s detailed introduction to Big Ag, pollution, and politics in Iowa is frankly disgusting. Powerhouse work by Paul Brennan. &lt;a href=&quot;https://twitter.com/austinfrerick/status/1413142947156004869&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 15:01:49 GMT" tweetId="1413151342479044609" urltweet="https://twitter.com/KenSmith/status/1413151342479044609" tweetUserName="KenSmith" />
+				<outline text="In 1979, my first spring in Iowa, the tap water in Iowa City came for a time to reek of chlorine as, I gathered, the animal waste and fertilizer thawed from the farmland, filled the streams and rivers, and taxed the water treatment plants. I hear Iowa rivers are worse now. &lt;a href=&quot;https://twitter.com/austinfrerick/status/1413142947156004869&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:41:25 GMT" tweetId="1413146205782114309" urltweet="https://twitter.com/KenSmith/status/1413146205782114309" tweetUserName="KenSmith" />
+				<outline text="A farmer’s lifelong web of observation, reflection, and insight, expressed with modest urgency, lacking perhaps any other way to share it. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1413112394809761795&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:32:25 GMT" tweetId="1413143941239562252" urltweet="https://twitter.com/KenSmith/status/1413143941239562252" tweetUserName="KenSmith" />
 				<outline text="Potent, insightful verb here.
 
 My father’s fillet knife was the sharpest, the most wicked-looking knife, used for quickly taking the choicest parts of a bass for cooking. Toss the scraps back into the lake.
 
-Citizens grow active or what they care about gets filleted by others. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1347849513323659264&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:28:31 GMT" tweetId="1413142962138083328" urltweet="https://twitter.com/KenSmith/status/1413142962138083328" inReplyToId="" tweetUserName="KenSmith" />
+Citizens grow active or what they care about gets filleted by others. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1347849513323659264&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:28:31 GMT" tweetId="1413142962138083328" urltweet="https://twitter.com/KenSmith/status/1413142962138083328" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="“So what! Finders keepers! Shut up!” 
 
 Comedian James Acaster explores some rhetoric the powerful use to justify keeping stolen wealth.
 
-&lt;a href=&quot;https://www.youtube.com/watch?v=x73PkUvArJY&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 13:08:38 GMT" tweetId="1412760468767260672" urltweet="https://twitter.com/KenSmith/status/1412760468767260672" inReplyToId="" tweetUserName="KenSmith" />
+&lt;a href=&quot;https://www.youtube.com/watch?v=x73PkUvArJY&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 13:08:38 GMT" tweetId="1412760468767260672" urltweet="https://twitter.com/KenSmith/status/1412760468767260672" tweetUserName="KenSmith" />
 				<outline text="University of Notre Dame failed to reshape a dorm’s culture:
 
- “..significant vandalism over many years within and beyond the building..demonstrated disrespect for University officials, deliberate disregard for University COVID-19 testing protocols..” &lt;a href=&quot;https://magazine.nd.edu/stories/zahm-hall-ends-its-84-year-run-as-a-traditional-residence-hall/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 12:59:21 GMT" tweetId="1412758135299883010" urltweet="https://twitter.com/KenSmith/status/1412758135299883010" inReplyToId="" tweetUserName="KenSmith" />
+ “..significant vandalism over many years within and beyond the building..demonstrated disrespect for University officials, deliberate disregard for University COVID-19 testing protocols..” &lt;a href=&quot;https://magazine.nd.edu/stories/zahm-hall-ends-its-84-year-run-as-a-traditional-residence-hall/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 12:59:21 GMT" tweetId="1412758135299883010" urltweet="https://twitter.com/KenSmith/status/1412758135299883010" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="Story I heard.
@@ -44,7 +47,7 @@ No hands raised.
 
 “Very well,” he said, “I shall refute myself.”
 
-And he explored weaknesses in his argument." type="tweet" created="Tue, 06 Jul 2021 17:23:28 GMT" tweetId="1412462212489359360" urltweet="https://twitter.com/KenSmith/status/1412462212489359360" inReplyToId="" tweetUserName="KenSmith" />
+And he explored weaknesses in his argument." type="tweet" created="Tue, 06 Jul 2021 17:23:28 GMT" tweetId="1412462212489359360" urltweet="https://twitter.com/KenSmith/status/1412462212489359360" tweetUserName="KenSmith" />
 				<outline text="Story I heard.
 
 Gadamer, nearing 100 years of age, frail at the podium, lectured in Boston. Finishing, he offered to take questions.
@@ -55,10 +58,10 @@ No hands were raised.
 
 “Very well,” he said, “I shall refute myself.”
 
-And explored weaknesses in his argument." type="tweet" created="Tue, 06 Jul 2021 17:21:55 GMT" tweetId="1412461822683275267" urltweet="https://twitter.com/KenSmith/status/1412461822683275267" inReplyToId="" tweetUserName="KenSmith" />
+And explored weaknesses in his argument." type="tweet" created="Tue, 06 Jul 2021 17:21:55 GMT" tweetId="1412461822683275267" urltweet="https://twitter.com/KenSmith/status/1412461822683275267" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 5" type="calendarDay" name="05" >
-				<outline text="In 1852, Frederick Douglass spoke about what the 4th of July meant to an enslaved person. &lt;a href=&quot;https://twitter.com/edgeofsports/status/1411677339893780480&quot;&gt;[link]&lt;/a&gt; https://t.co/jng08n7vs2" type="tweet" created="Tue, 06 Jul 2021 00:04:52 GMT" tweetId="1412200838727151618" urltweet="https://twitter.com/KenSmith/status/1412200838727151618" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="In 1852, Frederick Douglass spoke about what the 4th of July meant to an enslaved person. &lt;a href=&quot;https://twitter.com/edgeofsports/status/1411677339893780480&quot;&gt;[link]&lt;/a&gt; https://t.co/jng08n7vs2" type="tweet" created="Tue, 06 Jul 2021 00:04:52 GMT" tweetId="1412200838727151618" urltweet="https://twitter.com/KenSmith/status/1412200838727151618" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 2" type="calendarDay" name="02" >
 				<outline text="Note to self. &lt;a href=&quot;https://twitter.com/KenSmith/status/1411127471186059265/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 00:59:41 GMT" tweetId="1411127471186059265" urltweet="https://twitter.com/KenSmith/status/1411127471186059265" tweetUserName="KenSmith" />
