@@ -7,13 +7,16 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 09 Jul 2021 16:12:52 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 16:09:55 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 11" type="calendarDay" name="11" >
+				<outline text="Thanks for trying us! &lt;a href=&quot;https://twitter.com/xllora/status/1414247446356668418&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 16:09:00 GMT" tweetId="1414255410194747395" urltweet="https://twitter.com/logseq/status/1414255410194747395" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
-				<outline text="page search preview thanks to @pengx17 &lt;a href=&quot;https://twitter.com/logseq/status/1413527639537577993&quot;&gt;[link]&lt;/a&gt; https://t.co/QnGaCH4xLh" type="tweet" created="Fri, 09 Jul 2021 16:12:31 GMT" tweetId="1413531522309652485" urltweet="https://twitter.com/logseq/status/1413531522309652485" inReplyToId="" tweetUserName="logseq" />
-				<outline text="a quick demo of the revamped graph which works well with huge repo! &lt;a href=&quot;https://twitter.com/logseq/status/1413527639537577993&quot;&gt;[link]&lt;/a&gt; https://t.co/u8mBGhkdPB" type="tweet" created="Fri, 09 Jul 2021 15:59:52 GMT" tweetId="1413528337423618050" urltweet="https://twitter.com/logseq/status/1413528337423618050" inReplyToId="" tweetUserName="logseq" />
+				<outline text="page search preview thanks to @pengx17 &lt;a href=&quot;https://twitter.com/logseq/status/1413527639537577993&quot;&gt;[link]&lt;/a&gt; https://t.co/QnGaCH4xLh" type="tweet" created="Fri, 09 Jul 2021 16:12:31 GMT" tweetId="1413531522309652485" urltweet="https://twitter.com/logseq/status/1413531522309652485" tweetUserName="logseq" />
+				<outline text="a quick demo of the revamped graph which works well with huge repo! &lt;a href=&quot;https://twitter.com/logseq/status/1413527639537577993&quot;&gt;[link]&lt;/a&gt; https://t.co/u8mBGhkdPB" type="tweet" created="Fri, 09 Jul 2021 15:59:52 GMT" tweetId="1413528337423618050" urltweet="https://twitter.com/logseq/status/1413528337423618050" tweetUserName="logseq" />
 				<outline text="Logseqers! Good Friday and 0.2.3 is just out!
 Some highlights:
 1. new shiny graph
@@ -23,20 +26,20 @@ Some highlights:
 5. new frameless look for desktop mac
 
 full changelog:
-&lt;a href=&quot;https://logseq.github.io/#/page/60e81184-6ec6-46fe-8456-5bb2480ab32c&quot;&gt;[link]&lt;/a&gt; https://t.co/z51mlyNyMN" type="tweet" created="Fri, 09 Jul 2021 15:57:05 GMT" tweetId="1413527639537577993" urltweet="https://twitter.com/logseq/status/1413527639537577993" inReplyToId="" tweetUserName="logseq" />
+&lt;a href=&quot;https://logseq.github.io/#/page/60e81184-6ec6-46fe-8456-5bb2480ab32c&quot;&gt;[link]&lt;/a&gt; https://t.co/z51mlyNyMN" type="tweet" created="Fri, 09 Jul 2021 15:57:05 GMT" tweetId="1413527639537577993" urltweet="https://twitter.com/logseq/status/1413527639537577993" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="Hi everyone, the beautiful queries and indentation from @OneStuttering! 🥳🥳
-&lt;a href=&quot;https://www.youtube.com/watch?v=qQ8DzumRZkM&amp;ab_channel=OneStutteringMind&quot;&gt;[link]&lt;/a&gt; https://t.co/46ji2kk9Wn" type="tweet" created="Tue, 06 Jul 2021 05:56:48 GMT" tweetId="1412289406342373393" urltweet="https://twitter.com/logseq/status/1412289406342373393" inReplyToId="" tweetUserName="logseq" />
+&lt;a href=&quot;https://www.youtube.com/watch?v=qQ8DzumRZkM&amp;ab_channel=OneStutteringMind&quot;&gt;[link]&lt;/a&gt; https://t.co/46ji2kk9Wn" type="tweet" created="Tue, 06 Jul 2021 05:56:48 GMT" tweetId="1412289406342373393" urltweet="https://twitter.com/logseq/status/1412289406342373393" tweetUserName="logseq" />
 				<outline text="@thezjy1 just uploaded a video on how to publish your logseq graph to the GitHub page! If you built a digital garden with Logseq, feel free to add yours to our community gardens &lt;a href=&quot;https://github.com/logseq/awesome-logseq#community-knowledge-gardens&quot;&gt;[link]&lt;/a&gt;
 
 https://t.co/CKs9hfDNTA
 
 The documentation link:
-https://t.co/ZO72aypO9w" type="tweet" created="Tue, 06 Jul 2021 05:29:22 GMT" tweetId="1412282503595847680" urltweet="https://twitter.com/logseq/status/1412282503595847680" inReplyToId="" tweetUserName="logseq" />
+https://t.co/ZO72aypO9w" type="tweet" created="Tue, 06 Jul 2021 05:29:22 GMT" tweetId="1412282503595847680" urltweet="https://twitter.com/logseq/status/1412282503595847680" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 5" type="calendarDay" name="05" >
-				<outline text="Looks great! &lt;a href=&quot;https://twitter.com/manojnayak/status/1411697632083275785&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 13:40:03 GMT" tweetId="1412043601907884036" urltweet="https://twitter.com/logseq/status/1412043601907884036" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Looks great! &lt;a href=&quot;https://twitter.com/manojnayak/status/1411697632083275785&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 05 Jul 2021 13:40:03 GMT" tweetId="1412043601907884036" urltweet="https://twitter.com/logseq/status/1412043601907884036" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 2" type="calendarDay" name="02" >
 				<outline text="Wow, this website is published using Logseq! &lt;a href=&quot;https://twitter.com/Oscillations_1/status/1410961915157811206&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 15:39:21 GMT" tweetId="1410986460040208384" urltweet="https://twitter.com/logseq/status/1410986460040208384" tweetUserName="logseq" />
