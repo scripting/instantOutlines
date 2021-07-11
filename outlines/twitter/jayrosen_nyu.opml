@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 21:47:20 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 18:38:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 11" type="calendarDay" name="11" >
+				<outline text="Newspapers like the @LAtimes (and others) have been apologizing for their racist past. I recommend @BrentNYT's interpretation of what's going on with that. &lt;a href=&quot;https://www.nytimes.com/2021/07/10/opinion/sunday/white-newspapers-african-americans.html&quot;&gt;[link]&lt;/a&gt; https://t.co/HPjqfYxfGw" type="tweet" created="Sun, 11 Jul 2021 18:37:24 GMT" tweetId="1414292756365824006" urltweet="https://twitter.com/jayrosen_nyu/status/1414292756365824006" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 10" type="calendarDay" name="10" >
 				<outline text="&quot;As a paid product, though, it’s now part of a giant content muddle. If you’ve decided you’re willing to pay for online news, why would you pick USA Today over the Post or Times — or over your local daily?&quot; &lt;a href=&quot;https://www.niemanlab.org/2021/07/usa-today-is-getting-a-paywall-whos-the-audience-for-it/&quot;&gt;[link]&lt;/a&gt;
 
