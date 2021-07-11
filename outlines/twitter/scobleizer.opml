@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 03:41:03 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 03:46:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -16,7 +16,9 @@
 
 But first I would get my @MojoVisionInc’s contact lens which puts a TV onto the surface of your eyes.
 
-This is why I can’t stand audio purists who say Spatial Audio is evil." type="tweet" created="Sun, 11 Jul 2021 03:41:00 GMT" tweetId="1414067172196765698" urltweet="https://twitter.com/scobleizer/status/1414067172196765698" inReplyToId="" tweetUserName="scobleizer" />
+This is why I can’t stand audio purists who say Spatial Audio is evil." type="tweet" created="Sun, 11 Jul 2021 03:41:00 GMT" tweetId="1414067172196765698" urltweet="https://twitter.com/scobleizer/status/1414067172196765698" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="My ears LOVE Spatial Audio from Apple." type="tweet" created="Sun, 11 Jul 2021 03:45:57 GMT" tweetId="1414068416076410886" urltweet="https://twitter.com/scobleizer/status/1414068416076410886" inReplyToId="1414067172196765698" tweetUserName="scobleizer" />
+					</outline>
 				<outline text="Yoke haters are wrong. Sat in a Plaid today. Stuff that made no sense last year." type="tweet" created="Sat, 10 Jul 2021 05:35:21 GMT" tweetId="1413733563048947716" urltweet="https://twitter.com/scobleizer/status/1413733563048947716" tweetUserName="scobleizer" />
 				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
