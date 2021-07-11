@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 01:02:19 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 01:04:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -31,7 +31,13 @@ They are fun to watch, quick, and easy to engage with. No fluff." type="tweet" c
 
 A quick set of MCQ knowledge testing questions to reflect on the material. Testing for short-term retention helps to promote focus, and consolidation to longer term storage. 
 
-What would be reallyyyyy nice would be integration with some sort of SRS tool, like Orbit." type="tweet" created="Sun, 11 Jul 2021 01:01:54 GMT" tweetId="1414027132444061699" urltweet="https://twitter.com/brandontoner/status/1414027132444061699" inReplyToId="1414026708039184386" tweetUserName="brandontoner" />
+What would be reallyyyyy nice would be integration with some sort of SRS tool, like Orbit." type="tweet" created="Sun, 11 Jul 2021 01:01:54 GMT" tweetId="1414027132444061699" urltweet="https://twitter.com/brandontoner/status/1414027132444061699" inReplyToId="1414026708039184386" tweetUserName="brandontoner" >
+								<outline text="Dig Deeper
+
+A densely linked description of the contents, with plenty of rabbit holes to jump into. 
+
+This section is AWESOME. I could spend hours navigating through these links on different videos. &lt;a href=&quot;https://twitter.com/brandontoner/status/1414027538008051713/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 01:03:31 GMT" tweetId="1414027538008051713" urltweet="https://twitter.com/brandontoner/status/1414027538008051713" inReplyToId="1414027132444061699" tweetUserName="brandontoner" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
