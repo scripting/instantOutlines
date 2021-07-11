@@ -12,14 +12,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 23:37:59 GMT</dateModified>
-		<expansionState>1,2,4,14,17,21,26,31,37,42,48,50,59,62,66,73,77,78</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 11 Jul 2021 16:48:27 GMT</dateModified>
+		<expansionState>1,2,3,5,7,17,20,24,29,34,40,45,51,53,62,65,69,76,80,81</expansionState>
+		<lastCursor>3</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 11" created="Sun, 11 Jul 2021 16:45:48 GMT" type="calendarDay" name="11" >
+				<outline text="Edward Hopper" created="Sun, 11 Jul 2021 16:45:49 GMT" type="outline" >
+					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/adam-s-house&quot;&gt;Adam's house&lt;/a&gt;, 1928." created="Sun, 11 Jul 2021 16:45:52 GMT" inlineImage="http://scripting.com/images/2021/07/11/adamsHouse.png" />
+					</outline>
+				</outline>
 			<outline text="July 10" created="Sat, 10 Jul 2021 14:52:08 GMT" type="calendarDay" name="10" >
 				<outline text="It'd be interesting to have a list of pubs that don't have a &lt;a href=&quot;https://www.niemanlab.org/2021/07/usa-today-is-getting-a-paywall-whos-the-audience-for-it/&quot;&gt;paywall&lt;/a&gt;." created="Sat, 10 Jul 2021 23:37:27 GMT" type="outline" />
 				<outline text="The Oatmeal and RSS" created="Sat, 10 Jul 2021 14:52:09 GMT" type="outline" description="RSS could be fun again if people would work with each other. " >
