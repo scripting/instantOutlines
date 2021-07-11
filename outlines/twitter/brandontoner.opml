@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 01:04:20 GMT</dateModified>
+		<dateModified>Sun, 11 Jul 2021 01:05:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -36,7 +36,13 @@ What would be reallyyyyy nice would be integration with some sort of SRS tool, l
 
 A densely linked description of the contents, with plenty of rabbit holes to jump into. 
 
-This section is AWESOME. I could spend hours navigating through these links on different videos. &lt;a href=&quot;https://twitter.com/brandontoner/status/1414027538008051713/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 01:03:31 GMT" tweetId="1414027538008051713" urltweet="https://twitter.com/brandontoner/status/1414027538008051713" inReplyToId="1414027132444061699" tweetUserName="brandontoner" />
+This section is AWESOME. I could spend hours navigating through these links on different videos. &lt;a href=&quot;https://twitter.com/brandontoner/status/1414027538008051713/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 01:03:31 GMT" tweetId="1414027538008051713" urltweet="https://twitter.com/brandontoner/status/1414027538008051713" inReplyToId="1414027132444061699" tweetUserName="brandontoner" >
+									<outline text="Discuss
+
+A chance to reflect on the material and interact with others. Divided into guided and open discussions. 
+
+Pretty cool if that’s your jam — though I’d prefer taking the convo to Twitter, since Twitter is the ultimate discussion board." type="tweet" created="Sun, 11 Jul 2021 01:05:16 GMT" tweetId="1414027981723406345" urltweet="https://twitter.com/brandontoner/status/1414027981723406345" inReplyToId="1414027538008051713" tweetUserName="brandontoner" />
+									</outline>
 								</outline>
 							</outline>
 						</outline>
