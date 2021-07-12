@@ -12,9 +12,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 12 Jul 2021 13:55:22 GMT</dateModified>
-		<expansionState>1,2,3,5,13,18,20,22,24,34,37,41,46,51,57,62,68,70,79,82,86,93,97,98</expansionState>
-		<lastCursor>11</lastCursor>
+		<dateModified>Mon, 12 Jul 2021 13:56:06 GMT</dateModified>
+		<expansionState>1,2,3,12,17,19,21,23,33,36,40,45,50,56,61,67,69,78,81,85,92,96,97</expansionState>
+		<lastCursor>4</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
@@ -23,9 +23,7 @@
 			<outline text="July 12" created="Mon, 12 Jul 2021 13:40:08 GMT" type="calendarDay" name="12" >
 				<outline text="How my apps do storage" created="Mon, 12 Jul 2021 13:40:09 GMT" type="outline" >
 					<outline text="This is a technical post, written in response to a tweet from Logseq. I'm putting it here to get it on the record as part of the story. If you don't grok this, as with anything else here, please skip to the next bit. Still diggin! ;-)" created="Mon, 12 Jul 2021 13:40:12 GMT" />
-					<outline text="This is the API I use to access my storage system." created="Mon, 12 Jul 2021 13:41:10 GMT" >
-						<outline text="https://github.com/scripting/nodeStorage/blob/master/api.js" created="Mon, 12 Jul 2021 13:41:18 GMT" type="link" url="https://github.com/scripting/nodeStorage/blob/master/api.js" />
-						</outline>
+					<outline text="This is &lt;a href=&quot;https://github.com/scripting/nodeStorage/blob/master/api.js&quot;&gt;the API&lt;/a&gt; I use to access my storage system." created="Mon, 12 Jul 2021 13:41:10 GMT" />
 					<outline text="The names begin with &quot;tw&quot; because I use Twitter for identity, so initially thought of these as twitter ops." />
 					<outline text="If you scroll to the &lt;a href=&quot;https://github.com/scripting/nodeStorage/blob/master/api.js#L1195&quot;&gt;bottom of the file&lt;/a&gt; you'll see a &lt;i&gt;nodeStorageApp&lt;/i&gt; function which is how my apps are organized to access the storage system." created="Mon, 12 Jul 2021 13:41:59 GMT" />
 					<outline text="The first implementation was in 2014, it was an NPM package called &lt;a href=&quot;https://github.com/scripting/nodeStorage&quot;&gt;nodeStorage&lt;/a&gt;. " created="Mon, 12 Jul 2021 13:54:23 GMT" />
