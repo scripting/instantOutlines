@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 23:21:31 GMT</dateModified>
+		<dateModified>Mon, 12 Jul 2021 04:17:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="Ominous sign. &lt;a href=&quot;https://www.latimes.com/politics/story/2021-07-11/katie-porter-town-hall-irvine-scuffle&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 04:17:44 GMT" tweetId="1414438805319340035" urltweet="https://twitter.com/jayrosen_nyu/status/1414438805319340035" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 11" type="calendarDay" name="11" >
 				<outline text="None of the networks that broadcast live today the “Virgin Galactic Launches Richard Branson Into Space” story persuaded me that this was break-into-regular-programming news. The event remained at infomercial level." type="tweet" created="Sun, 11 Jul 2021 23:20:48 GMT" tweetId="1414364079951654912" urltweet="https://twitter.com/jayrosen_nyu/status/1414364079951654912" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Newspapers like the @LAtimes (and others) have been apologizing for their racist past. I recommend @BrentNYT's interpretation of what's going on with that. &lt;a href=&quot;https://www.nytimes.com/2021/07/10/opinion/sunday/white-newspapers-african-americans.html&quot;&gt;[link]&lt;/a&gt; https://t.co/HPjqfYxfGw" type="tweet" created="Sun, 11 Jul 2021 18:37:24 GMT" tweetId="1414292756365824006" urltweet="https://twitter.com/jayrosen_nyu/status/1414292756365824006" inReplyToId="" tweetUserName="jayrosen_nyu" />
