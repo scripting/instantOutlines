@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 10 Jul 2021 18:46:45 GMT</dateModified>
+		<dateModified>Mon, 12 Jul 2021 13:04:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="I wrote about Facebook’s (very late) efforts to court creators w/ @MikeIsaac &lt;a href=&quot;https://www.nytimes.com/2021/07/12/technology/facebook-creators-tiktok-youtube.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 13:03:30 GMT" tweetId="1414571116144828421" urltweet="https://twitter.com/taylorlorenz/status/1414571116144828421" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 10" type="calendarDay" name="10" >
 				<outline text="“Reality TV but MORE real with MORE content, 24/7” is a good way to describe what the internet has become as creators become more dominate. Another good breakdown by @kattenbarge &lt;a href=&quot;https://twitter.com/kattenbarge/status/1413929235262197766&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 18:46:28 GMT" tweetId="1413932654098059269" urltweet="https://twitter.com/taylorlorenz/status/1413932654098059269" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="The quote tweets on this are wild, it’s very common to get a celeb to do red carpet Qs! This takes place often at award shows and other events. &lt;a href=&quot;https://twitter.com/whoisaddison/status/1413656072678641664&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 10 Jul 2021 12:54:03 GMT" tweetId="1413843965237997569" urltweet="https://twitter.com/taylorlorenz/status/1413843965237997569" tweetUserName="taylorlorenz" >
