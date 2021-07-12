@@ -7,11 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Mon, 12 Jul 2021 07:17:43 GMT</dateModified>
+		<dateModified>Mon, 12 Jul 2021 08:54:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="For Markdown users, you can use @obsdmd's new mobile app with Logseq now, congrats!🎊
+&lt;a href=&quot;https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185&quot;&gt;[link]&lt;/a&gt; https://t.co/ffzlEIoAdA" type="tweet" created="Mon, 12 Jul 2021 08:53:11 GMT" tweetId="1414508125172822019" urltweet="https://twitter.com/logseq/status/1414508125172822019" inReplyToId="" tweetUserName="logseq" />
 				<outline text="It turns out Logseq is on GitHub trending now! 😱
 &lt;a href=&quot;https://github.com/trending&quot;&gt;[link]&lt;/a&gt; https://t.co/lShKMmcff0" type="tweet" created="Mon, 12 Jul 2021 07:17:34 GMT" tweetId="1414484059049238530" urltweet="https://twitter.com/logseq/status/1414484059049238530" inReplyToId="" tweetUserName="logseq" />
 				<outline text="We hope the community can bring the GitHub integration as a plugin in the future. In the meanwhile, we'll open-source the existing backend code this month for those users who'd like to self-host. &lt;a href=&quot;https://twitter.com/kunalbhalla/status/1414289513300512769&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 06:36:20 GMT" tweetId="1414473682953531392" urltweet="https://twitter.com/logseq/status/1414473682953531392" inReplyToId="" tweetUserName="logseq" />
