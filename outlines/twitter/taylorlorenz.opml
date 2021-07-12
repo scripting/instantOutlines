@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 12 Jul 2021 14:06:26 GMT</dateModified>
+		<dateModified>Mon, 12 Jul 2021 14:07:26 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="I’m back baby &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1414587156165713925/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 14:07:14 GMT" tweetId="1414587156165713925" urltweet="https://twitter.com/taylorlorenz/status/1414587156165713925" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Absolute legends here 👇🏻 &lt;a href=&quot;https://twitter.com/sheeraf/status/1414585818308567041&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 14:06:16 GMT" tweetId="1414586912300482561" urltweet="https://twitter.com/taylorlorenz/status/1414586912300482561" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I wrote about Facebook’s (very late) efforts to court creators w/ @MikeIsaac &lt;a href=&quot;https://www.nytimes.com/2021/07/12/technology/facebook-creators-tiktok-youtube.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 13:03:30 GMT" tweetId="1414571116144828421" urltweet="https://twitter.com/taylorlorenz/status/1414571116144828421" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="👇🏻 Just educating creators on their product is going to be important as FB pushes into this space &lt;a href=&quot;https://twitter.com/kevinbparry/status/1414573406339706881&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 13:14:22 GMT" tweetId="1414573852869505024" urltweet="https://twitter.com/taylorlorenz/status/1414573852869505024" inReplyToId="1414571116144828421" tweetUserName="taylorlorenz" />
