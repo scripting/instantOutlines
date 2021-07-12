@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 12 Jul 2021 18:09:14 GMT</dateModified>
+		<dateModified>Mon, 12 Jul 2021 18:32:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="“People’s worst fears about the app come true.” &lt;a href=&quot;https://twitter.com/lmatsakis/status/1414600925453459462&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 18:31:24 GMT" tweetId="1414653637800964096" urltweet="https://twitter.com/taylorlorenz/status/1414653637800964096" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Had a great time teaming up with @MikeIsaac on this one! &lt;a href=&quot;https://www.nytimes.com/2021/07/12/technology/facebook-creators-tiktok-youtube.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 18:08:40 GMT" tweetId="1414647913347698699" urltweet="https://twitter.com/taylorlorenz/status/1414647913347698699" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is true! I’ve never been a great writer, but if you’re excellent at uncovering new information and reporting things out, you don’t have to be the most beautiful writer in the room.☺️ &lt;a href=&quot;https://twitter.com/bonazoulay/status/1414603521467498497&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 15:18:17 GMT" tweetId="1414605036626268161" urltweet="https://twitter.com/taylorlorenz/status/1414605036626268161" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;Isn’t the world much more exciting now that Caroline Calloway could be waiting inside any given bar, waiting to pour Snake Oil on your face?&quot; @kathrynfiona  &lt;a href=&quot;https://embedded.substack.com/p/some-news-our-paid-launch-caroline&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 14:52:49 GMT" tweetId="1414598627956244484" urltweet="https://twitter.com/taylorlorenz/status/1414598627956244484" inReplyToId="" tweetUserName="taylorlorenz" />
