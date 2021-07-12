@@ -12,16 +12,31 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 23:31:50 GMT</dateModified>
-		<expansionState>1,2,6,8,10,12,22,25,29,34,39,45,50,56,58,67,70,74,81,85,86</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Mon, 12 Jul 2021 13:55:22 GMT</dateModified>
+		<expansionState>1,2,3,5,13,18,20,22,24,34,37,41,46,51,57,62,68,70,79,82,86,93,97,98</expansionState>
+		<lastCursor>11</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 12" created="Mon, 12 Jul 2021 13:40:08 GMT" type="calendarDay" name="12" >
+				<outline text="How my apps do storage" created="Mon, 12 Jul 2021 13:40:09 GMT" type="outline" >
+					<outline text="This is a technical post, written in response to a tweet from Logseq. I'm putting it here to get it on the record as part of the story. If you don't grok this, as with anything else here, please skip to the next bit. Still diggin! ;-)" created="Mon, 12 Jul 2021 13:40:12 GMT" />
+					<outline text="This is the API I use to access my storage system." created="Mon, 12 Jul 2021 13:41:10 GMT" >
+						<outline text="https://github.com/scripting/nodeStorage/blob/master/api.js" created="Mon, 12 Jul 2021 13:41:18 GMT" type="link" url="https://github.com/scripting/nodeStorage/blob/master/api.js" />
+						</outline>
+					<outline text="The names begin with &quot;tw&quot; because I use Twitter for identity, so initially thought of these as twitter ops." />
+					<outline text="If you scroll to the &lt;a href=&quot;https://github.com/scripting/nodeStorage/blob/master/api.js#L1195&quot;&gt;bottom of the file&lt;/a&gt; you'll see a &lt;i&gt;nodeStorageApp&lt;/i&gt; function which is how my apps are organized to access the storage system." created="Mon, 12 Jul 2021 13:41:59 GMT" />
+					<outline text="The first implementation was in 2014, it was an NPM package called &lt;a href=&quot;https://github.com/scripting/nodeStorage&quot;&gt;nodeStorage&lt;/a&gt;. " created="Mon, 12 Jul 2021 13:54:23 GMT" />
+					<outline text="In 2020, I came up with a smaller, more streamlined package called &lt;a href=&quot;https://github.com/scripting/appServer&quot;&gt;daveAppServer&lt;/a&gt; that I've been using for all my latest projects. Key point -- it supports the same API as nodeStorage. I like to do things that way. It's also a proof of concept that it's possible to put another server behind the API. This will probably be necessary at some point to augment or replace Twitter as the identity system." created="Mon, 12 Jul 2021 13:42:11 GMT" />
+					<outline text="I'm very much thinking about &lt;a href=&quot;http://scripting.com/2021/07/09/142855.html?title=drummerForPoets&quot;&gt;Drummer for Poets&lt;/a&gt; where not-very-technical users can run their own servers." created="Mon, 12 Jul 2021 13:42:40 GMT" />
+					<outline text="Just wanted you to know how I do storage. ;-)" created="Mon, 12 Jul 2021 13:55:21 GMT" />
+					</outline>
+				</outline>
 			<outline text="July 11" created="Sun, 11 Jul 2021 16:45:48 GMT" type="calendarDay" name="11" >
 				<outline text="&lt;a href=&quot;https://twitter.com/markgraham&quot;&gt;Mark Graham&lt;/a&gt; who works at archive.org &lt;a href=&quot;https://twitter.com/MarkGraham/status/1414217978778988547&quot;&gt;reports&lt;/a&gt; that they've fixed a playback issue with &lt;a href=&quot;https://web.archive.org/web/20210702040625/http://scripting.com/&quot;&gt;their rendering&lt;/a&gt; of &quot;Scripting News&quot;. I &lt;a href=&quot;http://scripting.com/2021/07/01.html#a123740&quot;&gt;wrote&lt;/a&gt; about &lt;a href=&quot;http://scripting.com/2021/06/29.html#a131345&quot;&gt;this&lt;/a&gt; previously. That's great news. Thanks for persevering! :smile: " created="Sun, 11 Jul 2021 16:50:05 GMT" type="outline" />
+				<outline text="Click &lt;a href=&quot;https://web.archive.org/web/20210711041927/http://scripting.com/&quot;&gt;this link&lt;/a&gt; to see the latest capture of the home page of my blog." created="Sun, 11 Jul 2021 23:35:15 GMT" type="outline" />
 				<outline text="The US can print as much money as we like, and the world will send us real products and services. So stop complaining about how much money Jeff Bezos has. We have orders of magnitude more. Get our shit together and win more elections, soon, we can do anything." created="Sun, 11 Jul 2021 23:30:59 GMT" type="outline" />
 				<outline text="When we're successful with &lt;a href=&quot;https://twitter.com/hashtag/toolsforthought?src=hashtag_click&quot;&gt;#toolsforthought&lt;/a&gt;, you will be able to write beautiful rendering software, and have it work with *every* notetaking tool. Much as an RSS feed isn't for any specific news reader, they can all read every feed. We will do the same for idea processing tools. " created="Sun, 11 Jul 2021 17:04:43 GMT" type="outline" />
 				<outline text="Rick Smolan" created="Sun, 11 Jul 2021 23:26:22 GMT" type="outline" >
