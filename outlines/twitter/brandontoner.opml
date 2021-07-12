@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 01:05:20 GMT</dateModified>
+		<dateModified>Mon, 12 Jul 2021 01:17:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 11" type="calendarDay" name="11" >
+				<outline text="How have I gone this long without learning the Mac command line?? 
+
+This is fun." type="tweet" created="Mon, 12 Jul 2021 01:16:52 GMT" tweetId="1414393286505209857" urltweet="https://twitter.com/brandontoner/status/1414393286505209857" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
 			<outline text="July 10" type="calendarDay" name="10" >
 				<outline text="Loving TedEd’s user experience. 
 
