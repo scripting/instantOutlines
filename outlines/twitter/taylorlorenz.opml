@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 22:16:42 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 22:29:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="DefNoodles, a popular drama/tea account that documents influencer news, is currently suspended &lt;a href=&quot;https://twitter.com/banishedjourno/status/1415064280664137728&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 22:29:30 GMT" tweetId="1415075943438340099" urltweet="https://twitter.com/taylorlorenz/status/1415075943438340099" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is an awesome gig I would have jumped at when I was freelance! Check it out &lt;a href=&quot;https://twitter.com/markyarm/status/1415010763031339022&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 22:16:24 GMT" tweetId="1415072648418242563" urltweet="https://twitter.com/taylorlorenz/status/1415072648418242563" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Another absolutely wild story by @IAmAsarch &lt;a href=&quot;https://twitter.com/iamasarch/status/1415049836387348481&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 21:01:37 GMT" tweetId="1415053827225554949" urltweet="https://twitter.com/taylorlorenz/status/1415053827225554949" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text=".@IAmAsarch has an expert ability to break down niche community drama &lt;a href=&quot;https://www.businessinsider.com/bbw-pearadise-body-postive-tiktok-stefan-wilhelmy-sue-women-defamation-2021-7&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 21:03:03 GMT" tweetId="1415054189017894919" urltweet="https://twitter.com/taylorlorenz/status/1415054189017894919" inReplyToId="1415053827225554949" tweetUserName="taylorlorenz" />
