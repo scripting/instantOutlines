@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 13 Jul 2021 12:38:52 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 12:53:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="New study finds 26 negative effects of marijuana use. &lt;a href=&quot;https://bigthink.com/surprising-science/negative-weed-effects?rebelltitem=3#rebelltitem3&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 12:53:28 GMT" tweetId="1414930979215527944" urltweet="https://twitter.com/davewiner/status/1414930979215527944" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I think the best approach to solving our problems is to spread the gospel of journalism, to everyone who wants to learn. Teach elementary school students. Make a semester of journalism required for all college grads. Teach senior citizens how to do good journalism. &lt;a href=&quot;https://twitter.com/pilhofer/status/1414907210451324936&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 12:38:27 GMT" tweetId="1414927201309544450" urltweet="https://twitter.com/davewiner/status/1414927201309544450" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Why Do Electric Cars Look The Way They Do? Because They Can. &lt;a href=&quot;https://www.caranddriver.com/features/a36877554/electric-vehicles-design-future/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 07:42:45 GMT" tweetId="1414852783891746819" urltweet="https://twitter.com/davewiner/status/1414852783891746819" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
