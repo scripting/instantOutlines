@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 12:59:08 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 13:21:26 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,6 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 13" created="Tue, 13 Jul 2021 12:30:43 GMT" type="calendarDay" name="13" >
+				<outline text="We're finding that the &quot;logseq&quot; people and I have the same values re software and users. In yesterday's Twitter thread, they asked what would be the &lt;a href=&quot;https://twitter.com/logseq/status/1414588756389023744&quot;&gt;perfect storage system&lt;/a&gt;. I said: &quot;my answer, for now, is &lt;a href=&quot;https://www.npmjs.com/package/daveappserver&quot;&gt;daveappserver&lt;/a&gt;. But it isn't perfect, it's what we can do now that meets the criteria for now and the near future (the vision, the direction I want to go in). I think we share that. We want users to be as independent as possible, and to empower all levels of technical interest. I don't want the responsibility of keeping the world's ideas online. I want that distributed with rock-solid interop.&quot; I think that's about as concise a definition of why I do things the way I do them. As I was sure they would, the Logseq folk agreed. " created="Tue, 13 Jul 2021 13:16:09 GMT" type="outline" />
 				<outline text="The best approach to solving our problems is to spread the gospel of journalism, to everyone who wants to learn. Teach elementary school students. Make a semester of journalism required for all college grads. The model of journalism of the past no longer works. That's why lies are winning, people have no idea of the elements of good journalism.Teach senior citizens how to do good journalism." created="Tue, 13 Jul 2021 12:58:44 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/217&quot;&gt;Brandon Toner&lt;/a&gt; is trying to get &quot;PagePark&quot; running on his Ubuntu server at Digital Ocean. " created="Tue, 13 Jul 2021 12:30:44 GMT" type="outline" />
 				</outline>
