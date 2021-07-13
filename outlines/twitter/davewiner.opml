@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 13 Jul 2021 00:52:36 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 07:43:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="Why Do Electric Cars Look The Way They Do? Because They Can. &lt;a href=&quot;https://www.caranddriver.com/features/a36877554/electric-vehicles-design-future/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 07:42:45 GMT" tweetId="1414852783891746819" urltweet="https://twitter.com/davewiner/status/1414852783891746819" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="July 12" type="calendarDay" name="12" >
 				<outline text="This is imho a pretty good summary of the ethical responsibility of software developers. &lt;a href=&quot;https://twitter.com/davewiner/status/1414592091691302915&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 00:51:40 GMT" tweetId="1414749332327305217" urltweet="https://twitter.com/davewiner/status/1414749332327305217" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Landslide review: Michael Wolff’s third Trump book is his best – and most alarming. &lt;a href=&quot;https://www.theguardian.com/books/2021/jul/12/landslide-review-michael-wolff-donald-trump-book-&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 00:15:49 GMT" tweetId="1414740311218266113" urltweet="https://twitter.com/davewiner/status/1414740311218266113" inReplyToId="" tweetUserName="davewiner" />
