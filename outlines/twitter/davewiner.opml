@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 13 Jul 2021 13:52:02 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 14:10:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="Re #toolsforthought
+
+Here's a thesaurus-browser that's an outliner.
+
+https://t.co/MLc8HLyU6R
+
+Double-click on any word to see its synonyms." type="tweet" created="Tue, 13 Jul 2021 14:08:19 GMT" tweetId="1414949817822887937" urltweet="https://twitter.com/davewiner/status/1414949817822887937" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="GitHub, as a network storage system, just saved my ass.
 
 They've done something that Dropbox and Amazon have been unwilling to do -- they provide a simple signon for a free storage system that's accessible to users, far more so than S3. And Dropbox withdrew from this." type="tweet" created="Tue, 13 Jul 2021 13:51:16 GMT" tweetId="1414945524101287938" urltweet="https://twitter.com/davewiner/status/1414945524101287938" inReplyToId="" tweetUserName="davewiner" >
