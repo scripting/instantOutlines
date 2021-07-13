@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/AndySylvester99.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 22:10:49 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 17:46:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="January 2021" type="calendarMonth" name="january2021" >
@@ -15,6 +15,9 @@
 				</outline>
 			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="Booklist Browser app update: &lt;a href=&quot;https://andysylvester.com/2021/07/13/booklist-browser-app-update/&quot;&gt;[link]&lt;/a&gt; #FederatedBookshelves #LibraryJSON" type="tweet" created="Tue, 13 Jul 2021 17:46:26 GMT" tweetId="1415004709681733632" urltweet="https://twitter.com/AndySylvester99/status/1415004709681733632" inReplyToId="" tweetUserName="AndySylvester99" />
+				</outline>
 			<outline text="July 11" type="calendarDay" name="11" >
 				<outline text="This is a test. This is only a test." type="tweet" created="Sun, 11 Jul 2021 22:10:47 GMT" tweetId="1414346456916430848" urltweet="https://twitter.com/AndySylvester99/status/1414346456916430848" inReplyToId="" tweetUserName="AndySylvester99" />
 				</outline>
