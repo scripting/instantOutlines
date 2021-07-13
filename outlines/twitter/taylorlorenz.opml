@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 16:02:05 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 16:04:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="This is why I had to leave DC 😌 &lt;a href=&quot;https://twitter.com/ryanbeckwith/status/1414977704819105794&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 16:03:34 GMT" tweetId="1414978820529082382" urltweet="https://twitter.com/taylorlorenz/status/1414978820529082382" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="DC people are always on a 5 year culture delay &lt;a href=&quot;https://twitter.com/rubycramer/status/1414973101092315140&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 15:56:23 GMT" tweetId="1414977014101168130" urltweet="https://twitter.com/taylorlorenz/status/1414977014101168130" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="For those just learning about Olivia Rodrigo definitley check out @joecoscarelli's great Diary of a Song w/ her! &lt;a href=&quot;https://www.nytimes.com/2021/02/26/arts/music/olivia-rodrigo-drivers-license.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 16:01:27 GMT" tweetId="1414978286904619013" urltweet="https://twitter.com/taylorlorenz/status/1414978286904619013" inReplyToId="1414977014101168130" tweetUserName="taylorlorenz" />
 					</outline>
