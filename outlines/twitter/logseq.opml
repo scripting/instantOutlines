@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Tue, 13 Jul 2021 01:29:17 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 03:19:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="A good system is that we don't need to care where we write, and we can ask questions (queries) to get exactly what we need. That's one of the benefits of block-based (compared to files) and custom block properties. There's no limit on how you store and use your information! &lt;a href=&quot;https://twitter.com/ilmarsV/status/1414708312734580740&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 03:18:49 GMT" tweetId="1414786363099025408" urltweet="https://twitter.com/logseq/status/1414786363099025408" inReplyToId="" tweetUserName="logseq" />
 				<outline text="@douginamug thank you for your donation 🙏 - Your contribution means a lot to us!
 &lt;a href=&quot;https://opencollective.com/logseq&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 01:29:07 GMT" tweetId="1414758758098653188" urltweet="https://twitter.com/logseq/status/1414758758098653188" inReplyToId="" tweetUserName="logseq" />
 				<outline text="@davewiner Glad to join the &quot;Communication with a big C&quot;!
