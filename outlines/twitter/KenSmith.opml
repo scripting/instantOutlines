@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 11:03:58 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 15:54:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="“An unequal society is violent every day.” Brief thread. &lt;a href=&quot;https://twitter.com/rosebellk/status/1414924899269890066&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 15:53:02 GMT" tweetId="1414976168885882886" urltweet="https://twitter.com/KenSmith/status/1414976168885882886" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="The violence in a revolt shows vividly on news screens; the simmering, demeaning violence that precedes and provokes it makes a less dramatic broadcast, if it is, if it can be, broadcast at all. Thread. &lt;a href=&quot;https://twitter.com/rosebellk/status/1414845583525826562&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 11:03:33 GMT" tweetId="1414903316975431685" urltweet="https://twitter.com/KenSmith/status/1414903316975431685" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 11" type="calendarDay" name="11" >
