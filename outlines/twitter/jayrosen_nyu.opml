@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 02:26:24 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 15:14:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="The journalist's affection for colorful characters who give off memorable quotes and politicians who are open about their corruption — rather than sanctimonious and staid — is readable right off the surface of this obit. &lt;a href=&quot;https://www.nytimes.com/2021/07/12/us/politics/edwin-edwards-dead.html&quot;&gt;[link]&lt;/a&gt; No decoding necessary." type="tweet" created="Tue, 13 Jul 2021 15:13:49 GMT" tweetId="1414966298648498182" urltweet="https://twitter.com/jayrosen_nyu/status/1414966298648498182" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 12" type="calendarDay" name="12" >
 				<outline text="&quot;A two-party lens is the only way the news media knows how to cover Washington and, of course, elections,&quot; writes @JoeTrippi. But what if it isn't the right lens? &lt;a href=&quot;https://twitter.com/JohnJHarwood/status/1414746306652868611&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 02:25:27 GMT" tweetId="1414772935953375235" urltweet="https://twitter.com/jayrosen_nyu/status/1414772935953375235" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The editors at &lt;a href=&quot;https://www.cleveland.com/&quot;&gt;[link]&lt;/a&gt; (The Plain Dealer) decided they needed a new approach to &quot;covering political candidates who make false, irresponsible and potentially dangerous statements.&quot; Here's an update on how it's going. https://t.co/2c3cEjPCX7 https://t.co/tvvKx9mQkX" type="tweet" created="Mon, 12 Jul 2021 21:09:24 GMT" tweetId="1414693397835784197" urltweet="https://twitter.com/jayrosen_nyu/status/1414693397835784197" inReplyToId="" tweetUserName="jayrosen_nyu" />
