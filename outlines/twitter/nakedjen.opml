@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 11 Jul 2021 22:06:09 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 17:40:17 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/ql</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="Every single one of these women #savedmylife during the #pandemic with their exquisite acting abilities. They all have already won and I'm glad I do not have to vote. &lt;a href=&quot;https://twitter.com/TelevisionAcad/status/1414972998130434049&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 17:39:24 GMT" tweetId="1415002938011832321" urltweet="https://twitter.com/nakedjen/status/1415002938011832321" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
 			<outline text="July 11" type="calendarDay" name="11" >
 				<outline text="Denny's serves #vegan bacon.  Denny's.  Some day I will share my story of a 3 am stop at Denny's where I ended up rescuing a dog (that I later reunited with his owner), but for now...DENNY'S SERVES #VEGAN BACON!" type="tweet" created="Sun, 11 Jul 2021 22:05:27 GMT" tweetId="1414345115250794496" urltweet="https://twitter.com/nakedjen/status/1414345115250794496" inReplyToId="" tweetUserName="nakedjen" />
 				</outline>
