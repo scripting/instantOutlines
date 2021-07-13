@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 15:31:57 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 15:35:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="I spy @joshgondelman @jerm_cohen  the Green Lady and more on this @brooklynmag list of the 50 most fascinating people in Brooklyn &lt;a href=&quot;https://www.bkmag.com/brooklyns-50-most-fascinating/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 15:35:02 GMT" tweetId="1414971639096348684" urltweet="https://twitter.com/taylorlorenz/status/1414971639096348684" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@brooklynmag's 50 most fascinating people in Brooklyn is out! &lt;a href=&quot;https://www.bkmag.com/brooklyns-50-most-fascinating/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 15:31:47 GMT" tweetId="1414970821358112771" urltweet="https://twitter.com/taylorlorenz/status/1414970821358112771" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="July 12" type="calendarDay" name="12" >
