@@ -12,8 +12,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 12:31:16 GMT</dateModified>
-		<expansionState>1,2,4,5,14,19,21,23,25,35,38,42,47,52,58,63,69,71,80,83,87,94,98,99</expansionState>
+		<dateModified>Tue, 13 Jul 2021 12:59:08 GMT</dateModified>
+		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
@@ -21,6 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 13" created="Tue, 13 Jul 2021 12:30:43 GMT" type="calendarDay" name="13" >
+				<outline text="The best approach to solving our problems is to spread the gospel of journalism, to everyone who wants to learn. Teach elementary school students. Make a semester of journalism required for all college grads. The model of journalism of the past no longer works. That's why lies are winning, people have no idea of the elements of good journalism.Teach senior citizens how to do good journalism." created="Tue, 13 Jul 2021 12:58:44 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/217&quot;&gt;Brandon Toner&lt;/a&gt; is trying to get &quot;PagePark&quot; running on his Ubuntu server at Digital Ocean. " created="Tue, 13 Jul 2021 12:30:44 GMT" type="outline" />
 				</outline>
 			<outline text="July 12" created="Mon, 12 Jul 2021 13:40:08 GMT" type="calendarDay" name="12" >
