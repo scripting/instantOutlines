@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 13 Jul 2021 14:10:21 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 14:11:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
@@ -25,7 +25,11 @@ They've done something that Dropbox and Amazon have been unwilling to do -- they
 					<outline text="Software I'm working on has a bug and it deleted all my blog writing for the month of July. I had other sources, so I could have reconstructed the data (knock wood) but I didn't have to because there was a snapshot being saved on GitHub every time I publish." type="tweet" created="Tue, 13 Jul 2021 13:51:16 GMT" tweetId="1414945525191819289" urltweet="https://twitter.com/davewiner/status/1414945525191819289" inReplyToId="1414945524101287938" tweetUserName="davewiner" >
 						<outline text="I never thought of it as a backup, but there it was when I needed it. 
 
-Now I wonder if GitHub intends us to use this system as a user-controlled app storage system? It's an important question." type="tweet" created="Tue, 13 Jul 2021 13:51:16 GMT" tweetId="1414945526571806726" urltweet="https://twitter.com/davewiner/status/1414945526571806726" inReplyToId="1414945525191819289" tweetUserName="davewiner" />
+Now I wonder if GitHub intends us to use this system as a user-controlled app storage system? It's an important question." type="tweet" created="Tue, 13 Jul 2021 13:51:16 GMT" tweetId="1414945526571806726" urltweet="https://twitter.com/davewiner/status/1414945526571806726" inReplyToId="1414945525191819289" tweetUserName="davewiner" >
+							<outline text="Here's the blog post with links.
+
+https://t.co/HpXUbfvVH4" type="tweet" created="Tue, 13 Jul 2021 14:09:37 GMT" tweetId="1414950145213480968" urltweet="https://twitter.com/davewiner/status/1414950145213480968" inReplyToId="1414945526571806726" tweetUserName="davewiner" />
+							</outline>
 						</outline>
 					</outline>
 				<outline text="New study finds 26 negative effects of marijuana use. &lt;a href=&quot;https://bigthink.com/surprising-science/negative-weed-effects?rebelltitem=3#rebelltitem3&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 12:53:28 GMT" tweetId="1414930979215527944" urltweet="https://twitter.com/davewiner/status/1414930979215527944" inReplyToId="" tweetUserName="davewiner" />
