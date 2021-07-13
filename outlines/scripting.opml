@@ -12,14 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 12 Jul 2021 13:57:11 GMT</dateModified>
-		<expansionState>1,2,3,12,17,19,21,23,33,36,40,45,50,56,61,67,69,78,81,85,92,96,97</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 13 Jul 2021 12:31:16 GMT</dateModified>
+		<expansionState>1,2,4,5,14,19,21,23,25,35,38,42,47,52,58,63,69,71,80,83,87,94,98,99</expansionState>
+		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 13" created="Tue, 13 Jul 2021 12:30:43 GMT" type="calendarDay" name="13" >
+				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/217&quot;&gt;Brandon Toner&lt;/a&gt; is trying to get &quot;PagePark&quot; running on his Ubuntu server at Digital Ocean. " created="Tue, 13 Jul 2021 12:30:44 GMT" type="outline" />
+				</outline>
 			<outline text="July 12" created="Mon, 12 Jul 2021 13:40:08 GMT" type="calendarDay" name="12" >
 				<outline text="How my apps do storage" created="Mon, 12 Jul 2021 13:40:09 GMT" type="outline" >
 					<outline text="&lt;i&gt;This is a technical post, written in response to a &lt;a href=&quot;https://twitter.com/logseq/status/1414472093589114880&quot;&gt;tweet&lt;/a&gt; from Logseq. &lt;/i&gt;" created="Mon, 12 Jul 2021 13:40:12 GMT" />
