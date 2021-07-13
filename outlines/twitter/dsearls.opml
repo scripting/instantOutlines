@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 12 Jul 2021 12:46:07 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 01:10:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="Speaking of character &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/07/12/character/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 01:09:32 GMT" tweetId="1414753830156255232" urltweet="https://twitter.com/dsearls/status/1414753830156255232" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="In @hardaway's latest, some discoveries about #distance &lt;a href=&quot;https://francine.substack.com/p/new-zealand-not-as-far-from-phoenix&quot;&gt;[link]&lt;/a&gt;, among other interesting things. Brings to #antipodes https://t.co/rOaoEqhRv1 and the excellent maps you'll find when you click on the main one https://t.co/oe870HqYSO in @wikipedia." type="tweet" created="Mon, 12 Jul 2021 12:45:07 GMT" tweetId="1414566490532155393" urltweet="https://twitter.com/dsearls/status/1414566490532155393" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 9" type="calendarDay" name="09" >
