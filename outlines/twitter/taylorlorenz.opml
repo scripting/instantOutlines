@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 16:20:10 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 16:47:17 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="This video plays in my head once a day &lt;a href=&quot;https://twitter.com/calebsaysthings/status/1365776466810605569&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 16:47:01 GMT" tweetId="1414989755629117446" urltweet="https://twitter.com/taylorlorenz/status/1414989755629117446" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is why I had to leave DC 😌 &lt;a href=&quot;https://twitter.com/ryanbeckwith/status/1414977704819105794&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 16:03:34 GMT" tweetId="1414978820529082382" urltweet="https://twitter.com/taylorlorenz/status/1414978820529082382" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Jk it was to finally escape @swin24" type="tweet" created="Tue, 13 Jul 2021 16:19:25 GMT" tweetId="1414982807466790920" urltweet="https://twitter.com/taylorlorenz/status/1414982807466790920" inReplyToId="1414978820529082382" tweetUserName="taylorlorenz" />
 					</outline>
