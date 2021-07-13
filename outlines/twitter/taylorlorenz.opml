@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 12 Jul 2021 21:23:09 GMT</dateModified>
+		<dateModified>Tue, 13 Jul 2021 15:31:57 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text=".@brooklynmag's 50 most fascinating people in Brooklyn is out! &lt;a href=&quot;https://www.bkmag.com/brooklyns-50-most-fascinating/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 15:31:47 GMT" tweetId="1414970821358112771" urltweet="https://twitter.com/taylorlorenz/status/1414970821358112771" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 12" type="calendarDay" name="12" >
 				<outline text="One of the 2010's most pivotal moments in cultural history. We will never be the same &lt;a href=&quot;https://twitter.com/broderick/status/1414688305300578308&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 21:04:06 GMT" tweetId="1414692065947136007" urltweet="https://twitter.com/taylorlorenz/status/1414692065947136007" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="&lt;a href=&quot;https://twitter.com/bijanstephen/status/1414690876534755340&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 21:22:23 GMT" tweetId="1414696667333414916" urltweet="https://twitter.com/taylorlorenz/status/1414696667333414916" inReplyToId="1414692065947136007" tweetUserName="taylorlorenz" />
