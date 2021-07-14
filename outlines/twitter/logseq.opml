@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 14 Jul 2021 19:44:20 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 19:49:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="Thank you for considering us! &lt;a href=&quot;https://twitter.com/agambrahma/status/1415184454151114752&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 19:49:00 GMT" tweetId="1415397940768612353" urltweet="https://twitter.com/logseq/status/1415397940768612353" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you! &lt;a href=&quot;https://twitter.com/cortexfutura/status/1415373568733503488&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 19:43:52 GMT" tweetId="1415396650072174592" urltweet="https://twitter.com/logseq/status/1415396650072174592" inReplyToId="" tweetUserName="logseq" />
 				<outline text="We just cut a new release (0.2.5) to fix this problem. Sorry for the trouble! Also, we made some changes that all the new deleted pages will be stored in `logseq/.recycle` so that you can still find them when you need to. &lt;a href=&quot;https://twitter.com/logseq/status/1415347503159934979&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 19:43:00 GMT" tweetId="1415396429644763136" urltweet="https://twitter.com/logseq/status/1415396429644763136" inReplyToId="" tweetUserName="logseq" >
 					<outline text="&lt;a href=&quot;https://github.com/logseq/logseq/releases/tag/0.2.5&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 19:43:18 GMT" tweetId="1415396506480234496" urltweet="https://twitter.com/logseq/status/1415396506480234496" inReplyToId="1415396429644763136" tweetUserName="logseq" />
