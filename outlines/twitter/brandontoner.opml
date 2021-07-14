@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 16:06:21 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 16:20:23 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,12 @@
 			<outline text="July 14" type="calendarDay" name="14" >
 				<outline text="WELL. After some wrestling and some steep learning curves, it seems that V0.1 of the website is live and functional. 
 
-https://t.co/coT8IWLt9P" type="tweet" created="Wed, 14 Jul 2021 16:05:26 GMT" tweetId="1415341678769156099" urltweet="https://twitter.com/brandontoner/status/1415341678769156099" inReplyToId="" tweetUserName="brandontoner" />
+https://t.co/coT8IWLt9P" type="tweet" created="Wed, 14 Jul 2021 16:05:26 GMT" tweetId="1415341678769156099" urltweet="https://twitter.com/brandontoner/status/1415341678769156099" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="• Created a Digital Ocean droplet
+• Created a PagePark server*
+• OPML content live-published via the Little Outliner editor*
+• “Wiki” site will eventually be a GitHub Pages experiment" type="tweet" created="Wed, 14 Jul 2021 16:19:33 GMT" tweetId="1415345229415190531" urltweet="https://twitter.com/brandontoner/status/1415345229415190531" inReplyToId="1415341678769156099" tweetUserName="brandontoner" />
+					</outline>
 				</outline>
 			<outline text="July 11" type="calendarDay" name="11" >
 				<outline text="How have I gone this long without learning the Mac command line?? 
