@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 14 Jul 2021 11:35:12 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 11:37:13 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="The Olympics start on July 23." type="tweet" created="Wed, 14 Jul 2021 11:36:39 GMT" tweetId="1415274036221956096" urltweet="https://twitter.com/davewiner/status/1415274036221956096" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Toaster ovens are now called &quot;air fryers.&quot; 
 
 That's weird, but I just bought one, a Cuisinart, as recommended by @wirecutter [1]. I love it. I've been using it every night, and my eating has become more healthy, and also much tastier. Total win.
