@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 16:25:25 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 16:29:41 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -21,7 +21,11 @@ https://t.co/coT8IWLt9P" type="tweet" created="Wed, 14 Jul 2021 16:05:26 GMT" tw
 • “Wiki” site will eventually be a GitHub Pages experiment" type="tweet" created="Wed, 14 Jul 2021 16:19:33 GMT" tweetId="1415345229415190531" urltweet="https://twitter.com/brandontoner/status/1415345229415190531" inReplyToId="1415341678769156099" tweetUserName="brandontoner" >
 						<outline text="Settings up PagePark on the Digital Ocean droplet meant working in command line (a first for me).
 
-Thanks to @theshteves for helping to show me the ropes!" type="tweet" created="Wed, 14 Jul 2021 16:21:16 GMT" tweetId="1415345662577741826" urltweet="https://twitter.com/brandontoner/status/1415345662577741826" inReplyToId="1415345229415190531" tweetUserName="brandontoner" />
+Thanks to @theshteves for helping to show me the ropes!" type="tweet" created="Wed, 14 Jul 2021 16:21:16 GMT" tweetId="1415345662577741826" urltweet="https://twitter.com/brandontoner/status/1415345662577741826" inReplyToId="1415345229415190531" tweetUserName="brandontoner" >
+							<outline text="Next goals are to restructure the “blog” so that it’s in more natural blog-format. 
+
+Something like https://t.co/dVgnRPXXOZ is the bearing for that." type="tweet" created="Wed, 14 Jul 2021 16:27:53 GMT" tweetId="1415347329872408581" urltweet="https://twitter.com/brandontoner/status/1415347329872408581" inReplyToId="1415345662577741826" tweetUserName="brandontoner" />
+							</outline>
 						<outline text="*PagePark and Little Outliner 2 are fun and useful tools created by @davewiner. 
 
 They are the backbone of the site." type="tweet" created="Wed, 14 Jul 2021 16:25:14 GMT" tweetId="1415346660402778112" urltweet="https://twitter.com/brandontoner/status/1415346660402778112" inReplyToId="1415345229415190531" tweetUserName="brandontoner" />
