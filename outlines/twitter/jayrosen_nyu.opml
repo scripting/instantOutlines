@@ -6,11 +6,27 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 03:23:01 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 15:18:08 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="What's your new show about, Shep?
+— News
+News of what?
+— Important news
+What's the focus?
+— News, not talk
+Any particular lens?
+— The lens is news
+Who's it for?
+— Everyone who wants news
+Why would I watch?
+— Because we're good at doing news
+
+&lt;a href=&quot;https://www.thedailybeast.com/inside-shepard-smiths-post-fox-news-crash-on-cnbc&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 15:17:12 GMT" tweetId="1415329538335256580" urltweet="https://twitter.com/jayrosen_nyu/status/1415329538335256580" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 13" type="calendarDay" name="13" >
 				<outline text="This is much the case for the term &quot;objectivity&quot; in journalism. It means at least 25 things, and when we argue about it we are almost never grabbing hold of the same object. Which is why the arguments never go anywhere. &lt;a href=&quot;https://warzel.substack.com/p/how-to-have-difficult-conversations&quot;&gt;[link]&lt;/a&gt; And why &quot;bias&quot; fills the gap. https://t.co/HP0c0IAqDf" type="tweet" created="Wed, 14 Jul 2021 03:22:34 GMT" tweetId="1415149696335716354" urltweet="https://twitter.com/jayrosen_nyu/status/1415149696335716354" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Increasingly I find myself in need of a button that would turn off replies seeking to inform me that what I have said is not new, when I have made no such claim and would not dream of it. And yes, I know I sound like a crank, which is all the more reason I need this feature NOW. &lt;a href=&quot;https://twitter.com/TwitterSafety/status/1415025551773892608&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 02:46:02 GMT" tweetId="1415140502400290817" urltweet="https://twitter.com/jayrosen_nyu/status/1415140502400290817" inReplyToId="" tweetUserName="jayrosen_nyu" />
