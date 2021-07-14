@@ -12,17 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 12:12:56 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 12:13:47 GMT</dateModified>
 		<expansionState>1,2,6,8</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>3</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 14" created="Wed, 14 Jul 2021 11:47:03 GMT" type="calendarDay" name="14" >
-				<outline text="The source of all our problems is that our government is controlled by stupid, mean, willfully ignorant rich assholes." created="Wed, 14 Jul 2021 12:12:38 GMT" type="outline" />
 				<outline text="Good morning sports fans! The &quot;NBA&quot; finals resume tonight, I'm actually going to miss basketball when it's over. But then the &lt;a href=&quot;https://en.wikipedia.org/wiki/2020_Summer_Olympics&quot;&gt;Olympics&lt;/a&gt; start, and after that my attention will finally turn to the Mets. I've got the rest of the year planned out. But the weather. Oy does it suck. I know there are &lt;a href=&quot;https://www.npr.org/2021/07/13/1013446314/amid-a-mega-drought-a-water-shortage-will-be-declared-along-the-colorado-river&quot;&gt;droughts&lt;/a&gt; and &lt;a href=&quot;https://oceanservice.noaa.gov/facts/heat-dome.html&quot;&gt;heat domes&lt;/a&gt; elsewhere, but here we're living in a constant state of deluge. I take my bike ride every day, rain or shine. I used to skip rainy days but this summer that's not an option because it rains every damned day, and not just drizzle, hours of downpour. And the thunder last night. Who could sleep through that. Not this sports fan. I just want some beautiful warm summer weather. On the other hand the new rose bush I planted really seems to like all the wetness. " created="Wed, 14 Jul 2021 11:47:04 GMT" type="outline" image="http://scripting.com/images/2021/07/14/rose.png" />
+				<outline text="The source of all our problems is that our government is controlled by stupid, mean, willfully ignorant rich assholes." created="Wed, 14 Jul 2021 12:12:38 GMT" type="outline" />
 				<outline text="Toaster ovens are now called &quot;air fryers.&quot; That's weird, but I just bought one, a &lt;a href=&quot;https://www.amazon.com/dp/B01M0AWSJX?psc=1&amp;ref=ppx_yo2_dt_b_product_details&quot;&gt;Cuisinart&lt;/a&gt;, as recommended by &lt;a href=&quot;https://www.nytimes.com/wirecutter/reviews/best-air-fryer/&quot;&gt;Wirecutter&lt;/a&gt;. I love it. I've been using it every night, and my eating has become more healthy, and also much tastier. Total win." created="Wed, 14 Jul 2021 11:56:27 GMT" type="outline" />
 				<outline text="Interesting marketing" created="Wed, 14 Jul 2021 12:05:43 GMT" type="outline" >
 					<outline text="Let's see. &lt;a href=&quot;https://en.wikipedia.org/wiki/Martha_Stewart&quot;&gt;Martha Stewart&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Snoop_Dogg&quot;&gt;Snoop Dogg&lt;/a&gt; recommend this new Bic lighter because it's great for lighting candles, and more! Haha omg. Lol. :smile:" created="Wed, 14 Jul 2021 12:05:53 GMT" inlineImage="http://scripting.com/images/2021/07/14/snoopAndMarthaRecommend.png" />
