@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 16:23:28 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 17:26:47 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="Once again, they should just allow regular tweets to expire! &lt;a href=&quot;https://twitter.com/verge/status/1415361369348640771&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 17:26:26 GMT" tweetId="1415362062214119425" urltweet="https://twitter.com/taylorlorenz/status/1415362062214119425" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Twitter says that influencer news page Def Noodles has been permanently suspended  &lt;a href=&quot;https://www.businessinsider.com/def-noodles-twitter-banned-suspended-why-violating-rules-2021-7&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 16:21:52 GMT" tweetId="1415345814663319561" urltweet="https://twitter.com/taylorlorenz/status/1415345814663319561" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="EXCLUSIVE: Facebook plans to pay creators $1 billion to use its products. The payouts are part of a broader effort to woo influencers onto its platforms &lt;a href=&quot;https://www.nytimes.com/2021/07/14/technology/facebook-payments-creators.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 16:20:09 GMT" tweetId="1415345380913524743" urltweet="https://twitter.com/taylorlorenz/status/1415345380913524743" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="The $1 billion will be allocated among creators of all types, giving influencers an incentive for creating and posting original content to Facebook &lt;a href=&quot;https://www.nytimes.com/2021/07/14/technology/facebook-payments-creators.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 16:22:32 GMT" tweetId="1415345980560580612" urltweet="https://twitter.com/taylorlorenz/status/1415345980560580612" inReplyToId="1415345380913524743" tweetUserName="taylorlorenz" >
