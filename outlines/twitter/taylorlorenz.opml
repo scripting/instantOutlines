@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 10:24:24 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 13:52:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="I want to meet the person Spotify thinks I am &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1415308061305155584/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 13:51:51 GMT" tweetId="1415308061305155584" urltweet="https://twitter.com/taylorlorenz/status/1415308061305155584" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is really terrifying, hope everyone stays safe &lt;a href=&quot;https://www.theguardian.com/society/2021/jul/13/delta-surge-could-leave-hundreds-of-thousands-with-long-covid&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 10:23:57 GMT" tweetId="1415255741720563712" urltweet="https://twitter.com/taylorlorenz/status/1415255741720563712" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="July 13" type="calendarDay" name="13" >
