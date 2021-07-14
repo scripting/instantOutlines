@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 02:46:49 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 03:23:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="This is much the case for the term &quot;objectivity&quot; in journalism. It means at least 25 things, and when we argue about it we are almost never grabbing hold of the same object. Which is why the arguments never go anywhere. &lt;a href=&quot;https://warzel.substack.com/p/how-to-have-difficult-conversations&quot;&gt;[link]&lt;/a&gt; And why &quot;bias&quot; fills the gap. https://t.co/HP0c0IAqDf" type="tweet" created="Wed, 14 Jul 2021 03:22:34 GMT" tweetId="1415149696335716354" urltweet="https://twitter.com/jayrosen_nyu/status/1415149696335716354" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Increasingly I find myself in need of a button that would turn off replies seeking to inform me that what I have said is not new, when I have made no such claim and would not dream of it. And yes, I know I sound like a crank, which is all the more reason I need this feature NOW. &lt;a href=&quot;https://twitter.com/TwitterSafety/status/1415025551773892608&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 02:46:02 GMT" tweetId="1415140502400290817" urltweet="https://twitter.com/jayrosen_nyu/status/1415140502400290817" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Pew: In 2020 the average prime time audience increased by 61% for Fox to about 3.08 million, compared with 1.92 million in 2019. CNN rose 72% from 1.05 million in 2019 to 1.80 million in 2020. MSNBC rose 28% from 1.3 million in 2019 to 1.6 million in 2020. &lt;a href=&quot;https://www.journalism.org/fact-sheet/cable-news/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 19:36:46 GMT" tweetId="1415032474070044674" urltweet="https://twitter.com/jayrosen_nyu/status/1415032474070044674" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The journalist's affection for colorful characters who give off memorable quotes and politicians who are open about their corruption — rather than sanctimonious and staid — is readable right off the surface of this obit. &lt;a href=&quot;https://www.nytimes.com/2021/07/12/us/politics/edwin-edwards-dead.html&quot;&gt;[link]&lt;/a&gt; No decoding necessary." type="tweet" created="Tue, 13 Jul 2021 15:13:49 GMT" tweetId="1414966298648498182" urltweet="https://twitter.com/jayrosen_nyu/status/1414966298648498182" inReplyToId="" tweetUserName="jayrosen_nyu" />
