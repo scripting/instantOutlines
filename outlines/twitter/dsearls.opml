@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 05:35:42 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 05:36:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="Overheard: &quot;I'm tired of now.&quot;" type="tweet" created="Wed, 14 Jul 2021 05:35:58 GMT" tweetId="1415183265678385152" urltweet="https://twitter.com/dsearls/status/1415183265678385152" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="You've been selected for a brief brand survey. Which is most true for you?" type="tweet" created="Wed, 14 Jul 2021 05:34:49 GMT" tweetId="1415182979811393536" urltweet="https://twitter.com/dsearls/status/1415182979811393536" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 12" type="calendarDay" name="12" >
