@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 23:02:55 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 10:24:24 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="This is really terrifying, hope everyone stays safe &lt;a href=&quot;https://www.theguardian.com/society/2021/jul/13/delta-surge-could-leave-hundreds-of-thousands-with-long-covid&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 10:23:57 GMT" tweetId="1415255741720563712" urltweet="https://twitter.com/taylorlorenz/status/1415255741720563712" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 13" type="calendarDay" name="13" >
 				<outline text="Anyone on here seriously love/miss working from an office and/or thinking about quitting their job if it stays remote only??" type="tweet" created="Tue, 13 Jul 2021 22:38:27 GMT" tweetId="1415078195259486214" urltweet="https://twitter.com/taylorlorenz/status/1415078195259486214" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="*please read my tweet, I am not advocating this, I'm just wondering if anyone feels this way! I know there must be some die hard office lovers out there." type="tweet" created="Tue, 13 Jul 2021 23:02:47 GMT" tweetId="1415084321921187840" urltweet="https://twitter.com/taylorlorenz/status/1415084321921187840" inReplyToId="1415078195259486214" tweetUserName="taylorlorenz" />
