@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 14 Jul 2021 11:56:17 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 12:15:20 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="Can your podcast get the UK talking? &lt;a href=&quot;https://www.bbc.co.uk/programmes/articles/1GypzkzY4yxz5RqT1bLCzGb/can-your-podcast-get-the-uk-talking&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 12:14:39 GMT" tweetId="1415283600367435780" urltweet="https://twitter.com/davewiner/status/1415283600367435780" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="BTW, as a public service for NBA fans..
 
 https://t.co/vJ8hpnO4JI" type="tweet" created="Wed, 14 Jul 2021 11:55:32 GMT" tweetId="1415278787990900736" urltweet="https://twitter.com/davewiner/status/1415278787990900736" inReplyToId="" tweetUserName="davewiner" />
