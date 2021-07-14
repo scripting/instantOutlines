@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 14 Jul 2021 15:33:18 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 16:05:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="Afaik some users have more than 10 graphs. 😁 &lt;a href=&quot;https://twitter.com/0x0decaf/status/1415340405642514438&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 16:05:01 GMT" tweetId="1415341572254691332" urltweet="https://twitter.com/logseq/status/1415341572254691332" inReplyToId="" tweetUserName="logseq" />
 				<outline text="0.2.4 is just out!
 Some highlights:
 - Block timestamps are brought back! It's disabled by default, you can enable it on the settings page
