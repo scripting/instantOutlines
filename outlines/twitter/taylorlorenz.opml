@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 17:26:47 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 18:54:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="I think the key phrase here is journalistic standards. There's absolutely an opportunity for a more traditional entertainment/news brand to capture that space &lt;a href=&quot;https://twitter.com/kelsaywhat/status/1415374573416112131&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 18:53:50 GMT" tweetId="1415384056884301825" urltweet="https://twitter.com/taylorlorenz/status/1415384056884301825" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Once again, they should just allow regular tweets to expire! &lt;a href=&quot;https://twitter.com/verge/status/1415361369348640771&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 17:26:26 GMT" tweetId="1415362062214119425" urltweet="https://twitter.com/taylorlorenz/status/1415362062214119425" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Twitter says that influencer news page Def Noodles has been permanently suspended  &lt;a href=&quot;https://www.businessinsider.com/def-noodles-twitter-banned-suspended-why-violating-rules-2021-7&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 16:21:52 GMT" tweetId="1415345814663319561" urltweet="https://twitter.com/taylorlorenz/status/1415345814663319561" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="EXCLUSIVE: Facebook plans to pay creators $1 billion to use its products. The payouts are part of a broader effort to woo influencers onto its platforms &lt;a href=&quot;https://www.nytimes.com/2021/07/14/technology/facebook-payments-creators.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 16:20:09 GMT" tweetId="1415345380913524743" urltweet="https://twitter.com/taylorlorenz/status/1415345380913524743" inReplyToId="" tweetUserName="taylorlorenz" >
