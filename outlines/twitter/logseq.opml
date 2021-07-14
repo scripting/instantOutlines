@@ -7,7 +7,7 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 14 Jul 2021 15:29:18 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 15:33:18 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
@@ -16,7 +16,9 @@
 Some highlights:
 - Block timestamps are brought back! It's disabled by default, you can enable it on the settings page
 - &quot;All pages&quot; support sorting
-- Publishing supports subpath &lt;a href=&quot;https://twitter.com/logseq/status/1415332513543716865/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 15:29:01 GMT" tweetId="1415332513543716865" urltweet="https://twitter.com/logseq/status/1415332513543716865" inReplyToId="" tweetUserName="logseq" />
+- Publishing supports subpath &lt;a href=&quot;https://twitter.com/logseq/status/1415332513543716865/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 15:29:01 GMT" tweetId="1415332513543716865" urltweet="https://twitter.com/logseq/status/1415332513543716865" inReplyToId="" tweetUserName="logseq" >
+					<outline text="Full changelog at &lt;a href=&quot;https://logseq.github.io/#/page/60eef6a9-ad06-4a3e-99eb-7b093336ae68&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 15:33:14 GMT" tweetId="1415333575772180482" urltweet="https://twitter.com/logseq/status/1415333575772180482" inReplyToId="1415332513543716865" tweetUserName="logseq" />
+					</outline>
 				<outline text="I've been waiting for this for a long time! Finally, we can render queries as either tables or lists, the best thing is that the queries support both pages and blocks! 
 Templates + Custom properties + Queries = You name it! &lt;a href=&quot;https://twitter.com/logseq/status/1415332057866067973/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 15:27:12 GMT" tweetId="1415332057866067973" urltweet="https://twitter.com/logseq/status/1415332057866067973" inReplyToId="" tweetUserName="logseq" />
 				</outline>
