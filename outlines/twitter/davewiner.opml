@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 14 Jul 2021 01:06:58 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 01:09:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="Watching @maddow, I wonder when she’s going to say what the Repubs are doing re election trust is actually a Russian thing. I wonder when any of the journalists covering this will make the connection." type="tweet" created="Wed, 14 Jul 2021 01:09:19 GMT" tweetId="1415116163558879238" urltweet="https://twitter.com/davewiner/status/1415116163558879238" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Driest City in the US Faces a Catastrophic Drought. &lt;a href=&quot;https://www.motherjones.com/environment/2021/07/none-of-the-old-rules-still-apply-when-the-driest-city-in-the-us-faces-a-catastrophic-drought/?utm_source=twitter&amp;utm_campaign=naytev&amp;utm_medium=social&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 01:06:28 GMT" tweetId="1415115447733788677" urltweet="https://twitter.com/davewiner/status/1415115447733788677" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Trump unloads on Brett Kavanaugh in new Michael Wolff book. &lt;a href=&quot;https://www.axios.com/trump-kavanaugh-supreme-court-michael-wolff-fd429590-57ab-4a7f-a648-9a3fd50d25f3.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 18:28:06 GMT" tweetId="1415015195131498497" urltweet="https://twitter.com/davewiner/status/1415015195131498497" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Roe v. Wade Is Under Attack. Organizers Say We Must Take Action Beyond the Court. &lt;a href=&quot;https://truthout.org/video/roe-v-wade-is-under-attack-organizers-say-we-must-take-action-beyond-the-court/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 17:16:22 GMT" tweetId="1414997141550993412" urltweet="https://twitter.com/davewiner/status/1414997141550993412" inReplyToId="" tweetUserName="davewiner" />
