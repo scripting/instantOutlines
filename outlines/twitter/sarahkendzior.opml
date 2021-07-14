@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Mon, 12 Jul 2021 19:06:23 GMT</dateModified>
+		<dateModified>Wed, 14 Jul 2021 12:27:46 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 14" type="calendarDay" name="14" >
+				<outline text="New @gaslitnation is up! In “Prince of Darkness” we examine the long and horrific career of warmonger mercenary Erik Prince, discuss the Texas Democrats taking on DC to save voting rights, and more &lt;a href=&quot;https://www.patreon.com/posts/53670987&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 12:27:26 GMT" tweetId="1415286818581499908" urltweet="https://twitter.com/sarahkendzior/status/1415286818581499908" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="July 12" type="calendarDay" name="12" >
 				<outline text="The St Louis Zoo &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1414662408958791688/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 19:06:16 GMT" tweetId="1414662408958791688" urltweet="https://twitter.com/sarahkendzior/status/1414662408958791688" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
