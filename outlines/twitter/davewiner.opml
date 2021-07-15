@@ -7,11 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 15 Jul 2021 20:15:09 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 21:47:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 15" type="calendarDay" name="15" >
+				<outline text="@brandontoner -- you might find this useful in your further DNS adventures. I find her tutorials are the best. 
+
+&lt;a href=&quot;https://jvns.ca/blog/2021/02/24/a-little-tool-to-make-dns-queries/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 21:47:18 GMT" tweetId="1415790099862802433" urltweet="https://twitter.com/davewiner/status/1415790099862802433" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="WHO warns of 'dangerous' variants as Covid cases rise globally. &lt;a href=&quot;https://news.yahoo.com/warns-dangerous-variants-covid-cases-162538684.html#click=https://t.co/18WOBiwZpF&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 20:15:07 GMT" tweetId="1415766901586894848" urltweet="https://twitter.com/davewiner/status/1415766901586894848" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Tech Workers Who Swore Off the Bay Area Are Coming Back. &lt;a href=&quot;https://www.nytimes.com/2021/07/15/technology/tech-workers-bay-area-back.html?curator=MediaREDEF&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 19:54:55 GMT" tweetId="1415761817381613576" urltweet="https://twitter.com/davewiner/status/1415761817381613576" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="New podcast.
