@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 02:48:07 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 05:55:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 15" type="calendarDay" name="15" >
+				<outline text="Regarding Apple’s VR headset:
+
+Just learned it will launch at WWDC next year because the new iPod will be a huge deal for Christmas.
+
+The iPod introduces many of the experiences you will more fully experience by Christmas of 2022 in the headset and expect them to work together." type="tweet" created="Thu, 15 Jul 2021 05:54:10 GMT" tweetId="1415550236177559552" urltweet="https://twitter.com/scobleizer/status/1415550236177559552" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="July 14" type="calendarDay" name="14" >
 				<outline text="Just got my @LKGGlass 
 
