@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 02:35:05 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 15:08:33 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 15" type="calendarDay" name="15" >
+				<outline text="The whole &quot;leaving SF&quot; thing was just about the RTs for so many ppl &lt;a href=&quot;https://www.nytimes.com/2021/07/15/technology/tech-workers-bay-area-back.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 15:08:21 GMT" tweetId="1415689700233318404" urltweet="https://twitter.com/taylorlorenz/status/1415689700233318404" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 14" type="calendarDay" name="14" >
 				<outline text="Amazing job alert 🚨 &lt;a href=&quot;https://twitter.com/whoweekly/status/1415320691348492295&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 02:34:33 GMT" tweetId="1415499999283142657" urltweet="https://twitter.com/taylorlorenz/status/1415499999283142657" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Declaring text bankruptcy &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1415455432487886854/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 14 Jul 2021 23:37:27 GMT" tweetId="1415455432487886854" urltweet="https://twitter.com/taylorlorenz/status/1415455432487886854" inReplyToId="" tweetUserName="taylorlorenz" />
