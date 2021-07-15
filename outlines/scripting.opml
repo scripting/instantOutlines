@@ -12,14 +12,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 21:05:10 GMT</dateModified>
-		<expansionState>1,2,11,13</expansionState>
+		<dateModified>Thu, 15 Jul 2021 12:12:34 GMT</dateModified>
+		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
 		<urlInstant>http://instantoutliner.com/qk</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 15" created="Thu, 15 Jul 2021 12:09:53 GMT" type="calendarDay" name="15" >
+				<outline text="Sometimes I get stressed, like everyone else. I have a technique for working my way through it. I ask myself this question: What would Dave do if he wasn't stressed out. Change the perspective. I'm now outside myself, am an observer of myself. Often I have no trouble writing down a few things. Then I do one of those things. If it works, I get into it, and an hour or two later I forgot why I was stressed. " created="Thu, 15 Jul 2021 12:09:54 GMT" type="outline" />
+				</outline>
 			<outline text="July 14" created="Wed, 14 Jul 2021 11:47:03 GMT" type="calendarDay" name="14" >
 				<outline text="In the early days of the web there were &lt;a href=&quot;http://mindbomb.org/&quot;&gt;mind bombs&lt;/a&gt; everywhere." created="Wed, 14 Jul 2021 21:04:49 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;http://brandontoner.ca/&quot;&gt;Brandon has broken through&lt;/a&gt;, a total server-land neophyte, broke through via pure &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/217#issuecomment-879960207&quot;&gt;persistence&lt;/a&gt;. He followed the example of my PagePark installation &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/210#issuecomment-864612526&quot;&gt;on Glitch&lt;/a&gt;, is using the &lt;a href=&quot;https://github.com/scripting/pagePark/blob/master/docs/config.md#mirrors-works-like-redirects&quot;&gt;mirrors feature&lt;/a&gt; in PP to render outlines from &quot;LO2&quot;. He is motivated and I am inspired. " created="Wed, 14 Jul 2021 15:23:59 GMT" type="outline" />
