@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 15:20:34 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 15:40:38 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 15" type="calendarDay" name="15" >
+				<outline text=".@NoahShachtman is intense and fearless and I will always be indebted to him for giving me my first full time reporting job. Respect to him always and congrats on the new gig, everyone at Rolling Stone is very lucky 🔥&lt;a href=&quot;https://www.nytimes.com/2021/07/15/business/rolling-stone-new-editor.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 15:40:26 GMT" tweetId="1415697773425483777" urltweet="https://twitter.com/taylorlorenz/status/1415697773425483777" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Middle-aged mums &lt;a href=&quot;https://www.dailymail.co.uk/sciencetech/article-9786635/Middle-aged-MUMS-likely-troll-social-media-influencers.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 15:20:04 GMT" tweetId="1415692648422285312" urltweet="https://twitter.com/taylorlorenz/status/1415692648422285312" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="The whole &quot;leaving SF&quot; thing was just about the RTs for so many ppl &lt;a href=&quot;https://www.nytimes.com/2021/07/15/technology/tech-workers-bay-area-back.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 15:08:21 GMT" tweetId="1415689700233318404" urltweet="https://twitter.com/taylorlorenz/status/1415689700233318404" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
