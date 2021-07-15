@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 14 Jul 2021 21:02:36 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 16:04:33 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 15" type="calendarDay" name="15" >
+				<outline text="Enjoy reading about toweringly stupid culture war products dreamed up and launched up by the Murdoch forces with the most vapid hype attached, then quietly dropped years later because they never had a prayer of working? Well... @NiemanLab has you covered. &lt;a href=&quot;https://www.niemanlab.org/2021/07/i-have-to-come-to-bury-knewz-not-to-praise-it/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 16:03:47 GMT" tweetId="1415703651830673410" urltweet="https://twitter.com/jayrosen_nyu/status/1415703651830673410" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 14" type="calendarDay" name="14" >
 				<outline text="Read @daveweigel on being &quot;based&quot; vs. being &quot;cringe&quot; in politics.  &lt;a href=&quot;https://www.washingtonpost.com/politics/2021/07/13/trailer-based-or-cringe-new-way-explaining-same-old-political-brawls/&quot;&gt;[link]&lt;/a&gt; Briefly: An appeal to norms and fairness is &quot;cringe&quot; behavior. Breaking rules to get what you see as right is &quot;based.&quot;" type="tweet" created="Wed, 14 Jul 2021 21:01:44 GMT" tweetId="1415416246007472133" urltweet="https://twitter.com/jayrosen_nyu/status/1415416246007472133" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The press cannot return to its posture as as disinterested or neutral, writes @perrybaconjr. &quot;Nor should it if Trump and Trumpism remain threats to democracy. It needs to chart a new path forward for a United States with a Trumpian Republican Party.&quot; &lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/07/12/media-must-reinvent-itself-era-trumpian-politics-heres-how/&quot;&gt;[link]&lt;/a&gt;
