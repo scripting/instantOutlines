@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 20:29:44 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 20:31:45 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 15" type="calendarDay" name="15" >
+				<outline text="Sounds about right &lt;a href=&quot;https://twitter.com/MikaelThalen/status/1415764784067186688&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 20:31:10 GMT" tweetId="1415770939799842821" urltweet="https://twitter.com/taylorlorenz/status/1415770939799842821" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;The notion of a special bond with a creator is contrived, and what seems like unfettered access to their lives is curated. It’s the intimacy you’d get from any imaginary friend.&quot; Fantastic piece by @fadeke_adegbuyi on parasocial relationships &lt;a href=&quot;https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 20:29:41 GMT" tweetId="1415770566242545667" urltweet="https://twitter.com/taylorlorenz/status/1415770566242545667" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is how we win 🔥 &lt;a href=&quot;https://twitter.com/criterion/status/1415710012442296324&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 17:15:07 GMT" tweetId="1415721603007197186" urltweet="https://twitter.com/taylorlorenz/status/1415721603007197186" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="A thread by the co-creator of dogecoin. Interested to hear people's thoughts here &lt;a href=&quot;https://twitter.com/ummjackson/status/1415353984617914370&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 16:01:25 GMT" tweetId="1415703053555150849" urltweet="https://twitter.com/taylorlorenz/status/1415703053555150849" inReplyToId="" tweetUserName="taylorlorenz" />
