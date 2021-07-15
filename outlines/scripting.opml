@@ -12,7 +12,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 12:23:15 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 12:30:48 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<generator>publishscriptingopml v0.4.2</generator>
@@ -21,6 +21,7 @@
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 15" created="Thu, 15 Jul 2021 12:09:53 GMT" type="calendarDay" name="15" >
+				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1415461857243148288&quot;&gt;Isn’t&lt;/a&gt; the &lt;i&gt;re&lt;/i&gt; in refactoring redundant? " created="Thu, 15 Jul 2021 12:26:25 GMT" type="outline" />
 				<outline text="I'm trying to figure out how to show bike trails in Kingston NY, on Google Maps." created="Thu, 15 Jul 2021 12:23:13 GMT" type="outline" />
 				<outline text="Sometimes I get stressed, like everyone else. I have a technique for working my way through it. I ask myself this question: What would Dave do if he wasn't stressed out. Change the perspective. I'm now outside myself, am an observer of myself. Often I have no trouble writing down a few things. Then I do one of those things. If it works, I get into it, and an hour or two later I forgot why I was stressed. " created="Thu, 15 Jul 2021 12:09:54 GMT" type="outline" />
 				</outline>
