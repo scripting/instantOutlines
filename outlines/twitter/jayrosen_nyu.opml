@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 16:04:33 GMT</dateModified>
+		<dateModified>Thu, 15 Jul 2021 19:03:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 15" type="calendarDay" name="15" >
+				<outline text="&quot;He sanitizes and legitimizes right-wing conspiratorial thinking, dodges when you try to nail him down on the specifics, then wraps it all in an argument about censorship and free speech...&quot; &lt;a href=&quot;https://time.com/6080432/tucker-carlson-profile/&quot;&gt;[link]&lt;/a&gt;
+
+I read all the Tucker Carlson profiles. None quite gets there." type="tweet" created="Thu, 15 Jul 2021 19:03:10 GMT" tweetId="1415748792960397316" urltweet="https://twitter.com/jayrosen_nyu/status/1415748792960397316" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Enjoy reading about toweringly stupid culture war products dreamed up and launched up by the Murdoch forces with the most vapid hype attached, then quietly dropped years later because they never had a prayer of working? Well... @NiemanLab has you covered. &lt;a href=&quot;https://www.niemanlab.org/2021/07/i-have-to-come-to-bury-knewz-not-to-praise-it/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 16:03:47 GMT" tweetId="1415703651830673410" urltweet="https://twitter.com/jayrosen_nyu/status/1415703651830673410" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 14" type="calendarDay" name="14" >
