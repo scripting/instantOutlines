@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 14:57:40 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 23:49:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 16" type="calendarDay" name="16" >
+				<outline text="Something @brianstelter said at the end of his most recent podcast with @davidfrum. &lt;a href=&quot;https://www.cnn.com/audio/podcasts/reliable-sources?episodeguid=cd3fae31-3fec-4782-89e9-ad660157f9a3&quot;&gt;[link]&lt;/a&gt; https://t.co/meM7fc7TZB" type="tweet" created="Fri, 16 Jul 2021 23:49:21 GMT" tweetId="1416183202994065410" urltweet="https://twitter.com/jayrosen_nyu/status/1416183202994065410" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="For my Brazilian friends, followers, and students. &lt;a href=&quot;https://twitter.com/membershippzzle/status/1416046245605519361&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:57:17 GMT" tweetId="1416049303752224768" urltweet="https://twitter.com/jayrosen_nyu/status/1416049303752224768" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 15" type="calendarDay" name="15" >
