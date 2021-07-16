@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 22:12:25 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 22:14:26 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,10 @@
 2. The prolific artist?
 3. The laid off “loser.”
 
-Any losers wanna tell me what is up? My TV is hungry for 4K content. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1416158701031878661/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 22:11:59 GMT" tweetId="1416158701031878661" urltweet="https://twitter.com/scobleizer/status/1416158701031878661" inReplyToId="" tweetUserName="scobleizer" />
+Any losers wanna tell me what is up? My TV is hungry for 4K content. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1416158701031878661/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 22:11:59 GMT" tweetId="1416158701031878661" urltweet="https://twitter.com/scobleizer/status/1416158701031878661" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="I am a loser, if you didn’t read USA Today. :-)" type="tweet" created="Fri, 16 Jul 2021 22:13:33 GMT" tweetId="1416159094138757123" urltweet="https://twitter.com/scobleizer/status/1416159094138757123" inReplyToId="1416158701031878661" tweetUserName="scobleizer" />
+					<outline text="We will soon start a new media experience." type="tweet" created="Fri, 16 Jul 2021 22:14:08 GMT" tweetId="1416159239484035074" urltweet="https://twitter.com/scobleizer/status/1416159239484035074" inReplyToId="1416158701031878661" tweetUserName="scobleizer" />
+					</outline>
 				<outline text="Definitely sketchy. :-) &lt;a href=&quot;https://twitter.com/appleinsider/status/1415776079214751748&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 18:11:14 GMT" tweetId="1416098111894605824" urltweet="https://twitter.com/scobleizer/status/1416098111894605824" inReplyToId="" tweetUserName="scobleizer" />
 				</outline>
 			<outline text="July 15" type="calendarDay" name="15" >
