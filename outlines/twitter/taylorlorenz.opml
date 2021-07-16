@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 16:25:04 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 16:33:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -27,7 +27,9 @@
 						</outline>
 					</outline>
 				<outline text="This is good &lt;a href=&quot;https://twitter.com/broderick/status/1416030550033371143&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:13:08 GMT" tweetId="1416038192470446082" urltweet="https://twitter.com/taylorlorenz/status/1416038192470446082" inReplyToId="" tweetUserName="taylorlorenz" />
-				<outline text="“office bod”??? &lt;a href=&quot;https://twitter.com/bw/status/1415872901627236354&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 12:59:04 GMT" tweetId="1416019555059736580" urltweet="https://twitter.com/taylorlorenz/status/1416019555059736580" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="“office bod”??? &lt;a href=&quot;https://twitter.com/bw/status/1415872901627236354&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 12:59:04 GMT" tweetId="1416019555059736580" urltweet="https://twitter.com/taylorlorenz/status/1416019555059736580" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="&lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1416073165537792005/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 16:32:06 GMT" tweetId="1416073165537792005" urltweet="https://twitter.com/taylorlorenz/status/1416073165537792005" inReplyToId="1416019555059736580" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Follow me on IG!!! 🙏🏻 &lt;a href=&quot;https://instagram.com/taylorlorenz/&quot;&gt;[link]&lt;/a&gt; https://t.co/Askh9l0cCd" type="tweet" created="Fri, 16 Jul 2021 12:43:47 GMT" tweetId="1416015705070350343" urltweet="https://twitter.com/taylorlorenz/status/1416015705070350343" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="July 15" type="calendarDay" name="15" >
