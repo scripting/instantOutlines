@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 00:15:39 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 14:27:44 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="July 15" type="calendarDay" name="15" >
 				<outline text="If I had to give the entire file of Trump coverage grades, there would be some As, Bs, Cs, Ds, and Fs for different streams in it. For the Ivanka Trump portion I would have to send a note home, &quot;please make an appointment to see me.&quot; &lt;a href=&quot;https://www.washingtonpost.com/politics/2021/07/15/jan-6-i-alone-can-fix-it-book-excerpt/&quot;&gt;[link]&lt;/a&gt;
 
-This is about Jan. 6: https://t.co/cnqmmmxTTC" type="tweet" created="Fri, 16 Jul 2021 00:14:40 GMT" tweetId="1415827184011329536" urltweet="https://twitter.com/jayrosen_nyu/status/1415827184011329536" inReplyToId="" tweetUserName="jayrosen_nyu" />
+This is about Jan. 6: https://t.co/cnqmmmxTTC" type="tweet" created="Fri, 16 Jul 2021 00:14:40 GMT" tweetId="1415827184011329536" urltweet="https://twitter.com/jayrosen_nyu/status/1415827184011329536" inReplyToId="" tweetUserName="jayrosen_nyu" >
+					<outline text="It never stops. She's always trying to do the right thing, as the right thing fails to gets done. &lt;a href=&quot;https://www.washingtonpost.com/politics/2021/07/15/jan-6-i-alone-can-fix-it-book-excerpt/&quot;&gt;[link]&lt;/a&gt; https://t.co/CE5fzPWKsD" type="tweet" created="Fri, 16 Jul 2021 14:27:17 GMT" tweetId="1416041755187818507" urltweet="https://twitter.com/jayrosen_nyu/status/1416041755187818507" inReplyToId="1415827184011329536" tweetUserName="jayrosen_nyu" />
+					</outline>
 				<outline text="&quot;He sanitizes and legitimizes right-wing conspiratorial thinking, dodges when you try to nail him down on the specifics, then wraps it all in an argument about censorship and free speech...&quot; &lt;a href=&quot;https://time.com/6080432/tucker-carlson-profile/&quot;&gt;[link]&lt;/a&gt;
 
 I read all the Tucker Carlson profiles. None quite gets there." type="tweet" created="Thu, 15 Jul 2021 19:03:10 GMT" tweetId="1415748792960397316" urltweet="https://twitter.com/jayrosen_nyu/status/1415748792960397316" inReplyToId="" tweetUserName="jayrosen_nyu" />
