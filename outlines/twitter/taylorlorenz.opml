@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 14:59:49 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 15:02:50 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -15,7 +15,9 @@
 				<outline text="TIL the Social Register has a website &lt;a href=&quot;https://www.socialregisteronline.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:50:04 GMT" tweetId="1416047488268636165" urltweet="https://twitter.com/taylorlorenz/status/1416047488268636165" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Oh here's a 2018 Robb Report article on how they're trying to modernize saying they actually DO have a few members who are &quot;not white, AngloSaxon, or Protestant.&quot; &lt;a href=&quot;https://129e076a-bbed-ff32-5d4b-c2001cca5b9c.filesusr.com/ugd/ae08e0_753f4fa7c69c40c1ad675f23265399fe.pdf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:52:59 GMT" tweetId="1416048223093993476" urltweet="https://twitter.com/taylorlorenz/status/1416048223093993476" inReplyToId="1416047488268636165" tweetUserName="taylorlorenz" >
 						<outline text="They started publishing content online too  &lt;a href=&quot;https://www.socialregisteronline.com/tale-of-two&quot;&gt;[link]&lt;/a&gt; https://t.co/PGAy7J80SJ" type="tweet" created="Fri, 16 Jul 2021 14:57:10 GMT" tweetId="1416049275012792323" urltweet="https://twitter.com/taylorlorenz/status/1416049275012792323" inReplyToId="1416048223093993476" tweetUserName="taylorlorenz" >
-							<outline text="Of course they published a whole ode to a southern plantation 🥴 &lt;a href=&quot;https://www.socialregisteronline.com/a-carolina-plantation-remembered&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:58:53 GMT" tweetId="1416049706082439175" urltweet="https://twitter.com/taylorlorenz/status/1416049706082439175" inReplyToId="1416049275012792323" tweetUserName="taylorlorenz" />
+							<outline text="Of course they published a whole ode to a southern plantation 🥴 &lt;a href=&quot;https://www.socialregisteronline.com/a-carolina-plantation-remembered&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:58:53 GMT" tweetId="1416049706082439175" urltweet="https://twitter.com/taylorlorenz/status/1416049706082439175" inReplyToId="1416049275012792323" tweetUserName="taylorlorenz" >
+								<outline text="Silicon Valley culture can get bad, but the New England WASP world is really a whole other level of toxic  &lt;a href=&quot;https://www.socialregisteronline.com/advertise&quot;&gt;[link]&lt;/a&gt; https://t.co/1n7mPg1Eeg" type="tweet" created="Fri, 16 Jul 2021 15:02:44 GMT" tweetId="1416050676191408135" urltweet="https://twitter.com/taylorlorenz/status/1416050676191408135" inReplyToId="1416049706082439175" tweetUserName="taylorlorenz" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
