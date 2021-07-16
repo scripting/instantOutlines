@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 03:15:23 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 12:44:29 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 16" type="calendarDay" name="16" >
+				<outline text="Follow me on IG!!! 🙏🏻 &lt;a href=&quot;https://instagram.com/taylorlorenz/&quot;&gt;[link]&lt;/a&gt; https://t.co/Askh9l0cCd" type="tweet" created="Fri, 16 Jul 2021 12:43:47 GMT" tweetId="1416015705070350343" urltweet="https://twitter.com/taylorlorenz/status/1416015705070350343" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 15" type="calendarDay" name="15" >
 				<outline text="These stories of #longcovid are horrifying. I hope those suffering get the treatment and acknowledgment they deserve. Scary how dismissive our systems can be to those who are disabled or suffer w/ chronic illness &lt;a href=&quot;https://www.bbc.com/news/uk-scotland-57693637&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 03:15:05 GMT" tweetId="1415872590095204353" urltweet="https://twitter.com/taylorlorenz/status/1415872590095204353" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="My child &lt;a href=&quot;https://twitter.com/adet0la/status/1415770805452120067&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 02:45:52 GMT" tweetId="1415865238210158592" urltweet="https://twitter.com/taylorlorenz/status/1415865238210158592" inReplyToId="" tweetUserName="taylorlorenz" />
