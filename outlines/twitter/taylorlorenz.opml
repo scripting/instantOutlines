@@ -6,14 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 14:53:49 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 14:57:49 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 16" type="calendarDay" name="16" >
 				<outline text="TIL the Social Register has a website &lt;a href=&quot;https://www.socialregisteronline.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:50:04 GMT" tweetId="1416047488268636165" urltweet="https://twitter.com/taylorlorenz/status/1416047488268636165" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="Oh here's a 2018 Robb Report article on how they're trying to modernize saying they actually DO have a few members who are &quot;not white, AngloSaxon, or Protestant.&quot; &lt;a href=&quot;https://129e076a-bbed-ff32-5d4b-c2001cca5b9c.filesusr.com/ugd/ae08e0_753f4fa7c69c40c1ad675f23265399fe.pdf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:52:59 GMT" tweetId="1416048223093993476" urltweet="https://twitter.com/taylorlorenz/status/1416048223093993476" inReplyToId="1416047488268636165" tweetUserName="taylorlorenz" />
+					<outline text="Oh here's a 2018 Robb Report article on how they're trying to modernize saying they actually DO have a few members who are &quot;not white, AngloSaxon, or Protestant.&quot; &lt;a href=&quot;https://129e076a-bbed-ff32-5d4b-c2001cca5b9c.filesusr.com/ugd/ae08e0_753f4fa7c69c40c1ad675f23265399fe.pdf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:52:59 GMT" tweetId="1416048223093993476" urltweet="https://twitter.com/taylorlorenz/status/1416048223093993476" inReplyToId="1416047488268636165" tweetUserName="taylorlorenz" >
+						<outline text="They started publishing content online too  &lt;a href=&quot;https://www.socialregisteronline.com/tale-of-two&quot;&gt;[link]&lt;/a&gt; https://t.co/PGAy7J80SJ" type="tweet" created="Fri, 16 Jul 2021 14:57:10 GMT" tweetId="1416049275012792323" urltweet="https://twitter.com/taylorlorenz/status/1416049275012792323" inReplyToId="1416048223093993476" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				<outline text="This is good &lt;a href=&quot;https://twitter.com/broderick/status/1416030550033371143&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:13:08 GMT" tweetId="1416038192470446082" urltweet="https://twitter.com/taylorlorenz/status/1416038192470446082" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“office bod”??? &lt;a href=&quot;https://twitter.com/bw/status/1415872901627236354&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 12:59:04 GMT" tweetId="1416019555059736580" urltweet="https://twitter.com/taylorlorenz/status/1416019555059736580" inReplyToId="" tweetUserName="taylorlorenz" />
