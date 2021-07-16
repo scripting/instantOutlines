@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 15:51:56 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 16:15:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 16" type="calendarDay" name="16" >
+				<outline text="&quot;Until someone builds a better alternative, Close Friends might be the closest thing to a good party invite system we’re all gonna get.&quot; &lt;a href=&quot;https://www.vice.com/en/article/88nd7z/the-only-party-invite-i-want-this-summer-is-via-instagram-close-friends&quot;&gt;[link]&lt;/a&gt; https://t.co/z0F8qsoTXa" type="tweet" created="Fri, 16 Jul 2021 16:14:12 GMT" tweetId="1416068659026477058" urltweet="https://twitter.com/taylorlorenz/status/1416068659026477058" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This tweet is very funny but verification as this binary, elusive thing is actually something that needs to be fixed. I wrote about that here: &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2019/06/instagram-and-twitter-should-eliminate-verification/592351/&quot;&gt;[link]&lt;/a&gt; https://t.co/RSz0PqSJ0Y" type="tweet" created="Fri, 16 Jul 2021 15:51:30 GMT" tweetId="1416062946627751941" urltweet="https://twitter.com/taylorlorenz/status/1416062946627751941" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="TIL the Social Register has a website &lt;a href=&quot;https://www.socialregisteronline.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:50:04 GMT" tweetId="1416047488268636165" urltweet="https://twitter.com/taylorlorenz/status/1416047488268636165" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Oh here's a 2018 Robb Report article on how they're trying to modernize saying they actually DO have a few members who are &quot;not white, AngloSaxon, or Protestant.&quot; &lt;a href=&quot;https://129e076a-bbed-ff32-5d4b-c2001cca5b9c.filesusr.com/ugd/ae08e0_753f4fa7c69c40c1ad675f23265399fe.pdf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:52:59 GMT" tweetId="1416048223093993476" urltweet="https://twitter.com/taylorlorenz/status/1416048223093993476" inReplyToId="1416047488268636165" tweetUserName="taylorlorenz" >
