@@ -14,7 +14,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 15:50:18 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 15:51:48 GMT</dateModified>
 		<expansionState>1,2,3,5,13,22,24</expansionState>
 		<lastCursor>8</lastCursor>
 		</head>
@@ -27,7 +27,7 @@
 						<outline text="Node.js has &lt;a href=&quot;https://www.w3schools.com/nodejs/nodejs_npm.asp&quot;&gt;packages&lt;/a&gt;. You can include a package in an app, or in another package, with a require call, like this: &lt;code&gt;const fs = require (&quot;fs&quot;);&lt;/code&gt; Then you can refer to exported bits from the &quot;fs&quot; package in your app as if they were part of it, because they are. " created="Fri, 16 Jul 2021 13:29:50 GMT" />
 						<outline text="The programming language C has the #include statement: #include &quot;standard.h&quot;. The C preprocessor reads the file, and replaces the #include with its contents. Includes can contain includes. " created="Fri, 16 Jul 2021 13:31:58 GMT" />
 						<outline text="Wikipedia has a &lt;a href=&quot;https://en.wikipedia.org/wiki/Include_directive&quot;&gt;survey page&lt;/a&gt; explaining how inclusion works in other languages, such as Fortran, Pascal, PHP. " created="Fri, 16 Jul 2021 15:48:13 GMT" />
-						<outline text="And OPML has &lt;a href=&quot;http://dev.opml.org/spec2.html#inclusion&quot;&gt;include nodes&lt;/a&gt; which have a type attribute whose value is include and a url attribute which is the address of an OPML file. When the user expands an include node, the outliner reads the contents of the OPML file and inserts it as subs of the include node. To the user, if the net is sufficiently fast, and the file is a manageable size, they wouldn't even know it was an include node. " created="Fri, 16 Jul 2021 13:29:07 GMT" />
+						<outline text="OPML has &lt;a href=&quot;http://dev.opml.org/spec2.html#inclusion&quot;&gt;include nodes&lt;/a&gt; which have a &lt;i&gt;type&lt;/i&gt; attribute whose value is include and a &lt;i&gt;url&lt;/i&gt; attribute which is the address of an OPML file. When the user expands an include node, the outliner reads the contents of the OPML file and inserts it as subs of the include node. To the user, if the net is sufficiently fast, and the file is a manageable size, they wouldn't even know it was an include node. " created="Fri, 16 Jul 2021 13:29:07 GMT" />
 						</outline>
 					<outline text="An example. I archive my blog, which is written in an outliner, and saved as OPML, at the beginning of every month. I save the previous month in a repository on GitHub, and empty out the outline I edit. The CMS that builds the HTML rendering and the RSS version of my blog is able to jump month boundaries. So I have a convenient-size outline for editing, and everything else just hums along. " created="Fri, 16 Jul 2021 13:29:19 GMT" />
 					<outline text="But what if I wanted an outline of all my blog posts going back to May 2017? I would do that with include nodes. And just for fun, I did exactly that. " created="Fri, 16 Jul 2021 13:40:29 GMT" />
