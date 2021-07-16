@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 17:16:17 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 18:23:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 16" type="calendarDay" name="16" >
+				<outline text="🔥🔥🔥 &lt;a href=&quot;https://twitter.com/Kellen_Browning/status/1416097659413098498&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 18:23:15 GMT" tweetId="1416101134536675328" urltweet="https://twitter.com/taylorlorenz/status/1416101134536675328" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="A peek into @xpatriciah's internet &lt;a href=&quot;https://embedded.substack.com/p/my-internet-patricia-hernandez&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 17:15:49 GMT" tweetId="1416084167784271879" urltweet="https://twitter.com/taylorlorenz/status/1416084167784271879" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“Our system is called capitalism. It’s designed to optimize for long-term growth of capital. When people wonder, ‘Well, are capital owners advantaged over labor?,’ it ain’t called laborism.” &lt;a href=&quot;https://www.nytimes.com/2021/07/16/style/uber-ceo-dara-khosrowshahi.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 17:12:40 GMT" tweetId="1416083374834323463" urltweet="https://twitter.com/taylorlorenz/status/1416083374834323463" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This checks out &lt;a href=&quot;https://twitter.com/julcarm/status/1416075815490658315&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 16:51:20 GMT" tweetId="1416078006544633863" urltweet="https://twitter.com/taylorlorenz/status/1416078006544633863" inReplyToId="" tweetUserName="taylorlorenz" />
