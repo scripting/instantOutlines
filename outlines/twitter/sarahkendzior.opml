@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Fri, 16 Jul 2021 14:44:41 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 14:46:41 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 16" type="calendarDay" name="16" >
-				<outline text="A thread from the @gaslitnation episode, “The Good Germans”: &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1303687063712280577&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:43:55 GMT" tweetId="1416045938372751372" urltweet="https://twitter.com/sarahkendzior/status/1416045938372751372" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="A thread from the @gaslitnation episode, “The Good Germans”: &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1303687063712280577&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:43:55 GMT" tweetId="1416045938372751372" urltweet="https://twitter.com/sarahkendzior/status/1416045938372751372" inReplyToId="" tweetUserName="sarahkendzior" >
+					<outline text="Another thread on “The Good Germans” of the USA. They’re still there, profiteering off your pain. Call them out for what they are. &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1303674342774116352&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:46:29 GMT" tweetId="1416046583964213250" urltweet="https://twitter.com/sarahkendzior/status/1416046583964213250" inReplyToId="1416045938372751372" tweetUserName="sarahkendzior" />
+					</outline>
 				</outline>
 			<outline text="July 15" type="calendarDay" name="15" >
 				<outline text="&quot;If you don’t know these things happened, their bare recitation can seem shocking, aggressive, simplistic, or wrong.&quot; &lt;a href=&quot;https://twitter.com/KatzOnEarth/status/1415493652109881345&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 15 Jul 2021 16:29:07 GMT" tweetId="1415710026778300417" urltweet="https://twitter.com/sarahkendzior/status/1415710026778300417" inReplyToId="" tweetUserName="sarahkendzior" />
