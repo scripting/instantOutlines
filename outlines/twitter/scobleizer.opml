@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 06:04:03 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 18:11:32 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 16" type="calendarDay" name="16" >
+				<outline text="Definitely sketchy. :-) &lt;a href=&quot;https://twitter.com/appleinsider/status/1415776079214751748&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 18:11:14 GMT" tweetId="1416098111894605824" urltweet="https://twitter.com/scobleizer/status/1416098111894605824" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="July 15" type="calendarDay" name="15" >
 				<outline text="Regarding Apple’s VR headset:
 
