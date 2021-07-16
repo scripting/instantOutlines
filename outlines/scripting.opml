@@ -14,12 +14,25 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 15 Jul 2021 15:47:15 GMT</dateModified>
-		<expansionState>1,2,11,13</expansionState>
-		<lastCursor>11</lastCursor>
+		<dateModified>Fri, 16 Jul 2021 15:42:22 GMT</dateModified>
+		<expansionState>1,2,3,5,12,21,23</expansionState>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 16" created="Fri, 16 Jul 2021 13:25:00 GMT" type="calendarDay" name="16" >
+				<outline text="OPML's building block -- the include node type" created="Fri, 16 Jul 2021 13:26:36 GMT" type="outline" tags="opml, include" >
+					<outline text="I was talking with a developer yesterday and the question came up, what about huge outlines? How does OPML handle those? That gave me a chance to tell the story about how i'm archiving Scripting News, and how &quot;include&quot; nodes work." created="Fri, 16 Jul 2021 15:26:41 GMT" />
+					<outline text="First it's basically the same thing that happens when a piece of software gets big -- you break it up into components and link them together in a single document. That makes the code more manageable, and makes it possible to reuse the pieces of code. Every serious system has to provide for breaking big things up into smaller, reusable bits. For example..." created="Fri, 16 Jul 2021 13:30:40 GMT" flBulletedSubs="true" >
+						<outline text="Node.js has packages. You can include a package in an app, or in another package, with a require call, like this: &lt;code&gt;const fs = require (&quot;fs&quot;);&lt;/code&gt; Then you can refer to exported bits from the &quot;fs&quot; package in your app as if they were part of it, because they are. " created="Fri, 16 Jul 2021 13:29:50 GMT" />
+						<outline text="The programming language C has the #include statement: #include &quot;standard.h&quot;. The C preprocessor reads the file, and replaces the #include with its contents. Includes can contain includes. " created="Fri, 16 Jul 2021 13:31:58 GMT" />
+						<outline text="And OPML has include nodes which have a type attribute whose value is include and a url attribute which is the address of an OPML file. When the user expands an include node, the outliner reads the contents of the OPML file and inserts it as subs of the include node. To the user, if the net is sufficiently fast, and the file is a manageable size, they wouldn't even know it was an include node. " created="Fri, 16 Jul 2021 13:29:07 GMT" />
+						</outline>
+					<outline text="An example. I archive my blog, which is written in an outliner, and saved as OPML, at the beginning of every month. I save the previous month in a repository on GitHub, and empty out the outline I edit. The CMS that builds the HTML rendering and the RSS version of my blog is able to jump month boundaries. So I have a convenient-size outline for editing, and everything else just hums along. " created="Fri, 16 Jul 2021 13:29:19 GMT" />
+					<outline text="But what if I wanted an outline of all my blog posts going back to May 2017? I would do that with include nodes. And just for fun, I did exactly that. " created="Fri, 16 Jul 2021 13:40:29 GMT" />
+					<outline text="Here's &lt;a href=&quot;https://gist.github.com/scripting/005d8b83ea76fbb25df8627096cb75f7&quot;&gt;an OPML file that contains includes&lt;/a&gt; for each of the months of 2018, 2019 and 2020. If you have an outliner that can expand includes, then you can view all the writing for those years in one outline" created="Fri, 16 Jul 2021 15:29:37 GMT" />
+					</outline>
+				</outline>
 			<outline text="July 15" created="Thu, 15 Jul 2021 12:09:53 GMT" type="calendarDay" name="15" >
 				<outline text="Podcast: &lt;a href=&quot;http://scripting.com/2021/07/15/theQuestionWereNotWillingToDiscuss.m4a&quot;&gt;The question we're not willing to discuss&lt;/a&gt;. We need new leadership, and it's not the [[Lincoln Project]]. Their war is within the Republican Party, which is not the war we're fighting. Our war is whether we go back to [[slavery]], or do we live up to the promise of the country post-Civil War and &lt;a href=&quot;https://en.wikipedia.org/wiki/Great_Society&quot;&gt;Great Society&lt;/a&gt;. We need black leadership. We need to respond to the slavers very clearly, no, we will not discuss what you want to do. Your only choice is whether you will change or you will crawl back into the hole you came out of. There is no other choice. And we need to expel from Congress every traitor to the Constitution, and there are many of them. No half-steps. Nothing that makes people feel like everything is okay, that our war is winnable with stark advertising." created="Thu, 15 Jul 2021 15:10:05 GMT" type="outline" enclosure="http://scripting.com/2021/07/15/theQuestionWereNotWillingToDiscuss.m4a" enclosureType="audio/mpeg" enclosureLength="11876776" image="http://scripting.com/images/2021/07/15/staceyAbrams.png" />
 				<outline text="Trust me, &lt;a href=&quot;https://www.youtube.com/watch?v=oIZDtqWX6Fk&amp;t=4s&quot;&gt;watch&lt;/a&gt; this 18 minute video. It's a real &lt;a href=&quot;http://mindbomb.org/&quot;&gt;mind bomb&lt;/a&gt; on [[racism]]. 18 minutes, for a brain explosion. That's a pretty good deal. " created="Thu, 15 Jul 2021 13:27:49 GMT" type="outline" />
@@ -30,7 +43,7 @@
 				<outline text="I'm trying to figure out how to show bike trails in Kingston NY, on Google Maps." created="Thu, 15 Jul 2021 12:23:13 GMT" type="outline" />
 				<outline text="Sometimes I get stressed, like everyone else. I have a technique for working my way through it. I ask myself this question: What would Dave do if he wasn't stressed out. Change the perspective. I'm now outside myself, am an observer of myself. Often I have no trouble writing down a few things. Then I do one of those things. If it works, I get into it, and an hour or two later I forgot why I was stressed. " created="Thu, 15 Jul 2021 12:09:54 GMT" type="outline" />
 				<outline text="Virgil quick come see..." created="Thu, 15 Jul 2021 15:43:43 GMT" type="outline" >
-					<outline text="There goes &lt;a href=&quot;https://www.youtube.com/watch?v=jREUrbGGrgM&quot;&gt;Robert E. Lee&lt;/a&gt;." created="Thu, 15 Jul 2021 15:43:49 GMT" inlineImage="http://scripting.com/images/2021/07/15/robertELee.png" />
+					<outline text="There goes &lt;a href=&quot;https://www.youtube.com/watch?v=jREUrbGGrgM&quot;&gt;Robert E. Lee&lt;/a&gt;." created="Thu, 15 Jul 2021 15:43:49 GMT" inlineImage="http://scripting.com/images/2021/07/15/robertELee.png" image="http://scripting.com/images/2021/07/15/tagserver.png" />
 					</outline>
 				<outline text="Liberty and justice for all" created="Thu, 15 Jul 2021 13:39:13 GMT" type="outline" >
 					<outline text="We swear allegiance to each other." created="Thu, 15 Jul 2021 13:39:26 GMT" inlineImage="http://scripting.com/images/2021/07/15/libertyAndJustice.png" />
