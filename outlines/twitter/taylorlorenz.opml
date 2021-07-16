@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 14:13:44 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 14:50:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 16" type="calendarDay" name="16" >
+				<outline text="TIL the Social Register has a website &lt;a href=&quot;https://www.socialregisteronline.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:50:04 GMT" tweetId="1416047488268636165" urltweet="https://twitter.com/taylorlorenz/status/1416047488268636165" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is good &lt;a href=&quot;https://twitter.com/broderick/status/1416030550033371143&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:13:08 GMT" tweetId="1416038192470446082" urltweet="https://twitter.com/taylorlorenz/status/1416038192470446082" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“office bod”??? &lt;a href=&quot;https://twitter.com/bw/status/1415872901627236354&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 12:59:04 GMT" tweetId="1416019555059736580" urltweet="https://twitter.com/taylorlorenz/status/1416019555059736580" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Follow me on IG!!! 🙏🏻 &lt;a href=&quot;https://instagram.com/taylorlorenz/&quot;&gt;[link]&lt;/a&gt; https://t.co/Askh9l0cCd" type="tweet" created="Fri, 16 Jul 2021 12:43:47 GMT" tweetId="1416015705070350343" urltweet="https://twitter.com/taylorlorenz/status/1416015705070350343" inReplyToId="" tweetUserName="taylorlorenz" />
