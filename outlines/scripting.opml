@@ -14,15 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 15:42:22 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 15:44:17 GMT</dateModified>
 		<expansionState>1,2,3,5,12,21,23</expansionState>
-		<lastCursor>10</lastCursor>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 16" created="Fri, 16 Jul 2021 13:25:00 GMT" type="calendarDay" name="16" >
 				<outline text="OPML's building block -- the include node type" created="Fri, 16 Jul 2021 13:26:36 GMT" type="outline" tags="opml, include" >
-					<outline text="I was talking with a developer yesterday and the question came up, what about huge outlines? How does OPML handle those? That gave me a chance to tell the story about how i'm archiving Scripting News, and how &quot;include&quot; nodes work." created="Fri, 16 Jul 2021 15:26:41 GMT" />
+					<outline text="I was talking with a developer yesterday and the question came up, what about huge outlines? How does OPML handle those? That gave me a chance to tell the story about how i'm &lt;a href=&quot;https://github.com/scripting/Scripting-News/tree/master/blog&quot;&gt;archiving&lt;/a&gt; Scripting News, and how &quot;include&quot; &lt;a href=&quot;https://www.google.com/search?q=site%3Ascripting.com+include+nodes&quot;&gt;nodes&lt;/a&gt; work." created="Fri, 16 Jul 2021 15:26:41 GMT" />
 					<outline text="First it's basically the same thing that happens when a piece of software gets big -- you break it up into components and link them together in a single document. That makes the code more manageable, and makes it possible to reuse the pieces of code. Every serious system has to provide for breaking big things up into smaller, reusable bits. For example..." created="Fri, 16 Jul 2021 13:30:40 GMT" flBulletedSubs="true" >
 						<outline text="Node.js has packages. You can include a package in an app, or in another package, with a require call, like this: &lt;code&gt;const fs = require (&quot;fs&quot;);&lt;/code&gt; Then you can refer to exported bits from the &quot;fs&quot; package in your app as if they were part of it, because they are. " created="Fri, 16 Jul 2021 13:29:50 GMT" />
 						<outline text="The programming language C has the #include statement: #include &quot;standard.h&quot;. The C preprocessor reads the file, and replaces the #include with its contents. Includes can contain includes. " created="Fri, 16 Jul 2021 13:31:58 GMT" />
