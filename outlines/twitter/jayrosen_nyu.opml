@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 14:27:44 GMT</dateModified>
+		<dateModified>Fri, 16 Jul 2021 14:57:40 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 16" type="calendarDay" name="16" >
+				<outline text="For my Brazilian friends, followers, and students. &lt;a href=&quot;https://twitter.com/membershippzzle/status/1416046245605519361&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 14:57:17 GMT" tweetId="1416049303752224768" urltweet="https://twitter.com/jayrosen_nyu/status/1416049303752224768" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 15" type="calendarDay" name="15" >
 				<outline text="If I had to give the entire file of Trump coverage grades, there would be some As, Bs, Cs, Ds, and Fs for different streams in it. For the Ivanka Trump portion I would have to send a note home, &quot;please make an appointment to see me.&quot; &lt;a href=&quot;https://www.washingtonpost.com/politics/2021/07/15/jan-6-i-alone-can-fix-it-book-excerpt/&quot;&gt;[link]&lt;/a&gt;
 
