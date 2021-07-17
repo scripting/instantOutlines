@@ -14,7 +14,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 17 Jul 2021 15:38:25 GMT</dateModified>
+		<dateModified>Sat, 17 Jul 2021 15:38:47 GMT</dateModified>
 		<expansionState>1,2,4,6,8,16,25,27</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
