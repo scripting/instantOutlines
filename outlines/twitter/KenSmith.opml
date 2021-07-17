@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 18:42:41 GMT</dateModified>
+		<dateModified>Sat, 17 Jul 2021 14:17:22 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 17" type="calendarDay" name="17" >
+				<outline text="A century ago, health inspector Dr. Peter Bryce tried to get Canada to attend to the 25% or higher death rates, often from tuberculosis, at the residential schools, where the most rudimentary health practices were not widely employed. &lt;a href=&quot;https://www.cbc.ca/radio/unreserved/exploring-the-past-finding-connections-in-little-known-indigenous-history-1.5531914/pushed-out-and-silenced-how-one-doctor-was-punished-for-speaking-out-about-residential-schools-1.5534953&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 14:17:00 GMT" tweetId="1416401553867563008" urltweet="https://twitter.com/KenSmith/status/1416401553867563008" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 13" type="calendarDay" name="13" >
 				<outline text="Thread on Adorno's view of the essay. First, what he's not talking about. Not talking about the school essay, which is for training and indoctrinating young people and is often boring to writer and reader." type="tweet" created="Tue, 13 Jul 2021 18:42:09 GMT" tweetId="1415018730040532993" urltweet="https://twitter.com/KenSmith/status/1415018730040532993" inReplyToId="" tweetUserName="KenSmith" >
 					<outline text="And Adorno is not talking about the academic article, which is an expert talking narrowly to a handful of colleagues in a lingo not meant to be useful to any others." type="tweet" created="Tue, 13 Jul 2021 18:42:10 GMT" tweetId="1415018732028579843" urltweet="https://twitter.com/KenSmith/status/1415018732028579843" inReplyToId="1415018730040532993" tweetUserName="KenSmith" >
@@ -24,7 +27,9 @@
 													<outline text="Writers can get their authority other ways. They can get it by choosing what they write about in such a way that they expose something new in it rather than repeat what common sense already knows about it." type="tweet" created="Tue, 13 Jul 2021 18:42:13 GMT" tweetId="1415018745702014976" urltweet="https://twitter.com/KenSmith/status/1415018745702014976" inReplyToId="1415018743579750414" tweetUserName="KenSmith" >
 														<outline text="Maybe they put together historical examples they we have never thought about as being related." type="tweet" created="Tue, 13 Jul 2021 18:42:13 GMT" tweetId="1415018746868113408" urltweet="https://twitter.com/KenSmith/status/1415018746868113408" inReplyToId="1415018745702014976" tweetUserName="KenSmith" >
 															<outline text="Then they do the work to notice something about the juxtaposition that common sense doesn't care about. In that way they challenge and refresh and extend the common sense of their society." type="tweet" created="Tue, 13 Jul 2021 18:42:13 GMT" tweetId="1415018747945967619" urltweet="https://twitter.com/KenSmith/status/1415018747945967619" inReplyToId="1415018746868113408" tweetUserName="KenSmith" >
-																<outline text="And they get their authority by repeating this creative act over and over again. Not by their job or their diploma or their shop talk. People who like the feeling of being awake notice writers who can do this and come back to them." type="tweet" created="Tue, 13 Jul 2021 18:42:14 GMT" tweetId="1415018749258866692" urltweet="https://twitter.com/KenSmith/status/1415018749258866692" inReplyToId="1415018747945967619" tweetUserName="KenSmith" />
+																<outline text="And they get their authority by repeating this creative act over and over again. Not by their job or their diploma or their shop talk. People who like the feeling of being awake notice writers who can do this and come back to them." type="tweet" created="Tue, 13 Jul 2021 18:42:14 GMT" tweetId="1415018749258866692" urltweet="https://twitter.com/KenSmith/status/1415018749258866692" inReplyToId="1415018747945967619" tweetUserName="KenSmith" >
+																	<outline text="So, Adorno is correct. The innermost trait of a fine essay is an act of heresy it commits against something calcified in the common sense of the society. Pdf link here. &lt;a href=&quot;https://web.english.upenn.edu/~cavitch/pdf-library/Adorno_EssayAsForm.pdf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 18:42:14 GMT" tweetId="1415018750357684228" urltweet="https://twitter.com/KenSmith/status/1415018750357684228" inReplyToId="1415018749258866692" tweetUserName="KenSmith" />
+																	</outline>
 																</outline>
 															</outline>
 														</outline>
