@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 20:00:43 GMT</dateModified>
-		<expansionState>1,2,4,6,14,23,25</expansionState>
+		<dateModified>Sat, 17 Jul 2021 15:37:48 GMT</dateModified>
+		<expansionState>1,2,4,6,8,16,25,27</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 17" created="Sat, 17 Jul 2021 15:37:29 GMT" type="calendarDay" name="17" >
+				<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Rupert_Murdoch&quot;&gt;Rupert Murdoch&lt;/a&gt; should be more famous for what he's doing to the world. He mostly stays out of view. That should stop. He should stop just being a punchline for MSNBC jokes. He's trying to kill more hundreds of thousands of Americans. And of course not just in America." created="Sat, 17 Jul 2021 15:37:30 GMT" type="outline" />
+				</outline>
 			<outline text="July 16" created="Fri, 16 Jul 2021 13:25:00 GMT" type="calendarDay" name="16" >
 				<outline text="To friends who read this blog, esp people from ye olde tech industry in Calif -- I think you'll enjoy this &lt;a href=&quot;https://podcasts.apple.com/gb/podcast/guy-kawasakis-remarkable-people/id1483081827?i=1000528857811&quot;&gt;podcast conversation&lt;/a&gt; with my old and good friend &lt;a href=&quot;https://twitter.com/GuyKawasaki&quot;&gt;Guy Kawasaki&lt;/a&gt;. Just like a &lt;a href=&quot;https://hobees.com/hobees-cupertino-ends-memorable-33-year-run/&quot;&gt;Hobee's&lt;/a&gt; breakfast, &lt;a href=&quot;https://www.yelp.com/biz/siam-garden-menlo-park&quot;&gt;Siam Garden&lt;/a&gt; dinner, or &lt;a href=&quot;http://www.buckswoodside.com/&quot;&gt;Buck's Woodside&lt;/a&gt;, back in the day. " created="Fri, 16 Jul 2021 19:57:07 GMT" type="outline" />
 				<outline text="OPML's building block -- the include node type" created="Fri, 16 Jul 2021 13:26:36 GMT" type="outline" tags="opml, include" description="Every serious system has to provide for breaking big things up into smaller, reusable bits. " metaImage="http://scripting.com/images/2021/07/16/containers.png" >
