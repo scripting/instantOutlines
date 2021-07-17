@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 17 Jul 2021 16:48:57 GMT</dateModified>
-		<expansionState>1,2,6,15,17</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sat, 17 Jul 2021 19:30:53 GMT</dateModified>
+		<expansionState>1,2,7,16,18</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 17" created="Sat, 17 Jul 2021 15:37:29 GMT" type="calendarDay" name="17" >
+				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1416479035568410628&quot;&gt;Poll&lt;/a&gt;: How long do you think [[racism]] has existed?" created="Sat, 17 Jul 2021 19:30:13 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Rupert_Murdoch&quot;&gt;Rupert Murdoch&lt;/a&gt; should be more famous for what he's doing to the world. He mostly stays out of view. That should stop. He should stop just being a punchline for [[MSNBC]] jokes. He's trying to kill more hundreds of thousands of Americans. And of course not just in America. " created="Sat, 17 Jul 2021 15:37:30 GMT" type="outline" />
 				<outline text="I don't own any Facebook stock, and in general do not approve of how the company conducts itself, but [[President Biden]]'s &lt;a href=&quot;https://www.bbc.com/news/world-us-canada-57870778&quot;&gt;line&lt;/a&gt; about how [[Facebook]] is killing people is horribly misdirected. If he said Rupert Murdoch were killing people, before Facebook, then he'd be credible." created="Sat, 17 Jul 2021 16:48:03 GMT" type="outline" />
 				</outline>
