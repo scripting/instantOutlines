@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 18 Jul 2021 02:37:08 GMT</dateModified>
+		<dateModified>Sun, 18 Jul 2021 10:25:28 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 18" type="calendarDay" name="18" >
+				<outline text="How to watch last nights nba game now?" type="tweet" created="Sun, 18 Jul 2021 10:24:14 GMT" tweetId="1416705362942693379" urltweet="https://twitter.com/davewiner/status/1416705362942693379" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="July 17" type="calendarDay" name="17" >
 				<outline text="Nationals Park shooting: At least 4 shot outside stadium during baseball game Saturday night, police say. &lt;a href=&quot;https://amp.cnn.com/cnn/2021/07/17/us/washington-nationals-park-shooting-saturday/index.html?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 02:36:50 GMT" tweetId="1416587737973600258" urltweet="https://twitter.com/davewiner/status/1416587737973600258" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Do we call the Washington baseball team something other than the Washington baseball team?" type="tweet" created="Sun, 18 Jul 2021 02:19:38 GMT" tweetId="1416583408596180995" urltweet="https://twitter.com/davewiner/status/1416583408596180995" inReplyToId="" tweetUserName="davewiner" />
