@@ -14,14 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 19:42:41 GMT</dateModified>
-		<expansionState>1,2,6,8,13,22,24</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 18 Jul 2021 19:49:08 GMT</dateModified>
+		<expansionState>1,2,7,9,14,23,25</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 18" created="Sun, 18 Jul 2021 15:20:59 GMT" type="calendarDay" name="18" >
 				<outline text="If you have a Google phone they know every place you go." created="Sun, 18 Jul 2021 19:32:40 GMT" type="outline" />
+				<outline text="We're living in the post-apocalyptic world. Somehow we got used to it." created="Sun, 18 Jul 2021 19:49:04 GMT" type="outline" />
 				<outline text="When will I be able to set an alarm on my iPhone that wakes me up when there are five minutes left in the fourth quarter of the game I’m watching?" created="Sun, 18 Jul 2021 15:21:00 GMT" type="outline" />
 				<outline text="Reality check" created="Sun, 18 Jul 2021 17:20:09 GMT" type="outline" tag="covid" >
 					<outline text="From the &lt;a href=&quot;https://www.washingtonpost.com/health/in-this-summer-of-covid-freedom-disease-experts-warn-the-world-needs-a-reality-check/2021/07/17/895be6e8-e58c-11eb-b722-89ea0dde7771_story.html&quot;&gt;Washington Post&lt;/a&gt; via &lt;a href=&quot;https://politicalwire.com/2021/07/18/the-world-needs-a-reality-check/&quot;&gt;Political Wire&lt;/a&gt;:" created="Sun, 18 Jul 2021 17:21:39 GMT" >
