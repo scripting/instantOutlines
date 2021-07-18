@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 02:17:28 GMT</dateModified>
+		<dateModified>Sun, 18 Jul 2021 15:14:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 18" type="calendarDay" name="18" >
+				<outline text="Anticipating a chance to put to him some questions, a journalist I know asked me what would I ask Chuck Todd. This was my answer. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1416778376812105739/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 15:14:22 GMT" tweetId="1416778376812105739" urltweet="https://twitter.com/jayrosen_nyu/status/1416778376812105739" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 17" type="calendarDay" name="17" >
 				<outline text="The words of @NicolleDWallace, who worked for a Republican White House and in two GOP campaigns. &lt;a href=&quot;https://www.msnbc.com/msnbc/i-served-gop-20-years-demise-democracy-doesn-t-have-n1273773&quot;&gt;[link]&lt;/a&gt; https://t.co/Tdy7Snpkfn" type="tweet" created="Sun, 18 Jul 2021 02:16:54 GMT" tweetId="1416582721669935104" urltweet="https://twitter.com/jayrosen_nyu/status/1416582721669935104" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
