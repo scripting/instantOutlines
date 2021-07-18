@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 21:47:40 GMT</dateModified>
+		<dateModified>Sun, 18 Jul 2021 22:22:12 GMT</dateModified>
 		<expansionState>1,2,9,11,16,25,27</expansionState>
-		<lastCursor>3</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 18" created="Sun, 18 Jul 2021 15:20:59 GMT" type="calendarDay" name="18" >
-				<outline text="Harry Nilsson: &lt;a href=&quot;https://www.youtube.com/watch?v=eIsW6DMR9z4&quot;&gt;Good Old Desk&lt;/a&gt;." created="Sun, 18 Jul 2021 21:45:40 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=eIsW6DMR9z4" />
+				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=eIsW6DMR9z4&quot;&gt;Good Old Desk&lt;/a&gt;." created="Sun, 18 Jul 2021 21:45:40 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=eIsW6DMR9z4" />
 				<outline text="&lt;a href=&quot;https://www.memeorandum.com/&quot;&gt;Memeorandum&lt;/a&gt; has been a regular &lt;a href=&quot;http://scripting.com/images/2021/07/18/memeScreenShot.png&quot;&gt;stop&lt;/a&gt; for me for news for decades, is now mostly links to news that's behind paywalls. I couldn’t possibly pay for most of them, too many subs to manage, and I don’t read enough of any individual pub to justify subscribing. I do subscribe to NYT and Washington Post. But I don’t get enough value from either, honestly. This continues to be a &lt;a href=&quot;http://scripting.com/2020/08/06/133617.html?title=moneyForNews&quot;&gt;lousy situation&lt;/a&gt;. The pubs only talk about how news is broken from their point of view, but the readers point of view matters as much, if not more." created="Sun, 18 Jul 2021 20:03:25 GMT" type="outline" />
 				<outline text="If you have a Google phone they know every place you go." created="Sun, 18 Jul 2021 19:32:40 GMT" type="outline" />
 				<outline text="We're living in the post-apocalyptic world. Somehow we got used to it." created="Sun, 18 Jul 2021 19:49:04 GMT" type="outline" />
