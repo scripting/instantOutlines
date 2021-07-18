@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 11:35:16 GMT</dateModified>
+		<dateModified>Sun, 18 Jul 2021 18:18:59 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 18" type="calendarDay" name="18" >
+				<outline text="What is the difference between &lt;a href=&quot;https://twitter.com/home&quot;&gt;[link]&lt;/a&gt; behind the bird and behind the bird house? I know they bring somewhat different results when one clicks on them, but how I'm not sure. The obvious isn't always apparent to me." type="tweet" created="Sun, 18 Jul 2021 18:18:10 GMT" tweetId="1416824634864017415" urltweet="https://twitter.com/dsearls/status/1416824634864017415" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Been here in interspace for several decades now, but this is the first time I've seen this one in my location bar when I copied a text string I wanted to search. Makes me think: if you don't want your text copied, don't put it in the world's biggest copy machine. &lt;a href=&quot;https://twitter.com/dsearls/status/1416723010896150535/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 11:34:21 GMT" tweetId="1416723010896150535" urltweet="https://twitter.com/dsearls/status/1416723010896150535" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 17" type="calendarDay" name="17" >
