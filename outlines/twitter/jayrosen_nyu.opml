@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 15:14:30 GMT</dateModified>
+		<dateModified>Sun, 18 Jul 2021 17:25:47 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 18" type="calendarDay" name="18" >
+				<outline text="New British TV channel, @GBNEWS, which was supposed to be a more conservative alternative, recorded ZERO viewers for parts of the day after a viewer boycott prompted by one of its presenters taking the knee in solidarity with the England football team. &lt;a href=&quot;https://www.theguardian.com/media/2021/jul/15/gb-news-shows-attracted-zero-viewers-after-boycott-over-taking-the-knee&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 17:25:15 GMT" tweetId="1416811317432832004" urltweet="https://twitter.com/jayrosen_nyu/status/1416811317432832004" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Anticipating a chance to put to him some questions, a journalist I know asked me what would I ask Chuck Todd. This was my answer. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1416778376812105739/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 15:14:22 GMT" tweetId="1416778376812105739" urltweet="https://twitter.com/jayrosen_nyu/status/1416778376812105739" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 17" type="calendarDay" name="17" >
