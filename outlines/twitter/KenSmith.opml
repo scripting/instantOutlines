@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 17 Jul 2021 14:33:21 GMT</dateModified>
+		<dateModified>Sun, 18 Jul 2021 12:24:39 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 18" type="calendarDay" name="18" >
+				<outline text="Monarch egg on the front yard milkweed yesterday. &lt;a href=&quot;https://twitter.com/KenSmith/status/1416735574665347077/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 12:24:17 GMT" tweetId="1416735574665347077" urltweet="https://twitter.com/KenSmith/status/1416735574665347077" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 17" type="calendarDay" name="17" >
 				<outline text="A century ago, health inspector Dr. Peter Bryce tried to get Canada to attend to the 25% or higher death rates, often from tuberculosis, at the residential schools, where the most rudimentary health practices were not widely employed. &lt;a href=&quot;https://www.cbc.ca/radio/unreserved/exploring-the-past-finding-connections-in-little-known-indigenous-history-1.5531914/pushed-out-and-silenced-how-one-doctor-was-punished-for-speaking-out-about-residential-schools-1.5534953&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 14:17:00 GMT" tweetId="1416401553867563008" urltweet="https://twitter.com/KenSmith/status/1416401553867563008" inReplyToId="" tweetUserName="KenSmith" >
 					<outline text="Bryce’s blunt report also contained subtle clues about the emotional cost to the students. &lt;a href=&quot;https://twitter.com/kensmith/status/1416404679362334728?s=21&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 14:32:28 GMT" tweetId="1416405447381241857" urltweet="https://twitter.com/KenSmith/status/1416405447381241857" inReplyToId="1416401553867563008" tweetUserName="KenSmith" />
