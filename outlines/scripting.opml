@@ -14,8 +14,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 17:20:44 GMT</dateModified>
-		<expansionState>1,2,4,8,13,22,24</expansionState>
+		<dateModified>Sun, 18 Jul 2021 17:23:00 GMT</dateModified>
+		<expansionState>1,2,4,5,9,14,23,25</expansionState>
 		<lastCursor>4</lastCursor>
 		</head>
 	<body>
@@ -23,9 +23,11 @@
 			<outline text="July 18" created="Sun, 18 Jul 2021 15:20:59 GMT" type="calendarDay" name="18" >
 				<outline text="When will I be able to set an alarm on my iPhone that wakes me up when there are five minutes left in the fourth quarter of the game I’m watching?" created="Sun, 18 Jul 2021 15:21:00 GMT" type="outline" />
 				<outline text="Reality check" created="Sun, 18 Jul 2021 17:20:09 GMT" type="outline" >
-					<outline text="&lt;a href=&quot;https://www.washingtonpost.com/health/in-this-summer-of-covid-freedom-disease-experts-warn-the-world-needs-a-reality-check/2021/07/17/895be6e8-e58c-11eb-b722-89ea0dde7771_story.html&quot;&gt;Washington Post&lt;/a&gt;: “Around the world, scientists and public health officials fear that the world’s protracted battle against the coronavirus is at a delicate and dangerous moment.”" created="Sun, 18 Jul 2021 17:20:24 GMT" />
-					<outline text="“Reality checks abound. Coronavirus infections are surging in places with low vaccination rates. SARS-CoV-2 is continuing to mutate. Researchers have confirmed the delta variant is far more transmissible than earlier strains. Although the vaccines remain remarkably effective, the virus has bountiful opportunities to find new ways to evade immunity. Most of the world remains unvaccinated.”" />
-					<outline text="“And so the end of the pandemic remains somewhere over the horizon.”" />
+					<outline text="From the &lt;a href=&quot;https://www.washingtonpost.com/health/in-this-summer-of-covid-freedom-disease-experts-warn-the-world-needs-a-reality-check/2021/07/17/895be6e8-e58c-11eb-b722-89ea0dde7771_story.html&quot;&gt;Washington Post&lt;/a&gt; via &lt;a href=&quot;https://politicalwire.com/2021/07/18/the-world-needs-a-reality-check/&quot;&gt;Political Wire&lt;/a&gt;:" created="Sun, 18 Jul 2021 17:21:39 GMT" >
+						<outline text="Around the world, scientists and public health officials fear that the world’s protracted battle against the coronavirus is at a delicate and dangerous moment." created="Sun, 18 Jul 2021 17:20:24 GMT" />
+						<outline text="Reality checks abound. Coronavirus infections are surging in places with low vaccination rates. SARS-CoV-2 is continuing to mutate. Researchers have confirmed the delta variant is far more transmissible than earlier strains. Although the vaccines remain remarkably effective, the virus has bountiful opportunities to find new ways to evade immunity. Most of the world remains unvaccinated." created="Sun, 18 Jul 2021 17:22:23 GMT" />
+						<outline text="And so the end of the pandemic remains somewhere over the horizon." created="Sun, 18 Jul 2021 17:22:29 GMT" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="July 17" created="Sat, 17 Jul 2021 15:37:29 GMT" type="calendarDay" name="17" >
