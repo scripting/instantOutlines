@@ -14,14 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 15:21:10 GMT</dateModified>
-		<expansionState>1,2,4,9,18,20</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 18 Jul 2021 17:20:44 GMT</dateModified>
+		<expansionState>1,2,4,8,13,22,24</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 18" created="Sun, 18 Jul 2021 15:20:59 GMT" type="calendarDay" name="18" >
 				<outline text="When will I be able to set an alarm on my iPhone that wakes me up when there are five minutes left in the fourth quarter of the game I’m watching?" created="Sun, 18 Jul 2021 15:21:00 GMT" type="outline" />
+				<outline text="Reality check" created="Sun, 18 Jul 2021 17:20:09 GMT" type="outline" >
+					<outline text="&lt;a href=&quot;https://www.washingtonpost.com/health/in-this-summer-of-covid-freedom-disease-experts-warn-the-world-needs-a-reality-check/2021/07/17/895be6e8-e58c-11eb-b722-89ea0dde7771_story.html&quot;&gt;Washington Post&lt;/a&gt;: “Around the world, scientists and public health officials fear that the world’s protracted battle against the coronavirus is at a delicate and dangerous moment.”" created="Sun, 18 Jul 2021 17:20:24 GMT" />
+					<outline text="“Reality checks abound. Coronavirus infections are surging in places with low vaccination rates. SARS-CoV-2 is continuing to mutate. Researchers have confirmed the delta variant is far more transmissible than earlier strains. Although the vaccines remain remarkably effective, the virus has bountiful opportunities to find new ways to evade immunity. Most of the world remains unvaccinated.”" />
+					<outline text="“And so the end of the pandemic remains somewhere over the horizon.”" />
+					</outline>
 				</outline>
 			<outline text="July 17" created="Sat, 17 Jul 2021 15:37:29 GMT" type="calendarDay" name="17" >
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1416479035568410628&quot;&gt;Poll&lt;/a&gt;: How long do you think [[racism]] has existed?" created="Sat, 17 Jul 2021 19:30:13 GMT" type="outline" />
