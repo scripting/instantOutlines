@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sun, 18 Jul 2021 14:22:14 GMT</dateModified>
+		<dateModified>Sun, 18 Jul 2021 14:24:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 18" type="calendarDay" name="18" >
-				<outline text="My mom found my beloved collection of Garbage Pail Kids, which I had cleverly hidden from my first-grade teacher in a container marked &quot;Pencil Box&quot; &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1416765202792554497/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 14:22:01 GMT" tweetId="1416765202792554497" urltweet="https://twitter.com/sarahkendzior/status/1416765202792554497" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="My mom found my beloved collection of Garbage Pail Kids, which I had cleverly hidden from my first-grade teacher in a container marked &quot;Pencil Box&quot; &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1416765202792554497/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 14:22:01 GMT" tweetId="1416765202792554497" urltweet="https://twitter.com/sarahkendzior/status/1416765202792554497" inReplyToId="" tweetUserName="sarahkendzior" >
+					<outline text="Hello old friends! &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1416765730565984261/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 14:24:07 GMT" tweetId="1416765730565984261" urltweet="https://twitter.com/sarahkendzior/status/1416765730565984261" inReplyToId="1416765202792554497" tweetUserName="sarahkendzior" />
+					</outline>
 				</outline>
 			<outline text="July 16" type="calendarDay" name="16" >
 				<outline text="Oh this is sad. I have good childhood memories of him and of my own kids loving him on “Yo Gabba Gabba”. Unique and funny and beloved by multiple generations. &lt;a href=&quot;https://twitter.com/franklinleonard/status/1416185034113945602&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 00:03:26 GMT" tweetId="1416186745197039624" urltweet="https://twitter.com/sarahkendzior/status/1416186745197039624" inReplyToId="" tweetUserName="sarahkendzior" />
