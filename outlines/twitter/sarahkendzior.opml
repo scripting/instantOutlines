@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Mon, 19 Jul 2021 14:06:54 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 14:10:55 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 19" type="calendarDay" name="19" >
-				<outline text="Thread on mafia state enabler Merrick Garland &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1402639615325057029&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 14:06:10 GMT" tweetId="1417123604517502977" urltweet="https://twitter.com/sarahkendzior/status/1417123604517502977" inReplyToId="" tweetUserName="sarahkendzior" />
+				<outline text="Thread on mafia state enabler Merrick Garland &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1402639615325057029&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 14:06:10 GMT" tweetId="1417123604517502977" urltweet="https://twitter.com/sarahkendzior/status/1417123604517502977" inReplyToId="" tweetUserName="sarahkendzior" >
+					<outline text="Older thread on Garland and his own enablers: &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1402063832999022592&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 14:10:14 GMT" tweetId="1417124627348873222" urltweet="https://twitter.com/sarahkendzior/status/1417124627348873222" inReplyToId="1417123604517502977" tweetUserName="sarahkendzior" />
+					</outline>
 				</outline>
 			<outline text="July 18" type="calendarDay" name="18" >
 				<outline text="Curious what results would be in other countries, like Israel, where Netanyahu DID want to microchip people in reaction to covid: &lt;a href=&quot;https://www.jpost.com/israel-news/benjamin-netanyahu-suggests-to-microchip-kids-slammed-by-experts-627381&quot;&gt;[link]&lt;/a&gt; https://t.co/8YCn4rMEsn" type="tweet" created="Sun, 18 Jul 2021 23:19:57 GMT" tweetId="1416900580644204551" urltweet="https://twitter.com/sarahkendzior/status/1416900580644204551" inReplyToId="" tweetUserName="sarahkendzior" />
