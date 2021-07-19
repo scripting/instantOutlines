@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 16 Jul 2021 20:09:57 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 18:48:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="If you see any influencers promoting either getting vaccinated (or anti vaxx messaging), DM me the links to their content please!! 🙏🏻" type="tweet" created="Mon, 19 Jul 2021 18:48:05 GMT" tweetId="1417194550112636931" urltweet="https://twitter.com/taylorlorenz/status/1417194550112636931" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 16" type="calendarDay" name="16" >
 				<outline text="&quot;In the past, taste was scouted from hip kids and sold to the masses. But in the great river of content, what does cool even mean?&quot; @SafyHallanFarah is so good &lt;a href=&quot;https://www.vox.com/the-goods/22570006/cool-consumer-identity-gen-z-cheugy&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 20:09:31 GMT" tweetId="1416127878203330568" urltweet="https://twitter.com/taylorlorenz/status/1416127878203330568" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Daily Mail leading with Addison backlash trying to act like people don't get exactly this mad at Addison literally every week for something new &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1416120072679084037/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 19:38:30 GMT" tweetId="1416120072679084037" urltweet="https://twitter.com/taylorlorenz/status/1416120072679084037" inReplyToId="" tweetUserName="taylorlorenz" >
