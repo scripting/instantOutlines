@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 18 Jul 2021 22:33:52 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 13:14:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="If Truman knew that the Japanese emperor had asked for the war to end in July, more than two weeks before Hiroshima, well, that makes it harder than ever for me to justify the atomic bombing of two populated cities in August. &lt;a href=&quot;https://twitter.com/GregMitch/status/1417108436714655756&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 13:14:37 GMT" tweetId="1417110631380099076" urltweet="https://twitter.com/KenSmith/status/1417110631380099076" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 18" type="calendarDay" name="18" >
 				<outline text="I wonder:
 
