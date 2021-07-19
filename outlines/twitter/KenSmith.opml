@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 19 Jul 2021 13:42:04 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 13:59:57 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="Once upon a time, Bloglines made it easy to read new postings on site after site and on topic after topic of your own choosing. Automated standing searches, ready to read each time you opened Bloglines in the browser. Not the only way, but a notable one. &lt;a href=&quot;https://en.wikipedia.org/wiki/Bloglines&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 13:59:22 GMT" tweetId="1417121892465524744" urltweet="https://twitter.com/KenSmith/status/1417121892465524744" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="How wealth moves in the U.S.A.
 &lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/07/16/us-is-growing-more-unequal-thats-harmful-fixable/&quot;&gt;[link]&lt;/a&gt; https://t.co/WsDK7upoT2" type="tweet" created="Mon, 19 Jul 2021 13:41:24 GMT" tweetId="1417117368552132610" urltweet="https://twitter.com/KenSmith/status/1417117368552132610" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="If Truman knew that the Japanese emperor had asked for the war to end in July, more than two weeks before Hiroshima, well, that makes it harder than ever for me to justify the atomic bombing of two populated cities in August. &lt;a href=&quot;https://twitter.com/GregMitch/status/1417108436714655756&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 13:14:37 GMT" tweetId="1417110631380099076" urltweet="https://twitter.com/KenSmith/status/1417110631380099076" inReplyToId="" tweetUserName="KenSmith" />
