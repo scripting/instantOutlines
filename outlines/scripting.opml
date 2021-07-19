@@ -14,15 +14,22 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 19 Jul 2021 20:37:39 GMT</dateModified>
-		<expansionState>1,2,5,13,18,27,29</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Mon, 19 Jul 2021 20:45:20 GMT</dateModified>
+		<expansionState>1,2,5,11,19,24,33,35</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 19" created="Mon, 19 Jul 2021 16:33:39 GMT" type="calendarDay" name="19" >
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;Dear braintrust&lt;/a&gt;: I need to find double-square bracketed tags in some text. I believe I have a [[regular expression]] that does this. Please &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;check it out&lt;/a&gt;. I want to be sure. :smile:" created="Mon, 19 Jul 2021 16:33:40 GMT" type="outline" />
 				<outline text="Today was a total programming day, followed by a [[bike]] ride on the &lt;a href=&quot;https://ashokanrailtrail.com/&quot;&gt;rail trail&lt;/a&gt;. I have a new feature coming for Scripting News. " created="Mon, 19 Jul 2021 20:36:16 GMT" type="outline" />
+				<outline text="We are such pussycats" created="Mon, 19 Jul 2021 20:42:15 GMT" type="outline" >
+					<outline text="More confirmation that today's blockbuster news about Trump is about the crazy place we were six months ago. I don't get reporters who think that's acceptable. Their job is to know (and tell us) what crazy place we're in &lt;i&gt;right now.&lt;/i&gt;" created="Mon, 19 Jul 2021 20:42:32 GMT" image="http://scripting.com/images/2020/11/26/uncleSam.png" />
+					<outline text="Same with the military. The Joint Chiefs guy thought Trump might be doing a Reichstag fire. Great. So WHY THE FUCK DIDN'T HE PREPARE THE MILITARY TO KNOCK IT DOWN BEFORE IT STARTED AND SHIP THE INSURRECTIONISTS OFF TO GITMO. ISN'T THAT WHAT WE DO WITH TERRORISTS?" created="Mon, 19 Jul 2021 20:42:55 GMT" />
+					<outline text="When are some reporters going to get into the present and deal with today's truth. Stop praising the military for *saying* how fukced up everthing is. Praise them for keeping it from getting that way. " created="Mon, 19 Jul 2021 20:43:42 GMT" />
+					<outline text="Let's hope Biden, first thing when he got on the job, sat down with the military and told them they fucked up big, and they better be prepared next time. I suspect he didn't because he hasn't fired any of these nincompoops. " created="Mon, 19 Jul 2021 20:43:58 GMT" />
+					<outline text="We need to stop thinking like pussycats and start getting in front of this. We're getting our asses whipped every time, and we're the United States dammit. " created="Mon, 19 Jul 2021 20:44:15 GMT" />
+					</outline>
 				</outline>
 			<outline text="July 18" created="Sun, 18 Jul 2021 15:20:59 GMT" type="calendarDay" name="18" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=eIsW6DMR9z4&quot;&gt;Good Old Desk&lt;/a&gt;." created="Sun, 18 Jul 2021 21:45:40 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=eIsW6DMR9z4" />
