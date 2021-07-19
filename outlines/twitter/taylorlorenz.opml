@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 19 Jul 2021 22:13:31 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 22:28:34 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="RIP @GilmerHealthLaw 💔 &lt;a href=&quot;https://www.nytimes.com/2021/07/17/health/erin-gilmer-dead.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 22:28:02 GMT" tweetId="1417249903781179399" urltweet="https://twitter.com/taylorlorenz/status/1417249903781179399" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I wish there was someone who could do my expenses for me for a fee it's the worst part of having a job, I can't believe I used to do it for 9 hours a day as an admin" type="tweet" created="Mon, 19 Jul 2021 21:55:41 GMT" tweetId="1417241762037305382" urltweet="https://twitter.com/taylorlorenz/status/1417241762037305382" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="it's called workday b/c it takes an entire workday to do one thing 😌 &lt;a href=&quot;https://twitter.com/benlikestocode/status/1417245135268683776&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 22:13:09 GMT" tweetId="1417246155495272516" urltweet="https://twitter.com/taylorlorenz/status/1417246155495272516" inReplyToId="1417241762037305382" tweetUserName="taylorlorenz" />
 					</outline>
