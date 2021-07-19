@@ -7,9 +7,14 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Sat, 10 Jul 2021 14:59:23 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 15:57:08 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="It’s low down on my list of Safari 15 gripes, but on both iOS and iPadOS, shouldn’t the ❎ buttons to close tabs be on left side in the tab overview views? Putting them on the right feels Windows-y to me." type="tweet" created="Mon, 19 Jul 2021 15:56:50 GMT" tweetId="1417151452452200454" urltweet="https://twitter.com/gruber/status/1417151452452200454" inReplyToId="" tweetUserName="gruber" />
+				</outline>
+			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 27" type="calendarDay" name="27" >
 				<outline text="For your weekend listening enjoyment: https://t.co/mYGYFNO1Uz" type="tweet" created="Sun, 27 Jun 2021 15:27:33 GMT" tweetId="1409171550939582465" urltweet="https://twitter.com/gruber/status/1409171550939582465" tweetUserName="gruber" />
