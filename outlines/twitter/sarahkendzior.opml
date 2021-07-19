@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sun, 18 Jul 2021 23:19:59 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 14:06:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="Thread on mafia state enabler Merrick Garland &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1402639615325057029&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 14:06:10 GMT" tweetId="1417123604517502977" urltweet="https://twitter.com/sarahkendzior/status/1417123604517502977" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="July 18" type="calendarDay" name="18" >
 				<outline text="Curious what results would be in other countries, like Israel, where Netanyahu DID want to microchip people in reaction to covid: &lt;a href=&quot;https://www.jpost.com/israel-news/benjamin-netanyahu-suggests-to-microchip-kids-slammed-by-experts-627381&quot;&gt;[link]&lt;/a&gt; https://t.co/8YCn4rMEsn" type="tweet" created="Sun, 18 Jul 2021 23:19:57 GMT" tweetId="1416900580644204551" urltweet="https://twitter.com/sarahkendzior/status/1416900580644204551" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="Approaching the two-month anniversary of this tweet of basic facts, which resulted in harassment of me by bot-brained mobs insisting there was a “secret plan” and all would be rectified soon 🙃 &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1397022075215351809&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 15:28:13 GMT" tweetId="1416781865244139520" urltweet="https://twitter.com/sarahkendzior/status/1416781865244139520" inReplyToId="" tweetUserName="sarahkendzior" />
