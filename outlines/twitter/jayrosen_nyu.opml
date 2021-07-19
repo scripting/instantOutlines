@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 19 Jul 2021 02:10:42 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 13:51:50 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="&quot;Tell me where you think I made a factual error. I’m always glad to correct a factual error. If you’re just upset because I let you know what was going on in my head when I was news gathering, then, I mean that’s a problem for your psychiatrist or priest.&quot; &lt;a href=&quot;https://www.elon.edu/u/nclnw/2021/07/14/joe-killian-of-nc-policy-watch-talks-about-nikole-hannah-jones-unc-the-art-of-reporting-fairness-and-the-faults-of-journalism/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 13:50:53 GMT" tweetId="1417119757942366208" urltweet="https://twitter.com/jayrosen_nyu/status/1417119757942366208" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 18" type="calendarDay" name="18" >
 				<outline text="I have been listening to this investigative podcast by the journalist @VickyPJWard. It's about Epstein and Ghislaine Maxwell. &lt;a href=&quot;https://www.audible.com/pd/Prologue-Episode-1-Ghislaine-Behind-Bars-Podcast/B0988964P2&quot;&gt;[link]&lt;/a&gt;
 
