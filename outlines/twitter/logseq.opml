@@ -7,11 +7,14 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Mon, 19 Jul 2021 14:11:00 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 14:12:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="0.2.6 is just out!
+You can download the desktop app at &lt;a href=&quot;https://github.com/logseq/logseq/releases/tag/0.2.6&quot;&gt;[link]&lt;/a&gt;
+Full changelog at https://t.co/laqQA9AQqW https://t.co/ynpfArweb5" type="tweet" created="Mon, 19 Jul 2021 14:11:42 GMT" tweetId="1417124995562541059" urltweet="https://twitter.com/logseq/status/1417124995562541059" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Time to enjoy a graph database! &lt;a href=&quot;https://twitter.com/logseq/status/1417124186389049344/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 14:08:29 GMT" tweetId="1417124186389049344" urltweet="https://twitter.com/logseq/status/1417124186389049344" inReplyToId="" tweetUserName="logseq" >
 					<outline text="The function supports some aggregations like sum/average/min/max/total, thanks to sci (by @borkdude) you can write Clojure too!
 The documentation is at &lt;a href=&quot;https://logseq.github.io/#/page/60f5747e-6cb7-4216-b108-e60a93014590&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 14:10:19 GMT" tweetId="1417124647238135808" urltweet="https://twitter.com/logseq/status/1417124647238135808" inReplyToId="1417124186389049344" tweetUserName="logseq" />
