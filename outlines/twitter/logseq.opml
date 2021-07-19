@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 16 Jul 2021 12:01:11 GMT</dateModified>
+		<dateModified>Mon, 19 Jul 2021 02:57:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 18" type="calendarDay" name="18" >
+				<outline text="Very cool! &lt;a href=&quot;https://twitter.com/dasaptaerwin/status/1416320399474786308&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 02:56:29 GMT" tweetId="1416955070554333186" urltweet="https://twitter.com/logseq/status/1416955070554333186" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="July 16" type="calendarDay" name="16" >
 				<outline text="Yes, you can still enjoy the flexibility and power of a graph database with both Markdown and Org-mode! &lt;a href=&quot;https://twitter.com/Bailey_Jennings/status/1415699063782129666&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 12:01:04 GMT" tweetId="1416004956511866888" urltweet="https://twitter.com/logseq/status/1416004956511866888" inReplyToId="" tweetUserName="logseq" />
 				</outline>
