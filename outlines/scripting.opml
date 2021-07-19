@@ -14,14 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 19 Jul 2021 16:36:18 GMT</dateModified>
-		<expansionState>1,2,4,12,17,26,28</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 19 Jul 2021 20:36:49 GMT</dateModified>
+		<expansionState>1,2,5,13,18,27,29</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 19" created="Mon, 19 Jul 2021 16:33:39 GMT" type="calendarDay" name="19" >
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;Dear braintrust&lt;/a&gt;: I need to find double-square bracketed tags in some text. I believe I have a [[regular expression]] that does this. Please &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;check it out&lt;/a&gt;. I want to be sure. :smile:" created="Mon, 19 Jul 2021 16:33:40 GMT" type="outline" />
+				<outline text="Today was a total programming day, followed by a bike ride on the rail trail. I have a new feature coming for Scripting News. " created="Mon, 19 Jul 2021 20:36:16 GMT" type="outline" />
 				</outline>
 			<outline text="July 18" created="Sun, 18 Jul 2021 15:20:59 GMT" type="calendarDay" name="18" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=eIsW6DMR9z4&quot;&gt;Good Old Desk&lt;/a&gt;." created="Sun, 18 Jul 2021 21:45:40 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=eIsW6DMR9z4" />
