@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 01:43:14 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 16:55:59 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="To investigate and reveal the cover-up has been part of the mythology of journalism since Watergate. But in its classic form the cover-up is itself secret, setting the stage for the big reveal. The GOP's attempt to cover-up Jan. 6 is happening in public. &lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/07/20/jim-banks-jan-6-committee-sabotage/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 16:54:57 GMT" tweetId="1417528464668770307" urltweet="https://twitter.com/jayrosen_nyu/status/1417528464668770307" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 19" type="calendarDay" name="19" >
 				<outline text="New CEO: &quot;My vision is for us to be the leading newsroom in America in equipping and inspiring change makers with our investigative journalism to reverse the effects of inequalities.&quot;
 
