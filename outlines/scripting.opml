@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 12:38:15 GMT</dateModified>
-		<expansionState>1,2,4,8,14,22,27,36,38</expansionState>
+		<dateModified>Tue, 20 Jul 2021 14:56:38 GMT</dateModified>
+		<expansionState>1,2,5,9,15,23,28,37,39</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 20" created="Tue, 20 Jul 2021 12:36:40 GMT" type="calendarDay" name="20" >
+				<outline text="In Denmark they have a children's show about a &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Dillermand&quot;&gt;man with a huge penis&lt;/a&gt; that he uses to help people. At first it's a little shocking to this American, but why shouldn't we think of a penis as something friendly and useful. I was brought up to think of my penis as something shameful, dirty, to hide, to apologize for. I can't imagine how I got those ideas, but they were and are there in my infant brain. Eventually we learn to have fun with our penises. Hopefully. Why not start as a kid? Thanks to &lt;a href=&quot;https://www.youtube.com/watch?v=A51mJjFyG_w&quot;&gt;John Oliver&lt;/a&gt; for this incredible little tutorial.  " created="Tue, 20 Jul 2021 14:50:07 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=A51mJjFyG_w" image="http://scripting.com/images/2021/07/20/johnDillermand.png" />
 				<outline text="What's &quot;historic&quot; about Bezos' trip today? The first human in space was &lt;a href=&quot;https://en.wikipedia.org/wiki/Yuri_Gagarin&quot;&gt;Yuri Gagarin&lt;/a&gt; in 1961. The first American was &lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Shepard&quot;&gt;Alan Shepard&lt;/a&gt;. Gagarin orbited earth once. Shepard went up and down, did not orbit." created="Tue, 20 Jul 2021 12:36:41 GMT" type="outline" />
 				</outline>
 			<outline text="July 19" created="Mon, 19 Jul 2021 16:33:39 GMT" type="calendarDay" name="19" >
