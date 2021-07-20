@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 05:52:24 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 15:34:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="&quot;Vaccinated people: Your odds of a COVID 'breakthrough' infection have gone up. That doesn't mean you need to panic.&quot; Hope everyone reading this stays safe, even a mild case of covid can lead to debilitating #longcovid symptoms &lt;a href=&quot;https://www.businessinsider.com/fully-vaccinated-people-not-immune-to-covid-milder-2021-7&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 15:34:22 GMT" tweetId="1417508188228784128" urltweet="https://twitter.com/taylorlorenz/status/1417508188228784128" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Seen this @hey_thillia TikTok in my feed so many times today &lt;a href=&quot;https://twitter.com/troydiscospider/status/1416930747848482816&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 05:52:13 GMT" tweetId="1417361686202228736" urltweet="https://twitter.com/taylorlorenz/status/1417361686202228736" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is Twitter &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1417359719681859586/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 05:44:25 GMT" tweetId="1417359719681859586" urltweet="https://twitter.com/taylorlorenz/status/1417359719681859586" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="No one else text me &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1417358651207999490/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 05:40:10 GMT" tweetId="1417358651207999490" urltweet="https://twitter.com/taylorlorenz/status/1417358651207999490" inReplyToId="" tweetUserName="taylorlorenz" />
