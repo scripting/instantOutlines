@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 19 Jul 2021 20:58:26 GMT</dateModified>
-		<expansionState>1,2,5,11,19,24,33,35</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Tue, 20 Jul 2021 01:44:52 GMT</dateModified>
+		<expansionState>1,2,6,12,20,25,34,36</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 19" created="Mon, 19 Jul 2021 16:33:39 GMT" type="calendarDay" name="19" >
+				<outline text="I decided to watch Tucker Carlson for the first time and was rewarded with a &lt;a href=&quot;https://twitter.com/brianstelter/status/1416800705940230148&quot;&gt;video&lt;/a&gt; of Michael Wolff taking down Brian Stelter, and couldn’t agree more with what Wolff said. " created="Tue, 20 Jul 2021 01:44:16 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;Dear braintrust&lt;/a&gt;: I need to find double-square bracketed tags in some text. I believe I have a [[regular expression]] that does this. Please &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;check it out&lt;/a&gt;. I want to be sure. :smile:" created="Mon, 19 Jul 2021 16:33:40 GMT" type="outline" />
 				<outline text="Today was a total programming day, followed by a [[bike]] ride on the &lt;a href=&quot;https://ashokanrailtrail.com/&quot;&gt;rail trail&lt;/a&gt;. I have a new feature coming for Scripting News. As soon as I posted this I started writing. It happens that way every damned time. " created="Mon, 19 Jul 2021 20:36:16 GMT" type="outline" />
 				<outline text="Reporters are pussycats" created="Mon, 19 Jul 2021 20:42:15 GMT" type="outline" description="When are some reporters going to get into the present and deal with today's truth." metaImage="http://scripting.com/images/2021/07/19/kittens.png" >
