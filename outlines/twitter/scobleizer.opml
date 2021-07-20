@@ -6,11 +6,32 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 17 Jul 2021 02:25:32 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 21:04:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="I have been to dozens of music festivals, Neil Young and his audio engineer has me listen to his masters (I have dozens of such stories, like seeing the Killers in someone’s back yard).
+
+A $4,000 Dolby Atmos system from @sonos recreates 99.97% of that.
+
+What is missing (thread):" type="tweet" created="Tue, 20 Jul 2021 21:03:52 GMT" tweetId="1417591108524134401" urltweet="https://twitter.com/scobleizer/status/1417591108524134401" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="1. The story. If you actually have the Killers in your backyard that is bragging rights for sure. Plus everyone who went talks about it for years. Powerful story." type="tweet" created="Tue, 20 Jul 2021 21:03:52 GMT" tweetId="1417591109513924609" urltweet="https://twitter.com/scobleizer/status/1417591109513924609" inReplyToId="1417591108524134401" tweetUserName="scobleizer" >
+						<outline text="2. The smoothness of analog. The real world is analog. It is smooth and has more detail than you can reproduce yet at the $4,000 level. So going to a live concert will have some emotional magic you won’t get at home." type="tweet" created="Tue, 20 Jul 2021 21:03:53 GMT" tweetId="1417591110638002178" urltweet="https://twitter.com/scobleizer/status/1417591110638002178" inReplyToId="1417591109513924609" tweetUserName="scobleizer" >
+							<outline text="3. The atmospherics and meaning they bring. I have seen major recording artists perform in vineyards and other cool places. With lifelong friends. We can deliver a lot of this digitally when we get mixed reality devices. Soon you will be able to visit my home virtually." type="tweet" created="Tue, 20 Jul 2021 21:03:53 GMT" tweetId="1417591111413993472" urltweet="https://twitter.com/scobleizer/status/1417591111413993472" inReplyToId="1417591110638002178" tweetUserName="scobleizer" >
+								<outline text="In digital’s defense? It is a way nicer experience at home. Two trips to Coachella cost me $4,000. Now I can listen to anything and it sounds better because there isn’t another stage blasting 100-yards away. 
+
+What does this mean for VR?
+
+Apple’s device next year will match this." type="tweet" created="Tue, 20 Jul 2021 21:03:53 GMT" tweetId="1417591112223498241" urltweet="https://twitter.com/scobleizer/status/1417591112223498241" inReplyToId="1417591111413993472" tweetUserName="scobleizer" >
+									<outline text="So everyone in the industry better learn how to do great audio. The competition will. I have seen it already. Every experience is mind-blowing. So you must match if you want to be relevant." type="tweet" created="Tue, 20 Jul 2021 21:03:53 GMT" tweetId="1417591113011982339" urltweet="https://twitter.com/scobleizer/status/1417591113011982339" inReplyToId="1417591112223498241" tweetUserName="scobleizer" />
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="July 16" type="calendarDay" name="16" >
 				<outline text="I am hearing a lot of great things about @tiltfive’s latest game glasses, soon to ship. My kids can’t wait! My autistic son likes board games. Here is his collection with more in a closet. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1416222308532817920/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 02:24:45 GMT" tweetId="1416222308532817920" urltweet="https://twitter.com/scobleizer/status/1416222308532817920" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Innovation of the future. &lt;a href=&quot;https://twitter.com/romainderrien/status/1416087529737134089&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 16 Jul 2021 23:00:45 GMT" tweetId="1416170971862552583" urltweet="https://twitter.com/scobleizer/status/1416170971862552583" inReplyToId="" tweetUserName="scobleizer" />
