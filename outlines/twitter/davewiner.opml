@@ -7,11 +7,22 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 20 Jul 2021 09:31:53 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 12:05:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="What's &quot;historic&quot; about Bezos' trip today?
+
+The first human in space was Yuri Gagarin in 1961.
+
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Yuri_Gagarin&quot;&gt;[link]&lt;/a&gt;
+
+The first American was Alan Shepard.
+
+https://t.co/2i3Rw2iFgn
+
+Gagarin orbited earth once. Shepard went up and down, did not orbit." type="tweet" created="Tue, 20 Jul 2021 12:05:06 GMT" tweetId="1417455523813789696" urltweet="https://twitter.com/davewiner/status/1417455523813789696" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="What Happens When a Buffett Buys Your Town? &lt;a href=&quot;https://www.tabletmag.com/sections/news/articles/buffett-kingston-sean-cooper&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 09:30:58 GMT" tweetId="1417416733590278164" urltweet="https://twitter.com/davewiner/status/1417416733590278164" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="On The Canals. &lt;a href=&quot;https://canals.ny.gov/onthecanals/?fbclid=IwAR3sLkASEy7PR-G8WIpM7koxjvxhgGTDfE8JdcGfSMr9hoi2leVdCm42gRU&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 08:55:57 GMT" tweetId="1417407923593043991" urltweet="https://twitter.com/davewiner/status/1417407923593043991" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
