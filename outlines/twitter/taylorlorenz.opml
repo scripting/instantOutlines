@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 16:02:54 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 16:37:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="This was great for reporting, but always a privacy nightmare &lt;a href=&quot;https://twitter.com/business/status/1417521710920867848&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 16:37:53 GMT" tweetId="1417524169995001862" urltweet="https://twitter.com/taylorlorenz/status/1417524169995001862" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;Vaccinated people: Your odds of a COVID 'breakthrough' infection have gone up. That doesn't mean you need to panic.&quot; Hope everyone reading this stays safe, even a mild case of covid can lead to debilitating #longcovid symptoms &lt;a href=&quot;https://www.businessinsider.com/fully-vaccinated-people-not-immune-to-covid-milder-2021-7&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 15:34:22 GMT" tweetId="1417508188228784128" urltweet="https://twitter.com/taylorlorenz/status/1417508188228784128" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="“One thing that was surprising to us was the large percentage of asymptomatic patients that are in that category of #longcovid… Some of these manifestations are chronic conditions that will last a lifetime and will forever scar some individuals” &lt;a href=&quot;https://www.nytimes.com/2021/06/15/health/covid-19-patients.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 16:01:54 GMT" tweetId="1417515117655117827" urltweet="https://twitter.com/taylorlorenz/status/1417515117655117827" inReplyToId="1417508188228784128" tweetUserName="taylorlorenz" />
 					</outline>
