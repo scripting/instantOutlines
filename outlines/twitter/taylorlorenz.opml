@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 01:50:24 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 01:52:24 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="This is ultimately why I quit freelance life (and healthcare costs!) &lt;a href=&quot;https://twitter.com/kantrowitz/status/1417204671664443397&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 01:51:52 GMT" tweetId="1417301200031027227" urltweet="https://twitter.com/taylorlorenz/status/1417301200031027227" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Great interview with @edzitron who has become one of the most prescient media critics and great blogger of our times &lt;a href=&quot;https://twitter.com/bradesposito/status/1417270991781208071&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 01:50:01 GMT" tweetId="1417300734656221191" urltweet="https://twitter.com/taylorlorenz/status/1417300734656221191" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“By no means at all is gaming a niche thing anymore. It’s gonna continue to just eat everything else because it’s the most engaging and the most technologically cutting edge of all entertainment forms.” &lt;a href=&quot;https://www.washingtonpost.com/video-games/2021/07/12/video-game-fashion-esports-streetwear/&quot;&gt;[link]&lt;/a&gt; by @JordanOloman" type="tweet" created="Tue, 20 Jul 2021 01:39:48 GMT" tweetId="1417298163224903682" urltweet="https://twitter.com/taylorlorenz/status/1417298163224903682" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="RIP @GilmerHealthLaw 💔 &lt;a href=&quot;https://www.nytimes.com/2021/07/17/health/erin-gilmer-dead.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 22:28:02 GMT" tweetId="1417249903781179399" urltweet="https://twitter.com/taylorlorenz/status/1417249903781179399" inReplyToId="" tweetUserName="taylorlorenz" />
