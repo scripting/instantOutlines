@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 05:17:14 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 05:20:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 20" type="calendarDay" name="20" >
-				<outline text="Bedtime reading @eliotwb’s incredible new book about WeWork’s rise and fall &lt;a href=&quot;https://www.cultofwe.com/&quot;&gt;[link]&lt;/a&gt; https://t.co/HSNfEQG1Ok" type="tweet" created="Tue, 20 Jul 2021 05:17:11 GMT" tweetId="1417352868416290817" urltweet="https://twitter.com/taylorlorenz/status/1417352868416290817" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Bedtime reading @eliotwb’s incredible new book about WeWork’s rise and fall &lt;a href=&quot;https://www.cultofwe.com/&quot;&gt;[link]&lt;/a&gt; https://t.co/HSNfEQG1Ok" type="tweet" created="Tue, 20 Jul 2021 05:17:11 GMT" tweetId="1417352868416290817" urltweet="https://twitter.com/taylorlorenz/status/1417352868416290817" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="These old pics of Adam Neumann are something to behold @eliotwb &lt;a href=&quot;https://www.cultofwe.com/&quot;&gt;[link]&lt;/a&gt; https://t.co/e7fnblZbJf" type="tweet" created="Tue, 20 Jul 2021 05:19:58 GMT" tweetId="1417353568063918080" urltweet="https://twitter.com/taylorlorenz/status/1417353568063918080" inReplyToId="1417352868416290817" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="July 19" type="calendarDay" name="19" >
 				<outline text="Really important story that shows how too often white cis men are the only ones considered “objective” by media bosses. &lt;a href=&quot;https://twitter.com/npr/status/1416775123068194823&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 02:56:27 GMT" tweetId="1417317453143560192" urltweet="https://twitter.com/taylorlorenz/status/1417317453143560192" inReplyToId="" tweetUserName="taylorlorenz" />
