@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 19 Jul 2021 19:54:01 GMT</dateModified>
+		<dateModified>Tue, 20 Jul 2021 21:59:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="Might be true:
+
+If you can't talk usefully to generalists about your expertise, you are not a proper expert." type="tweet" created="Tue, 20 Jul 2021 21:59:02 GMT" tweetId="1417604989803970562" urltweet="https://twitter.com/KenSmith/status/1417604989803970562" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 19" type="calendarDay" name="19" >
 				<outline text="In New Jersey, in 1993, I bought a black felt hat with a leather band. This hat had the widest brim in the shop.
 
