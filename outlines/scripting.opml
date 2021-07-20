@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 01:44:52 GMT</dateModified>
-		<expansionState>1,2,6,12,20,25,34,36</expansionState>
+		<dateModified>Tue, 20 Jul 2021 12:38:15 GMT</dateModified>
+		<expansionState>1,2,4,8,14,22,27,36,38</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 20" created="Tue, 20 Jul 2021 12:36:40 GMT" type="calendarDay" name="20" >
+				<outline text="What's &quot;historic&quot; about Bezos' trip today? The first human in space was &lt;a href=&quot;https://en.wikipedia.org/wiki/Yuri_Gagarin&quot;&gt;Yuri Gagarin&lt;/a&gt; in 1961. The first American was &lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Shepard&quot;&gt;Alan Shepard&lt;/a&gt;. Gagarin orbited earth once. Shepard went up and down, did not orbit." created="Tue, 20 Jul 2021 12:36:41 GMT" type="outline" />
+				</outline>
 			<outline text="July 19" created="Mon, 19 Jul 2021 16:33:39 GMT" type="calendarDay" name="19" >
 				<outline text="I decided to watch Tucker Carlson for the first time and was rewarded with a &lt;a href=&quot;https://twitter.com/brianstelter/status/1416800705940230148&quot;&gt;video&lt;/a&gt; of Michael Wolff taking down Brian Stelter, and couldn’t agree more with what Wolff said. " created="Tue, 20 Jul 2021 01:44:16 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;Dear braintrust&lt;/a&gt;: I need to find double-square bracketed tags in some text. I believe I have a [[regular expression]] that does this. Please &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-882690244&quot;&gt;check it out&lt;/a&gt;. I want to be sure. :smile:" created="Mon, 19 Jul 2021 16:33:40 GMT" type="outline" />
