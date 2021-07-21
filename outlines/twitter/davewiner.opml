@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 21 Jul 2021 00:42:22 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 02:23:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="A grandfather died of a heart attack after minors swatted him over his rare Twitter handle. &lt;a href=&quot;https://www.techspot.com/news/90483-grandfather-died-heart-attack-after-minors-swatted-over.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 02:23:07 GMT" tweetId="1417671449247105025" urltweet="https://twitter.com/davewiner/status/1417671449247105025" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Pick one." type="tweet" created="Wed, 21 Jul 2021 00:42:20 GMT" tweetId="1417646088182452226" urltweet="https://twitter.com/davewiner/status/1417646088182452226" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="When will the climate crisis be the only news story and no longer disputed?" type="tweet" created="Wed, 21 Jul 2021 00:20:08 GMT" tweetId="1417640499528228866" urltweet="https://twitter.com/davewiner/status/1417640499528228866" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Biden tiptoes around Fox News after saying Facebook is killing people.  &lt;a href=&quot;https://www.politico.com/news/2021/07/20/biden-fox-news-vaccine-500331&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 22:38:45 GMT" tweetId="1417614987024076800" urltweet="https://twitter.com/davewiner/status/1417614987024076800" inReplyToId="" tweetUserName="davewiner" />
