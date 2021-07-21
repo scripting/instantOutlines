@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 21 Jul 2021 02:38:58 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 03:24:11 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="Western wildfire smoke chokes East Coast. &lt;a href=&quot;https://www.axios.com/western-wildfire-smoke-chokes-east-coast-f70cf627-b1b5-49db-9187-c1952afa2a13.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 03:23:33 GMT" tweetId="1417686659102126081" urltweet="https://twitter.com/davewiner/status/1417686659102126081" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="How about nightly COVID weather reports. 
 
 Journalism can help.
