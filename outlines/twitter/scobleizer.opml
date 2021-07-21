@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 21:04:52 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 04:48:10 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="If you have a Dolby Atmos surround sound audio system (Apple Max headphones are best here) @StevenWilsonHQ is a 3D audio pioneer: &lt;a href=&quot;https://music.apple.com/us/album/the-future-bites/1532089417&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 04:47:08 GMT" tweetId="1417707691397451776" urltweet="https://twitter.com/scobleizer/status/1417707691397451776" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="July 20" type="calendarDay" name="20" >
 				<outline text="I have been to dozens of music festivals, Neil Young and his audio engineer has me listen to his masters (I have dozens of such stories, like seeing the Killers in someone’s back yard).
 
