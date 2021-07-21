@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 23:43:36 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 01:50:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="Thread of great jobs at WIRED &lt;a href=&quot;https://twitter.com/glichfield/status/1415067645473394693&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 01:49:23 GMT" tweetId="1417662960734859265" urltweet="https://twitter.com/taylorlorenz/status/1417662960734859265" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Totally agree, I definitely feel that if east coasters had to contend with the air quality issues in the West during fire season it would be a much bigger topic of conversation &lt;a href=&quot;https://twitter.com/kerryleary/status/1417589630950535170&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 23:42:44 GMT" tweetId="1417631089720320002" urltweet="https://twitter.com/taylorlorenz/status/1417631089720320002" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Substack is funding the launch of a new podcast network called Booksmart Studios &lt;a href=&quot;https://www.axios.com/substack-funding-podcasts-investment-04b70b34-dc02-4f68-af89-196390f7dd63.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 18:20:03 GMT" tweetId="1417549883666354179" urltweet="https://twitter.com/taylorlorenz/status/1417549883666354179" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&lt;a href=&quot;https://twitter.com/therecount/status/1417514663886180356&quot;&gt;[link]&lt;/a&gt; https://t.co/98mvF4qd3L" type="tweet" created="Tue, 20 Jul 2021 16:39:42 GMT" tweetId="1417524630743437312" urltweet="https://twitter.com/taylorlorenz/status/1417524630743437312" inReplyToId="" tweetUserName="taylorlorenz" />
