@@ -6,12 +6,25 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 21 Jul 2021 11:25:08 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 13:17:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="“Pandemic of the unvaccinated”
+
+This term, which is probably
+as-rhetorical-as-it-is-factual,
+
+aims to persuade the unvaccinated,
+
+but it may cloud the understanding of the vaccinated,
+
+who are, I think, not made safe by the vaccine
+but instead gain better odds in the fight." type="tweet" created="Wed, 21 Jul 2021 13:17:32 GMT" tweetId="1417836138203688965" urltweet="https://twitter.com/KenSmith/status/1417836138203688965" inReplyToId="" tweetUserName="KenSmith" >
+					<outline text="That is my current understanding, anyway." type="tweet" created="Wed, 21 Jul 2021 13:17:32 GMT" tweetId="1417836139411648512" urltweet="https://twitter.com/KenSmith/status/1417836139411648512" inReplyToId="1417836138203688965" tweetUserName="KenSmith" />
+					</outline>
 				<outline text="With Truman’s diary entries and other reports, Greg Mitchell’s blog posts here trace the thinking that preceded the decision to devastate two Japanese cities using the atomic bomb.
 
 &lt;a href=&quot;https://gregmitchellwriter.blogspot.com/2021/07/countdown-to-hiroshima-july-15-1945.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 11:24:56 GMT" tweetId="1417807801020207104" urltweet="https://twitter.com/KenSmith/status/1417807801020207104" inReplyToId="" tweetUserName="KenSmith" />
