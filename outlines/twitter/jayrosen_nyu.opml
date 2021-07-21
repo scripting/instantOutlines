@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 21 Jul 2021 17:39:18 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 18:30:25 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="I like how @chrislhayes put it. Fox show hosts are not so much anti-vax as anti pro-vax. &lt;a href=&quot;https://www.mediaite.com/tv/chris-hayes-rips-cowardly-fox-news-hosts-for-vaccine-commentary-nihilistic-cynicism-and-preening-idiocy/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 18:29:48 GMT" tweetId="1417914723006308354" urltweet="https://twitter.com/jayrosen_nyu/status/1417914723006308354" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;Why aren’t conservatives pounding away that it was their guy who started the development of the vaccine under his overstated moniker Operation Warp Speed?&quot; &lt;a href=&quot;https://www.washingtonpost.com/lifestyle/media/right-wing-media-vaccines-coronavirus/2021/07/20/b74befd2-e963-11eb-8950-d73b3e93ff7f_story.html&quot;&gt;[link]&lt;/a&gt;
 
 There are answers to this, but it's a good question. By @Sulliview" type="tweet" created="Wed, 21 Jul 2021 17:38:51 GMT" tweetId="1417901902096969728" urltweet="https://twitter.com/jayrosen_nyu/status/1417901902096969728" inReplyToId="" tweetUserName="jayrosen_nyu" />
