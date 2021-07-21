@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 21 Jul 2021 20:39:55 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 21:09:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="There are some stories — and this is one — that reveal the political press, rather than the other way around. &lt;a href=&quot;https://twitter.com/timodc/status/1417942412798746624&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 21:08:59 GMT" tweetId="1417954784510873607" urltweet="https://twitter.com/jayrosen_nyu/status/1417954784510873607" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="This is why I keep returning to critiques of the savvy style. It allows the writers of political news to bracket questions of truth and default to analysis of the game.
  
 Thread. &lt;a href=&quot;https://twitter.com/tzimmer_history/status/1417917352985907201&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 20:39:10 GMT" tweetId="1417947278829105164" urltweet="https://twitter.com/jayrosen_nyu/status/1417947278829105164" inReplyToId="" tweetUserName="jayrosen_nyu" />
