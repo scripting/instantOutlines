@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 21 Jul 2021 13:17:37 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 13:46:40 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="How misinformation sets some people up to die.  1/2
+
+&lt;a href=&quot;https://www.al.com/news/2021/07/im-sorry-but-its-too-late-alabama-doctor-on-treating-unvaccinated-dying-covid-patients.html&quot;&gt;[link]&lt;/a&gt; https://t.co/633RsZVAfi" type="tweet" created="Wed, 21 Jul 2021 13:46:36 GMT" tweetId="1417843453078159361" urltweet="https://twitter.com/KenSmith/status/1417843453078159361" inReplyToId="" tweetUserName="KenSmith" >
+					<outline text="How misinformation sets some people up to die.  2/2 &lt;a href=&quot;https://twitter.com/KenSmith/status/1417843459906543619/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 13:46:37 GMT" tweetId="1417843459906543619" urltweet="https://twitter.com/KenSmith/status/1417843459906543619" inReplyToId="1417843453078159361" tweetUserName="KenSmith" />
+					</outline>
 				<outline text="“Pandemic of the unvaccinated”
 
 This term, which is probably
