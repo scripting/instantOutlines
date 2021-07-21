@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 21 Jul 2021 11:33:42 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 12:39:02 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="Tennessee Man Died After He Was 'Swatted' by People Targeting Twitter Handle. &lt;a href=&quot;https://people.com/crime/tennessee-man-dead-swatted-people-targeting-twitter-handle/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 12:38:26 GMT" tweetId="1417826298366410752" urltweet="https://twitter.com/davewiner/status/1417826298366410752" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="A super team did not win the NBA championship, so there’s hope. 😀 &lt;a href=&quot;https://nypost.com/2021/07/21/kevin-durant-on-the-bucks-nba-finals-performance/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 11:33:07 GMT" tweetId="1417809862168350723" urltweet="https://twitter.com/davewiner/status/1417809862168350723" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Milwaukee Bucks Win the N.B.A. Championship. &lt;a href=&quot;https://www.nytimes.com/2021/07/20/sports/basketball/milwaukee-bucks-nba-finals-championship.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 04:04:35 GMT" tweetId="1417696983934976002" urltweet="https://twitter.com/davewiner/status/1417696983934976002" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
