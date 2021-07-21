@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 20 Jul 2021 23:05:16 GMT</dateModified>
+		<dateModified>Wed, 21 Jul 2021 16:26:57 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="What Zeleny is saying makes no sense to me. Ditto for his way of reporting it. No one on Biden's team thought this was either probable or possible? If true, that's malpractice. It also means Ron Klain is a fool, with a child-like grasp of politics. And that should be the story. &lt;a href=&quot;https://twitter.com/brianstelter/status/1417870724484698113&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 16:25:58 GMT" tweetId="1417883558778220551" urltweet="https://twitter.com/jayrosen_nyu/status/1417883558778220551" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 20" type="calendarDay" name="20" >
 				<outline text="Not just further to the right, but further from the real. That's the direction in which the GOP is moving. &lt;a href=&quot;https://twitter.com/RonBrownstein/status/1417607206841700354&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 23:04:18 GMT" tweetId="1417621414723604484" urltweet="https://twitter.com/jayrosen_nyu/status/1417621414723604484" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Polling industry task force reports back: Election polls in 2020 produced an &quot;error of an unusual magnitude,&quot; and we are unable to say why. &lt;a href=&quot;https://theconversation.com/election-polls-in-2020-produced-error-of-unusual-magnitude-expert-panel-finds-without-pinpointing-cause-164759&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 21:48:48 GMT" tweetId="1417602417886175238" urltweet="https://twitter.com/jayrosen_nyu/status/1417602417886175238" inReplyToId="" tweetUserName="jayrosen_nyu" />
