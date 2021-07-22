@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 21 Jul 2021 00:50:54 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 13:01:31 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="It's my #Twitterversary! I have been on Twitter for 1 year, since 21 Jul 2020 (via @twi_age)." type="tweet" created="Thu, 22 Jul 2021 13:01:12 GMT" tweetId="1418194416255176705" urltweet="https://twitter.com/brandontoner/status/1418194416255176705" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
 			<outline text="July 20" type="calendarDay" name="20" >
 				<outline text="One year. #MyTwitterAnniversary &lt;a href=&quot;https://twitter.com/brandontoner/status/1417648200383614979/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 00:50:44 GMT" tweetId="1417648200383614979" urltweet="https://twitter.com/brandontoner/status/1417648200383614979" inReplyToId="" tweetUserName="brandontoner" />
 				</outline>
