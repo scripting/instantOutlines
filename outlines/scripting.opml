@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 14:03:07 GMT</dateModified>
-		<expansionState>1,2,3,5,11,17,23,27,33,41,46,55,57</expansionState>
-		<lastCursor>9</lastCursor>
+		<dateModified>Thu, 22 Jul 2021 14:10:50 GMT</dateModified>
+		<expansionState>1,2,3,5,17,23,29,33,39,47,52,61,63</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 22" created="Thu, 22 Jul 2021 13:54:39 GMT" type="calendarDay" name="22" >
-				<outline text="Tagging in my blog" created="Thu, 22 Jul 2021 13:56:36 GMT" type="outline" >
+				<outline text="Tagging in Scripting News" created="Thu, 22 Jul 2021 13:56:36 GMT" type="outline" >
 					<outline text="There's something new on &quot;Scripting News&quot; today -- tags. " created="Thu, 22 Jul 2021 13:54:40 GMT" type="outline" />
 					<outline text="Here's how it works:" created="Thu, 22 Jul 2021 13:56:58 GMT" flBulletedSubs="true" >
 						<outline text="When I'm writing, my CMS passes the OPML of today's writing to a new server app called a tag server that scans for tags.  " created="Thu, 22 Jul 2021 13:56:55 GMT" />
@@ -30,6 +30,12 @@
 						<outline text="And that query can be displayed in a dialog when you're reading the blog." created="Thu, 22 Jul 2021 13:58:24 GMT" />
 						</outline>
 					<outline text="Here's a demo: [[rss]]." created="Thu, 22 Jul 2021 14:02:47 GMT" />
+					<outline text="When you hover over the [rss] reference, it should turn blue. " created="Thu, 22 Jul 2021 14:06:04 GMT" />
+					<outline text="When you click on it you should see a dialog that &lt;a href=&quot;http://scripting.com/images/2021/07/22/taggingDialog.png&quot;&gt;looks like this&lt;/a&gt;. " created="Thu, 22 Jul 2021 14:06:22 GMT" />
+					<outline text="If the text in the dialog has tags, you can click on them. " created="Thu, 22 Jul 2021 14:07:20 GMT" />
+					<outline text="The left and right arrows move back and forth through the tags you've clicked on like the arrows in a browser. " created="Thu, 22 Jul 2021 14:07:31 GMT" />
+					<outline text="I'll have more to say about this, but first I wanted to introduce the feature so you can try it out. " created="Thu, 22 Jul 2021 14:08:03 GMT" />
+					<outline text="If you have questions or comments, you can post them &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/218&quot;&gt;in this thread&lt;/a&gt;. " created="Thu, 22 Jul 2021 14:08:30 GMT" />
 					</outline>
 				</outline>
 			<outline text="July 21" created="Wed, 21 Jul 2021 12:43:29 GMT" type="calendarDay" name="21" >
