@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 20:17:59 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 20:30:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="This is amazing &lt;a href=&quot;https://twitter.com/mjandersen/status/1418305124980637705&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 20:29:58 GMT" tweetId="1418307353431056385" urltweet="https://twitter.com/taylorlorenz/status/1418307353431056385" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Don’t talk to me about the “creator economy” unless you subscribed to @ohmyvlogmag &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1418303695192682497/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 20:15:26 GMT" tweetId="1418303695192682497" urltweet="https://twitter.com/taylorlorenz/status/1418303695192682497" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Don’t talk to me about the “creator economy” unless you applied for one of those writer jobs at @TheSuperfame that never materialized 😌" type="tweet" created="Thu, 22 Jul 2021 20:17:04 GMT" tweetId="1418304104997158915" urltweet="https://twitter.com/taylorlorenz/status/1418304104997158915" inReplyToId="1418303695192682497" tweetUserName="taylorlorenz" />
 					</outline>
