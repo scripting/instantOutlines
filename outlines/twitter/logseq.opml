@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 22 Jul 2021 04:40:04 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 15:52:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="Memory fades, let me introduce the SRS cards! &lt;a href=&quot;https://twitter.com/logseq/status/1418237564515864580/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 15:52:39 GMT" tweetId="1418237564515864580" urltweet="https://twitter.com/logseq/status/1418237564515864580" inReplyToId="" tweetUserName="logseq" />
 				<outline text="How to use @Replit and @vercel to publish your Logseq notes? &lt;a href=&quot;https://www.youtube.com/watch?v=JVhGmpP4qpo&amp;ab_channel=PrashantSengar&quot;&gt;[link]&lt;/a&gt;
 Shared by @prashanttgs 💯
 https://t.co/OO4dFkjOSw" type="tweet" created="Thu, 22 Jul 2021 04:39:16 GMT" tweetId="1418068103032754179" urltweet="https://twitter.com/logseq/status/1418068103032754179" inReplyToId="" tweetUserName="logseq" />
