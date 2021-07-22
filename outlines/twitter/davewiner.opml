@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 22 Jul 2021 14:56:22 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 17:04:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="Kingston's real estate market is the hottest in the country. &lt;a href=&quot;https://spectrumlocalnews.com/nys/hudson-valley/news/2021/07/22/why-kingston-s-real-estate-market-is-the-hottest-in-the-country?fbclid=IwAR1QPDe22YTRD2hI2swCuy-TGrWE5XdXF0y3L5dHwSn1luCo1IZ5RxIAkKw&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 17:03:41 GMT" tweetId="1418255441629483012" urltweet="https://twitter.com/davewiner/status/1418255441629483012" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Google Reader would have been better named &quot;Exxon Valdez Reader.&quot; &lt;a href=&quot;https://twitter.com/davewiner/status/1418223033769205760&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 14:55:25 GMT" tweetId="1418223159153680385" urltweet="https://twitter.com/davewiner/status/1418223159153680385" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Demo of the new tagging feature in Scripting News.
 
