@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 20:30:00 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 20:36:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="July 22" type="calendarDay" name="22" >
 				<outline text="This is amazing &lt;a href=&quot;https://twitter.com/mjandersen/status/1418305124980637705&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 20:29:58 GMT" tweetId="1418307353431056385" urltweet="https://twitter.com/taylorlorenz/status/1418307353431056385" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Don’t talk to me about the “creator economy” unless you subscribed to @ohmyvlogmag &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1418303695192682497/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 20:15:26 GMT" tweetId="1418303695192682497" urltweet="https://twitter.com/taylorlorenz/status/1418303695192682497" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="Don’t talk to me about the “creator economy” unless you applied for one of those writer jobs at @TheSuperfame that never materialized 😌" type="tweet" created="Thu, 22 Jul 2021 20:17:04 GMT" tweetId="1418304104997158915" urltweet="https://twitter.com/taylorlorenz/status/1418304104997158915" inReplyToId="1418303695192682497" tweetUserName="taylorlorenz" />
+					<outline text="Don’t talk to me about the “creator economy” unless you applied for one of those writer jobs at @TheSuperfame that never materialized 😌" type="tweet" created="Thu, 22 Jul 2021 20:17:04 GMT" tweetId="1418304104997158915" urltweet="https://twitter.com/taylorlorenz/status/1418304104997158915" inReplyToId="1418303695192682497" tweetUserName="taylorlorenz" >
+						<outline text="@TheSuperfame Don't talk to me about the &quot;creator economy&quot; unless you supported @instantdotme 😭" type="tweet" created="Thu, 22 Jul 2021 20:35:13 GMT" tweetId="1418308675542806528" urltweet="https://twitter.com/taylorlorenz/status/1418308675542806528" inReplyToId="1418304104997158915" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				<outline text="All press is good press 😅 &lt;a href=&quot;https://twitter.com/stephemcneal/status/1418151149149081605&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 20:06:20 GMT" tweetId="1418301407304708096" urltweet="https://twitter.com/taylorlorenz/status/1418301407304708096" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@BKCHarvard is launching an Institute for Rebooting Social Media, a three-year research initiative to address social media’s most urgent problems, including misinformation, privacy breaches, harassment, and content governance. &lt;a href=&quot;https://cyber.harvard.edu/story/2021-07/note-jonathan-zittrain-exciting-news-opportunities-bkc&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 19:37:30 GMT" tweetId="1418294151334928385" urltweet="https://twitter.com/taylorlorenz/status/1418294151334928385" inReplyToId="" tweetUserName="taylorlorenz" >
