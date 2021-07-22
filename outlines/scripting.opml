@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 14:17:55 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 14:22:49 GMT</dateModified>
 		<expansionState>1,2,3,5,17,23,29,33,39,47,52,61,63</expansionState>
-		<lastCursor>5</lastCursor>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
@@ -30,7 +30,7 @@
 						<outline text="And that query can be displayed in a dialog when you're reading the blog." created="Thu, 22 Jul 2021 13:58:24 GMT" />
 						</outline>
 					<outline text="Here's a demo: [[RSS]]." created="Thu, 22 Jul 2021 14:02:47 GMT" />
-					<outline text="When you hover over the [rss] reference, it should turn blue. " created="Thu, 22 Jul 2021 14:06:04 GMT" />
+					<outline text="When you hover over the [RSS] reference, it should turn blue. " created="Thu, 22 Jul 2021 14:06:04 GMT" />
 					<outline text="When you click on it you should see a dialog that &lt;a href=&quot;http://scripting.com/images/2021/07/22/taggingDialog.png&quot;&gt;looks like this&lt;/a&gt;. " created="Thu, 22 Jul 2021 14:06:22 GMT" />
 					<outline text="If the text in the dialog has tags, you can click on them. " created="Thu, 22 Jul 2021 14:07:20 GMT" />
 					<outline text="The left and right arrows move back and forth through the tags you've clicked on like the arrows in a browser. " created="Thu, 22 Jul 2021 14:07:31 GMT" />
