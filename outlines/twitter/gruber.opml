@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Tue, 20 Jul 2021 22:35:10 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 02:29:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="🍕🥩🔥 &lt;a href=&quot;https://twitter.com/daringfireball/status/1418034066880827392&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 02:28:34 GMT" tweetId="1418035211854614532" urltweet="https://twitter.com/gruber/status/1418035211854614532" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="July 20" type="calendarDay" name="20" >
 				<outline text="I’m testing a new weather app that just does AQI and I was thinking maybe it had a location bug because it was showing an unusually bad score for Philly this afternoon. Turns out it’s true, from the wildfires 2,500+ miles to the west.
 
