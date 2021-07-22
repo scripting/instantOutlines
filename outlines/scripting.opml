@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 15:08:34 GMT</dateModified>
-		<expansionState>1,2,3,11,19,25,31,35,41,49,54,63,65</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Thu, 22 Jul 2021 17:14:05 GMT</dateModified>
+		<expansionState>1,2,4,12,20,26,32,36,42,50,55,64,66</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 22" created="Thu, 22 Jul 2021 13:54:39 GMT" type="calendarDay" name="22" >
+				<outline text="Scott Love sent a link to a &lt;a href=&quot;https://www.theringer.com/2021/7/21/22586870/google-reader-ode-end-of-the-good-internet&quot;&gt;piece&lt;/a&gt; that said Google Reader was beautiful, and something huge was lost when they shut it down. Kind of like &lt;a href=&quot;https://www.youtube.com/watch?v=iX_TFkut1PM&quot;&gt;American Pie&lt;/a&gt; about the death of music, and as wrong. As it turns out, since we now &lt;i&gt;know&lt;/i&gt; how it turned out, having [[Google]] adopt [[RSS]] was a pretty bad thing for everyone, except maybe Google. The tragedy isn't that Google fucked us over so hard, it's that even now, eight years later, people still haven't figured out that companies don't make wholesome tech, they consume it. Leave it like an Amazon rain forest after harvesting. [[Google Reader]] should have been called Exxon Valdez Reader. The author's attitude toward people who understand this tragedy is to dismiss us as naïve. Which is ridiculous given the premise. It's like saying that we liked the meal but we insisted on it being served it by [[Darth Vader]]. Oh boy he betrayed us! The users have the power, this has always been true, and until now, they have used the power to be idiots." created="Thu, 22 Jul 2021 17:04:23 GMT" type="outline" image="http://scripting.com/images/2019/01/10/loveRss.png" />
 				<outline text="Tagging in Scripting News" created="Thu, 22 Jul 2021 13:56:36 GMT" type="outline" >
 					<outline text="There's something new on &quot;Scripting News&quot; today -- tags. " created="Thu, 22 Jul 2021 13:54:40 GMT" type="outline" />
 					<outline text="When you see a tag reference, click on it to see a list of refs to the same tag. " created="Thu, 22 Jul 2021 14:43:57 GMT" />
