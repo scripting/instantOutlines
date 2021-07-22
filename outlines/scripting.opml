@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 14:45:40 GMT</dateModified>
-		<expansionState>1,2,3,6,19,25,31,35,41,49,54,63,65</expansionState>
-		<lastCursor>15</lastCursor>
+		<dateModified>Thu, 22 Jul 2021 14:46:13 GMT</dateModified>
+		<expansionState>1,2,3,12,19,25,31,35,41,49,54,63,65</expansionState>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
@@ -24,18 +24,18 @@
 				<outline text="Tagging in Scripting News" created="Thu, 22 Jul 2021 13:56:36 GMT" type="outline" >
 					<outline text="There's something new on &quot;Scripting News&quot; today -- tags. " created="Thu, 22 Jul 2021 13:54:40 GMT" type="outline" />
 					<outline text="#tl;dr -- When you see a tag reference, click on it to see a list of refs to the same tag. " created="Thu, 22 Jul 2021 14:43:57 GMT" />
-					<outline text="Here's how it works:" created="Thu, 22 Jul 2021 13:56:58 GMT" flBulletedSubs="true" >
-						<outline text="When I'm writing, my CMS passes the OPML of today's writing to a new server app called a &lt;i&gt;tag server&lt;/i&gt; that scans for tags. A tag is simply text that's enclosed in &amp;lsqb;[double square brackets]]." created="Thu, 22 Jul 2021 13:56:55 GMT" />
-						<outline text="When it finds a tag, it adds it to a database, with the following info: the URL of the OPML file it came from, the path to the tag in the outline, the &lt;i&gt;created&lt;/i&gt; attribute of the headline it came from in the outline, and the screenname of the author (for now, just me)." created="Thu, 22 Jul 2021 13:59:23 GMT" />
-						<outline text="Now we can do a query, such as: Find me all the items tagged by davewiner with the term RSS." created="Thu, 22 Jul 2021 14:01:28 GMT" />
-						<outline text="And that query can be displayed in a dialog when you're reading the blog." created="Thu, 22 Jul 2021 13:58:24 GMT" />
-						</outline>
 					<outline text="Here's a demo: [[RSS]]." created="Thu, 22 Jul 2021 14:02:47 GMT" />
 					<outline text="When you hover over the tag reference, it should turn blue. " created="Thu, 22 Jul 2021 14:06:04 GMT" />
 					<outline text="When you click on it you should see a dialog that &lt;a href=&quot;http://scripting.com/images/2021/07/22/taggingDialog.png&quot;&gt;looks like this&lt;/a&gt;. " created="Thu, 22 Jul 2021 14:06:22 GMT" />
 					<outline text="If the text in the dialog has tags, you can click on them. " created="Thu, 22 Jul 2021 14:07:20 GMT" />
 					<outline text="The left and right arrows move back and forth through the tags you've clicked on like the arrows in a browser. " created="Thu, 22 Jul 2021 14:07:31 GMT" />
 					<outline text="A quick &lt;a href=&quot;https://www.youtube.com/watch?v=FkNWAr6s5K8&quot;&gt;video demo&lt;/a&gt;." created="Thu, 22 Jul 2021 14:44:50 GMT" urlvideo="https://www.youtube.com/watch?v=FkNWAr6s5K8" />
+					<outline text="Here's how it works:" created="Thu, 22 Jul 2021 13:56:58 GMT" flBulletedSubs="true" >
+						<outline text="When I'm writing, my CMS passes the OPML of today's writing to a new server app called a &lt;i&gt;tag server&lt;/i&gt; that scans for tags. A tag is simply text that's enclosed in &amp;lsqb;[double square brackets]]." created="Thu, 22 Jul 2021 13:56:55 GMT" />
+						<outline text="When it finds a tag, it adds it to a database, with the following info: the URL of the OPML file it came from, the path to the tag in the outline, the &lt;i&gt;created&lt;/i&gt; attribute of the headline it came from in the outline, and the screenname of the author (for now, just me)." created="Thu, 22 Jul 2021 13:59:23 GMT" />
+						<outline text="Now we can do a query, such as: Find me all the items tagged by davewiner with the term RSS." created="Thu, 22 Jul 2021 14:01:28 GMT" />
+						<outline text="And that query can be displayed in a dialog when you're reading the blog." created="Thu, 22 Jul 2021 13:58:24 GMT" />
+						</outline>
 					<outline text="I'll have more to say about this, but first I wanted to introduce the feature so you can try it out. " created="Thu, 22 Jul 2021 14:08:03 GMT" />
 					<outline text="If you have questions or comments, you can post them &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/218&quot;&gt;in this thread&lt;/a&gt;. " created="Thu, 22 Jul 2021 14:08:30 GMT" />
 					</outline>
