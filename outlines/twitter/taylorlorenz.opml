@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 04:24:02 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 16:51:09 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="!!!!!!!!! have never clicked play faster on a pod &lt;a href=&quot;https://twitter.com/4evrmalone/status/1417848319997628425&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 16:51:02 GMT" tweetId="1418252256328122368" urltweet="https://twitter.com/taylorlorenz/status/1418252256328122368" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“As chronically ill people, we are always attempting to make ourselves more manageable, to be around other people in a way that’s more comfortable for them. And home for me is the place where I don’t have to do any of that.” &lt;a href=&quot;https://www.apartmenttherapy.com/how-chronically-ill-people-make-home-comfortable-36950267&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 04:23:48 GMT" tweetId="1418064209254834179" urltweet="https://twitter.com/taylorlorenz/status/1418064209254834179" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="July 21" type="calendarDay" name="21" >
