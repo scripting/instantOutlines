@@ -14,16 +14,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 14:46:13 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 14:46:49 GMT</dateModified>
 		<expansionState>1,2,3,12,19,25,31,35,41,49,54,63,65</expansionState>
-		<lastCursor>10</lastCursor>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 22" created="Thu, 22 Jul 2021 13:54:39 GMT" type="calendarDay" name="22" >
 				<outline text="Tagging in Scripting News" created="Thu, 22 Jul 2021 13:56:36 GMT" type="outline" >
 					<outline text="There's something new on &quot;Scripting News&quot; today -- tags. " created="Thu, 22 Jul 2021 13:54:40 GMT" type="outline" />
-					<outline text="#tl;dr -- When you see a tag reference, click on it to see a list of refs to the same tag. " created="Thu, 22 Jul 2021 14:43:57 GMT" />
+					<outline text="When you see a tag ref, click on it to see a list of refs to the same tag. " created="Thu, 22 Jul 2021 14:43:57 GMT" />
 					<outline text="Here's a demo: [[RSS]]." created="Thu, 22 Jul 2021 14:02:47 GMT" />
 					<outline text="When you hover over the tag reference, it should turn blue. " created="Thu, 22 Jul 2021 14:06:04 GMT" />
 					<outline text="When you click on it you should see a dialog that &lt;a href=&quot;http://scripting.com/images/2021/07/22/taggingDialog.png&quot;&gt;looks like this&lt;/a&gt;. " created="Thu, 22 Jul 2021 14:06:22 GMT" />
