@@ -7,10 +7,19 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 22 Jul 2021 00:22:22 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 14:45:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="Demo of the new tagging feature in Scripting News.
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=FkNWAr6s5K8&quot;&gt;[link]&lt;/a&gt;
+
+When you see a tag reference, click on it to see a list of refs to the same tag. Really simple.
+
+Inspired by the #toolsforthought community. ❤️" type="tweet" created="Thu, 22 Jul 2021 14:44:24 GMT" tweetId="1418220388111331328" urltweet="https://twitter.com/davewiner/status/1418220388111331328" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="July 21" type="calendarDay" name="21" >
 				<outline text="13 Best Electric Bikes (2021): Lightweight, Affordable, Folding, and More. &lt;a href=&quot;https://www.wired.com/gallery/best-electric-bikes/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 00:22:20 GMT" tweetId="1418003442807754752" urltweet="https://twitter.com/davewiner/status/1418003442807754752" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Congressman Says Marijuana Is Only A Performance-Enhancing Drug For Hot Dog Eating Contests. &lt;a href=&quot;https://www.marijuanamoment.net/congressman-says-marijuana-is-only-a-performance-enhancing-drug-for-hot-dog-eating-contests/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 21:10:06 GMT" tweetId="1417955063092367365" urltweet="https://twitter.com/davewiner/status/1417955063092367365" inReplyToId="" tweetUserName="davewiner" />
