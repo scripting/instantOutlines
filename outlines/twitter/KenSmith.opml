@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 21:53:10 GMT</dateModified>
+		<dateModified>Thu, 22 Jul 2021 22:21:17 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="When does the International Space Station pass over your town? Look it up here or sign up for email or text alerts. Or find out where the ISS is right now on the site’s map.
+
+&lt;a href=&quot;https://spotthestation.nasa.gov/home.cfm&quot;&gt;[link]&lt;/a&gt; https://t.co/WxGNila4fy" type="tweet" created="Thu, 22 Jul 2021 22:20:45 GMT" tweetId="1418335234194481156" urltweet="https://twitter.com/KenSmith/status/1418335234194481156" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Also, if you drive across Iowa with your windows down, you can smell brutal CAFO after CAFO a thousand yards away. That can’t be the pinnacle of a proud nation’s agricultural heritage. It just can’t be. &lt;a href=&quot;https://twitter.com/herdyshepherd1/status/1418137628722049024&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 21:52:32 GMT" tweetId="1418328130171949061" urltweet="https://twitter.com/KenSmith/status/1418328130171949061" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Day by day, the blog posts by Greg Mitchell track the unfolding decision in 1945 to bomb the largely civilian populations of Hiroshima and Nagasaki with the new atomic weapons in spite of notable evidence that the war was already ending. &lt;a href=&quot;https://twitter.com/kensmith/status/1417807801020207104&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 11:58:55 GMT" tweetId="1418178743420530690" urltweet="https://twitter.com/KenSmith/status/1418178743420530690" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
