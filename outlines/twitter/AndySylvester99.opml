@@ -6,57 +6,58 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/AndySylvester99.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 13 Jul 2021 17:46:59 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 21:39:26 GMT</dateModified>
+		<urlInstant>http://instantoutliner.com/r4</urlInstant>
 		</head>
 	<body>
 		<outline text="January 2021" type="calendarMonth" name="january2021" >
 			<outline text="January 21" type="calendarDay" name="21" >
-				<outline text="Schedule for my dog Joey (“Mr. President”) for January 21, 2021 (all times PST): &lt;a href=&quot;https://andysylvester.com/2021/01/21/2221/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 21 Jan 2021 18:00:34 GMT" tweetId="1352315164272455681" urltweet="https://twitter.com/AndySylvester99/status/1352315164272455681" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Schedule for my dog Joey (“Mr. President”) for January 21, 2021 (all times PST): &lt;a href=&quot;https://andysylvester.com/2021/01/21/2221/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 21 Jan 2021 18:00:34 GMT" tweetId="1352315164272455681" urltweet="https://twitter.com/AndySylvester99/status/1352315164272455681" tweetUserName="AndySylvester99" />
 				</outline>
 			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 13" type="calendarDay" name="13" >
-				<outline text="Booklist Browser app update: &lt;a href=&quot;https://andysylvester.com/2021/07/13/booklist-browser-app-update/&quot;&gt;[link]&lt;/a&gt; #FederatedBookshelves #LibraryJSON" type="tweet" created="Tue, 13 Jul 2021 17:46:26 GMT" tweetId="1415004709681733632" urltweet="https://twitter.com/AndySylvester99/status/1415004709681733632" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Booklist Browser app update: &lt;a href=&quot;https://andysylvester.com/2021/07/13/booklist-browser-app-update/&quot;&gt;[link]&lt;/a&gt; #FederatedBookshelves #LibraryJSON" type="tweet" created="Tue, 13 Jul 2021 17:46:26 GMT" tweetId="1415004709681733632" urltweet="https://twitter.com/AndySylvester99/status/1415004709681733632" tweetUserName="AndySylvester99" />
 				</outline>
 			<outline text="July 11" type="calendarDay" name="11" >
-				<outline text="This is a test. This is only a test." type="tweet" created="Sun, 11 Jul 2021 22:10:47 GMT" tweetId="1414346456916430848" urltweet="https://twitter.com/AndySylvester99/status/1414346456916430848" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="This is a test. This is only a test." type="tweet" created="Sun, 11 Jul 2021 22:10:47 GMT" tweetId="1414346456916430848" urltweet="https://twitter.com/AndySylvester99/status/1414346456916430848" tweetUserName="AndySylvester99" />
 				</outline>
 			<outline text="July 1" type="calendarDay" name="01" >
-				<outline text="Tool update for Federated Bookshelves/Library JSON project &lt;a href=&quot;https://andysylvester.com/2021/07/01/tool-update-for-federated-bookshelves-library-json-project/&quot;&gt;[link]&lt;/a&gt; cc @tomcritchlow @ravernkoh" type="tweet" created="Thu, 01 Jul 2021 19:56:57 GMT" tweetId="1410688896996831232" urltweet="https://twitter.com/AndySylvester99/status/1410688896996831232" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Tool update for Federated Bookshelves/Library JSON project &lt;a href=&quot;https://andysylvester.com/2021/07/01/tool-update-for-federated-bookshelves-library-json-project/&quot;&gt;[link]&lt;/a&gt; cc @tomcritchlow @ravernkoh" type="tweet" created="Thu, 01 Jul 2021 19:56:57 GMT" tweetId="1410688896996831232" urltweet="https://twitter.com/AndySylvester99/status/1410688896996831232" tweetUserName="AndySylvester99" />
 				</outline>
 			<outline text="July 4" type="calendarDay" name="04" >
-				<outline text="Another OPML viewer for Federated Bookshelves: &lt;a href=&quot;https://andysylvester.com/2021/07/04/another-opml-viewer-for-federated-bookshelves/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 23:10:42 GMT" tweetId="1411824819994124291" urltweet="https://twitter.com/AndySylvester99/status/1411824819994124291" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Another OPML viewer for Federated Bookshelves: &lt;a href=&quot;https://andysylvester.com/2021/07/04/another-opml-viewer-for-federated-bookshelves/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 04 Jul 2021 23:10:42 GMT" tweetId="1411824819994124291" urltweet="https://twitter.com/AndySylvester99/status/1411824819994124291" tweetUserName="AndySylvester99" />
 				</outline>
 			</outline>
 		<outline text="April 2021" type="calendarMonth" name="april2021" >
 			<outline text="April 8" type="calendarDay" name="08" >
-				<outline text="Inadvertant research on the longevity of Post-It Notes &lt;a href=&quot;https://andysylvester.com/2021/04/04/inadvertant-research-of-the-longevity-of-post-it-notes/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Apr 2021 15:14:12 GMT" tweetId="1380177163157078021" urltweet="https://twitter.com/AndySylvester99/status/1380177163157078021" inReplyToId="" tweetUserName="AndySylvester99" />
-				<outline text="A first look at Bookdown for book publishing cc: @rstudio @xieyihui &lt;a href=&quot;https://andysylvester.com/2021/04/04/a-first-look-at-bookdown-for-book-publishing/&quot;&gt;[link]&lt;/a&gt; #bookdown" type="tweet" created="Thu, 08 Apr 2021 15:15:46 GMT" tweetId="1380177555785875460" urltweet="https://twitter.com/AndySylvester99/status/1380177555785875460" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Inadvertant research on the longevity of Post-It Notes &lt;a href=&quot;https://andysylvester.com/2021/04/04/inadvertant-research-of-the-longevity-of-post-it-notes/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Apr 2021 15:14:12 GMT" tweetId="1380177163157078021" urltweet="https://twitter.com/AndySylvester99/status/1380177163157078021" tweetUserName="AndySylvester99" />
+				<outline text="A first look at Bookdown for book publishing cc: @rstudio @xieyihui &lt;a href=&quot;https://andysylvester.com/2021/04/04/a-first-look-at-bookdown-for-book-publishing/&quot;&gt;[link]&lt;/a&gt; #bookdown" type="tweet" created="Thu, 08 Apr 2021 15:15:46 GMT" tweetId="1380177555785875460" urltweet="https://twitter.com/AndySylvester99/status/1380177555785875460" tweetUserName="AndySylvester99" />
 				</outline>
 			</outline>
 		<outline text="March 2021" type="calendarMonth" name="march2021" >
 			<outline text="March 3" type="calendarDay" name="03" >
-				<outline text="An excellent presentation from @andrewshell on improving your personal productivity, I got several good ideas from this, definitely worth your time. &lt;a href=&quot;https://www.youtube.com/watch?v=qmtaARlUmMY&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 03 Mar 2021 17:35:29 GMT" tweetId="1367166752195403777" urltweet="https://twitter.com/AndySylvester99/status/1367166752195403777" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="An excellent presentation from @andrewshell on improving your personal productivity, I got several good ideas from this, definitely worth your time. &lt;a href=&quot;https://www.youtube.com/watch?v=qmtaARlUmMY&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 03 Mar 2021 17:35:29 GMT" tweetId="1367166752195403777" urltweet="https://twitter.com/AndySylvester99/status/1367166752195403777" tweetUserName="AndySylvester99" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 13" type="calendarDay" name="13" >
-				<outline text="Requirement brainstorm and some tools for Federated Bookshelves (comments welcome!): &lt;a href=&quot;https://andysylvester.com/2021/06/13/requirement-brainstorm-and-some-tools-for-federated-bookshelves/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 14 Jun 2021 01:03:09 GMT" tweetId="1404242976730058752" urltweet="https://twitter.com/AndySylvester99/status/1404242976730058752" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Requirement brainstorm and some tools for Federated Bookshelves (comments welcome!): &lt;a href=&quot;https://andysylvester.com/2021/06/13/requirement-brainstorm-and-some-tools-for-federated-bookshelves/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 14 Jun 2021 01:03:09 GMT" tweetId="1404242976730058752" urltweet="https://twitter.com/AndySylvester99/status/1404242976730058752" tweetUserName="AndySylvester99" />
 				</outline>
 			<outline text="June 9" type="calendarDay" name="09" >
-				<outline text="Library JSON test viewer now available &lt;a href=&quot;https://andysylvester.com/2021/06/09/library-json-test-viewer-now-available/&quot;&gt;[link]&lt;/a&gt; cc @tomcritchlow @ton_zylstra" type="tweet" created="Wed, 09 Jun 2021 21:46:11 GMT" tweetId="1402743856748138500" urltweet="https://twitter.com/AndySylvester99/status/1402743856748138500" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Library JSON test viewer now available &lt;a href=&quot;https://andysylvester.com/2021/06/09/library-json-test-viewer-now-available/&quot;&gt;[link]&lt;/a&gt; cc @tomcritchlow @ton_zylstra" type="tweet" created="Wed, 09 Jun 2021 21:46:11 GMT" tweetId="1402743856748138500" urltweet="https://twitter.com/AndySylvester99/status/1402743856748138500" tweetUserName="AndySylvester99" />
 				</outline>
 			<outline text="June 6" type="calendarDay" name="06" >
-				<outline text="A Federated Bookshelves/Library Json reader: &lt;a href=&quot;https://andysylvester.com/2021/06/06/a-federated-bookshelves-reader/&quot;&gt;[link]&lt;/a&gt; cc: @tomcritchlow @ton_zylstra @ravernkoh @intrcnnctd @tmcw @gRegorLove @doctorow @philgyford @Downes @davewiner" type="tweet" created="Mon, 07 Jun 2021 00:58:55 GMT" tweetId="1401705195805970435" urltweet="https://twitter.com/AndySylvester99/status/1401705195805970435" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="A Federated Bookshelves/Library Json reader: &lt;a href=&quot;https://andysylvester.com/2021/06/06/a-federated-bookshelves-reader/&quot;&gt;[link]&lt;/a&gt; cc: @tomcritchlow @ton_zylstra @ravernkoh @intrcnnctd @tmcw @gRegorLove @doctorow @philgyford @Downes @davewiner" type="tweet" created="Mon, 07 Jun 2021 00:58:55 GMT" tweetId="1401705195805970435" urltweet="https://twitter.com/AndySylvester99/status/1401705195805970435" tweetUserName="AndySylvester99" />
 				</outline>
 			<outline text="June 19" type="calendarDay" name="19" >
-				<outline text="Requirements for a Booklist Browser #FederatedBookshelves #LibraryJSON &lt;a href=&quot;https://andysylvester.com/2021/06/18/my-take-on-requirements-for-booklist-browser-app/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 19 Jun 2021 18:15:33 GMT" tweetId="1406314726661836807" urltweet="https://twitter.com/AndySylvester99/status/1406314726661836807" inReplyToId="" tweetUserName="AndySylvester99" />
-				<outline text="@ravernkoh I tried installing bookshelves (&lt;a href=&quot;https://github.com/ravern/bookshelves&quot;&gt;[link]&lt;/a&gt;), got this response, but could not connect on port 8080 - any ideas? https://t.co/DKSq0OmeWq" type="tweet" created="Sat, 19 Jun 2021 21:51:27 GMT" tweetId="1406369058727989248" urltweet="https://twitter.com/AndySylvester99/status/1406369058727989248" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="Requirements for a Booklist Browser #FederatedBookshelves #LibraryJSON &lt;a href=&quot;https://andysylvester.com/2021/06/18/my-take-on-requirements-for-booklist-browser-app/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 19 Jun 2021 18:15:33 GMT" tweetId="1406314726661836807" urltweet="https://twitter.com/AndySylvester99/status/1406314726661836807" tweetUserName="AndySylvester99" />
+				<outline text="@ravernkoh I tried installing bookshelves (&lt;a href=&quot;https://github.com/ravern/bookshelves&quot;&gt;[link]&lt;/a&gt;), got this response, but could not connect on port 8080 - any ideas? https://t.co/DKSq0OmeWq" type="tweet" created="Sat, 19 Jun 2021 21:51:27 GMT" tweetId="1406369058727989248" urltweet="https://twitter.com/AndySylvester99/status/1406369058727989248" tweetUserName="AndySylvester99" />
 				</outline>
 			</outline>
 		<outline text="February 2021" type="calendarMonth" name="february2021" >
 			<outline text="February 5" type="calendarDay" name="05" >
-				<outline text="I did not realize how dependent farmers were on software…. &lt;a href=&quot;https://twitter.com/KenSmith/status/1357402057544712192&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 05 Feb 2021 20:56:23 GMT" tweetId="1357795227755417600" urltweet="https://twitter.com/AndySylvester99/status/1357795227755417600" inReplyToId="" tweetUserName="AndySylvester99" />
+				<outline text="I did not realize how dependent farmers were on software…. &lt;a href=&quot;https://twitter.com/KenSmith/status/1357402057544712192&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 05 Feb 2021 20:56:23 GMT" tweetId="1357795227755417600" urltweet="https://twitter.com/AndySylvester99/status/1357795227755417600" tweetUserName="AndySylvester99" />
 				</outline>
 			</outline>
 		</body>
