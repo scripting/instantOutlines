@@ -6,13 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 19:21:28 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 19:30:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 23" type="calendarDay" name="23" >
-				<outline text="Good day to re-up this. A while back someone on Twitter asked me for three or four changes in political journalism that might begin to right this ship. (Emphasis on &quot;begin to...&quot;) Here is what I came up with. &lt;a href=&quot;https://pressthink.org/2020/09/you-might-not-like-it-but-its-smart-politics/&quot;&gt;[link]&lt;/a&gt;  https://t.co/m462CLeEAt" type="tweet" created="Fri, 23 Jul 2021 19:20:29 GMT" tweetId="1418652256338067463" urltweet="https://twitter.com/jayrosen_nyu/status/1418652256338067463" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="I really like this turn from the @latimes. (Don't @ me with &quot;it's not new.&quot; Thanks. 😎) &lt;a href=&quot;https://twitter.com/meridak/status/1418286025256755204&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 19:29:14 GMT" tweetId="1418654456984608771" urltweet="https://twitter.com/jayrosen_nyu/status/1418654456984608771" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				<outline text="Good day to re-up this. A while back someone on Twitter asked me for three or four changes in political journalism that might begin to right this ship. (Emphasis on &quot;begin to...&quot;) Here is what I came up with. &lt;a href=&quot;https://pressthink.org/2020/09/you-might-not-like-it-but-its-smart-politics/&quot;&gt;[link]&lt;/a&gt;  https://t.co/m462CLeEAt" type="tweet" created="Fri, 23 Jul 2021 19:20:29 GMT" tweetId="1418652256338067463" urltweet="https://twitter.com/jayrosen_nyu/status/1418652256338067463" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
 				<outline text="Politico's Playbook: Adding Jim Jordon to the investigation makes the results harder to dismiss for people who aren’t Team Blue. I see how this works for people who are reporters. For everyone else: how does successfully sown chaos become MORE convincing? &lt;a href=&quot;https://www.politico.com/newsletters/playbook/2021/07/22/return-of-the-masks-493689&quot;&gt;[link]&lt;/a&gt; https://t.co/wpoGi9G1P2" type="tweet" created="Thu, 22 Jul 2021 17:46:09 GMT" tweetId="1418266125641601027" urltweet="https://twitter.com/jayrosen_nyu/status/1418266125641601027" tweetUserName="jayrosen_nyu" />
