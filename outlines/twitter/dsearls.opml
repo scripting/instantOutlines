@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 11:51:51 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 16:54:17 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 23" type="calendarDay" name="23" >
+				<outline text="A lovely beach on the shore of Lake Ontario in Prince Edward County. &lt;a href=&quot;https://www.flickr.com/photos/docsearls/sets/72157719591067327&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 16:53:28 GMT" tweetId="1418615255983435780" urltweet="https://twitter.com/dsearls/status/1418615255983435780" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="July 17" type="calendarDay" name="17" >
 				<outline text="3.5 years old but still relevant: &lt;a href=&quot;https://blogs.harvard.edu/doc/2017/12/14/decoy/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 13:39:45 GMT" tweetId="1416392180743168001" urltweet="https://twitter.com/dsearls/status/1416392180743168001" tweetUserName="dsearls" />
 				</outline>
