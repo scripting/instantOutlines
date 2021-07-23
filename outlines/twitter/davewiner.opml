@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 23 Jul 2021 07:06:13 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 10:49:18 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 23" type="calendarDay" name="23" >
+				<outline text="Every Olympic Sport, In One Chart. &lt;a href=&quot;https://fivethirtyeight.com/features/every-olympic-sport-in-one-chart/?traffic_source=Connatix&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 10:48:18 GMT" tweetId="1418523358732378113" urltweet="https://twitter.com/davewiner/status/1418523358732378113" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="CDC COVID Data Tracker. &lt;a href=&quot;https://covid.cdc.gov/covid-data-tracker/?fbclid=IwAR3yvYJwhSQkLaM_dsDT6vNK3RciemziV4vF1Hg33NZW1TgtYi3fl3IrmwM#vaccination-case-rate&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 07:05:39 GMT" tweetId="1418467329990696960" urltweet="https://twitter.com/davewiner/status/1418467329990696960" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
