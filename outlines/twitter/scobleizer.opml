@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 16:48:24 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 16:55:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 23" type="calendarDay" name="23" >
+				<outline text="Sebastian Thrun started the Waymo/Google effort. If you are going to take a class about AI you can’t do much better than him. &lt;a href=&quot;https://twitter.com/udacity/status/1417953092042113031&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 16:54:26 GMT" tweetId="1418615500393762820" urltweet="https://twitter.com/scobleizer/status/1418615500393762820" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="It is on &lt;a href=&quot;https://tv.youtube.com/welcome/?utm_servlet=prod&amp;zipcode=07047&quot;&gt;[link]&lt;/a&gt; in 4K for the first time. https://t.co/pgk1bcUqTa" type="tweet" created="Fri, 23 Jul 2021 16:48:05 GMT" tweetId="1418613902695301121" urltweet="https://twitter.com/scobleizer/status/1418613902695301121" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="I mislead the industry. I focused too much on technology and not enough on experience.
 
