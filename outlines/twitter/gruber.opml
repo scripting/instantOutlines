@@ -7,7 +7,7 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Fri, 23 Jul 2021 00:02:42 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 00:07:44 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
@@ -15,6 +15,7 @@
 				<outline text="Zen dialog: &lt;a href=&quot;https://twitter.com/gruber/status/1418360725152665602/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 00:02:03 GMT" tweetId="1418360725152665602" urltweet="https://twitter.com/gruber/status/1418360725152665602" inReplyToId="" tweetUserName="gruber" />
 				<outline text="Safari 15: the browser that expects the web to redesign for it. &lt;a href=&quot;https://twitter.com/viticci/status/1418297985398624258&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 21:42:27 GMT" tweetId="1418325593737867264" urltweet="https://twitter.com/gruber/status/1418325593737867264" inReplyToId="" tweetUserName="gruber" >
 					<outline text="The arrogance of this design is really something when you consider that all the sites that it breaks are sites that were designed for the way Mobile Safari previously defined the mobile web." type="tweet" created="Thu, 22 Jul 2021 22:49:28 GMT" tweetId="1418342458560327685" urltweet="https://twitter.com/gruber/status/1418342458560327685" inReplyToId="1418325593737867264" tweetUserName="gruber" />
+					<outline text="If you’re using the iOS 15 betas and you find yourself stuck like this, the workaround is to rotate your phone to landscape and you’ll be able to tap the button(s) at the bottom of the web page." type="tweet" created="Fri, 23 Jul 2021 00:07:27 GMT" tweetId="1418362085755469827" urltweet="https://twitter.com/gruber/status/1418362085755469827" inReplyToId="1418325593737867264" tweetUserName="gruber" />
 					</outline>
 				</outline>
 			<outline text="July 21" type="calendarDay" name="21" >
