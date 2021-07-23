@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 19:35:25 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 19:37:05 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 23" created="Fri, 23 Jul 2021 12:40:15 GMT" type="calendarDay" name="23" >
-				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=sONXs58bClg&quot;&gt;remarkable statement&lt;/a&gt; from the Republican governor of Alabama about vaccination. A divide is forming in the old Republican party. If journalism wants to help, they need a name. I suggest calling them un-magas, or post-maga Repubs.  " created="Fri, 23 Jul 2021 19:31:41 GMT" type="outline" />
+				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=sONXs58bClg&quot;&gt;remarkable statement&lt;/a&gt; from the Republican governor of Alabama about vaccination. A divide is forming in the old Republican party. If journalism wants to help, they need a name. I suggest calling them &quot;post-maga&quot; Repubs.  " created="Fri, 23 Jul 2021 19:31:41 GMT" type="outline" />
 				<outline text="Yogi Berra: &quot;You can observe a lot by just watching.&quot;" created="Fri, 23 Jul 2021 16:52:44 GMT" type="outline" />
 				<outline text="Someday there will be one venue for each of the olympics. We don't build another UN campus every four years. Why do we do it for sports?" created="Fri, 23 Jul 2021 12:40:16 GMT" type="outline" />
 				</outline>
