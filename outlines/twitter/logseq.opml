@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 11:52:41 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 16:26:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
 		</head>
 	<body>
@@ -18,6 +18,8 @@
 				<outline text="🤩 &lt;a href=&quot;https://twitter.com/manojnayak/status/1417144590591696899&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 15:32:10 GMT" tweetId="1417145247583195136" urltweet="https://twitter.com/logseq/status/1417145247583195136" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 23" type="calendarDay" name="23" >
+				<outline text="A small release (0.2.8) to fix several annoying bugs.
+&lt;a href=&quot;https://logseq.github.io/#/page/48e76d46-3419-455c-84a0-349b80e369b8&quot;&gt;[link]&lt;/a&gt; https://t.co/4L5oCoTJa2" type="tweet" created="Fri, 23 Jul 2021 16:25:52 GMT" tweetId="1418608311306375176" urltweet="https://twitter.com/logseq/status/1418608311306375176" inReplyToId="" tweetUserName="logseq" />
 				<outline text="🎊 &lt;a href=&quot;https://twitter.com/OneStuttering/status/1418300170576572417&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 06:25:18 GMT" tweetId="1418457175559606274" urltweet="https://twitter.com/logseq/status/1418457175559606274" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
