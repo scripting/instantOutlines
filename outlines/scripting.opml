@@ -14,16 +14,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 21:50:26 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 21:50:51 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 23" created="Fri, 23 Jul 2021 12:40:15 GMT" type="calendarDay" name="23" >
-				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=sONXs58bClg&quot;&gt;remarkable statement&lt;/a&gt; from the Republican governor of Alabama about vaccination. A divide is forming in the old Republican party. If journalism wants to help, they need a name. I suggest &quot;post-maga&quot; Repubs.  " created="Fri, 23 Jul 2021 19:31:41 GMT" type="outline" />
 				<outline text="Yogi Berra: &quot;You can observe a lot by just watching.&quot;" created="Fri, 23 Jul 2021 16:52:44 GMT" type="outline" />
-				<outline text="Someday there will be one venue for each of the olympics. We don't build another UN campus every four years. Why do we do it for sports?" created="Fri, 23 Jul 2021 12:40:16 GMT" type="outline" />
+				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=sONXs58bClg&quot;&gt;remarkable statement&lt;/a&gt; from the Republican governor of Alabama about vaccination. A divide is forming in the old Republican party. If journalism wants to help, they need a name. I suggest &quot;post-maga&quot; Repubs.  " created="Fri, 23 Jul 2021 19:31:41 GMT" type="outline" />
+				<outline text="Someday there will be one venue for each of the olympics. We don't build another UN campus every four years. Why do we do it for sports? " created="Fri, 23 Jul 2021 12:40:16 GMT" type="outline" />
 				</outline>
 			<outline text="July 22" created="Thu, 22 Jul 2021 13:54:39 GMT" type="calendarDay" name="22" >
 				<outline text="Now that I can see [[tagging]] in action, I changed how tags are displayed. A tag appears as a single-square-bracketed term, in blue. When you hover over it, it's underlined. This is more consistent with the way links work. And single-square-brackets are less intrusive than double, but still convey the idea that where you're going is different from a normal link. Feedback is &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/218&quot;&gt;welcome&lt;/a&gt;. I'm also finding bugs in the tag server. Of course, and that's good. " created="Thu, 22 Jul 2021 17:16:55 GMT" type="outline" image="http://scripting.com/images/2021/07/21/giannis.png" />
