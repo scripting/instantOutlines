@@ -6,20 +6,27 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 11:50:53 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 12:22:43 GMT</dateModified>
+		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 23" type="calendarDay" name="23" >
-				<outline text="Every Olympic Sport, In One Chart. &lt;a href=&quot;https://fivethirtyeight.com/features/every-olympic-sport-in-one-chart/?traffic_source=Connatix&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 10:48:18 GMT" tweetId="1418523358732378113" urltweet="https://twitter.com/davewiner/status/1418523358732378113" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="CDC COVID Data Tracker. &lt;a href=&quot;https://covid.cdc.gov/covid-data-tracker/?fbclid=IwAR3yvYJwhSQkLaM_dsDT6vNK3RciemziV4vF1Hg33NZW1TgtYi3fl3IrmwM#vaccination-case-rate&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 07:05:39 GMT" tweetId="1418467329990696960" urltweet="https://twitter.com/davewiner/status/1418467329990696960" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Someday there will be one venue for each of the olympics.
+
+We don't build another UN campus every four years.
+
+Why do we do it for sports?" type="tweet" created="Fri, 23 Jul 2021 12:22:28 GMT" tweetId="1418547055929212934" urltweet="https://twitter.com/davewiner/status/1418547055929212934" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Every Olympic Sport, In One Chart. &lt;a href=&quot;https://fivethirtyeight.com/features/every-olympic-sport-in-one-chart/?traffic_source=Connatix&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 10:48:18 GMT" tweetId="1418523358732378113" urltweet="https://twitter.com/davewiner/status/1418523358732378113" tweetUserName="davewiner" />
+				<outline text="CDC COVID Data Tracker. &lt;a href=&quot;https://covid.cdc.gov/covid-data-tracker/?fbclid=IwAR3yvYJwhSQkLaM_dsDT6vNK3RciemziV4vF1Hg33NZW1TgtYi3fl3IrmwM#vaccination-case-rate&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 07:05:39 GMT" tweetId="1418467329990696960" urltweet="https://twitter.com/davewiner/status/1418467329990696960" tweetUserName="davewiner" />
 				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
-				<outline text="Facebook’s disinformation problem is harder than it looks. &lt;a href=&quot;https://www.cjr.org/the_media_today/facebooks-disinformation-problem-is-harder-than-it-looks.php&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 19:46:37 GMT" tweetId="1418296443375394818" urltweet="https://twitter.com/davewiner/status/1418296443375394818" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Fox is Killing Us. &lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;time_continue=57&amp;v=CIl_rf4v-YY&amp;feature=emb_logo&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 22:39:07 GMT" tweetId="1418339853054320640" urltweet="https://twitter.com/davewiner/status/1418339853054320640" tweetUserName="davewiner" />
+				<outline text="Facebook’s disinformation problem is harder than it looks. &lt;a href=&quot;https://www.cjr.org/the_media_today/facebooks-disinformation-problem-is-harder-than-it-looks.php&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 19:46:37 GMT" tweetId="1418296443375394818" urltweet="https://twitter.com/davewiner/status/1418296443375394818" tweetUserName="davewiner" />
 				<outline text="Really -- getting this info organized for the people is something CNN or MSNBC should be doing, should have been doing for a year. 
 
-I wonder if all the people I know in future-of-news agree, and if so would they send this idea to someone at a network. we're flying totally blind. &lt;a href=&quot;https://twitter.com/JeremySWallace/status/1418298371253678083&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 20:27:34 GMT" tweetId="1418306748239187973" urltweet="https://twitter.com/davewiner/status/1418306748239187973" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="I'm trying to track down a real time bug so I will be posting test tweets. Not many, I hope." type="tweet" created="Thu, 22 Jul 2021 21:25:27 GMT" tweetId="1418321315367432198" urltweet="https://twitter.com/davewiner/status/1418321315367432198" inReplyToId="" tweetUserName="davewiner" />
+I wonder if all the people I know in future-of-news agree, and if so would they send this idea to someone at a network. we're flying totally blind. &lt;a href=&quot;https://twitter.com/JeremySWallace/status/1418298371253678083&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 20:27:34 GMT" tweetId="1418306748239187973" urltweet="https://twitter.com/davewiner/status/1418306748239187973" tweetUserName="davewiner" />
+				<outline text="I'm trying to track down a real time bug so I will be posting test tweets. Not many, I hope." type="tweet" created="Thu, 22 Jul 2021 21:25:27 GMT" tweetId="1418321315367432198" urltweet="https://twitter.com/davewiner/status/1418321315367432198" tweetUserName="davewiner" />
 				</outline>
 			</outline>
 		</body>
