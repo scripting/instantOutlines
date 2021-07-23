@@ -2,17 +2,47 @@
 <opml version="2.0">
 	<head>
 		<title>@gruber</title>
-		<dateCreated>Fri, 23 Jul 2021 11:50:54 GMT</dateCreated>
+		<dateCreated>Sat, 12 Jun 2021 03:48:32 GMT</dateCreated>
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 11:50:55 GMT</dateModified>
+		<urlInstant>http://instantoutliner.com/pw</urlInstant>
+		<dateModified>Fri, 23 Jul 2021 19:22:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 22" type="calendarDay" name="22" >
-				<outline text="Zen dialog: &lt;a href=&quot;https://twitter.com/gruber/status/1418360725152665602/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 00:02:03 GMT" tweetId="1418360725152665602" urltweet="https://twitter.com/gruber/status/1418360725152665602" inReplyToId="" tweetUserName="gruber" />
-				<outline text="Safari 15: the browser that expects the web to redesign for it. &lt;a href=&quot;https://twitter.com/viticci/status/1418297985398624258&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 21:42:27 GMT" tweetId="1418325593737867264" urltweet="https://twitter.com/gruber/status/1418325593737867264" inReplyToId="" tweetUserName="gruber" />
+				<outline text="Zen dialog: &lt;a href=&quot;https://twitter.com/gruber/status/1418360725152665602/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 00:02:03 GMT" tweetId="1418360725152665602" urltweet="https://twitter.com/gruber/status/1418360725152665602" tweetUserName="gruber" />
+				<outline text="Safari 15: the browser that expects the web to redesign for it. &lt;a href=&quot;https://twitter.com/viticci/status/1418297985398624258&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 21:42:27 GMT" tweetId="1418325593737867264" urltweet="https://twitter.com/gruber/status/1418325593737867264" tweetUserName="gruber" >
+					<outline text="The arrogance of this design is really something when you consider that all the sites that it breaks are sites that were designed for the way Mobile Safari previously defined the mobile web." type="tweet" created="Thu, 22 Jul 2021 22:49:28 GMT" tweetId="1418342458560327685" urltweet="https://twitter.com/gruber/status/1418342458560327685" inReplyToId="1418325593737867264" tweetUserName="gruber" />
+					<outline text="If you’re using the iOS 15 betas and you find yourself stuck like this, the workaround is to rotate your phone to landscape and you’ll be able to tap the button(s) at the bottom of the web page." type="tweet" created="Fri, 23 Jul 2021 00:07:27 GMT" tweetId="1418362085755469827" urltweet="https://twitter.com/gruber/status/1418362085755469827" inReplyToId="1418325593737867264" tweetUserName="gruber" />
+					</outline>
+				</outline>
+			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="🍕🥩🔥 &lt;a href=&quot;https://twitter.com/daringfireball/status/1418034066880827392&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 02:28:34 GMT" tweetId="1418035211854614532" urltweet="https://twitter.com/gruber/status/1418035211854614532" tweetUserName="gruber" />
+				</outline>
+			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="I’m testing a new weather app that just does AQI and I was thinking maybe it had a location bug because it was showing an unusually bad score for Philly this afternoon. Turns out it’s true, from the wildfires 2,500+ miles to the west.
+
+&lt;a href=&quot;https://www.sfchronicle.com/california-wildfires/article/Smoke-from-West-Coast-wildfires-drifts-across-the-16327767.php&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 22:35:04 GMT" tweetId="1417614057813725185" urltweet="https://twitter.com/gruber/status/1417614057813725185" tweetUserName="gruber" />
+				<outline text="Seems like a good bet that September iPhone event will be virtual. &lt;a href=&quot;https://twitter.com/business/status/1417331257596424216&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 20 Jul 2021 04:45:44 GMT" tweetId="1417344953223630848" urltweet="https://twitter.com/gruber/status/1417344953223630848" tweetUserName="gruber" />
+				</outline>
+			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="It’s low down on my list of Safari 15 gripes, but on both iOS and iPadOS, shouldn’t the ❎ buttons to close tabs be on left side in the tab overview views? Putting them on the right feels Windows-y to me." type="tweet" created="Mon, 19 Jul 2021 15:56:50 GMT" tweetId="1417151452452200454" urltweet="https://twitter.com/gruber/status/1417151452452200454" tweetUserName="gruber" />
+				</outline>
+			</outline>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 27" type="calendarDay" name="27" >
+				<outline text="For your weekend listening enjoyment: https://t.co/mYGYFNO1Uz" type="tweet" created="Sun, 27 Jun 2021 15:27:33 GMT" tweetId="1409171550939582465" urltweet="https://twitter.com/gruber/status/1409171550939582465" tweetUserName="gruber" />
+				</outline>
+			<outline text="June 20" type="calendarDay" name="20" >
+				<outline text="I’ll bet KD would like that last shot back." type="tweet" created="Sun, 20 Jun 2021 06:31:21 GMT" tweetId="1406499898283937794" urltweet="https://twitter.com/gruber/status/1406499898283937794" tweetUserName="gruber" />
+				</outline>
+			<outline text="June 12" type="calendarDay" name="12" >
+				<outline text="I just went grocery shopping without a mask. Ask me anything.￼" type="tweet" created="Sat, 12 Jun 2021 16:07:22 GMT" tweetId="1403745752141156355" urltweet="https://twitter.com/gruber/status/1403745752141156355" tweetUserName="gruber" />
+				</outline>
+			<outline text="June 11" type="calendarDay" name="11" >
+				<outline text="Trade him to the Yankees. https://t.co/Vs8TTkqchT" type="tweet" created="Sat, 12 Jun 2021 03:57:46 GMT" tweetId="1403562141454680064" urltweet="https://twitter.com/gruber/status/1403562141454680064" tweetUserName="gruber" />
 				</outline>
 			</outline>
 		</body>
