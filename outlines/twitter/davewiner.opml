@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 23 Jul 2021 19:25:59 GMT</dateModified>
+		<dateModified>Fri, 23 Jul 2021 19:32:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 23" type="calendarDay" name="23" >
+				<outline text="Idea -- news people can divide repubs into magas and un-magas. the governor of alabama is now an un." type="tweet" created="Fri, 23 Jul 2021 19:31:10 GMT" tweetId="1418654943158972417" urltweet="https://twitter.com/davewiner/status/1418654943158972417" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Alabama's MAGA governor says ‘it’s time to start blaming the unvaccinated folks’ as pandemic worsens. &lt;a href=&quot;https://www.politico.com/news/2021/07/23/alabama-governor-covid-vaccinations-500638&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 19:25:18 GMT" tweetId="1418653465987981322" urltweet="https://twitter.com/davewiner/status/1418653465987981322" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Every Olympic Sport, In One Chart. &lt;a href=&quot;https://fivethirtyeight.com/features/every-olympic-sport-in-one-chart/?traffic_source=Connatix&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 10:48:18 GMT" tweetId="1418523358732378113" urltweet="https://twitter.com/davewiner/status/1418523358732378113" tweetUserName="davewiner" />
 				<outline text="CDC COVID Data Tracker. &lt;a href=&quot;https://covid.cdc.gov/covid-data-tracker/?fbclid=IwAR3yvYJwhSQkLaM_dsDT6vNK3RciemziV4vF1Hg33NZW1TgtYi3fl3IrmwM#vaccination-case-rate&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 07:05:39 GMT" tweetId="1418467329990696960" urltweet="https://twitter.com/davewiner/status/1418467329990696960" tweetUserName="davewiner" />
