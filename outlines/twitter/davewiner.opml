@@ -7,12 +7,23 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 24 Jul 2021 18:39:22 GMT</dateModified>
+		<dateModified>Sat, 24 Jul 2021 18:43:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 24" type="calendarDay" name="24" >
-				<outline text="What rhymes with MAGA?" type="tweet" created="Sat, 24 Jul 2021 18:39:02 GMT" tweetId="1419004211900129282" urltweet="https://twitter.com/davewiner/status/1419004211900129282" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="What rhymes with MAGA?" type="tweet" created="Sat, 24 Jul 2021 18:39:02 GMT" tweetId="1419004211900129282" urltweet="https://twitter.com/davewiner/status/1419004211900129282" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Where have all the magas gone? 
+Long time passing.
+Where have all the magas gone?
+Long time ago.
+Where have all the magas gone?
+They all got covid, every one.
+Oy, will they ever learn?
+Oy, when will they learn?
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=ZgXNVA9ngx8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 18:42:47 GMT" tweetId="1419005155102572545" urltweet="https://twitter.com/davewiner/status/1419005155102572545" inReplyToId="1419004211900129282" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Got this dialog on my desktop Mac and iPhone. 
 
 I don't have a device named &quot;Dave's Mac&quot; as far as I know.
