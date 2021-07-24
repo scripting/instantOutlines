@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 24 Jul 2021 18:48:04 GMT</dateModified>
-		<expansionState>1,2,5,16</expansionState>
-		<lastCursor>14</lastCursor>
+		<dateModified>Sat, 24 Jul 2021 18:48:32 GMT</dateModified>
+		<expansionState>1,2,5,15</expansionState>
+		<lastCursor>13</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
@@ -32,8 +32,7 @@
 					<outline text="They all got covid, every one." />
 					<outline text="Oy, will they ever learn?" />
 					<outline text="Oy, when will they learn?" created="Sat, 24 Jul 2021 18:42:29 GMT" />
-					<outline text="" created="Sat, 24 Jul 2021 18:44:25 GMT" />
-					<outline text="To the tune of &lt;a href=&quot;https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F&quot;&gt;Where Have All The Flowers Gone&lt;/a&gt; by Pete Seeger." created="Sat, 24 Jul 2021 18:43:42 GMT" />
+					<outline text="&lt;br&gt;To the tune of &lt;a href=&quot;https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F&quot;&gt;Where Have All The Flowers Gone&lt;/a&gt; by Pete Seeger." created="Sat, 24 Jul 2021 18:43:42 GMT" />
 					</outline>
 				</outline>
 			<outline text="July 23" created="Fri, 23 Jul 2021 12:40:15 GMT" type="calendarDay" name="23" >
