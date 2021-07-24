@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 22:47:15 GMT</dateModified>
+		<dateModified>Sat, 24 Jul 2021 03:17:31 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 23" type="calendarDay" name="23" >
+				<outline text="So scary, everyone stay safe 🙏🏻💓 &lt;a href=&quot;https://twitter.com/katie_roof/status/1418610483515445249&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 03:16:50 GMT" tweetId="1418772134185213956" urltweet="https://twitter.com/taylorlorenz/status/1418772134185213956" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Oh lord &lt;a href=&quot;https://twitter.com/realcandaceo/status/1418648918020214784&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 22:41:06 GMT" tweetId="1418702740797091842" urltweet="https://twitter.com/taylorlorenz/status/1418702740797091842" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="The clip Candace Owens shared of Logan Paul is actually from last summer, but he’s been very outspoken about support for BLM and advocating for more equality in the creator world &lt;a href=&quot;https://finance.yahoo.com/news/logan-paul-youtube-black-lives-matter-wwe-123318167.html&quot;&gt;[link]&lt;/a&gt; https://t.co/HOhiXdfOJE" type="tweet" created="Fri, 23 Jul 2021 22:47:03 GMT" tweetId="1418704240168488960" urltweet="https://twitter.com/taylorlorenz/status/1418704240168488960" inReplyToId="1418702740797091842" tweetUserName="taylorlorenz" />
 					</outline>
