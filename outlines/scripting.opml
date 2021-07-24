@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 21:50:51 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Sat, 24 Jul 2021 13:02:51 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 24" created="Sat, 24 Jul 2021 13:02:21 GMT" type="calendarDay" name="24" >
+				<outline text="You know the saying locks are for honest people -- I think this is also true of the Constitution. If enough people decide that they don't respect the rules, then the rules don't hold." created="Sat, 24 Jul 2021 13:02:22 GMT" type="tweet" tweetId="1418919605188321291" tweetUserName="davewiner" />
+				</outline>
 			<outline text="July 23" created="Fri, 23 Jul 2021 12:40:15 GMT" type="calendarDay" name="23" >
 				<outline text="Yogi Berra: &quot;You can observe a lot by just watching.&quot;" created="Fri, 23 Jul 2021 16:52:44 GMT" type="outline" />
 				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=sONXs58bClg&quot;&gt;remarkable statement&lt;/a&gt; from the Republican governor of Alabama about vaccination. A divide is forming in the old Republican party. If journalism wants to help, they need a name. I suggest &quot;post-maga&quot; Repubs.  " created="Fri, 23 Jul 2021 19:31:41 GMT" type="outline" />
