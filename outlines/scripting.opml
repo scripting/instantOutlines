@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 24 Jul 2021 13:02:51 GMT</dateModified>
-		<expansionState>1,2,4</expansionState>
+		<dateModified>Sat, 24 Jul 2021 18:17:52 GMT</dateModified>
+		<expansionState>1,2,5</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 24" created="Sat, 24 Jul 2021 13:02:21 GMT" type="calendarDay" name="24" >
+				<outline text="Does anyone else thing the Olympics is offensive from a climate change perspective. All that carbon burning. What if instead we had an Olympics where people did heroic things to put carbon back in the ground. " created="Sat, 24 Jul 2021 18:17:51 GMT" type="outline" />
 				<outline text="You know the saying locks are for honest people -- I think this is also true of the Constitution. If enough people decide that they don't respect the rules, then the rules don't hold." created="Sat, 24 Jul 2021 13:02:22 GMT" type="tweet" tweetId="1418919605188321291" tweetUserName="davewiner" />
 				</outline>
 			<outline text="July 23" created="Fri, 23 Jul 2021 12:40:15 GMT" type="calendarDay" name="23" >
