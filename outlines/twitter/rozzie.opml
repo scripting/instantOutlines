@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>@rozzie</title>
+		<dateCreated>Sat, 24 Jul 2021 20:35:17 GMT</dateCreated>
+		<expansionState>1,2</expansionState>
+		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/rozzie.opml</urlPublic>
+		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
+		<dateModified>Sat, 24 Jul 2021 20:35:17 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="April 2021" type="calendarMonth" name="april2021" >
+			<outline text="April 11" type="calendarDay" name="11" >
+				<outline text="For some strange reason, in past weeks I've once again become enamored of this little device given to me by @jallard &lt;a href=&quot;https://twitter.com/rozzie/status/1381282430707990529/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Apr 2021 16:26:09 GMT" tweetId="1381282430707990529" urltweet="https://twitter.com/rozzie/status/1381282430707990529" inReplyToId="" tweetUserName="rozzie" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
