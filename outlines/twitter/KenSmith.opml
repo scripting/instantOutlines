@@ -2,16 +2,244 @@
 <opml version="2.0">
 	<head>
 		<title>@KenSmith</title>
-		<dateCreated>Fri, 23 Jul 2021 12:45:05 GMT</dateCreated>
+		<dateCreated>Wed, 30 Jun 2021 13:55:59 GMT</dateCreated>
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 12:45:06 GMT</dateModified>
+		<dateModified>Sat, 24 Jul 2021 09:06:38 GMT</dateModified>
+		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
-			<outline text="July 23" type="calendarDay" name="23" >
-				<outline text="Recycling: the packaging chosen by manufacturers remains their responsibility, according to new and proposed laws. &lt;a href=&quot;https://twitter.com/nytimes/status/1417933666639040515&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 12:44:26 GMT" tweetId="1418552584886001670" urltweet="https://twitter.com/KenSmith/status/1418552584886001670" inReplyToId="" tweetUserName="KenSmith" />
+			<outline text="July 24" type="calendarDay" name="24" >
+				<outline text="William Haefeli’s cartoon (NYer, July 26, 2021) evokes our impervious insider game of politics. We need to study up on the actions that actually make politicians listen. Let’s practice those acts, and also remove structures that protect politicians from ever hearing other voices. &lt;a href=&quot;https://twitter.com/KenSmith/status/1418859945982844931/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 09:05:46 GMT" tweetId="1418859945982844931" urltweet="https://twitter.com/KenSmith/status/1418859945982844931" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 22" type="calendarDay" name="22" >
+				<outline text="“Every[one] who[‘s] champion[ed] vaccines to disbelievers said they end up sad, disappointed, and frustrated, caught in circular arguments that rely more on ideology than facts, and in which every piece of evidence is taken as more proof of conspiracy.” &lt;a href=&quot;https://www.theatlantic.com/health/archive/2021/07/arkansas-cases-covid-19/619515/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 02:50:31 GMT" tweetId="1418403121911541768" urltweet="https://twitter.com/KenSmith/status/1418403121911541768" tweetUserName="KenSmith" />
+				<outline text="When does the International Space Station pass over your town? Look it up here or sign up for email or text alerts. Or find out where the ISS is right now on the site’s map.
+
+&lt;a href=&quot;https://spotthestation.nasa.gov/home.cfm&quot;&gt;[link]&lt;/a&gt; https://t.co/WxGNila4fy" type="tweet" created="Thu, 22 Jul 2021 22:20:45 GMT" tweetId="1418335234194481156" urltweet="https://twitter.com/KenSmith/status/1418335234194481156" tweetUserName="KenSmith" />
+				<outline text="Also, if you drive across Iowa with your windows down, you can smell brutal CAFO after CAFO a thousand yards away. That can’t be the pinnacle of a proud nation’s agricultural heritage. It just can’t be. &lt;a href=&quot;https://twitter.com/herdyshepherd1/status/1418137628722049024&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 21:52:32 GMT" tweetId="1418328130171949061" urltweet="https://twitter.com/KenSmith/status/1418328130171949061" tweetUserName="KenSmith" />
+				<outline text="Day by day, the blog posts by Greg Mitchell track the unfolding decision in 1945 to bomb the largely civilian populations of Hiroshima and Nagasaki with the new atomic weapons in spite of notable evidence that the war was already ending. &lt;a href=&quot;https://twitter.com/kensmith/status/1417807801020207104&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 11:58:55 GMT" tweetId="1418178743420530690" urltweet="https://twitter.com/KenSmith/status/1418178743420530690" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 21" type="calendarDay" name="21" >
+				<outline text="Scrolling through a month of @RepWalorski / @JackieWalorski tweets, I see that our IN-2nd House member not only has nothing useful to say about the pandemic, she actually has nothing to say. Not a word.
+
+I assume she considers silence on the pandemic to be the Party line." type="tweet" created="Wed, 21 Jul 2021 14:12:08 GMT" tweetId="1417849880526135296" urltweet="https://twitter.com/KenSmith/status/1417849880526135296" tweetUserName="KenSmith" />
+				<outline text="The Onion explores the staying power of f-word jokes. The editorial in the lower right corner is a profanity of a different kind. &lt;a href=&quot;https://twitter.com/theonion/status/1417843064450732040&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 13:58:20 GMT" tweetId="1417846409139720195" urltweet="https://twitter.com/KenSmith/status/1417846409139720195" tweetUserName="KenSmith" />
+				<outline text="How misinformation sets some people up to die.  1/2
+
+&lt;a href=&quot;https://www.al.com/news/2021/07/im-sorry-but-its-too-late-alabama-doctor-on-treating-unvaccinated-dying-covid-patients.html&quot;&gt;[link]&lt;/a&gt; https://t.co/633RsZVAfi" type="tweet" created="Wed, 21 Jul 2021 13:46:36 GMT" tweetId="1417843453078159361" urltweet="https://twitter.com/KenSmith/status/1417843453078159361" tweetUserName="KenSmith" >
+					<outline text="How misinformation sets some people up to die.  2/2 &lt;a href=&quot;https://twitter.com/KenSmith/status/1417843459906543619/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 13:46:37 GMT" tweetId="1417843459906543619" urltweet="https://twitter.com/KenSmith/status/1417843459906543619" inReplyToId="1417843453078159361" tweetUserName="KenSmith" />
+					</outline>
+				<outline text="“Pandemic of the unvaccinated”
+
+This term, which is probably
+as-rhetorical-as-it-is-factual,
+
+aims to persuade the unvaccinated,
+
+but it may cloud the understanding of the vaccinated,
+
+who are, I think, not made safe by the vaccine
+but instead gain better odds in the fight." type="tweet" created="Wed, 21 Jul 2021 13:17:32 GMT" tweetId="1417836138203688965" urltweet="https://twitter.com/KenSmith/status/1417836138203688965" tweetUserName="KenSmith" >
+					<outline text="That is my current understanding, anyway." type="tweet" created="Wed, 21 Jul 2021 13:17:32 GMT" tweetId="1417836139411648512" urltweet="https://twitter.com/KenSmith/status/1417836139411648512" inReplyToId="1417836138203688965" tweetUserName="KenSmith" />
+					</outline>
+				<outline text="With Truman’s diary entries and other reports, Greg Mitchell’s blog posts here trace the thinking that preceded the decision to devastate two Japanese cities using the atomic bomb.
+
+&lt;a href=&quot;https://gregmitchellwriter.blogspot.com/2021/07/countdown-to-hiroshima-july-15-1945.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 11:24:56 GMT" tweetId="1417807801020207104" urltweet="https://twitter.com/KenSmith/status/1417807801020207104" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 20" type="calendarDay" name="20" >
+				<outline text="A corporate officer from the region, musing on the subject of hiring our university's graduates, saw two approaches to schooling young people:
+
+&quot;We can train your graduates if you have already educated them,&quot; he said, &quot;but we can't educate them if you have only trained them.&quot;" type="tweet" created="Tue, 20 Jul 2021 22:04:41 GMT" tweetId="1417606411882803201" urltweet="https://twitter.com/KenSmith/status/1417606411882803201" tweetUserName="KenSmith" />
+				<outline text="Might be true:
+
+If you can't talk usefully to generalists about your expertise, you are not a proper expert." type="tweet" created="Tue, 20 Jul 2021 21:59:02 GMT" tweetId="1417604989803970562" urltweet="https://twitter.com/KenSmith/status/1417604989803970562" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 19" type="calendarDay" name="19" >
+				<outline text="In New Jersey, in 1993, I bought a black felt hat with a leather band. This hat had the widest brim in the shop.
+
+Later, in Colorado, I bought a brown felt hat just like it, band and all, the hat with the narrowest brim in that shop.
+
+Except for color, they were the same hat. &lt;a href=&quot;https://twitter.com/KenSmith/status/1417211021224206337/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 19:53:32 GMT" tweetId="1417211021224206337" urltweet="https://twitter.com/KenSmith/status/1417211021224206337" tweetUserName="KenSmith" />
+				<outline text="Countdown to Hiroshima: &quot;Every year at this time I trace the final days leading to the first use of the atomic bomb against two cities, Hiroshima and Nagasaki, in August 1945.&quot; &lt;a href=&quot;https://gregmitchellwriter.blogspot.com/2021/07/countdown-to-hiroshima-july-15-1945.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 14:34:10 GMT" tweetId="1417130650260447249" urltweet="https://twitter.com/KenSmith/status/1417130650260447249" tweetUserName="KenSmith" />
+				<outline text="I was told by a dean once that a university is made up of three groups of people, students, faculty, and administration, and that whenever two of those groups really want something that thing will happen." type="tweet" created="Mon, 19 Jul 2021 14:02:25 GMT" tweetId="1417122657556963331" urltweet="https://twitter.com/KenSmith/status/1417122657556963331" tweetUserName="KenSmith" />
+				<outline text="Once upon a time, Bloglines made it easy to read new postings on site after site and on topic after topic of your own choosing. Automated standing searches, ready to read each time you opened Bloglines in the browser. Not the only way, but a notable one. &lt;a href=&quot;https://en.wikipedia.org/wiki/Bloglines&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 13:59:22 GMT" tweetId="1417121892465524744" urltweet="https://twitter.com/KenSmith/status/1417121892465524744" tweetUserName="KenSmith" >
+					<outline text="The automation was a real virtue. Still, it was a sort of broadcast mechanism, rather than a tool for shaping working groups. Long ago, semaphore showed how to move messages through a planned, prepared network, for a purpose. We can't readily create that semaphore effect, can we?" type="tweet" created="Mon, 19 Jul 2021 15:14:54 GMT" tweetId="1417140902124982278" urltweet="https://twitter.com/KenSmith/status/1417140902124982278" inReplyToId="1417121892465524744" tweetUserName="KenSmith" />
+					</outline>
+				<outline text="How wealth moves in the U.S.A.
+&lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/07/16/us-is-growing-more-unequal-thats-harmful-fixable/&quot;&gt;[link]&lt;/a&gt; https://t.co/WsDK7upoT2" type="tweet" created="Mon, 19 Jul 2021 13:41:24 GMT" tweetId="1417117368552132610" urltweet="https://twitter.com/KenSmith/status/1417117368552132610" tweetUserName="KenSmith" />
+				<outline text="If Truman knew that the Japanese emperor had asked for the war to end in July, more than two weeks before Hiroshima, well, that makes it harder than ever for me to justify the atomic bombing of two populated cities in August. &lt;a href=&quot;https://twitter.com/GregMitch/status/1417108436714655756&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 19 Jul 2021 13:14:37 GMT" tweetId="1417110631380099076" urltweet="https://twitter.com/KenSmith/status/1417110631380099076" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 18" type="calendarDay" name="18" >
+				<outline text="I wonder:
+
+When planes had smoking sections, by mid-flight the whole interior smelled of cigarettes. Has aircraft ventilation changed since then?
+
+Cigarette smoke moved throughout the cabin. Should we now assume that viruses are everywhere in the cabin? I don’t have an answer." type="tweet" created="Sun, 18 Jul 2021 22:33:34 GMT" tweetId="1416888907359264778" urltweet="https://twitter.com/KenSmith/status/1416888907359264778" tweetUserName="KenSmith" />
+				<outline text="Every night, somebody stays up late plotting how to hollow out the democracy just a little more. &lt;a href=&quot;https://twitter.com/KenSmith/status/1416755837477982209/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 13:44:48 GMT" tweetId="1416755837477982209" urltweet="https://twitter.com/KenSmith/status/1416755837477982209" tweetUserName="KenSmith" />
+				<outline text="Monarch egg on the front yard milkweed yesterday. &lt;a href=&quot;https://twitter.com/KenSmith/status/1416735574665347077/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Jul 2021 12:24:17 GMT" tweetId="1416735574665347077" urltweet="https://twitter.com/KenSmith/status/1416735574665347077" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 17" type="calendarDay" name="17" >
+				<outline text="A century ago, health inspector Dr. Peter Bryce tried to get Canada to attend to the 25% or higher death rates, often from tuberculosis, at the residential schools, where the most rudimentary health practices were not widely employed. &lt;a href=&quot;https://www.cbc.ca/radio/unreserved/exploring-the-past-finding-connections-in-little-known-indigenous-history-1.5531914/pushed-out-and-silenced-how-one-doctor-was-punished-for-speaking-out-about-residential-schools-1.5534953&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 14:17:00 GMT" tweetId="1416401553867563008" urltweet="https://twitter.com/KenSmith/status/1416401553867563008" tweetUserName="KenSmith" >
+					<outline text="Bryce’s blunt report also contained subtle clues about the emotional cost to the students. &lt;a href=&quot;https://twitter.com/kensmith/status/1416404679362334728?s=21&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 17 Jul 2021 14:32:28 GMT" tweetId="1416405447381241857" urltweet="https://twitter.com/KenSmith/status/1416405447381241857" inReplyToId="1416401553867563008" tweetUserName="KenSmith" />
+					</outline>
+				</outline>
+			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="Thread on Adorno's view of the essay. First, what he's not talking about. Not talking about the school essay, which is for training and indoctrinating young people and is often boring to writer and reader." type="tweet" created="Tue, 13 Jul 2021 18:42:09 GMT" tweetId="1415018730040532993" urltweet="https://twitter.com/KenSmith/status/1415018730040532993" tweetUserName="KenSmith" >
+					<outline text="And Adorno is not talking about the academic article, which is an expert talking narrowly to a handful of colleagues in a lingo not meant to be useful to any others." type="tweet" created="Tue, 13 Jul 2021 18:42:10 GMT" tweetId="1415018732028579843" urltweet="https://twitter.com/KenSmith/status/1415018732028579843" inReplyToId="1415018730040532993" tweetUserName="KenSmith" >
+						<outline text="Last I heard, there were two English translations of &quot;Essay as Form&quot; by Theodor Adorno. I'll use and link to the one I have at hand. It's a real pain to read this piece. So what's useful in it? Let me rephrase the question:" type="tweet" created="Tue, 13 Jul 2021 18:42:10 GMT" tweetId="1415018733593153547" urltweet="https://twitter.com/KenSmith/status/1415018733593153547" inReplyToId="1415018732028579843" tweetUserName="KenSmith" >
+							<outline text="What's useful for a writer who cares about creativity and knows the personal and social energy of writing for others who respond--as we saw in a new way twenty years ago in blogging? For writers who want reading and writing to be part of the lifeblood of self and society." type="tweet" created="Tue, 13 Jul 2021 18:42:10 GMT" tweetId="1415018735312723973" urltweet="https://twitter.com/KenSmith/status/1415018735312723973" inReplyToId="1415018733593153547" tweetUserName="KenSmith" >
+								<outline text="Two sentences from the end, Adorno says, &quot;The essay's innermost formal law is heresy.&quot;" type="tweet" created="Tue, 13 Jul 2021 18:42:11 GMT" tweetId="1415018737187627008" urltweet="https://twitter.com/KenSmith/status/1415018737187627008" inReplyToId="1415018735312723973" tweetUserName="KenSmith" >
+									<outline text="He means that in our minds and in society all ideas, even the best ones, calcify, and so to move ahead creative people have to break things open. They have to speak against the society's docile common sense, where they see fit, where they feel the urgency." type="tweet" created="Tue, 13 Jul 2021 18:42:11 GMT" tweetId="1415018738726932480" urltweet="https://twitter.com/KenSmith/status/1415018738726932480" inReplyToId="1415018737187627008" tweetUserName="KenSmith" >
+										<outline text="He ends by saying, &quot;Through violating this orthodoxy of thought, something becomes visible which it is orthodoxy's secret and enduring aim to keep invisible.&quot;" type="tweet" created="Tue, 13 Jul 2021 18:42:12 GMT" tweetId="1415018739939127301" urltweet="https://twitter.com/KenSmith/status/1415018739939127301" inReplyToId="1415018738726932480" tweetUserName="KenSmith" >
+											<outline text="The status quo is served by the calcified language, the taken-for-granted concepts. Life, however, is served by heresy against those crusty ornaments that were once life-giving but are no longer." type="tweet" created="Tue, 13 Jul 2021 18:42:12 GMT" tweetId="1415018741071503361" urltweet="https://twitter.com/KenSmith/status/1415018741071503361" inReplyToId="1415018739939127301" tweetUserName="KenSmith" >
+												<outline text="Can academics do this kind of work? Yes, but if they only use their shop talk and only write for readers who are their clones, they rarely get around to it. Academics usually gain their authority from shop talk and institutional roles and their sheepskin." type="tweet" created="Tue, 13 Jul 2021 18:42:12 GMT" tweetId="1415018743579750414" urltweet="https://twitter.com/KenSmith/status/1415018743579750414" inReplyToId="1415018741071503361" tweetUserName="KenSmith" >
+													<outline text="Writers can get their authority other ways. They can get it by choosing what they write about in such a way that they expose something new in it rather than repeat what common sense already knows about it." type="tweet" created="Tue, 13 Jul 2021 18:42:13 GMT" tweetId="1415018745702014976" urltweet="https://twitter.com/KenSmith/status/1415018745702014976" inReplyToId="1415018743579750414" tweetUserName="KenSmith" >
+														<outline text="Maybe they put together historical examples they we have never thought about as being related." type="tweet" created="Tue, 13 Jul 2021 18:42:13 GMT" tweetId="1415018746868113408" urltweet="https://twitter.com/KenSmith/status/1415018746868113408" inReplyToId="1415018745702014976" tweetUserName="KenSmith" >
+															<outline text="Then they do the work to notice something about the juxtaposition that common sense doesn't care about. In that way they challenge and refresh and extend the common sense of their society." type="tweet" created="Tue, 13 Jul 2021 18:42:13 GMT" tweetId="1415018747945967619" urltweet="https://twitter.com/KenSmith/status/1415018747945967619" inReplyToId="1415018746868113408" tweetUserName="KenSmith" >
+																<outline text="And they get their authority by repeating this creative act over and over again. Not by their job or their diploma or their shop talk. People who like the feeling of being awake notice writers who can do this and come back to them." type="tweet" created="Tue, 13 Jul 2021 18:42:14 GMT" tweetId="1415018749258866692" urltweet="https://twitter.com/KenSmith/status/1415018749258866692" inReplyToId="1415018747945967619" tweetUserName="KenSmith" >
+																	<outline text="So, Adorno is correct. The innermost trait of a fine essay is an act of heresy it commits against something calcified in the common sense of the society. Pdf link here. &lt;a href=&quot;https://web.english.upenn.edu/~cavitch/pdf-library/Adorno_EssayAsForm.pdf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 18:42:14 GMT" tweetId="1415018750357684228" urltweet="https://twitter.com/KenSmith/status/1415018750357684228" inReplyToId="1415018749258866692" tweetUserName="KenSmith" />
+																	</outline>
+																</outline>
+															</outline>
+														</outline>
+													</outline>
+												</outline>
+											</outline>
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				<outline text="“An unequal society is violent every day.” Brief thread. &lt;a href=&quot;https://twitter.com/rosebellk/status/1414924899269890066&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 15:53:02 GMT" tweetId="1414976168885882886" urltweet="https://twitter.com/KenSmith/status/1414976168885882886" tweetUserName="KenSmith" />
+				<outline text="The violence in a revolt shows vividly on news screens; the simmering, demeaning violence that precedes and provokes it makes a less dramatic broadcast, if it is, if it can be, broadcast at all. Thread. &lt;a href=&quot;https://twitter.com/rosebellk/status/1414845583525826562&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 11:03:33 GMT" tweetId="1414903316975431685" urltweet="https://twitter.com/KenSmith/status/1414903316975431685" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 11" type="calendarDay" name="11" >
+				<outline text="Our powers our multiplied, not added... &lt;a href=&quot;https://twitter.com/davewiner/status/1413871853362454529&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 13:31:19 GMT" tweetId="1414215728962678784" urltweet="https://twitter.com/KenSmith/status/1414215728962678784" tweetUserName="KenSmith" />
+				<outline text="...moving to a land where most failed to hear the urgency of samizdat... &lt;a href=&quot;https://twitter.com/ilya_poet/status/1413946559318962177&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 07:56:28 GMT" tweetId="1414131460156575747" urltweet="https://twitter.com/KenSmith/status/1414131460156575747" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 8" type="calendarDay" name="08" >
+				<outline text="Judging by a three-minute teaser, gutless sycophant Bill O’Reilly will be lobbing softballs on tv tonight to a loser ex-President on his best behavior, answering coyly and vapidly, and desperate to get back in front of a public which by the tens of millions despises him." type="tweet" created="Thu, 08 Jul 2021 20:33:33 GMT" tweetId="1413234823188123650" urltweet="https://twitter.com/KenSmith/status/1413234823188123650" tweetUserName="KenSmith" />
+				<outline text="Mergers disadvantage workers. &lt;a href=&quot;https://twitter.com/upshotnyt/status/1412837336833040387&quot;&gt;[link]&lt;/a&gt; https://t.co/l59RuzYnvh" type="tweet" created="Thu, 08 Jul 2021 15:36:02 GMT" tweetId="1413159952458321930" urltweet="https://twitter.com/KenSmith/status/1413159952458321930" tweetUserName="KenSmith" />
+				<outline text="This article’s detailed introduction to Big Ag, pollution, and politics in Iowa is frankly disgusting. Powerhouse work by Paul Brennan. &lt;a href=&quot;https://twitter.com/austinfrerick/status/1413142947156004869&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 15:01:49 GMT" tweetId="1413151342479044609" urltweet="https://twitter.com/KenSmith/status/1413151342479044609" tweetUserName="KenSmith" />
+				<outline text="In 1979, my first spring in Iowa, the tap water in Iowa City came for a time to reek of chlorine as, I gathered, the animal waste and fertilizer thawed from the farmland, filled the streams and rivers, and taxed the water treatment plants. I hear Iowa rivers are worse now. &lt;a href=&quot;https://twitter.com/austinfrerick/status/1413142947156004869&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:41:25 GMT" tweetId="1413146205782114309" urltweet="https://twitter.com/KenSmith/status/1413146205782114309" tweetUserName="KenSmith" />
+				<outline text="A farmer’s lifelong web of observation, reflection, and insight, expressed with modest urgency, lacking perhaps any other way to share it. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1413112394809761795&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:32:25 GMT" tweetId="1413143941239562252" urltweet="https://twitter.com/KenSmith/status/1413143941239562252" tweetUserName="KenSmith" />
+				<outline text="Potent, insightful verb here.
+
+My father’s fillet knife was the sharpest, the most wicked-looking knife, used for quickly taking the choicest parts of a bass for cooking. Toss the scraps back into the lake.
+
+Citizens grow active or what they care about gets filleted by others. &lt;a href=&quot;https://twitter.com/hawhillfarm/status/1347849513323659264&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 08 Jul 2021 14:28:31 GMT" tweetId="1413142962138083328" urltweet="https://twitter.com/KenSmith/status/1413142962138083328" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="“So what! Finders keepers! Shut up!” 
+
+Comedian James Acaster explores some rhetoric the powerful use to justify keeping stolen wealth.
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=x73PkUvArJY&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 13:08:38 GMT" tweetId="1412760468767260672" urltweet="https://twitter.com/KenSmith/status/1412760468767260672" tweetUserName="KenSmith" />
+				<outline text="University of Notre Dame failed to reshape a dorm’s culture:
+
+ “..significant vandalism over many years within and beyond the building..demonstrated disrespect for University officials, deliberate disregard for University COVID-19 testing protocols..” &lt;a href=&quot;https://magazine.nd.edu/stories/zahm-hall-ends-its-84-year-run-as-a-traditional-residence-hall/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 07 Jul 2021 12:59:21 GMT" tweetId="1412758135299883010" urltweet="https://twitter.com/KenSmith/status/1412758135299883010" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="Story I heard.
+
+Gadamer, nearing 100 years of age, frail at the podium, lectured in Boston. Finishing, he offered to take questions.
+
+“Who will refute me?” he asked.
+
+No hands raised.
+
+“Very well,” he said, “I shall refute myself.”
+
+And he explored weaknesses in his argument." type="tweet" created="Tue, 06 Jul 2021 17:23:28 GMT" tweetId="1412462212489359360" urltweet="https://twitter.com/KenSmith/status/1412462212489359360" tweetUserName="KenSmith" />
+				<outline text="Story I heard.
+
+Gadamer, nearing 100 years of age, frail at the podium, lectured in Boston. Finishing, he offered to take questions.
+
+“Who will refute me?” he asked.
+
+No hands were raised.
+
+“Very well,” he said, “I shall refute myself.”
+
+And explored weaknesses in his argument." type="tweet" created="Tue, 06 Jul 2021 17:21:55 GMT" tweetId="1412461822683275267" urltweet="https://twitter.com/KenSmith/status/1412461822683275267" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 5" type="calendarDay" name="05" >
+				<outline text="In 1852, Frederick Douglass spoke about what the 4th of July meant to an enslaved person. &lt;a href=&quot;https://twitter.com/edgeofsports/status/1411677339893780480&quot;&gt;[link]&lt;/a&gt; https://t.co/jng08n7vs2" type="tweet" created="Tue, 06 Jul 2021 00:04:52 GMT" tweetId="1412200838727151618" urltweet="https://twitter.com/KenSmith/status/1412200838727151618" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 2" type="calendarDay" name="02" >
+				<outline text="Note to self. &lt;a href=&quot;https://twitter.com/KenSmith/status/1411127471186059265/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 03 Jul 2021 00:59:41 GMT" tweetId="1411127471186059265" urltweet="https://twitter.com/KenSmith/status/1411127471186059265" tweetUserName="KenSmith" />
+				<outline text="A country in need of a shared narrative, an honorable narrative with places in it for everyone. A country that doesn’t tell its best stories richly, accurately, or well. &lt;a href=&quot;https://twitter.com/nytdavidbrooks/status/1410790282354958337&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 02 Jul 2021 11:11:14 GMT" tweetId="1410918984925560837" urltweet="https://twitter.com/KenSmith/status/1410918984925560837" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="July 1" type="calendarDay" name="01" >
+				<outline text="“Conspiracy practices – the methods by which true conspiracies such as gerrymandering, or the debt industry, or mass surveillance are realized – are almost always overshadowed by conspiracy theories: those malevolent falsehoods...” —Edward Snowden. https://t.co/iXFoNb7Skq" type="tweet" created="Thu, 01 Jul 2021 13:53:16 GMT" tweetId="1410597374401998853" urltweet="https://twitter.com/KenSmith/status/1410597374401998853" tweetUserName="KenSmith" />
+				<outline text="A sample paragraph:
+
+In 1979, an Exxon study said that burning fossil fuels “will cause dramatic environmental effects” in the coming decades. “The potential problem is great and urgent,” it concluded. https://t.co/W153z1IlU0" type="tweet" created="Thu, 01 Jul 2021 09:09:01 GMT" tweetId="1410525839138213890" urltweet="https://twitter.com/KenSmith/status/1410525839138213890" tweetUserName="KenSmith" />
+				<outline text="Just goes to show... https://t.co/0lMhasPQyR" type="tweet" created="Thu, 01 Jul 2021 06:24:27 GMT" tweetId="1410484425872248833" urltweet="https://twitter.com/KenSmith/status/1410484425872248833" tweetUserName="KenSmith" />
+				</outline>
+			</outline>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 30" type="calendarDay" name="30" >
+				<outline text="I bet people my age can name at least half of these folks, even in a weak resolution image... https://t.co/AjJAW5icqa" type="tweet" created="Wed, 30 Jun 2021 23:59:02 GMT" tweetId="1410387432781066241" urltweet="https://twitter.com/KenSmith/status/1410387432781066241" tweetUserName="KenSmith" />
+				<outline text="Hammer in the grass. https://t.co/lZO0vW10sO" type="tweet" created="Wed, 30 Jun 2021 18:18:59 GMT" tweetId="1410301858938339330" urltweet="https://twitter.com/KenSmith/status/1410301858938339330" tweetUserName="KenSmith" />
+				<outline text="How I'll remember him. https://t.co/UuZUef84OA" type="tweet" created="Wed, 30 Jun 2021 17:44:59 GMT" tweetId="1410293300964245513" urltweet="https://twitter.com/KenSmith/status/1410293300964245513" tweetUserName="KenSmith" >
+					<outline text="Perhaps obvious, but this is not a portrait of Rumsfeld..." type="tweet" created="Thu, 01 Jul 2021 13:45:06 GMT" tweetId="1410595321046999051" urltweet="https://twitter.com/KenSmith/status/1410595321046999051" inReplyToId="1410293300964245513" tweetUserName="KenSmith" />
+					</outline>
+				<outline text="A different kind of account of that day.
+
+https://t.co/u92b9pcHBx https://t.co/rnd3lsBDqC" type="tweet" created="Wed, 30 Jun 2021 17:29:41 GMT" tweetId="1410289449745928195" urltweet="https://twitter.com/KenSmith/status/1410289449745928195" tweetUserName="KenSmith" />
+				<outline text="A website from his home state commemorates Ted Belcher.
+
+https://t.co/ddqLJ62zMh https://t.co/wQmGXBzrhw" type="tweet" created="Wed, 30 Jun 2021 17:25:51 GMT" tweetId="1410288483579699205" urltweet="https://twitter.com/KenSmith/status/1410288483579699205" tweetUserName="KenSmith" />
+				<outline text="Old blog post:
+
+Twitter sort of relentlessly says, &quot;You will not shape anything but an endless, ever-vanishing flow of your tweets in our space. On our terms, not yours. With our goals in mind, not yours.&quot;" type="tweet" created="Wed, 30 Jun 2021 17:02:58 GMT" tweetId="1410282727761448962" urltweet="https://twitter.com/KenSmith/status/1410282727761448962" tweetUserName="KenSmith" />
+				<outline text="A friend of mine, who was there, finds that day pretty hard to talk about. https://t.co/SvkD4ELukZ" type="tweet" created="Wed, 30 Jun 2021 16:10:09 GMT" tweetId="1410269435852734468" urltweet="https://twitter.com/KenSmith/status/1410269435852734468" tweetUserName="KenSmith" >
+					<outline text="But sometimes he gives me clues... https://t.co/S3tkTXDpJ4" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269437211590663" urltweet="https://twitter.com/KenSmith/status/1410269437211590663" inReplyToId="1410269435852734468" tweetUserName="KenSmith" >
+						<outline text="And sometimes I guess what it all implies about we who sent them... https://t.co/TLTm4BLLGs" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269438964867072" urltweet="https://twitter.com/KenSmith/status/1410269438964867072" inReplyToId="1410269437211590663" tweetUserName="KenSmith" >
+							<outline text="If they're going to go there in our name, the least we owe is our reflection... https://t.co/bFjRX69BRN" type="tweet" created="Wed, 30 Jun 2021 16:10:10 GMT" tweetId="1410269440625811460" urltweet="https://twitter.com/KenSmith/status/1410269440625811460" inReplyToId="1410269438964867072" tweetUserName="KenSmith" />
+							</outline>
+						</outline>
+					</outline>
+				<outline text="The shaggy professor who cannot speak. https://t.co/zb53n7Yi1l" type="tweet" created="Wed, 30 Jun 2021 15:43:46 GMT" tweetId="1410262795950739456" urltweet="https://twitter.com/KenSmith/status/1410262795950739456" tweetUserName="KenSmith" />
+				<outline text="Understanding blogging. Dave Winer's prompt and my reply.
+
+https://t.co/5NZ32HQDw6
+
+...it is about the unfinished business of making sense of our lives. We all need help in that area, if we can get it, although some people believe or pretend otherwise... https://t.co/XIfNuC0waO" type="tweet" created="Wed, 30 Jun 2021 15:33:54 GMT" tweetId="1410260312322887686" urltweet="https://twitter.com/KenSmith/status/1410260312322887686" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="I wonder when folks who say they think the U.S. eventually got over its bad case of racism--I wonder when they think the getting over it happened? Surely not in the golden age of lynching--must be later. Not in the golden age of redlining. Not before people could readily vote..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879040882794496" urltweet="https://twitter.com/KenSmith/status/1409879040882794496" tweetUserName="KenSmith" >
+					<outline text="...and not before they could count on sending their kids to good public schools. Not before people could readily build careers in leadership roles rather than muscle roles in sports or subordinate roles elsewhere. The list goes on..." type="tweet" created="Tue, 29 Jun 2021 14:18:52 GMT" tweetId="1409879042174689283" urltweet="https://twitter.com/KenSmith/status/1409879042174689283" inReplyToId="1409879040882794496" tweetUserName="KenSmith" >
+						<outline text="Maybe the folks who say the U.S. eventually got over its bad case of racism think the getting over took place last Tuesday. Dunno. Or maybe they don't even believe what they say. Maybe their aspirations for continuing in power depend on pretending racism is over." type="tweet" created="Tue, 29 Jun 2021 14:18:53 GMT" tweetId="1409879044808654849" urltweet="https://twitter.com/KenSmith/status/1409879044808654849" inReplyToId="1409879042174689283" tweetUserName="KenSmith" >
+							<outline text="Today Krugman provides a data point--no way racism was over in 1938 if the FHA was supporting segregation in this way. Maybe it ended last Tuesday after all.
+
+https://t.co/O1SdjigCaA" type="tweet" created="Tue, 29 Jun 2021 14:24:26 GMT" tweetId="1409880441549692930" urltweet="https://twitter.com/KenSmith/status/1409880441549692930" inReplyToId="1409879044808654849" tweetUserName="KenSmith" />
+							</outline>
+						</outline>
+					</outline>
+				<outline text="&quot;You can't make revolution with employees.&quot; https://t.co/EnsQGdvxGg" type="tweet" created="Tue, 29 Jun 2021 13:43:46 GMT" tweetId="1409870207238250506" urltweet="https://twitter.com/KenSmith/status/1409870207238250506" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="June 28" type="calendarDay" name="28" >
+				<outline text="“Ties everyone into the ecosystem then.”
+
+When speaking of social platforms, that’s a phrasing that can be used over and over again, describing practices that work to the detriment of users, both writers and readers. Handcuffs software creators too, I hear. https://t.co/NrvI9j2Nmf" type="tweet" created="Mon, 28 Jun 2021 22:14:33 GMT" tweetId="1409636364094631937" urltweet="https://twitter.com/KenSmith/status/1409636364094631937" tweetUserName="KenSmith" />
+				<outline text="“There's no media ecosystem that's focused on how crazy the Republican Party is. There's no intensive conversation about what the Republican Party has been doing for the last five years as it has progressively fallen down the pathway towards fascism.” https://t.co/Azbn1UbzhE" type="tweet" created="Mon, 28 Jun 2021 14:19:46 GMT" tweetId="1409516878846902278" urltweet="https://twitter.com/KenSmith/status/1409516878846902278" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="June 25" type="calendarDay" name="25" >
+				<outline text="Of its moment but also still a pressing account of economic and authority pressures on journalism, and the trembling foundations of society. @ARusbridger in 2006 explaining why the Guardian continued to innovate in the digital space by inviting readers to write. https://t.co/UZ0WuK6PcO" type="tweet" created="Fri, 25 Jun 2021 20:32:02 GMT" tweetId="1408523401485029384" urltweet="https://twitter.com/KenSmith/status/1408523401485029384" tweetUserName="KenSmith" />
+				<outline text="“Politicians, for all that they despair of newspapers sometimes, would find countries very difficult to govern unless you had a sufficiently informed citizenship.”
+
+@ARusbridger’s “Newspapers in the Age of Blogs” talk at the RSA in 2006 (57:45)
+
+https://t.co/gf7R1HrmJJ" type="tweet" created="Fri, 25 Jun 2021 20:28:35 GMT" tweetId="1408522533218009102" urltweet="https://twitter.com/KenSmith/status/1408522533218009102" tweetUserName="KenSmith" />
+				</outline>
+			<outline text="June 24" type="calendarDay" name="24" >
+				<outline text="Penelope Fitzgerald’s short story “The Axe” is presented as a business report the narrator has written in a time of crisis for her boss. Here is the story’s (and the report’s) second paragraph. https://t.co/N9CZNhfdK2" type="tweet" created="Thu, 24 Jun 2021 16:51:47 GMT" tweetId="1408105584000385029" urltweet="https://twitter.com/KenSmith/status/1408105584000385029" tweetUserName="KenSmith" />
 				</outline>
 			</outline>
 		</body>
