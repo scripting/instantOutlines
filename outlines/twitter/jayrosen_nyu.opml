@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 25 Jul 2021 15:10:13 GMT</dateModified>
+		<dateModified>Sun, 25 Jul 2021 22:22:40 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 25" type="calendarDay" name="25" >
+				<outline text="Best thread I have read in months. A model for scholars seeking to adapt social science to social media. &lt;a href=&quot;https://twitter.com/ebharrington/status/1418281619312586755&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 22:21:55 GMT" tweetId="1419422690155409410" urltweet="https://twitter.com/jayrosen_nyu/status/1419422690155409410" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="For &quot;deep wounds&quot; substitute &quot;politicized rage.&quot; &lt;a href=&quot;https://twitter.com/whstancil/status/1419273013506285568/photo/1&quot;&gt;[link]&lt;/a&gt; Via @whstancil" type="tweet" created="Sun, 25 Jul 2021 15:09:57 GMT" tweetId="1419313983660728325" urltweet="https://twitter.com/jayrosen_nyu/status/1419313983660728325" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 23" type="calendarDay" name="23" >
