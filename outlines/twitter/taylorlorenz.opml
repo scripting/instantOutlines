@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 24 Jul 2021 23:58:50 GMT</dateModified>
+		<dateModified>Sun, 25 Jul 2021 18:31:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 25" type="calendarDay" name="25" >
+				<outline text="Going on @blockedpartypod and looking for someone high profile and influential to block me ASAP so I can discuss. 
+
+TLDR: if ur famous and have a lot of followers please block me and let me know so I can discuss this for clout." type="tweet" created="Sun, 25 Jul 2021 18:30:31 GMT" tweetId="1419364455322767362" urltweet="https://twitter.com/taylorlorenz/status/1419364455322767362" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 24" type="calendarDay" name="24" >
 				<outline text="Another fantastic piece by @sheeraf on a super spreader of vaccine disinfo &lt;a href=&quot;https://www.nytimes.com/2021/07/24/technology/joseph-mercola-coronavirus-misinformation-online.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 23:58:33 GMT" tweetId="1419084619790442496" urltweet="https://twitter.com/taylorlorenz/status/1419084619790442496" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Every week I log onto my silly little computer and check to see if Home Depot restocked the giant skeleton" type="tweet" created="Sat, 24 Jul 2021 14:45:04 GMT" tweetId="1418945333200105477" urltweet="https://twitter.com/taylorlorenz/status/1418945333200105477" tweetUserName="taylorlorenz" />
