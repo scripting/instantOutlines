@@ -7,11 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sun, 25 Jul 2021 03:50:56 GMT</dateModified>
+		<dateModified>Sun, 25 Jul 2021 03:54:56 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 24" type="calendarDay" name="24" >
+				<outline text="Thanks! You can add this query to your &quot;Favorites&quot; in the right sidebar or any page.
+{{query (task later now todo doing)}} &lt;a href=&quot;https://twitter.com/WillPlatnick/status/1418681592998940673&quot;&gt;[link]&lt;/a&gt; https://t.co/fur5KLieIW" type="tweet" created="Sun, 25 Jul 2021 03:54:40 GMT" tweetId="1419144041048903680" urltweet="https://twitter.com/logseq/status/1419144041048903680" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you! &lt;a href=&quot;https://twitter.com/JohnHamiltonNZ/status/1418942831637454868&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 03:50:18 GMT" tweetId="1419142940736122884" urltweet="https://twitter.com/logseq/status/1419142940736122884" inReplyToId="" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 23" type="calendarDay" name="23" >
