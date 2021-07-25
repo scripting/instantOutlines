@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 25 Jul 2021 17:39:36 GMT</dateModified>
+		<dateModified>Sun, 25 Jul 2021 17:56:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 25" type="calendarDay" name="25" >
+				<outline text="I’ve been thinking of getting a new e-bike for riding in the mountains. But I hear they’re impossible to find." type="tweet" created="Sun, 25 Jul 2021 17:55:39 GMT" tweetId="1419355681510068227" urltweet="https://twitter.com/davewiner/status/1419355681510068227" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="https://t.co/8HQQYaSgsE is available.
 
 https://t.co/Pw5RQhaPQr" type="tweet" created="Sun, 25 Jul 2021 17:38:45 GMT" tweetId="1419351427353387011" urltweet="https://twitter.com/davewiner/status/1419351427353387011" inReplyToId="" tweetUserName="davewiner" />
