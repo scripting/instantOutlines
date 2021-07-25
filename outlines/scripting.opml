@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 25 Jul 2021 17:27:41 GMT</dateModified>
+		<dateModified>Sun, 25 Jul 2021 17:34:59 GMT</dateModified>
 		<expansionState>1,2,4,8,17</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 25" created="Sun, 25 Jul 2021 17:26:54 GMT" type="calendarDay" name="25" >
-				<outline text="A &lt;a href=&quot;https://github.com/scripting/pagePark/issues/21#issuecomment-886229200&quot;&gt;new PagePark feature&lt;/a&gt; makes it possible to serve an OPML file as the home page of a site, even when the file is located on another web server. " created="Sun, 25 Jul 2021 17:26:55 GMT" type="outline" />
+				<outline text="A new [[PagePark]] &lt;a href=&quot;https://github.com/scripting/pagePark/issues/21#issuecomment-886229200&quot;&gt;feature&lt;/a&gt; makes it possible to serve an [[OPML]] file as the home page of a site, even when the file is located on another web server. " created="Sun, 25 Jul 2021 17:26:55 GMT" type="outline" />
 				</outline>
 			<outline text="July 24" created="Sat, 24 Jul 2021 13:02:21 GMT" type="calendarDay" name="24" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=azdwsXLmrHE&quot;&gt;Radio Ga Ga&lt;/a&gt;." created="Sat, 24 Jul 2021 20:10:46 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=azdwsXLmrHE" />
@@ -29,12 +29,12 @@
 				<outline text="You know the saying -- locks are for honest people -- I think this is also true of the Constitution. If enough people decide that they don't respect the rules, then the rules don't hold." created="Sat, 24 Jul 2021 13:02:22 GMT" type="tweet" tweetId="1418919605188321291" tweetUserName="davewiner" />
 				<outline text="Where have all the magas gone? " created="Sat, 24 Jul 2021 18:42:16 GMT" type="outline" metaImage="http://scripting.com/images/2021/07/24/peterPaulMary.png" description="When will they ever learn?" >
 					<outline text="Long time passing." />
-					<outline text="Where have all the magas gone?" />
+					<outline text="Where have all the magas gone?" created="Sun, 25 Jul 2021 17:34:12 GMT" />
 					<outline text="Long time ago." />
 					<outline text="Where have all the magas gone?" />
 					<outline text="They all got covid, every one." />
-					<outline text="Oh, will they ever learn?" created="Sat, 24 Jul 2021 18:49:00 GMT" />
-					<outline text="Oh, when will they learn?" created="Sat, 24 Jul 2021 18:42:29 GMT" />
+					<outline text="Oy! Will they ever learn?" created="Sat, 24 Jul 2021 18:49:00 GMT" />
+					<outline text="Oy! When will they learn?" created="Sat, 24 Jul 2021 18:42:29 GMT" />
 					<outline text="&lt;br&gt;To the tune of &lt;a href=&quot;https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F&quot;&gt;Where Have All The Flowers Gone&lt;/a&gt; by Pete Seeger." created="Sat, 24 Jul 2021 18:43:42 GMT" />
 					</outline>
 				</outline>
