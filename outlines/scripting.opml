@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 25 Jul 2021 14:58:19 GMT</dateModified>
-		<expansionState>1,2,6,15</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sun, 25 Jul 2021 17:27:41 GMT</dateModified>
+		<expansionState>1,2,4,8,17</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 25" created="Sun, 25 Jul 2021 17:26:54 GMT" type="calendarDay" name="25" >
+				<outline text="A &lt;a href=&quot;https://github.com/scripting/pagePark/issues/21#issuecomment-886229200&quot;&gt;new PagePark feature&lt;/a&gt; makes it possible to serve an OPML file as the home page of a site, even when the file is located on another web server. " created="Sun, 25 Jul 2021 17:26:55 GMT" type="outline" />
+				</outline>
 			<outline text="July 24" created="Sat, 24 Jul 2021 13:02:21 GMT" type="calendarDay" name="24" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=azdwsXLmrHE&quot;&gt;Radio Ga Ga&lt;/a&gt;." created="Sat, 24 Jul 2021 20:10:46 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=azdwsXLmrHE" />
 				<outline text="Does anyone else think the [[Olympics]] is offensive from a [[climate change]] perspective. All that carbon burning. What if instead we had an Olympics where people did heroic things to put carbon back in the ground. " created="Sat, 24 Jul 2021 18:17:51 GMT" type="outline" />
