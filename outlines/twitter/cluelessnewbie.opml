@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/cluelessnewbie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 16:44:19 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 16:49:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r6</urlInstant>
 		</head>
 	<body>
@@ -15,7 +15,9 @@
 				<outline text="This may become the developer support channel on Twitter for OPML developers." type="tweet" created="Mon, 26 Jul 2021 16:32:14 GMT" tweetId="1419697076187844610" urltweet="https://twitter.com/cluelessnewbie/status/1419697076187844610" inReplyToId="" tweetUserName="cluelessnewbie" >
 					<outline text="In the meantime it's turning into a very convenient place to post messages for testing." type="tweet" created="Mon, 26 Jul 2021 16:37:36 GMT" tweetId="1419698427152195587" urltweet="https://twitter.com/cluelessnewbie/status/1419698427152195587" inReplyToId="1419697076187844610" tweetUserName="cluelessnewbie" >
 						<outline text="the calling conventions for opml.parse are different on server and in-browser. due to a design mistake elsewhere. oy." type="tweet" created="Mon, 26 Jul 2021 16:40:40 GMT" tweetId="1419699200481234946" urltweet="https://twitter.com/cluelessnewbie/status/1419699200481234946" inReplyToId="1419698427152195587" tweetUserName="cluelessnewbie" >
-							<outline text="every mistake i make is apple's fault. ;-)" type="tweet" created="Mon, 26 Jul 2021 16:43:33 GMT" tweetId="1419699924078374915" urltweet="https://twitter.com/cluelessnewbie/status/1419699924078374915" inReplyToId="1419699200481234946" tweetUserName="cluelessnewbie" />
+							<outline text="every mistake i make is apple's fault. ;-)" type="tweet" created="Mon, 26 Jul 2021 16:43:33 GMT" tweetId="1419699924078374915" urltweet="https://twitter.com/cluelessnewbie/status/1419699924078374915" inReplyToId="1419699200481234946" tweetUserName="cluelessnewbie" >
+								<outline text="oy i'm fixing stuff all over the place. my code is working better. oy yeah." type="tweet" created="Mon, 26 Jul 2021 16:48:25 GMT" tweetId="1419701151356837889" urltweet="https://twitter.com/cluelessnewbie/status/1419701151356837889" inReplyToId="1419699924078374915" tweetUserName="cluelessnewbie" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
