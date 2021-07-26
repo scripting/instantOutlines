@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 26 Jul 2021 01:34:05 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 08:44:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="Something they don’t teach us in school in my country is that when we pledge allegiance to the flag of the United States of America, we are really pledging allegiance to each other. Because that’s all there is, the people. No dear leader, no state church, just us." type="tweet" created="Mon, 26 Jul 2021 08:43:47 GMT" tweetId="1419579189523591170" urltweet="https://twitter.com/davewiner/status/1419579189523591170" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="July 25" type="calendarDay" name="25" >
 				<outline text="The new M1 Macs can’t run Intel software, where pre-M1 Macs could. Correct?" type="tweet" created="Mon, 26 Jul 2021 01:01:10 GMT" tweetId="1419462766801399809" urltweet="https://twitter.com/davewiner/status/1419462766801399809" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Oy you all misunderstood. I meant windows, Linux." type="tweet" created="Mon, 26 Jul 2021 01:33:25 GMT" tweetId="1419470881366192128" urltweet="https://twitter.com/davewiner/status/1419470881366192128" inReplyToId="1419462766801399809" tweetUserName="davewiner" />
