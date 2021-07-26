@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 18:10:30 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 19:05:33 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="At last &lt;a href=&quot;https://twitter.com/tomwarren/status/1419732920475000834&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 19:05:13 GMT" tweetId="1419735576488513551" urltweet="https://twitter.com/taylorlorenz/status/1419735576488513551" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Citizen is quietly hiring New Yorkers to run around the city and livestream crime scenes for $25 an hour &lt;a href=&quot;https://nypost.com/2021/07/25/citizen-pays-new-yorkers-25-an-hour-to-livestream-crime-scenes/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 18:10:00 GMT" tweetId="1419721679920533505" urltweet="https://twitter.com/taylorlorenz/status/1419721679920533505" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="🎉🎉🎉 &lt;a href=&quot;https://twitter.com/saba_h/status/1419692053533921281&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 17:07:40 GMT" tweetId="1419705994343424013" urltweet="https://twitter.com/taylorlorenz/status/1419705994343424013" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Ty @boring_as_heck @cullenthecomic for having me back on &lt;a href=&quot;https://twitter.com/blockedpartypod/status/1419695976214765571&quot;&gt;[link]&lt;/a&gt; https://t.co/Jbkg4B7a1G" type="tweet" created="Mon, 26 Jul 2021 17:02:06 GMT" tweetId="1419704593416527874" urltweet="https://twitter.com/taylorlorenz/status/1419704593416527874" inReplyToId="" tweetUserName="taylorlorenz" />
