@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 13:52:02 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 13:53:50 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 26" created="Mon, 26 Jul 2021 13:50:06 GMT" type="calendarDay" name="26" >
-				<outline text="Something they don’t teach us in school in &lt;a href=&quot;https://en.wikipedia.org/wiki/United_States&quot;&gt;my country&lt;/a&gt; is that when we &lt;a href=&quot;https://en.wikipedia.org/wiki/Pledge_of_Allegiance&quot;&gt;pledge&lt;/a&gt; allegiance to the flag of the United States of America, we are really pledging allegiance to each other. Because that’s all there is, the people. No dear leader, no state church, just us." created="Mon, 26 Jul 2021 13:50:07 GMT" type="outline" />
+				<outline text="Something they don’t teach us in school in &lt;a href=&quot;https://en.wikipedia.org/wiki/United_States&quot;&gt;my country&lt;/a&gt; is that when we &lt;a href=&quot;https://en.wikipedia.org/wiki/Pledge_of_Allegiance&quot;&gt;pledge&lt;/a&gt; allegiance to the &lt;a href=&quot;http://scripting.com/images/2021/07/26/flag.png&quot;&gt;flag&lt;/a&gt; of the United States of America, we are really pledging allegiance to each other. Because that’s all there is, the people. No dear leader, no state church, just us." created="Mon, 26 Jul 2021 13:50:07 GMT" type="outline" />
 				</outline>
 			<outline text="July 25" created="Sun, 25 Jul 2021 17:26:54 GMT" type="calendarDay" name="25" >
 				<outline text="A new [[PagePark]] &lt;a href=&quot;https://github.com/scripting/pagePark/issues/21#issuecomment-886229200&quot;&gt;feature&lt;/a&gt; makes it possible to serve an [[OPML]] file as the home page of a site, even if the file is on another server. " created="Sun, 25 Jul 2021 17:26:55 GMT" type="outline" />
