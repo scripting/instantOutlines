@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 23:24:50 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 23:57:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="1600 Vine redux &lt;a href=&quot;https://www.hollywoodreporter.com/lifestyle/real-estate/studio-city-townhouses-digital-creators-1234984879/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 23:57:36 GMT" tweetId="1419809158686154752" urltweet="https://twitter.com/taylorlorenz/status/1419809158686154752" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Tarkov star Pestily becomes Twitch's most-subbed streamer with mega subathon  &lt;a href=&quot;https://www.dexerto.com/escape-from-tarkov/tarkov-star-pestily-becomes-twitchs-most-subbed-streamer-with-mega-subathon-1617884/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 23:24:25 GMT" tweetId="1419800805381607439" urltweet="https://twitter.com/taylorlorenz/status/1419800805381607439" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Went on @blockedpartypod to discuss gamer chairs, pets online, and on_a_downward_spiral 💕 &lt;a href=&quot;https://podcasts.apple.com/us/podcast/taylor-lorenz-v-logan-paul/id1442925390?i=1000530013651&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 20:14:31 GMT" tweetId="1419753017495064588" urltweet="https://twitter.com/taylorlorenz/status/1419753017495064588" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Look how happy we all look @blockedpartypod &lt;a href=&quot;https://podcasts.apple.com/us/podcast/taylor-lorenz-v-logan-paul/id1442925390?i=1000530013651&quot;&gt;[link]&lt;/a&gt; https://t.co/vXqati4YTt" type="tweet" created="Mon, 26 Jul 2021 20:15:09 GMT" tweetId="1419753176371105799" urltweet="https://twitter.com/taylorlorenz/status/1419753176371105799" inReplyToId="1419753017495064588" tweetUserName="taylorlorenz" />
