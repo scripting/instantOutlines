@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 13:59:14 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 15:25:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="The @RMac18 era at @nytimesbusiness starts today!!!! 🔥🔥🔥" type="tweet" created="Mon, 26 Jul 2021 15:24:43 GMT" tweetId="1419680087109083136" urltweet="https://twitter.com/taylorlorenz/status/1419680087109083136" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="So heartbreaking what long haulers have had to endure while our system fails them in nearly every way. This is a powerful piece by @morganstephensa &lt;a href=&quot;https://www.cnn.com/2021/07/23/opinions/long-covid-symptoms-brought-me-to-the-brink-stephens/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 13:53:16 GMT" tweetId="1419657073499906054" urltweet="https://twitter.com/taylorlorenz/status/1419657073499906054" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Any Covid infection can potentially lead to long haul/long covid, whether you’re vaccinated or not. Please encourage people to get vaccinated to stop the spread of Covid 19 and hope everyone stays safe from this debilitating and devastating syndrome 🙏🏻💓" type="tweet" created="Mon, 26 Jul 2021 13:58:59 GMT" tweetId="1419658508459409419" urltweet="https://twitter.com/taylorlorenz/status/1419658508459409419" inReplyToId="1419657073499906054" tweetUserName="taylorlorenz" />
 					</outline>
