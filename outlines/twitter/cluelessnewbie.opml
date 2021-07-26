@@ -6,12 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/cluelessnewbie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 15:55:16 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 16:26:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r6</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="New rule in general.
+
+When notifying about changes to instant outlines, always use the value of urlPublic in the head section of the OPML.
+
+Both to notify and be notified.
+
+This way we don't get our signals crossed, as was happening." type="tweet" created="Mon, 26 Jul 2021 16:26:00 GMT" tweetId="1419695506649985028" urltweet="https://twitter.com/cluelessnewbie/status/1419695506649985028" inReplyToId="" tweetUserName="cluelessnewbie" />
 				<outline text="Still testing at 11:56AM." type="tweet" created="Mon, 26 Jul 2021 15:55:07 GMT" tweetId="1419687738299781120" urltweet="https://twitter.com/cluelessnewbie/status/1419687738299781120" inReplyToId="" tweetUserName="cluelessnewbie" />
 				<outline text="Hi this is Dave here. I'm using this account to test I/Oing in Drummer." type="tweet" created="Mon, 26 Jul 2021 15:25:50 GMT" tweetId="1419680367628505094" urltweet="https://twitter.com/cluelessnewbie/status/1419680367628505094" inReplyToId="" tweetUserName="cluelessnewbie" />
 				</outline>
