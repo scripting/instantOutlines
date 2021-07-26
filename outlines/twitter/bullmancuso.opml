@@ -6,12 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/bullmancuso.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 17:03:55 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 22:17:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r5</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="Do you remember when you joined Twitter? I do! #MyTwitterAnniversary &lt;a href=&quot;https://twitter.com/bullmancuso/status/1419783847495995397/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 22:17:02 GMT" tweetId="1419783847495995397" urltweet="https://twitter.com/bullmancuso/status/1419783847495995397" inReplyToId="" tweetUserName="bullmancuso" />
+				<outline text="Hella ever biddy this is Bull Mancuso!" type="tweet" created="Mon, 26 Jul 2021 22:16:39 GMT" tweetId="1419783752641912834" urltweet="https://twitter.com/bullmancuso/status/1419783752641912834" inReplyToId="" tweetUserName="bullmancuso" />
 				<outline text="This is Dave here, using this feed for some testing." type="tweet" created="Mon, 26 Jul 2021 16:57:23 GMT" tweetId="1419703408106385410" urltweet="https://twitter.com/bullmancuso/status/1419703408106385410" inReplyToId="" tweetUserName="bullmancuso" >
 					<outline text="So fart so good." type="tweet" created="Mon, 26 Jul 2021 16:59:34 GMT" tweetId="1419703953986572288" urltweet="https://twitter.com/bullmancuso/status/1419703953986572288" inReplyToId="1419703408106385410" tweetUserName="bullmancuso" >
 						<outline text="Lettuce try another update." type="tweet" created="Mon, 26 Jul 2021 17:01:23 GMT" tweetId="1419704411589316611" urltweet="https://twitter.com/bullmancuso/status/1419704411589316611" inReplyToId="1419703953986572288" tweetUserName="bullmancuso" >
