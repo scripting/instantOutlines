@@ -7,11 +7,18 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Mon, 26 Jul 2021 16:50:16 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 17:06:17 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="0.2.10 is just out!
+Some highlights:
+1. Long pages should be loading faster
+2. Query results support both nested children and breadcrumbs
+3. Both `^^` and `__` can be auto paired when there's selected text
+4. fix crash when auto-complete some page references
+5. org-mode id links &lt;a href=&quot;https://twitter.com/logseq/status/1419705524136779782/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 17:05:48 GMT" tweetId="1419705524136779782" urltweet="https://twitter.com/logseq/status/1419705524136779782" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Wow! Thank you very much for making this! &lt;a href=&quot;https://twitter.com/kris__kaminski/status/1419698524950773772&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 16:49:35 GMT" tweetId="1419701445142536192" urltweet="https://twitter.com/logseq/status/1419701445142536192" inReplyToId="" tweetUserName="logseq" />
 				<outline text="That's a lot! Congrats!🥳 &lt;a href=&quot;https://twitter.com/dasaptaerwin/status/1419647258933354501&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 14:41:31 GMT" tweetId="1419669215804485633" urltweet="https://twitter.com/logseq/status/1419669215804485633" inReplyToId="" tweetUserName="logseq" />
 				</outline>
