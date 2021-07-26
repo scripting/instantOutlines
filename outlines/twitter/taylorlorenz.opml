@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 00:45:23 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 00:49:24 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 25" type="calendarDay" name="25" >
-				<outline text="“Smoke fallout could very well be the West’s — and then the country’s — next health epidemic. Air quality experts are still trying to wrap their heads around this crisis.” Excellent piece by @cwarzel &lt;a href=&quot;https://www.nytimes.com/2021/07/25/opinion/west-coast-fires-smoke.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 00:44:44 GMT" tweetId="1419458631641174017" urltweet="https://twitter.com/taylorlorenz/status/1419458631641174017" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="“Smoke fallout could very well be the West’s — and then the country’s — next health epidemic. Air quality experts are still trying to wrap their heads around this crisis.” Excellent piece by @cwarzel &lt;a href=&quot;https://www.nytimes.com/2021/07/25/opinion/west-coast-fires-smoke.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 00:44:44 GMT" tweetId="1419458631641174017" urltweet="https://twitter.com/taylorlorenz/status/1419458631641174017" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Poor air quality threatens our health in so many ways, some we’re only just beginning to understand &lt;a href=&quot;https://www.nytimes.com/2021/07/25/opinion/west-coast-fires-smoke.html&quot;&gt;[link]&lt;/a&gt; https://t.co/neT2F0xgHc" type="tweet" created="Mon, 26 Jul 2021 00:48:59 GMT" tweetId="1419459701448736768" urltweet="https://twitter.com/taylorlorenz/status/1419459701448736768" inReplyToId="1419458631641174017" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Going on @blockedpartypod and looking for someone high profile and influential to block me ASAP so I can discuss. 
 
 TLDR: if ur famous and have a lot of followers please block me and let me know so I can discuss this for clout." type="tweet" created="Sun, 25 Jul 2021 18:30:31 GMT" tweetId="1419364455322767362" urltweet="https://twitter.com/taylorlorenz/status/1419364455322767362" inReplyToId="" tweetUserName="taylorlorenz" >
