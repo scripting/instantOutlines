@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 26 Jul 2021 18:56:12 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 19:14:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="The posts on my blog that I've tagged &quot;NYT.&quot; 
+
+https://t.co/ZuiUW4V1bE
+
+The URL is pretty simple don't you think?" type="tweet" created="Mon, 26 Jul 2021 19:11:21 GMT" tweetId="1419737119833088006" urltweet="https://twitter.com/davewiner/status/1419737119833088006" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="My quick reMarkable review. https://t.co/NxQveGmk5u" type="tweet" created="Mon, 26 Jul 2021 18:48:13 GMT" tweetId="1419731296503406595" urltweet="https://twitter.com/davewiner/status/1419731296503406595" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="4 Reasons I’m Wearing a Mask Again. &lt;a href=&quot;https://www.theatlantic.com/health/archive/2021/07/fully-vaccinated-masking-delta/619532/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 16:00:32 GMT" tweetId="1419689100286771205" urltweet="https://twitter.com/davewiner/status/1419689100286771205" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="NYC Will Require Vaccination Or Weekly Testing For All City Workers. &lt;a href=&quot;https://gothamist.com/news/nyc-will-require-vaccination-or-weekly-testing-all-city-workers&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 13:35:31 GMT" tweetId="1419652604821397506" urltweet="https://twitter.com/davewiner/status/1419652604821397506" inReplyToId="" tweetUserName="davewiner" />
