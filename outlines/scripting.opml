@@ -14,7 +14,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 17:59:12 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 18:00:22 GMT</dateModified>
 		<expansionState>1,2,4</expansionState>
 		<lastCursor>4</lastCursor>
 		</head>
@@ -23,7 +23,7 @@
 			<outline text="July 26" created="Mon, 26 Jul 2021 13:50:06 GMT" type="calendarDay" name="26" >
 				<outline text="Something they don’t teach us in school in &lt;a href=&quot;https://en.wikipedia.org/wiki/United_States&quot;&gt;my country&lt;/a&gt; is that when we &lt;a href=&quot;https://en.wikipedia.org/wiki/Pledge_of_Allegiance&quot;&gt;pledge&lt;/a&gt; allegiance to the &lt;a href=&quot;http://scripting.com/images/2021/07/26/flag.png&quot;&gt;flag&lt;/a&gt; of the United States of America, we are really pledging allegiance to each other. Because that’s all there is, the people. No dear leader, no state church, just us." created="Mon, 26 Jul 2021 13:50:07 GMT" type="outline" />
 				<outline text="Listening is hard" created="Mon, 26 Jul 2021 17:55:08 GMT" type="outline" >
-					<outline text="At [[Living Videotext]], we worked with DG on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Data_General-One&quot;&gt;DG/One&lt;/a&gt;. A 9-pound battery powered luggable. 1984, ran MS-DOS. It was rolled out in a huge expensive press conf at a Los Gatos winery. Everything the best. Hundreds of people, great party and a great breakthrough product, in 1984, a year of another seriously flawed breakthrough product. " created="Mon, 26 Jul 2021 17:55:21 GMT" />
+					<outline text="At [[Living Videotext]], we worked with Data General on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Data_General-One&quot;&gt;DG/One&lt;/a&gt;. A 9-pound battery powered luggable.1984, ran MS-DOS. It was a real portable, you could use it on a plane, in a restaurant, at a meeting. It was rolled out in a huge expensive press conf at a Los Gatos winery. Everything the best. Hundreds of people, great party and a great breakthrough product, in 1984, a year of another seriously flawed breakthrough product. " created="Mon, 26 Jul 2021 17:55:21 GMT" />
 					<outline text="But you couldn't read the screen. " />
 					<outline text="And they didn't light the demo room." />
 					<outline text="So that's all anyone talked about. " />
