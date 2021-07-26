@@ -6,14 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 24 Jul 2021 11:49:48 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 12:16:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="Getting vaccinated protects Sarah Huckabee Sanders against the worst C-19 risks but fails to slow her body’s generation of propaganda. &lt;a href=&quot;https://www.arkansasonline.com/news/2021/jul/25/the-reasoning-behind-getting-vaccinated/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 12:16:18 GMT" tweetId="1419632669151924229" urltweet="https://twitter.com/KenSmith/status/1419632669151924229" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 24" type="calendarDay" name="24" >
-				<outline text="The idea that in a time of rampant propaganda our society has accepted a very reductive account of who the unvaccinated among us might be. &lt;a href=&quot;https://twitter.com/edyong209/status/1418191034354442243&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 11:48:51 GMT" tweetId="1418900987482361864" urltweet="https://twitter.com/KenSmith/status/1418900987482361864" inReplyToId="" tweetUserName="KenSmith" />
-				<outline text="William Haefeli’s cartoon (NYer, July 26, 2021) evokes our impervious insider game of politics. We need to study up on the actions that actually make politicians listen. Let’s practice those acts, and also remove structures that protect politicians from ever hearing other voices. &lt;a href=&quot;https://twitter.com/KenSmith/status/1418859945982844931/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 09:05:46 GMT" tweetId="1418859945982844931" urltweet="https://twitter.com/KenSmith/status/1418859945982844931" inReplyToId="" tweetUserName="KenSmith" />
+				<outline text="The idea that in a time of rampant propaganda our society has accepted a very reductive account of who the unvaccinated among us might be. &lt;a href=&quot;https://twitter.com/edyong209/status/1418191034354442243&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 11:48:51 GMT" tweetId="1418900987482361864" urltweet="https://twitter.com/KenSmith/status/1418900987482361864" tweetUserName="KenSmith" />
+				<outline text="William Haefeli’s cartoon (NYer, July 26, 2021) evokes our impervious insider game of politics. We need to study up on the actions that actually make politicians listen. Let’s practice those acts, and also remove structures that protect politicians from ever hearing other voices. &lt;a href=&quot;https://twitter.com/KenSmith/status/1418859945982844931/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 24 Jul 2021 09:05:46 GMT" tweetId="1418859945982844931" urltweet="https://twitter.com/KenSmith/status/1418859945982844931" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
 				<outline text="“Every[one] who[‘s] champion[ed] vaccines to disbelievers said they end up sad, disappointed, and frustrated, caught in circular arguments that rely more on ideology than facts, and in which every piece of evidence is taken as more proof of conspiracy.” &lt;a href=&quot;https://www.theatlantic.com/health/archive/2021/07/arkansas-cases-covid-19/619515/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 02:50:31 GMT" tweetId="1418403121911541768" urltweet="https://twitter.com/KenSmith/status/1418403121911541768" tweetUserName="KenSmith" />
