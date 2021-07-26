@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 21:40:08 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 21:48:09 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="If you have not read it yet, this is a necessary thread. Its author is exasperated— for good reason. &lt;a href=&quot;https://twitter.com/brianbeutler/status/1417896636085424129&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 21:47:45 GMT" tweetId="1419776480108761106" urltweet="https://twitter.com/jayrosen_nyu/status/1419776480108761106" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;I never, ever, ever wanted to own a newspaper. Except that newspaper.&quot;
 
 There's a small trend of local newspapers moving from the big chains and hedge funds into the hands of local investors who, of course, have entirely different motives for owning them. &lt;a href=&quot;https://localnewsinitiative.northwestern.edu/posts/2021/07/26/increasing-local-ownership/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 21:39:32 GMT" tweetId="1419774412530888705" urltweet="https://twitter.com/jayrosen_nyu/status/1419774412530888705" inReplyToId="" tweetUserName="jayrosen_nyu" />
