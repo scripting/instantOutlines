@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/cluelessnewbie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 16:32:19 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 16:38:19 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r6</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
-				<outline text="This may become the developer support channel on Twitter for OPML developers." type="tweet" created="Mon, 26 Jul 2021 16:32:14 GMT" tweetId="1419697076187844610" urltweet="https://twitter.com/cluelessnewbie/status/1419697076187844610" inReplyToId="" tweetUserName="cluelessnewbie" />
+				<outline text="This may become the developer support channel on Twitter for OPML developers." type="tweet" created="Mon, 26 Jul 2021 16:32:14 GMT" tweetId="1419697076187844610" urltweet="https://twitter.com/cluelessnewbie/status/1419697076187844610" inReplyToId="" tweetUserName="cluelessnewbie" >
+					<outline text="In the meantime it's turning into a very convenient place to post messages for testing." type="tweet" created="Mon, 26 Jul 2021 16:37:36 GMT" tweetId="1419698427152195587" urltweet="https://twitter.com/cluelessnewbie/status/1419698427152195587" inReplyToId="1419697076187844610" tweetUserName="cluelessnewbie" />
+					</outline>
 				<outline text="New rule in general.
 
 When notifying about changes to instant outlines, always use the value of urlPublic in the head section of the OPML.
