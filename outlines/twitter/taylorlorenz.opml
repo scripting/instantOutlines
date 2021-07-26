@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 02:05:28 GMT</dateModified>
+		<dateModified>Mon, 26 Jul 2021 13:54:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="So heartbreaking what long haulers have had to endure while our system fails them in nearly every way. This is a powerful piece by @morganstephensa &lt;a href=&quot;https://www.cnn.com/2021/07/23/opinions/long-covid-symptoms-brought-me-to-the-brink-stephens/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 13:53:16 GMT" tweetId="1419657073499906054" urltweet="https://twitter.com/taylorlorenz/status/1419657073499906054" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 25" type="calendarDay" name="25" >
 				<outline text="Yes baby, come to mama &lt;a href=&quot;https://twitter.com/tmz/status/1419297395238588423&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 02:04:35 GMT" tweetId="1419478724416741379" urltweet="https://twitter.com/taylorlorenz/status/1419478724416741379" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Declining air quality is so devastating for those with underlying health conditions. I had a really hard time too in LA last fall 💔 &lt;a href=&quot;https://twitter.com/steven_aquino/status/1419461064207396865&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 00:57:24 GMT" tweetId="1419461816527241218" urltweet="https://twitter.com/taylorlorenz/status/1419461816527241218" inReplyToId="" tweetUserName="taylorlorenz" />
