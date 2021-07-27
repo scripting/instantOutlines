@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 27 Jul 2021 02:07:39 GMT</dateModified>
+		<dateModified>Tue, 27 Jul 2021 10:52:12 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 27" type="calendarDay" name="27" >
+				<outline text="Lawmakers question Cuomo as he delays weed program. &lt;a href=&quot;https://nypost.com/2021/07/25/lawmakers-question-cuomo-as-he-delays-weed-program/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 10:51:26 GMT" tweetId="1419973700212989960" urltweet="https://twitter.com/davewiner/status/1419973700212989960" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="July 26" type="calendarDay" name="26" >
 				<outline text="Police no longer seizing marijuana at New York airports. &lt;a href=&quot;https://www.foxnews.com/us/new-york-airports-marijuana&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 02:07:24 GMT" tweetId="1419841820503199745" urltweet="https://twitter.com/davewiner/status/1419841820503199745" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The dock on my iPad decides on its own to become vertical. What is it with apple and their uncontrollable docks, and how do I get it back on the bottom where it belongs? &lt;a href=&quot;https://twitter.com/davewiner/status/1419831229076099072/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 01:25:18 GMT" tweetId="1419831229076099072" urltweet="https://twitter.com/davewiner/status/1419831229076099072" inReplyToId="" tweetUserName="davewiner" />
