@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 04:55:07 GMT</dateModified>
+		<dateModified>Tue, 27 Jul 2021 04:56:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,9 @@ I stared at a brick wall for an hour once when I was tripping.
 
 In the grout was an entire metaverse.
 
-I hate the term already." type="tweet" created="Tue, 27 Jul 2021 04:54:19 GMT" tweetId="1419883828143820800" urltweet="https://twitter.com/scobleizer/status/1419883828143820800" inReplyToId="" tweetUserName="scobleizer" />
+I hate the term already." type="tweet" created="Tue, 27 Jul 2021 04:54:19 GMT" tweetId="1419883828143820800" urltweet="https://twitter.com/scobleizer/status/1419883828143820800" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="But if we are gonna use it @AeonixAeon should be on the board." type="tweet" created="Tue, 27 Jul 2021 04:55:31 GMT" tweetId="1419884131370999811" urltweet="https://twitter.com/scobleizer/status/1419884131370999811" inReplyToId="1419883828143820800" tweetUserName="scobleizer" />
+					</outline>
 				</outline>
 			<outline text="July 26" type="calendarDay" name="26" >
 				<outline text="Huge Spatial Audio/Dolby Atmos list of music. 
