@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 02:33:01 GMT</dateModified>
+		<dateModified>Tue, 27 Jul 2021 02:35:02 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
+				<outline text="Those of us who had over 50 have PhDs &lt;a href=&quot;https://twitter.com/jodieegrace/status/1419720222387294232&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 02:34:40 GMT" tweetId="1419848686012551173" urltweet="https://twitter.com/taylorlorenz/status/1419848686012551173" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Explaining to my editor that my story is late b/c I was @RMac18's tech support all day" type="tweet" created="Tue, 27 Jul 2021 02:32:13 GMT" tweetId="1419848068841631744" urltweet="https://twitter.com/taylorlorenz/status/1419848068841631744" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I'm beginning to wonder about VidCon... &lt;a href=&quot;https://twitter.com/mat/status/1419834702685294598&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 02:29:52 GMT" tweetId="1419847476907941888" urltweet="https://twitter.com/taylorlorenz/status/1419847476907941888" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="1600 Vine redux &lt;a href=&quot;https://www.hollywoodreporter.com/lifestyle/real-estate/studio-city-townhouses-digital-creators-1234984879/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 23:57:36 GMT" tweetId="1419809158686154752" urltweet="https://twitter.com/taylorlorenz/status/1419809158686154752" inReplyToId="" tweetUserName="taylorlorenz" />
