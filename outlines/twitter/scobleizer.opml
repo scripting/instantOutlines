@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 22:26:13 GMT</dateModified>
+		<dateModified>Tue, 27 Jul 2021 22:35:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 27" type="calendarDay" name="27" >
+				<outline text="Another magic of VR. @getsupernatural is awesome! It should be. Its founder was the first to show me Spatial Audio and VR. &lt;a href=&quot;https://twitter.com/brittlestar/status/1420027462793170946&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:34:21 GMT" tweetId="1420150594531053570" urltweet="https://twitter.com/scobleizer/status/1420150594531053570" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="This is another place we all have gone down a bad path.
 
 The best experiences will be done by diverse teams.
