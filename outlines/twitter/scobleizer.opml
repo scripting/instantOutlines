@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 21:57:11 GMT</dateModified>
+		<dateModified>Tue, 27 Jul 2021 22:12:12 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 27" type="calendarDay" name="27" >
+				<outline text="Look for Apple to accelerate over the next three years. &lt;a href=&quot;https://twitter.com/neilcybart/status/1420121798117666820&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:11:53 GMT" tweetId="1420144940353351681" urltweet="https://twitter.com/scobleizer/status/1420144940353351681" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="What I am looking forward to in VR/AR:
 
 Going to a concert.
