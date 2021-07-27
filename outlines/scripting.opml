@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 13:11:03 GMT</dateModified>
-		<expansionState>1,2,5</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 27 Jul 2021 14:02:47 GMT</dateModified>
+		<expansionState>1,2,4,7</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 27" created="Tue, 27 Jul 2021 13:58:43 GMT" type="calendarDay" name="27" >
+				<outline text="For serious [[PagePark]] users, it has a &lt;a href=&quot;https://github.com/scripting/pagePark/tree/master/cli&quot;&gt;command line tool&lt;/a&gt;, and can run apps. This work was complete over a year ago but I didn't announce it because I wanted to burn it in for a while. I've been using it on a production server without issue for many months, running lots of apps. You still want to use &lt;a href=&quot;https://www.npmjs.com/package/forever&quot;&gt;Forever&lt;/a&gt; or something like it to be sure that PagePark stays running, but for the apps that PagePark is managing, it takes care of keeping them running. The Forever people made their great app into a Node package, that's how this works. I wrote my own command line tool. " created="Tue, 27 Jul 2021 13:58:44 GMT" type="outline" />
+				</outline>
 			<outline text="July 26" created="Mon, 26 Jul 2021 13:50:06 GMT" type="calendarDay" name="26" >
 				<outline text="Something they don’t teach us in school in &lt;a href=&quot;https://en.wikipedia.org/wiki/United_States&quot;&gt;my country&lt;/a&gt; is that when we &lt;a href=&quot;https://en.wikipedia.org/wiki/Pledge_of_Allegiance&quot;&gt;pledge&lt;/a&gt; allegiance to the &lt;a href=&quot;http://scripting.com/images/2021/07/26/flag.png&quot;&gt;flag&lt;/a&gt; of the United States of America, we are really pledging allegiance to each other. Because that’s all there is, the people. No dear leader, no state church, just us. " created="Mon, 26 Jul 2021 13:50:07 GMT" type="outline" />
 				<outline text="New tagging feature. Click &lt;a href=&quot;http://scripting.com/?tag=nyt&quot;&gt;here&lt;/a&gt; to open the tagref dialog for &quot;NYT.&quot; So now I can post tagrefs to Twitter. Heh. " created="Mon, 26 Jul 2021 19:08:36 GMT" type="outline" />
