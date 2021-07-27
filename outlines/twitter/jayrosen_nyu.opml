@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 14:31:12 GMT</dateModified>
+		<dateModified>Tue, 27 Jul 2021 15:12:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 27" type="calendarDay" name="27" >
+				<outline text="Chuck Todd: &quot;We should have fought back better in the mainstream media. We shouldn’t [have] accepted the premise that there was liberal bias... We bought into the idea that, oh my God, we’re perceived as having a liberal bias.&quot; 
+
+From a new interview:  &lt;a href=&quot;https://www.theverge.com/22594290/chuck-todd-meet-the-press-decoder-interview-nbc-news&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 15:11:39 GMT" tweetId="1420039183515758601" urltweet="https://twitter.com/jayrosen_nyu/status/1420039183515758601" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Most big American newspaper newsrooms are now led by someone other than a white man. &lt;a href=&quot;https://www.niemanlab.org/2021/07/small-steps-but-most-big-american-newspaper-newsrooms-are-now-led-by-someone-other-than-a-white-man/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 14:31:09 GMT" tweetId="1420028992455852044" urltweet="https://twitter.com/jayrosen_nyu/status/1420028992455852044" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 26" type="calendarDay" name="26" >
