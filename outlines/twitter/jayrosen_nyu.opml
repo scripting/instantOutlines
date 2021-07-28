@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 14:32:42 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 14:56:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="In her new column, @sulliview calls for leading news organizations to &quot;radically reframe the mission&quot; of Washington journalism — from game coverage to the defense of democracy — and to &quot;pull together their braintrusts&quot; to determine how this can be done. &lt;a href=&quot;https://www.washingtonpost.com/lifestyle/media/journalist-both-sides-politics-trump/2021/07/27/c3afd1f8-eee0-11eb-81d2-ffae0f931b8f_story.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 14:56:25 GMT" tweetId="1420397741516132352" urltweet="https://twitter.com/jayrosen_nyu/status/1420397741516132352" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Here's a new column about this (old) idea: a problem solving lens can land you in a different place. &lt;a href=&quot;https://www.patheos.com/blogs/slacktivist/2021/07/27/what-if-life-wasnt-just-a-zero-sum-game/&quot;&gt;[link]&lt;/a&gt; https://t.co/rjl9rqLyk3" type="tweet" created="Wed, 28 Jul 2021 14:32:06 GMT" tweetId="1420391620411891719" urltweet="https://twitter.com/jayrosen_nyu/status/1420391620411891719" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 27" type="calendarDay" name="27" >
