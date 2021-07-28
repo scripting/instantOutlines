@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 21:35:44 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 22:33:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="&lt;a href=&quot;https://twitter.com/ktnv/status/1420395620464959492&quot;&gt;[link]&lt;/a&gt; https://t.co/K4ZiKo6ZMa" type="tweet" created="Wed, 28 Jul 2021 22:33:35 GMT" tweetId="1420512787369926661" urltweet="https://twitter.com/taylorlorenz/status/1420512787369926661" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;Metaverse&quot; is turning into one of those new buzzwords where it's basically lost all meaning &lt;a href=&quot;https://twitter.com/KurtWagner8/status/1420493236242554880&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 21:35:27 GMT" tweetId="1420498160099618817" urltweet="https://twitter.com/taylorlorenz/status/1420498160099618817" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&lt;a href=&quot;https://twitter.com/maxwelltani/status/1420458318968102916&quot;&gt;[link]&lt;/a&gt; https://t.co/8eEEzxXY8n" type="tweet" created="Wed, 28 Jul 2021 19:52:43 GMT" tweetId="1420472303951826945" urltweet="https://twitter.com/taylorlorenz/status/1420472303951826945" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Great lineup! can't wait to read the new &lt;a href=&quot;https://www.gawker.com/&quot;&gt;[link]&lt;/a&gt; https://t.co/TFLePnk7nA" type="tweet" created="Wed, 28 Jul 2021 19:51:34 GMT" tweetId="1420472016264589312" urltweet="https://twitter.com/taylorlorenz/status/1420472016264589312" inReplyToId="" tweetUserName="taylorlorenz" />
