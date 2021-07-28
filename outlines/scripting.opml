@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 16:05:28 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 16:06:08 GMT</dateModified>
 		<expansionState>1,2,10,12,21,24</expansionState>
-		<lastCursor>9</lastCursor>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
@@ -29,7 +29,7 @@
 				<outline text="The [[White Lotus]] on [[HBO]] got really &lt;a href=&quot;https://www.metacritic.com/tv/the-white-lotus/season-1&quot;&gt;good reviews&lt;/a&gt;, so I gave it a try. It &lt;a href=&quot;http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fthe-white-lotus%2Fseason-1&quot;&gt;sucks&lt;/a&gt;. Often overwhelmingly cringe-worthy. However I have watched the first three episodes and I can see that I'm probably going all the way. I also tried [[Manifest]] on [[Netflix]], a former NBC series that got &lt;a href=&quot;https://www.metacritic.com/tv/manifest&quot;&gt;mixed reviews&lt;/a&gt;. I knew from the start that it was &lt;a href=&quot;http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fmanifest&quot;&gt;junk&lt;/a&gt;, but I watched anyway because sometimes [[Junk TV]] is just right for the moment. You don't have to pay close attention to what's going on. They were trying to make another Lost, which was okay, but they didn't get there. It's just plain garbage. But it was #1 on Netflix last week. So that explains Netflix. The home of junk TV. " created="Wed, 28 Jul 2021 14:48:50 GMT" type="outline" />
 				<outline text="I'm still trying to figure out how to use [[tagging]]. The goal is to create an index, like the index in the back of a book. Maybe when I have enough tags I will be able to create a book from my writing here? It approximates the way we did the index in the back of software manuals at [[Living Videotext]]. Hmm. Maybe tagging would work well for the [[Drummer]] docs? Also my apologies to &lt;a href=&quot;http://scripting.com/email&quot;&gt;email&lt;/a&gt; readers, for some reason the tags don't show up in emails. I have to figure out why, but I'm not working near there at this time." created="Wed, 28 Jul 2021 14:53:58 GMT" type="outline" />
 				<outline text="An idyllic summer day" created="Wed, 28 Jul 2021 16:02:09 GMT" type="outline" >
-					<outline text="On the Ashokan Rail Trail yesterday." created="Wed, 28 Jul 2021 16:02:21 GMT" inlineImage="http://scripting.com/images/2021/07/28/railTrail.png" />
+					<outline text="On the &lt;a href=&quot;https://ashokanrailtrail.com/&quot;&gt;Ashokan Rail Trail&lt;/a&gt; yesterday." created="Wed, 28 Jul 2021 16:02:21 GMT" inlineImage="http://scripting.com/images/2021/07/28/railTrail.png" />
 					</outline>
 				</outline>
 			<outline text="July 27" created="Tue, 27 Jul 2021 13:58:43 GMT" type="calendarDay" name="27" >
