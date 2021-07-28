@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 18:57:34 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 19:11:35 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="Need the next season to drop immediately &lt;a href=&quot;https://twitter.com/beebabs/status/1420457136883212288&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:11:30 GMT" tweetId="1420461933677871106" urltweet="https://twitter.com/taylorlorenz/status/1420461933677871106" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Lead photo on this story is Indian Head, one of my favorite hikes in the ADKs. Great piece! &lt;a href=&quot;https://www.bbc.com/travel/article/20210727-the-birthplace-of-the-us-vacation&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 18:57:03 GMT" tweetId="1420458295496646656" urltweet="https://twitter.com/taylorlorenz/status/1420458295496646656" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Grateful to the @IWMF for this initiative, now what we really need is for newsrooms to take online abuse and smear campaigns against women and POC journalists seriously. We need company support, not just external tools. Ty to the @IWMF for continually speaking up on this issue 💓 &lt;a href=&quot;https://twitter.com/iwmf/status/1420368442155171844&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 15:39:39 GMT" tweetId="1420408619024060416" urltweet="https://twitter.com/taylorlorenz/status/1420408619024060416" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This sounds like a fantastic opportunity for a biz/tech journalist &lt;a href=&quot;https://twitter.com/channingallen/status/1413902770055389193&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 14:52:44 GMT" tweetId="1420396811311673356" urltweet="https://twitter.com/taylorlorenz/status/1420396811311673356" inReplyToId="" tweetUserName="taylorlorenz" />
