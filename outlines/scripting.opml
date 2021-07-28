@@ -14,12 +14,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 21:31:12 GMT</dateModified>
-		<expansionState>1,2,11,14</expansionState>
+		<dateModified>Wed, 28 Jul 2021 14:58:37 GMT</dateModified>
+		<expansionState>1,2,5,14,17</expansionState>
 		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
+			<outline text="July 28" created="Wed, 28 Jul 2021 14:48:49 GMT" type="calendarDay" name="28" >
+				<outline text="The [[White Lotus]] on [[HBO]] got really &lt;a href=&quot;https://www.metacritic.com/tv/the-white-lotus/season-1&quot;&gt;good reviews&lt;/a&gt;, so I gave it a try. It sucks. Often overwhelmingly cringe-worthy. However I have watched the first three episodes and I can see that I'm probably going all the way. I also tried [[Manifest]] on [[Netflix]], a former NBC series that got &lt;a href=&quot;https://www.metacritic.com/tv/manifest&quot;&gt;mixed reviews&lt;/a&gt;. I knew from the start that it was junk, but I watched anyway because sometimes [[Junk TV]] is just right for the moment. You don't have to pay close attention to what's going on. They were trying to make another Lost, which was okay, but they didn't get there. It's just plain garbage. But it was #1 on Netflix last week. So that explains Netflix. The home of junk TV. " created="Wed, 28 Jul 2021 14:48:50 GMT" type="outline" />
+				<outline text="I'm still trying to figure out how to use [[tagging]]. The goal is to create an index, like the index in the back of a book. Maybe when I have enough tags I will be able to create a book from my writing here? It approximates the way we did the index in the back of software manuals at [[Living Videotext]]. Hmm. Maybe tagging would work well for the [[Drummer]] docs? Also my apologies to &lt;a href=&quot;http://scripting.com/email&quot;&gt;email&lt;/a&gt; readers, for some reason the tags don't show up in emails. I have to figure out why, but I'm not working near there at this time." created="Wed, 28 Jul 2021 14:53:58 GMT" type="outline" />
+				</outline>
 			<outline text="July 27" created="Tue, 27 Jul 2021 13:58:43 GMT" type="calendarDay" name="27" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=MKuq0rpMvpk&quot;&gt;Writing&lt;/a&gt;." created="Tue, 27 Jul 2021 20:44:01 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=MKuq0rpMvpk" />
 				<outline text="Both forms of revenue, advertising and subscriptions, &lt;a href=&quot;https://www.nytimes.com/2021/07/27/business/media/buzzfeed-vox-media-vice-group-nine-ipo.html&quot;&gt;for news&lt;/a&gt;, are unworkable. Take down the paywalls, let me pay per article, then when I'm spending $100 a month, then and only then, offer me a sub, as a way of saving money." created="Tue, 27 Jul 2021 21:30:44 GMT" type="outline" />
