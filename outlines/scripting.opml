@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 16:10:09 GMT</dateModified>
-		<expansionState>1,2,10,13,22,25</expansionState>
-		<lastCursor>11</lastCursor>
+		<dateModified>Wed, 28 Jul 2021 21:04:21 GMT</dateModified>
+		<expansionState>1,2,11,14,23,26</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 28" created="Wed, 28 Jul 2021 14:48:49 GMT" type="calendarDay" name="28" >
+				<outline text="In the future, kids will learn about the attempt to overthrow the government that failed, but they let the coup leaders stay in Congress and they tried again, and again, and again. Kids of the future will wonder why the people of America didn't force the politicians to evict the terrorists. Instead, it took 20 years to get them out of the government, in the meantime the planet became unlivable, billions died and civilization basically dissolved. Right now that's the story that should be being reported in the news. Wait longer, the story gets worse. " created="Wed, 28 Jul 2021 21:04:06 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=MRuS3dxKK9U&quot;&gt;Howard Beale&lt;/a&gt;: &quot;I'm a human being god damn it, my life has value!&quot;" created="Wed, 28 Jul 2021 15:39:43 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=MRuS3dxKK9U" />
 				<outline text="Journalism is a ruling class, just like all the rest of them. Like the church they try to reserve a holy position for themselves, but it's a lie. " created="Wed, 28 Jul 2021 15:30:57 GMT" type="outline" />
 				<outline text="The big bug in our system is that the world is run mostly by people who are playing it safe." created="Wed, 28 Jul 2021 16:01:01 GMT" type="outline" />
