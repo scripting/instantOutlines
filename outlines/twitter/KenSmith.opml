@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 11:53:00 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 12:03:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="The democracy beat, says @Sulliview.
+
+Margaret Sullivan says give up the self-satisfied, seemingly savvy but not insider reporting, the endless cookie-cutter horse-race speculations, a journalism so easily gamed by now that we all despair, and cover the health of democracy. &lt;a href=&quot;https://twitter.com/kensmith/status/1420351427533213700&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:03:48 GMT" tweetId="1420354297406103555" urltweet="https://twitter.com/KenSmith/status/1420354297406103555" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Endlessly reusable phrasing:
 
 “The bankruptcy of this sort of coverage…”
