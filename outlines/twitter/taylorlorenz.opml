@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 19:16:35 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 19:51:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="Great lineup! can't wait to read the new &lt;a href=&quot;https://www.gawker.com/&quot;&gt;[link]&lt;/a&gt; https://t.co/TFLePnk7nA" type="tweet" created="Wed, 28 Jul 2021 19:51:34 GMT" tweetId="1420472016264589312" urltweet="https://twitter.com/taylorlorenz/status/1420472016264589312" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="No I refuse to believe it 😭 &lt;a href=&quot;https://twitter.com/carolinemoss/status/1420462847180513281&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:16:09 GMT" tweetId="1420463104366759937" urltweet="https://twitter.com/taylorlorenz/status/1420463104366759937" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Need the next season to drop immediately &lt;a href=&quot;https://twitter.com/beebabs/status/1420457136883212288&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:11:30 GMT" tweetId="1420461933677871106" urltweet="https://twitter.com/taylorlorenz/status/1420461933677871106" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="The comments!!! &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1420462513242591235/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:13:48 GMT" tweetId="1420462513242591235" urltweet="https://twitter.com/taylorlorenz/status/1420462513242591235" inReplyToId="1420461933677871106" tweetUserName="taylorlorenz" />
