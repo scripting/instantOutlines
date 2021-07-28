@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 13:52:00 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 14:18:02 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="I enjoyed the Immersive Van Gogh show in Chicago in large part because it made me want to look closely at certain things in his paintings, next chance I get. For example, the eyes.
+
+Image from the show’s poster. &lt;a href=&quot;https://twitter.com/KenSmith/status/1420388046499946498/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 14:17:54 GMT" tweetId="1420388046499946498" urltweet="https://twitter.com/KenSmith/status/1420388046499946498" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Vaccines required by law at an Indiana public school. &lt;a href=&quot;https://twitter.com/KenSmith/status/1420381369402806281/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 13:51:22 GMT" tweetId="1420381369402806281" urltweet="https://twitter.com/KenSmith/status/1420381369402806281" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="The democracy beat, says @Sulliview.
 
