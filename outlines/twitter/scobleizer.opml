@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 09:10:53 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 09:11:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -16,7 +16,9 @@
 
 Activision’s misdeeds has me writing tonight about why. I am an investor and I think investors have a huge role to play here. 
 
-It is way past time for the industry to change." type="tweet" created="Wed, 28 Jul 2021 09:10:06 GMT" tweetId="1420310585883824132" urltweet="https://twitter.com/scobleizer/status/1420310585883824132" inReplyToId="" tweetUserName="scobleizer" />
+It is way past time for the industry to change." type="tweet" created="Wed, 28 Jul 2021 09:10:06 GMT" tweetId="1420310585883824132" urltweet="https://twitter.com/scobleizer/status/1420310585883824132" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="The CEO needs to go. Culture change is painful. But pain is how we learn and get better." type="tweet" created="Wed, 28 Jul 2021 09:11:17 GMT" tweetId="1420310884962824197" urltweet="https://twitter.com/scobleizer/status/1420310884962824197" inReplyToId="1420310585883824132" tweetUserName="scobleizer" />
+					</outline>
 				</outline>
 			<outline text="July 27" type="calendarDay" name="27" >
 				<outline text="Another magic of VR. @getsupernatural is awesome! It should be. Its founder was the first to show me Spatial Audio and VR. &lt;a href=&quot;https://twitter.com/brittlestar/status/1420027462793170946&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:34:21 GMT" tweetId="1420150594531053570" urltweet="https://twitter.com/scobleizer/status/1420150594531053570" inReplyToId="" tweetUserName="scobleizer" />
