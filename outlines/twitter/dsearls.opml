@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 12:03:34 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 13:11:38 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="(Second try: sorry for the bad link) In @VRM, QR codes are becoming fishhooks: &lt;a href=&quot;https://blogs.harvard.edu/vrm/2021/07/28/qr-code-fishhooks/&quot;&gt;[link]&lt;/a&gt; HT @erinkwoo @nytimes" type="tweet" created="Wed, 28 Jul 2021 13:11:01 GMT" tweetId="1420371216116953098" urltweet="https://twitter.com/dsearls/status/1420371216116953098" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="In @VRM: QR codes are becoming fishhooks &lt;a href=&quot;https://blogs.harvard.edu/vrm/2021/07/28/qr-code-fishhooks/@erinkwoo&quot;&gt;[link]&lt;/a&gt; HT @erinkwoo @nytimes" type="tweet" created="Wed, 28 Jul 2021 12:03:23 GMT" tweetId="1420354193987100672" urltweet="https://twitter.com/dsearls/status/1420354193987100672" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 27" type="calendarDay" name="27" >
