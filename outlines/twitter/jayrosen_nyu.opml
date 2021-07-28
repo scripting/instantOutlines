@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 27 Jul 2021 22:59:44 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 00:49:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 27" type="calendarDay" name="27" >
+				<outline text="The New York Times published a story about this dilemma today. &lt;a href=&quot;https://www.nytimes.com/2021/07/27/us/politics/trump-false-claims-media.html&quot;&gt;[link]&lt;/a&gt; &quot;Should news outlets contextualize false claims made by powerful people? Or ignore them completely? There is no consensus in the industry, but its thinking continues to evolve.&quot; https://t.co/LcsU2Eqwr2" type="tweet" created="Wed, 28 Jul 2021 00:49:27 GMT" tweetId="1420184591521009667" urltweet="https://twitter.com/jayrosen_nyu/status/1420184591521009667" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="@kimmasters Enjoyed watching you in Ronan's HBO thing." type="tweet" created="Tue, 27 Jul 2021 22:58:58 GMT" tweetId="1420156789350453249" urltweet="https://twitter.com/jayrosen_nyu/status/1420156789350453249" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Chuck Todd: &quot;We should have fought back better in the mainstream media. We shouldn’t [have] accepted the premise that there was liberal bias... We bought into the idea that, oh my God, we’re perceived as having a liberal bias.&quot; 
 
