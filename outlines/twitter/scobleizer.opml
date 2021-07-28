@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 09:12:54 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 09:31:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -20,6 +20,7 @@ It is way past time for the industry to change." type="tweet" created="Wed, 28 J
 					<outline text="The CEO needs to go. Culture change is painful. But pain is how we learn and get better." type="tweet" created="Wed, 28 Jul 2021 09:11:17 GMT" tweetId="1420310884962824197" urltweet="https://twitter.com/scobleizer/status/1420310884962824197" inReplyToId="1420310585883824132" tweetUserName="scobleizer" >
 						<outline text="New management is needed. The old team has zero ability to credibly guide the company." type="tweet" created="Wed, 28 Jul 2021 09:12:46 GMT" tweetId="1420311257584783361" urltweet="https://twitter.com/scobleizer/status/1420311257584783361" inReplyToId="1420310884962824197" tweetUserName="scobleizer" />
 						</outline>
+					<outline text="Once you remove yourself and start looking at the greater good you see the issues clearly." type="tweet" created="Wed, 28 Jul 2021 09:30:58 GMT" tweetId="1420315835764076548" urltweet="https://twitter.com/scobleizer/status/1420315835764076548" inReplyToId="1420310585883824132" tweetUserName="scobleizer" />
 					</outline>
 				</outline>
 			<outline text="July 27" type="calendarDay" name="27" >
