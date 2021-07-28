@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Fri, 23 Jul 2021 21:48:04 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 04:41:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="“New” is carrying a lot of water here. &lt;a href=&quot;https://twitter.com/gruber/status/1420242650217730053/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 04:40:09 GMT" tweetId="1420242650217730053" urltweet="https://twitter.com/gruber/status/1420242650217730053" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
 				<outline text="Zen dialog: &lt;a href=&quot;https://twitter.com/gruber/status/1418360725152665602/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 00:02:03 GMT" tweetId="1418360725152665602" urltweet="https://twitter.com/gruber/status/1418360725152665602" tweetUserName="gruber" />
 				<outline text="Safari 15: the browser that expects the web to redesign for it. &lt;a href=&quot;https://twitter.com/viticci/status/1418297985398624258&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 22 Jul 2021 21:42:27 GMT" tweetId="1418325593737867264" urltweet="https://twitter.com/gruber/status/1418325593737867264" tweetUserName="gruber" >
