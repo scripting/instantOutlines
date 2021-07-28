@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 28 Jul 2021 12:01:35 GMT</dateModified>
+		<dateModified>Wed, 28 Jul 2021 12:05:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="On hiatus for a few weeks &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1420354735845093377/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:05:32 GMT" tweetId="1420354735845093377" urltweet="https://twitter.com/sarahkendzior/status/1420354735845093377" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
 				<outline text="&quot;There's not much left in the way of life and love and possibilities for these shortchanged children of the '80s.&quot; - Hunter S Thompson, 1987, &quot;The trickle-down theory&quot;
 
