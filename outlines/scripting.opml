@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 16:06:08 GMT</dateModified>
-		<expansionState>1,2,10,12,21,24</expansionState>
-		<lastCursor>10</lastCursor>
+		<dateModified>Wed, 28 Jul 2021 16:10:09 GMT</dateModified>
+		<expansionState>1,2,10,13,22,25</expansionState>
+		<lastCursor>11</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
@@ -30,6 +30,9 @@
 				<outline text="I'm still trying to figure out how to use [[tagging]]. The goal is to create an index, like the index in the back of a book. Maybe when I have enough tags I will be able to create a book from my writing here? It approximates the way we did the index in the back of software manuals at [[Living Videotext]]. Hmm. Maybe tagging would work well for the [[Drummer]] docs? Also my apologies to &lt;a href=&quot;http://scripting.com/email&quot;&gt;email&lt;/a&gt; readers, for some reason the tags don't show up in emails. I have to figure out why, but I'm not working near there at this time." created="Wed, 28 Jul 2021 14:53:58 GMT" type="outline" />
 				<outline text="An idyllic summer day" created="Wed, 28 Jul 2021 16:02:09 GMT" type="outline" >
 					<outline text="On the &lt;a href=&quot;https://ashokanrailtrail.com/&quot;&gt;Ashokan Rail Trail&lt;/a&gt; yesterday." created="Wed, 28 Jul 2021 16:02:21 GMT" inlineImage="http://scripting.com/images/2021/07/28/railTrail.png" />
+					</outline>
+				<outline text="Frida Kahlo" created="Wed, 28 Jul 2021 16:07:38 GMT" type="outline" >
+					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/frida-kahlo/portrait-of-luther-burbank-1931&quot;&gt;Portrait of Luther Burbank&lt;/a&gt;, 1931." created="Wed, 28 Jul 2021 16:07:42 GMT" inlineImage="http://scripting.com/images/2021/07/28/portraitOfLutherBurbank.png" />
 					</outline>
 				</outline>
 			<outline text="July 27" created="Tue, 27 Jul 2021 13:58:43 GMT" type="calendarDay" name="27" >
