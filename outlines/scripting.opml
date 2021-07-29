@@ -14,15 +14,25 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 14:13:45 GMT</dateModified>
-		<expansionState>1,2,5,15,18,27,30,48,51</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Thu, 29 Jul 2021 17:37:18 GMT</dateModified>
+		<expansionState>1,2,5,7,13,23,26,35,38,56,59</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
 				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=S_xlikEjc4A&quot;&gt;video demo&lt;/a&gt; of why instant updating in outlines is so important for content management applications. " created="Thu, 29 Jul 2021 14:13:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=S_xlikEjc4A" />
 				<outline text="There's a &lt;a href=&quot;https://github.com/scripting/pagePark#v0823-72821-by-dw&quot;&gt;new release&lt;/a&gt; of [[PagePark]] with the door closed for serving config.json files in domain folders. I asked for comments yesterday, and there weren't any objections. However this is a potential breakage issue, so I wanted to flag it. There is a new config option that lets you re-open the door, either globally or for a specific domain." created="Thu, 29 Jul 2021 13:56:51 GMT" type="outline" />
+				<outline text="The NYT should've kept McNeil" created="Thu, 29 Jul 2021 17:33:30 GMT" type="outline" description="The NYT mission should be to make the NYT users the best informed readers on the planet. " >
+					<outline text="Every time I try to listen to a [[Daily podcast]] update on [[Covid]], I realize in a deeper way how the [[NY Times]] made the wrong decision when they canned [[Donald McNeil]]." created="Thu, 29 Jul 2021 17:34:14 GMT" />
+					<outline text="Here's the tradeoff." created="Thu, 29 Jul 2021 17:35:06 GMT" flNumberedSubs="true" >
+						<outline text="What he said made NYT staffers angry." created="Thu, 29 Jul 2021 17:35:01 GMT" />
+						<outline text="He was providing a continuous perspective on a virus that continues to threaten the human race. He was trusted, for good reason -- he was trust-worthy." created="Thu, 29 Jul 2021 17:35:02 GMT" />
+						</outline>
+					<outline text="So what if the NYT staffers were angry. Maybe being angry is good for them. They are lost. They don't understand that their mission is to do exactly what McNeil was doing. Build trust on vital subject matter. Make the NYT readers the best informed readers on the planet. " created="Thu, 29 Jul 2021 17:35:28 GMT" />
+					<outline text="As a lifetime NYT subscriber, the right call would have been to fire the staffers and start over with more people like McNeil." />
+					<outline text="And I wouldn't care if the word he said was insulting to Jews. Please re-watch the Carl Sagan bit about the pale blue dot for a proper sense of perspective. " created="Thu, 29 Jul 2021 17:37:05 GMT" />
+					</outline>
 				</outline>
 			<outline text="July 28" created="Wed, 28 Jul 2021 14:48:49 GMT" type="calendarDay" name="28" >
 				<outline text="I heard from a friend of [[Gary Sevitsky]], a colleague of mine in the late 70s at the [[University of Wisconsin]]. He and I were both smokers and grad students in Computer Science, so we'd go out for smoking breaks together while working at the Unix lab on &lt;a href=&quot;https://www.google.com/maps/place/1210+W+Dayton+St,+Madison,+WI+53706/@43.0711993,-89.4087568,17z/data=!3m1!4b1!4m5!3m4!1s0x8807accf34599401:0xcbdcc82ca4309b0f!8m2!3d43.0711993!4d-89.4065681&quot;&gt;West Dayton St&lt;/a&gt;. It was in one of our hallway smoking conversations that he told me about Lisp editors that understood structure. I loved the idea, but I was programming in C, so I decided to build an editor for that language, with the same idea. That started me down a &lt;a href=&quot;http://scripting.com/dwiner/outlinersProgramming.html&quot;&gt;path&lt;/a&gt; that to this day I'm still working on. The combination of outline structures and programming, it's a big deal. I never spoke with him after leaving [[Madison]], and after the [[Guy Kawasaki]] &lt;a href=&quot;https://podcasts.apple.com/gb/podcast/guy-kawasakis-remarkable-people/id1483081827?i=1000528857811&quot;&gt;podcast&lt;/a&gt; I heard from a friend of his who said that &lt;a href=&quot;https://www.legacy.com/us/obituaries/stamfordadvocate/name/gary-sevitsky-obituary?pid=190783474&quot;&gt;Gary had died&lt;/a&gt; at age 57, in 2013. He was a kind, brilliant man, and a friend from one of the best times of my life. " created="Wed, 28 Jul 2021 21:19:43 GMT" type="outline" image="http://scripting.com/images/2021/07/28/garySevitsky.png" />
