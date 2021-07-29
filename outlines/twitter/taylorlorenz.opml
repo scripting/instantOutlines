@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 16:15:55 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 18:13:02 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="It's Time To Write &lt;a href=&quot;https://twitter.com/Kantrowitz/status/1420797699440340998&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 18:12:17 GMT" tweetId="1420809418661265409" urltweet="https://twitter.com/taylorlorenz/status/1420809418661265409" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@edzitron has become one of the most insightful, prescient writers on work, culture, the internet, and media. Thrilled to see his byline in @TheAtlantic. &lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2021/07/work-from-home-benefits/619597/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 16:15:13 GMT" tweetId="1420779957102419975" urltweet="https://twitter.com/taylorlorenz/status/1420779957102419975" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@alexmarvar wrote about the young people grinding on DePop. “Keep doing it, keep listing, keep selling, try your best, and hopefully it will shake out.” &lt;a href=&quot;https://www.theverge.com/22580446/depop-online-vintage-sales-business-algorithm-dangers&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 15:58:28 GMT" tweetId="1420775742577643523" urltweet="https://twitter.com/taylorlorenz/status/1420775742577643523" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="They are, and they’re a community we don’t deserve &lt;a href=&quot;https://twitter.com/ejdickson/status/1420761735556907009&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 15:47:48 GMT" tweetId="1420773058080477189" urltweet="https://twitter.com/taylorlorenz/status/1420773058080477189" inReplyToId="" tweetUserName="taylorlorenz" />
