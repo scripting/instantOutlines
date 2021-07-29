@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 11:27:22 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 13:25:29 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="Indexing online content on one's own site, as Dave Winer says here, should be within reach.
+
+In my reply to his tweet below, I put in a bid for using the concordance format, which is especially streamlined and adapts beautifully to hyperlinks. Full text has other obvious virtues. &lt;a href=&quot;https://twitter.com/davewiner/status/1270719162617196545&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 13:24:55 GMT" tweetId="1420737100593483779" urltweet="https://twitter.com/KenSmith/status/1420737100593483779" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="IN-2nd’s US House member types up a few vague phrases and anti-mask slogans on her @RepWalorski &amp;amp; @JackieWalorski accounts and calls it a day. Concerned about C-19 starting to boom again here? Expect no useful sentences from Walorski. She’s ready to talk sports, though. &lt;a href=&quot;https://twitter.com/KenSmith/status/1420707326290538499/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 11:26:36 GMT" tweetId="1420707326290538499" urltweet="https://twitter.com/KenSmith/status/1420707326290538499" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
