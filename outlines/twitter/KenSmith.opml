@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 13:31:30 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 13:45:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="Health official treated thuggishly at a public meeting. &lt;a href=&quot;https://twitter.com/DoyleMurphy/status/1420561721794641927&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 13:44:33 GMT" tweetId="1420742042506903554" urltweet="https://twitter.com/KenSmith/status/1420742042506903554" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="And here is an older clue to my admiration for the concordance format. &lt;a href=&quot;https://twitter.com/KenSmith/status/1420737100593483779&quot;&gt;[link]&lt;/a&gt; https://t.co/2Dhu7pJXEM" type="tweet" created="Thu, 29 Jul 2021 13:30:58 GMT" tweetId="1420738625227083778" urltweet="https://twitter.com/KenSmith/status/1420738625227083778" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Indexing online content on one's own site, as Dave Winer says here, should be within reach.
 
