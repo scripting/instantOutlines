@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 18:02:47 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 18:31:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="In the tent before the Jan 6 speeches, Trump Jr live-streamed for a bit and told his fans that legislators were going to find out now what it felt like to have the assembled crowd right up in their faces. &lt;a href=&quot;https://twitter.com/tribelaw/status/1420679421875339277&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 18:31:20 GMT" tweetId="1420814214487285768" urltweet="https://twitter.com/KenSmith/status/1420814214487285768" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Indiana, USA, and Victoria, Australia, same population.
 
 Victoria has averaged 0 weekly Covid deaths since November. Indiana has NEVER averaged 0 since the pandemic arrived.
