@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 20:53:49 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 21:05:29 GMT</dateModified>
 		<expansionState>1,2,7,9,15,25,28,37,40,58,61,75,80</expansionState>
-		<lastCursor>78</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
-				<outline text="[[Tools for thought]] users hear me. Don't let us get locked in. There's absolutely no need for it. You have the power, believe me. This is a pivotal time. Insist on &lt;a href=&quot;http://scripting.com/2021/07/11.html#a170443&quot;&gt;interop&lt;/a&gt;. " created="Thu, 29 Jul 2021 20:47:10 GMT" type="outline" />
+				<outline text="[[Tools for thought]] users hear me. Don't let us get locked in. There's absolutely no need for it. You have the power. This is a pivotal time. Insist on &lt;a href=&quot;http://scripting.com/2021/07/11.html#a170443&quot;&gt;interop&lt;/a&gt;. " created="Thu, 29 Jul 2021 20:47:10 GMT" type="outline" />
 				<outline text="It would be cool if you could hire a Trump impersonator to speak at a rally or business conference, and have him say whatever you like. Like the way &lt;a href=&quot;https://en.wikipedia.org/wiki/Colonel_Sanders#Legacy&quot;&gt;KFC reinvented Colonel Sanders&lt;/a&gt;. Or the &lt;a href=&quot;https://en.wikipedia.org/wiki/Elvis_impersonator&quot;&gt;Elvis impersonators&lt;/a&gt; you can hire in Las Vegas. Flood the market with fake Trumps. Think of all the good causes he could support in a Trumpian way. Render him harmless." created="Thu, 29 Jul 2021 20:41:24 GMT" type="outline" />
 				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=S_xlikEjc4A&quot;&gt;video demo&lt;/a&gt; of why instant updating in outlines is so important for content management applications. " created="Thu, 29 Jul 2021 14:13:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=S_xlikEjc4A" />
 				<outline text="There's a &lt;a href=&quot;https://github.com/scripting/pagePark#v0823-72821-by-dw&quot;&gt;new release&lt;/a&gt; of [[PagePark]] with the door closed for serving config.json files in domain folders. I asked for comments yesterday, and there weren't any objections. However this is a potential breakage issue, so I wanted to flag it. There is a new config option that lets you re-open the door, either globally or for a specific domain." created="Thu, 29 Jul 2021 13:56:51 GMT" type="outline" />
