@@ -6,12 +6,23 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 14:13:32 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 18:02:47 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="Indiana, USA, and Victoria, Australia, same population.
+
+Victoria has averaged 0 weekly Covid deaths since November. Indiana has NEVER averaged 0 since the pandemic arrived.
+
+Victoria, total deaths, stopped now at 820. Indiana, total deaths, 13,570 and rising.
+
+Same population." type="tweet" created="Thu, 29 Jul 2021 18:02:41 GMT" tweetId="1420807001676861443" urltweet="https://twitter.com/KenSmith/status/1420807001676861443" inReplyToId="" tweetUserName="KenSmith" >
+					<outline text="Indiana's gerrymandered supermajority Republican legislature won't allow full use of vaccine and mask mandates. 
+
+Indiana, total Covid deaths, 13,570 and rising." type="tweet" created="Thu, 29 Jul 2021 18:02:41 GMT" tweetId="1420807003291717635" urltweet="https://twitter.com/KenSmith/status/1420807003291717635" inReplyToId="1420807001676861443" tweetUserName="KenSmith" />
+					</outline>
 				<outline text="A Private Club
 
 After I learned
