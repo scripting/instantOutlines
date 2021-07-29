@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 23:52:53 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 00:14:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
+				<outline text="I wrote a feature for The Atlantic in 2018 about how influencers were driving hotels crazy and all the horrible and chaotic ways hotels were attempting to work with content creators. Sounds like a great (and overdue!) product! &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2018/06/instagram-influencers-are-driving-luxury-hotels-crazy/562679/&quot;&gt;[link]&lt;/a&gt; https://t.co/wKViNlz8Wp" type="tweet" created="Thu, 29 Jul 2021 00:14:39 GMT" tweetId="1420538224003272705" urltweet="https://twitter.com/taylorlorenz/status/1420538224003272705" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="What are some of the best products tackling pay disparity in the creator/influencer world?" type="tweet" created="Wed, 28 Jul 2021 23:52:10 GMT" tweetId="1420532567011258372" urltweet="https://twitter.com/taylorlorenz/status/1420532567011258372" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Kellen in the chat!!!!!!!!!!!!!!!! &lt;a href=&quot;https://twitter.com/karaswisher/status/1420520292741521414&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 23:04:08 GMT" tweetId="1420520477261373440" urltweet="https://twitter.com/taylorlorenz/status/1420520477261373440" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="just setting up my metavrs" type="tweet" created="Wed, 28 Jul 2021 23:03:15 GMT" tweetId="1420520255764393986" urltweet="https://twitter.com/taylorlorenz/status/1420520255764393986" inReplyToId="" tweetUserName="taylorlorenz" />
