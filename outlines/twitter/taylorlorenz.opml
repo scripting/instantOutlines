@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 01:44:00 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 15:47:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="They are, and they’re a community we don’t deserve &lt;a href=&quot;https://twitter.com/ejdickson/status/1420761735556907009&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 15:47:48 GMT" tweetId="1420773058080477189" urltweet="https://twitter.com/taylorlorenz/status/1420773058080477189" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
 				<outline text="Great and informative piece and glad to see long covid discussed. Yes, vaccines will keep you out of the hospital, but you can still suffer w/ long covid after getting a breakthrough infection. Hope everyone stays safe and gets vaccinated if you aren’t🙏🏻 &lt;a href=&quot;https://twitter.com/justinjm1/status/1418976010129879050&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 01:41:12 GMT" tweetId="1420560006005420037" urltweet="https://twitter.com/taylorlorenz/status/1420560006005420037" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="The Daily also did a great episode on breakthrough infections that answered all the many questions I (and many others) have probably had lately. Stay safe everyone and get vaccinated! &lt;a href=&quot;https://www.nytimes.com/2021/07/26/podcasts/the-daily/coronavirus-vaccines-breakthrough-infections-delta-variant.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 01:43:26 GMT" tweetId="1420560566741999616" urltweet="https://twitter.com/taylorlorenz/status/1420560566741999616" inReplyToId="1420560006005420037" tweetUserName="taylorlorenz" />
