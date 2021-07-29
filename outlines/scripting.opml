@@ -14,22 +14,22 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 17:43:43 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 17:44:48 GMT</dateModified>
 		<expansionState>1,2,5,7,13,23,26,35,38,56,59</expansionState>
-		<lastCursor>4</lastCursor>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
 				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=S_xlikEjc4A&quot;&gt;video demo&lt;/a&gt; of why instant updating in outlines is so important for content management applications. " created="Thu, 29 Jul 2021 14:13:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=S_xlikEjc4A" />
 				<outline text="There's a &lt;a href=&quot;https://github.com/scripting/pagePark#v0823-72821-by-dw&quot;&gt;new release&lt;/a&gt; of [[PagePark]] with the door closed for serving config.json files in domain folders. I asked for comments yesterday, and there weren't any objections. However this is a potential breakage issue, so I wanted to flag it. There is a new config option that lets you re-open the door, either globally or for a specific domain." created="Thu, 29 Jul 2021 13:56:51 GMT" type="outline" />
-				<outline text="The NYT should've kept McNeil" created="Thu, 29 Jul 2021 17:33:30 GMT" type="outline" description="The NYT mission should be to make the NYT users the best informed readers on the planet. " metaImage="http://scripting.com/images/2021/07/29/earthrise.png" >
+				<outline text="The NYT should've kept McNeil" created="Thu, 29 Jul 2021 17:33:30 GMT" type="outline" description="The NYT mission should be to make the NYT readers the best informed people on the planet. " metaImage="http://scripting.com/images/2021/07/29/earthrise.png" >
 					<outline text="Every time I try to listen to a [[Daily podcast]] update on [[Covid]], I realize in a deeper way how the [[NYT]] made the wrong decision when they canned [[Donald McNeil]]. " created="Thu, 29 Jul 2021 17:34:14 GMT" />
 					<outline text="Here's the tradeoff." created="Thu, 29 Jul 2021 17:35:06 GMT" flNumberedSubs="true" >
 						<outline text="What he said made NYT staffers angry." created="Thu, 29 Jul 2021 17:35:01 GMT" />
 						<outline text="He was providing a continuous perspective on a virus that continues to threaten the human race. He was trusted, for good reason -- he was trust-worthy." created="Thu, 29 Jul 2021 17:35:02 GMT" />
 						</outline>
-					<outline text="So what if the NYT staffers were angry. Maybe being angry is good for them. They are lost. They don't understand that their mission is to do exactly what McNeil was doing. Build trust on vital subject matter. Make the NYT readers the best informed readers on the planet. " created="Thu, 29 Jul 2021 17:35:28 GMT" />
+					<outline text="So what if the NYT staffers were angry. Maybe being angry is good for them. They are lost. They don't understand that their mission is to do exactly what McNeil was doing. Build trust on vital subject matter. Make the NYT readers the best informed people on the planet. " created="Thu, 29 Jul 2021 17:35:28 GMT" />
 					<outline text="As a lifetime NYT subscriber, the right call would have been to fire the staffers and start over with more people like McNeil." />
 					<outline text="And I wouldn't care if the word he said was insulting to Jews. Please re-watch the [[Carl Sagan]] bit about the &lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;pale blue dot&lt;/a&gt; for a proper sense of perspective. " created="Thu, 29 Jul 2021 17:37:05 GMT" urlvideo="https://www.youtube.com/watch?v=wupToqz1e2g" />
 					</outline>
