@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 09:20:25 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 09:53:27 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="I expect to do most of this next Christmas. &lt;a href=&quot;https://twitter.com/mashable/status/1420571529381773317&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 09:52:35 GMT" tweetId="1420683666217332741" urltweet="https://twitter.com/scobleizer/status/1420683666217332741" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Where do toxic people come from?
 
 Every time I take an asshole aside they were abused as children.
