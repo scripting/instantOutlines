@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 13:59:14 GMT</dateModified>
-		<expansionState>1,2,4,14,17,26,29,47,50</expansionState>
+		<dateModified>Thu, 29 Jul 2021 14:13:45 GMT</dateModified>
+		<expansionState>1,2,5,15,18,27,30,48,51</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
+				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=S_xlikEjc4A&quot;&gt;video demo&lt;/a&gt; of why instant updating in outlines is so important for content management applications. " created="Thu, 29 Jul 2021 14:13:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=S_xlikEjc4A" />
 				<outline text="There's a &lt;a href=&quot;https://github.com/scripting/pagePark#v0823-72821-by-dw&quot;&gt;new release&lt;/a&gt; of [[PagePark]] with the door closed for serving config.json files in domain folders. I asked for comments yesterday, and there weren't any objections. However this is a potential breakage issue, so I wanted to flag it. There is a new config option that lets you re-open the door, either globally or for a specific domain." created="Thu, 29 Jul 2021 13:56:51 GMT" type="outline" />
 				</outline>
 			<outline text="July 28" created="Wed, 28 Jul 2021 14:48:49 GMT" type="calendarDay" name="28" >
