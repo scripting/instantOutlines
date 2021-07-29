@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 14:18:02 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 11:27:22 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="IN-2nd’s US House member types up a few vague phrases and anti-mask slogans on her @RepWalorski &amp;amp; @JackieWalorski accounts and calls it a day. Concerned about C-19 starting to boom again here? Expect no useful sentences from Walorski. She’s ready to talk sports, though. &lt;a href=&quot;https://twitter.com/KenSmith/status/1420707326290538499/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 11:26:36 GMT" tweetId="1420707326290538499" urltweet="https://twitter.com/KenSmith/status/1420707326290538499" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
 				<outline text="I enjoyed the Immersive Van Gogh show in Chicago in large part because it made me want to look closely at certain things in his paintings, next chance I get. For example, the eyes.
 
