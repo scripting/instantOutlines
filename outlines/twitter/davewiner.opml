@@ -7,11 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 29 Jul 2021 17:50:40 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 18:03:41 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="I should watch this every day.
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 18:03:03 GMT" tweetId="1420807094584979456" urltweet="https://twitter.com/davewiner/status/1420807094584979456" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Two paths forward for the American press. &lt;a href=&quot;https://pressthink.org/2020/11/two-paths-forward-for-the-american-press/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 17:50:37 GMT" tweetId="1420803964459798534" urltweet="https://twitter.com/davewiner/status/1420803964459798534" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Plan for Hudson Valley power plant collides with state's new green law. &lt;a href=&quot;https://www.timesunion.com/news/article/Public-comment-period-starts-reigniting-gas-16290500.php?utm_source=marketing&amp;utm_medium=facebook_content_SND&amp;utm_campaign=Expansion&amp;utm_content=Hudson_Valley&amp;fbclid=IwAR3oyMK_V_QqovfecboEya0pBflllSD_IcfrHRhtM96chvnoIGhZCe08u5g&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 16:24:40 GMT" tweetId="1420782335323164683" urltweet="https://twitter.com/davewiner/status/1420782335323164683" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="#toolsforthought users should hear this.
