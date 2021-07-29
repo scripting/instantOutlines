@@ -14,8 +14,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 21:25:56 GMT</dateModified>
-		<expansionState>1,2,9,11,17,27,30,39,42,60,63,77,82</expansionState>
+		<dateModified>Thu, 29 Jul 2021 21:33:42 GMT</dateModified>
+		<expansionState>1,2,10,12,18,28,31,40,43,61,64,78,83</expansionState>
 		<lastCursor>4</lastCursor>
 		</head>
 	<body>
@@ -23,6 +23,7 @@
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=ooRX9GB9vTU&quot;&gt;Adrian&lt;/a&gt;." created="Thu, 29 Jul 2021 21:16:12 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=ooRX9GB9vTU" />
 				<outline text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Reds_(film)&quot;&gt;Reds&lt;/a&gt; is a fine film, playing on [[HBO]] now. " created="Thu, 29 Jul 2021 21:25:26 GMT" type="outline" />
+				<outline text="A couple of my sites to check out if you like &lt;a href=&quot;http://artshow.scripting.com/&quot;&gt;art&lt;/a&gt; and/or &lt;a href=&quot;http://nbariver.com/&quot;&gt;the NBA&lt;/a&gt;." created="Thu, 29 Jul 2021 21:33:00 GMT" type="outline" />
 				<outline text="A &lt;a href=&quot;https://www.youtube.com/watch?v=S_xlikEjc4A&quot;&gt;video demo&lt;/a&gt; of why instant updating in outlines is so important for content management applications. " created="Thu, 29 Jul 2021 14:13:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=S_xlikEjc4A" />
 				<outline text="[[Tools for thought]] users hear me. Don't let us get locked in. There's absolutely no need for it. You have the power. This is a pivotal time. Insist on &lt;a href=&quot;http://scripting.com/2021/07/11.html#a170443&quot;&gt;interop&lt;/a&gt;. " created="Thu, 29 Jul 2021 20:47:10 GMT" type="outline" />
 				<outline text="It would be cool if you could hire a Trump impersonator to speak at a rally or business conference, and have him say whatever you like. Like the way &lt;a href=&quot;https://en.wikipedia.org/wiki/Colonel_Sanders#Legacy&quot;&gt;KFC reinvented Colonel Sanders&lt;/a&gt;. Or the &lt;a href=&quot;https://en.wikipedia.org/wiki/Elvis_impersonator&quot;&gt;Elvis impersonators&lt;/a&gt; you can hire in Las Vegas. Flood the market with fake Trumps. Think of all the good causes he could support in a Trumpian way. Render him harmless." created="Thu, 29 Jul 2021 20:41:24 GMT" type="outline" />
