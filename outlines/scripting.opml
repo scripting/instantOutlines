@@ -14,7 +14,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 17:45:48 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 17:46:22 GMT</dateModified>
 		<expansionState>1,2,5,8,14,24,27,36,39,57,60</expansionState>
 		<lastCursor>6</lastCursor>
 		</head>
@@ -25,7 +25,7 @@
 				<outline text="There's a &lt;a href=&quot;https://github.com/scripting/pagePark#v0823-72821-by-dw&quot;&gt;new release&lt;/a&gt; of [[PagePark]] with the door closed for serving config.json files in domain folders. I asked for comments yesterday, and there weren't any objections. However this is a potential breakage issue, so I wanted to flag it. There is a new config option that lets you re-open the door, either globally or for a specific domain." created="Thu, 29 Jul 2021 13:56:51 GMT" type="outline" />
 				<outline text="The NYT should've kept McNeil" created="Thu, 29 Jul 2021 17:33:30 GMT" type="outline" description="The NYT mission should be to make the NYT readers the best informed people on the planet. " metaImage="http://scripting.com/images/2021/07/29/earthrise.png" >
 					<outline text="Every time I try to listen to a [[Daily podcast]] update on [[Covid]], I realize in a deeper way how the [[NYT]] made the wrong decision when they canned [[Donald McNeil]]. " created="Thu, 29 Jul 2021 17:34:14 GMT" />
-					<outline text="The tradeoff" created="Thu, 29 Jul 2021 17:45:42 GMT" />
+					<outline text="&lt;h4&gt;The tradeoff&lt;/h4&gt;" created="Thu, 29 Jul 2021 17:45:42 GMT" />
 					<outline text="Here's the tradeoff." created="Thu, 29 Jul 2021 17:35:06 GMT" flNumberedSubs="true" >
 						<outline text="What he said made NYT staffers angry." created="Thu, 29 Jul 2021 17:35:01 GMT" />
 						<outline text="He was providing a continuous perspective on a virus that continues to threaten the human race. He was trusted, for good reason -- he was trust-worthy." created="Thu, 29 Jul 2021 17:35:02 GMT" />
