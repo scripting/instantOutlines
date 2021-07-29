@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 10:09:28 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 10:12:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -24,7 +24,11 @@ Got me to see the value in having a crowd take a look.
 
 Makes great friends.
 
-Yes I will sign up for @neuralink" type="tweet" created="Thu, 29 Jul 2021 10:09:10 GMT" tweetId="1420687838027288578" urltweet="https://twitter.com/scobleizer/status/1420687838027288578" inReplyToId="" tweetUserName="scobleizer" />
+Yes I will sign up for @neuralink" type="tweet" created="Thu, 29 Jul 2021 10:09:10 GMT" tweetId="1420687838027288578" urltweet="https://twitter.com/scobleizer/status/1420687838027288578" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="Almost always people feel guilty and then share their boxes with me" type="tweet" created="Thu, 29 Jul 2021 10:11:39 GMT" tweetId="1420688464878522373" urltweet="https://twitter.com/scobleizer/status/1420688464878522373" inReplyToId="1420687838027288578" tweetUserName="scobleizer" >
+						<outline text="The conversation always leads to great places." type="tweet" created="Thu, 29 Jul 2021 10:12:15 GMT" tweetId="1420688615697313794" urltweet="https://twitter.com/scobleizer/status/1420688615697313794" inReplyToId="1420688464878522373" tweetUserName="scobleizer" />
+						</outline>
+					</outline>
 				<outline text="I expect to do most of this next Christmas. &lt;a href=&quot;https://twitter.com/mashable/status/1420571529381773317&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 09:52:35 GMT" tweetId="1420683666217332741" urltweet="https://twitter.com/scobleizer/status/1420683666217332741" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Where do toxic people come from?
 
