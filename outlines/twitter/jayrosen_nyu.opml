@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 23:46:17 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 16:17:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="At UNC, they're asking: how did a statement of values identified with rich alum Walter Hussman become the J-school's principles, such that they were to be — quite literally — etched in stone at Chapel Hill? &lt;a href=&quot;https://www.ncpolicywatch.com/2021/07/28/unc-journalism-faculty-members-wealthy-donors-should-not-define-the-schools-values/&quot;&gt;[link]&lt;/a&gt; My answer: they presented as journalism pieties." type="tweet" created="Thu, 29 Jul 2021 16:16:53 GMT" tweetId="1420780376176435210" urltweet="https://twitter.com/jayrosen_nyu/status/1420780376176435210" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
 				<outline text="Always of interest when the savvier-than-you-are press cannot agree on who’s playing higher chess. Last week “the politics of this” were (according to The Savvy) that Pelosi created a bad look for herself by rejecting Jim Jordan and thus wrecking the appearance of bipartisanship. &lt;a href=&quot;https://twitter.com/deadlinewh/status/1420522162071408641&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 23:45:19 GMT" tweetId="1420530842376491013" urltweet="https://twitter.com/jayrosen_nyu/status/1420530842376491013" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="This system has failed. Both sides has been a bust. Working the refs works. The right wing mobilizes off charges of media bias. Resenting the press is basic to Republican identity, a core value. Conservative media thrives on lowering social trust and flooding the zone with crap. &lt;a href=&quot;https://twitter.com/oliverdarcy/status/1420473960781783045&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 22:29:19 GMT" tweetId="1420511716178374657" urltweet="https://twitter.com/jayrosen_nyu/status/1420511716178374657" inReplyToId="" tweetUserName="jayrosen_nyu" />
