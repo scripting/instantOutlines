@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 29 Jul 2021 12:09:18 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 12:14:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="U.K. covid cases are plummeting. Scientists aren't sure why. &lt;a href=&quot;https://www.washingtonpost.com/world/europe/britain-covid-cases-plummet-mystery/2021/07/28/4fa3a734-ef7c-11eb-81b2-9b7061a582d8_story.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 12:13:23 GMT" tweetId="1420719099676659713" urltweet="https://twitter.com/davewiner/status/1420719099676659713" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The final demographic. &lt;a href=&quot;https://blogs.harvard.edu/doc/2012/07/29/the-final-demographic/?fbclid=IwAR2xgFnQji854HPBeGtZeDgr6vnYh4xda7D5IDo17tnaWbqasDoj2SZBmR8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 12:09:07 GMT" tweetId="1420718024965885953" urltweet="https://twitter.com/davewiner/status/1420718024965885953" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Frank Lloyd Wright's Alsop House in Iowa Headed for Auction. &lt;a href=&quot;https://www.realtor.com/news/unique-homes/frank-lloyd-wright-alsop-house-auction/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 09:29:16 GMT" tweetId="1420677798117707777" urltweet="https://twitter.com/davewiner/status/1420677798117707777" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The big bug in our system is that the world is run mostly by people who are playing it safe." type="tweet" created="Thu, 29 Jul 2021 07:12:54 GMT" tweetId="1420643478393049089" urltweet="https://twitter.com/davewiner/status/1420643478393049089" inReplyToId="" tweetUserName="davewiner" />
