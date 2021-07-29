@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 13:25:29 GMT</dateModified>
+		<dateModified>Thu, 29 Jul 2021 13:31:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 29" type="calendarDay" name="29" >
+				<outline text="And here is an older clue to my admiration for the concordance format. &lt;a href=&quot;https://twitter.com/KenSmith/status/1420737100593483779&quot;&gt;[link]&lt;/a&gt; https://t.co/2Dhu7pJXEM" type="tweet" created="Thu, 29 Jul 2021 13:30:58 GMT" tweetId="1420738625227083778" urltweet="https://twitter.com/KenSmith/status/1420738625227083778" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Indexing online content on one's own site, as Dave Winer says here, should be within reach.
 
 In my reply to his tweet below, I put in a bid for using the concordance format, which is especially streamlined and adapts beautifully to hyperlinks. Full text has other obvious virtues. &lt;a href=&quot;https://twitter.com/davewiner/status/1270719162617196545&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 13:24:55 GMT" tweetId="1420737100593483779" urltweet="https://twitter.com/KenSmith/status/1420737100593483779" inReplyToId="" tweetUserName="KenSmith" />
