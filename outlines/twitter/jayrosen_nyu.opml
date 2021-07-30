@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 18:04:57 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 19:27:02 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="Next week, the research project I direct, @membershippzzle, will be holding its wrap-up event, a summit on the spread of membership models in public service journalism. It's online. It's free. It's global. Half days, August 2-6.
+
+Registration and schedule: &lt;a href=&quot;https://membershippuzzle.org/summit/agenda&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 19:26:29 GMT" tweetId="1421190481883680770" urltweet="https://twitter.com/jayrosen_nyu/status/1421190481883680770" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="There was additional news today on the investors in this venture. &lt;a href=&quot;https://www.cnbc.com/2021/07/30/tech-exec-invests-in-digital-news-startup-launched-by-veteran-journalists.html&quot;&gt;[link]&lt;/a&gt; https://t.co/XTTsQ2V5e6" type="tweet" created="Fri, 30 Jul 2021 18:04:09 GMT" tweetId="1421169758683254793" urltweet="https://twitter.com/jayrosen_nyu/status/1421169758683254793" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
