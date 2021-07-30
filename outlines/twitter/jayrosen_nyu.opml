@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 00:05:49 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 18:04:57 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="There was additional news today on the investors in this venture. &lt;a href=&quot;https://www.cnbc.com/2021/07/30/tech-exec-invests-in-digital-news-startup-launched-by-veteran-journalists.html&quot;&gt;[link]&lt;/a&gt; https://t.co/XTTsQ2V5e6" type="tweet" created="Fri, 30 Jul 2021 18:04:09 GMT" tweetId="1421169758683254793" urltweet="https://twitter.com/jayrosen_nyu/status/1421169758683254793" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
 				<outline text="Jim Jordan is asked if he talked to Trump on Jan. 6. His system goes mildly haywire, sputtering to a halt around a different fact: that he talks to the president all the time. &lt;a href=&quot;https://twitter.com/Acyn/status/1420147017242746885/video/1&quot;&gt;[link]&lt;/a&gt; Eventually he admits that he did talk to POTUS, yes.
 
