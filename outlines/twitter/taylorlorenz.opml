@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 14:45:20 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 14:56:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
-				<outline text="I could “protect my well-being” a lot better if employers actually gave time off for mental health &lt;a href=&quot;https://twitter.com/nytimes/status/1420806374699806721&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 14:45:06 GMT" tweetId="1421119668761202692" urltweet="https://twitter.com/taylorlorenz/status/1421119668761202692" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="I could “protect my well-being” a lot better if employers actually gave time off for mental health &lt;a href=&quot;https://twitter.com/nytimes/status/1420806374699806721&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 14:45:06 GMT" tweetId="1421119668761202692" urltweet="https://twitter.com/taylorlorenz/status/1421119668761202692" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Love having to perform at peak level in the midst of a global pandemic with people I love dying around me while I try to process unimaginable grief while being repeatedly doxxed and pummeled with online harassment, and getting no comp time to deal with it" type="tweet" created="Fri, 30 Jul 2021 14:55:48 GMT" tweetId="1421122360292241409" urltweet="https://twitter.com/taylorlorenz/status/1421122360292241409" inReplyToId="1421119668761202692" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
 				<outline text="“The actual disease typically lasts about 2 weeks, but after the virus is gone, people aren't recovered. 
