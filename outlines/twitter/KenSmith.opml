@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 18:31:48 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 23:05:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="James Rebanks portrays an America food/farm system that builds and relies on our ignorance of it, on our powerlessness to defend the health of our bodies, the health of the land, even the health of democracy, as we have no potent way to raise voices to object. @herdyshepherd1 &lt;a href=&quot;https://twitter.com/civileats/status/1421173499222269952&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 23:04:39 GMT" tweetId="1421245383498420225" urltweet="https://twitter.com/KenSmith/status/1421245383498420225" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
 				<outline text="In the tent before the Jan 6 speeches, Trump Jr live-streamed for a bit and told his fans that legislators were going to find out now what it felt like to have the assembled crowd right up in their faces. &lt;a href=&quot;https://twitter.com/tribelaw/status/1420679421875339277&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 18:31:20 GMT" tweetId="1420814214487285768" urltweet="https://twitter.com/KenSmith/status/1420814214487285768" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Indiana, USA, and Victoria, Australia, same population.
