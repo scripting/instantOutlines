@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 21:41:42 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 23:41:49 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="Do you have a Dolby Atmos audio system?" type="tweet" created="Fri, 30 Jul 2021 23:41:36 GMT" tweetId="1421254681452421120" urltweet="https://twitter.com/scobleizer/status/1421254681452421120" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Innovation.
 Creativity.
 State of the art (best enjoyed on a Dolby Atmos and Vision TV and audio system).
