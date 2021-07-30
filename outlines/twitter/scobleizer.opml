@@ -6,12 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 21:37:42 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 21:41:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="Innovation.
+Creativity.
+State of the art (best enjoyed on a Dolby Atmos and Vision TV and audio system).
+
+Anyone want to come over and watch it on a $12,000 AV system?
+
+If you are a creator you are invited.
+
+Do you know the way to San Jose? &lt;a href=&quot;https://twitter.com/applemusic/status/1421135999464210432&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 21:41:39 GMT" tweetId="1421224496330002434" urltweet="https://twitter.com/scobleizer/status/1421224496330002434" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="This isn’t about music.
 
 It is about the creative process and innovation.
