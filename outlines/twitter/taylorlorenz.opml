@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 15:03:21 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 15:32:23 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="My people! &lt;a href=&quot;https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 15:31:39 GMT" tweetId="1421131381879410692" urltweet="https://twitter.com/taylorlorenz/status/1421131381879410692" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I could “protect my well-being” a lot better if employers actually gave time off for mental health &lt;a href=&quot;https://twitter.com/nytimes/status/1420806374699806721&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 14:45:06 GMT" tweetId="1421119668761202692" urltweet="https://twitter.com/taylorlorenz/status/1421119668761202692" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Love having to perform at peak level in the midst of a global pandemic with people I love dying around me while I try to process unimaginable grief while being repeatedly doxxed and pummeled with online harassment, and getting no comp time to deal with it" type="tweet" created="Fri, 30 Jul 2021 14:55:48 GMT" tweetId="1421122360292241409" urltweet="https://twitter.com/taylorlorenz/status/1421122360292241409" inReplyToId="1421119668761202692" tweetUserName="taylorlorenz" />
 					<outline text="&lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1421124116694790151/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 15:02:47 GMT" tweetId="1421124116694790151" urltweet="https://twitter.com/taylorlorenz/status/1421124116694790151" inReplyToId="1421119668761202692" tweetUserName="taylorlorenz" />
