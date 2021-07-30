@@ -14,16 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 18:05:07 GMT</dateModified>
-		<expansionState>1,2,4,6,27,30,44,49</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Fri, 30 Jul 2021 21:09:32 GMT</dateModified>
+		<expansionState>1,2,3,5,26,29,43,48</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 30" created="Fri, 30 Jul 2021 15:27:59 GMT" type="calendarDay" name="30" >
-				<outline text="Anyone who still loves the guy with the bad combover is a Trumphole&amp;trade;." created="Fri, 30 Jul 2021 18:03:38 GMT" type="outline" />
 				<outline text="Carl Sagan" created="Fri, 30 Jul 2021 18:04:15 GMT" type="outline" metaImage="http://scripting.com/images/2021/07/29/earthrise.png" >
-					<outline text="It's &lt;i&gt;always&lt;/i&gt; a good time to watch the &lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;Pale Blue Dot&lt;/a&gt;, regain perspective. " created="Fri, 30 Jul 2021 15:37:27 GMT" type="outline" inlineVideo="https://www.youtube.com/watch?v=wupToqz1e2g" />
+					<outline text="It's &lt;i&gt;always&lt;/i&gt; a good time to watch the &lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;Pale Blue Dot&lt;/a&gt;, regain perspective.  " created="Fri, 30 Jul 2021 15:37:27 GMT" type="outline" inlineVideo="https://www.youtube.com/watch?v=wupToqz1e2g" />
 					</outline>
 				</outline>
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
