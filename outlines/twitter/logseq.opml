@@ -7,11 +7,19 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 30 Jul 2021 10:02:54 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 14:56:12 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="0.3.0 is just out!
+Some highlights:
+1. Zotero integration! 🥳🥳
+    Type /zotero to start!
+2. Support == for highlight in Markdown
+3. Add /Embed Twitter support! (by @pengx17)
+4. Fixed broken block references after refreshing
+5. Fixed page references not working &lt;a href=&quot;https://twitter.com/logseq/status/1421122418043625472/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 14:56:02 GMT" tweetId="1421122418043625472" urltweet="https://twitter.com/logseq/status/1421122418043625472" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Yes, you can add `:default-home {:page &quot;My home page&quot;}` to your config.edn file. Replace `My home page` with your page name. More examples can be found at &lt;a href=&quot;https://github.com/logseq/logseq/blob/master/templates/config.edn#L40&quot;&gt;[link]&lt;/a&gt; https://t.co/FJnBe7Bj3Y https://t.co/b5Rh43PsVI" type="tweet" created="Fri, 30 Jul 2021 10:02:35 GMT" tweetId="1421048568312307718" urltweet="https://twitter.com/logseq/status/1421048568312307718" inReplyToId="" tweetUserName="logseq" />
 				<outline text="It feels so good to see so many interests in Datalog! Join us if you're interested too! &lt;a href=&quot;https://discord.com/invite/KpN4eHY&quot;&gt;[link]&lt;/a&gt; https://t.co/BV1abqkSYp" type="tweet" created="Fri, 30 Jul 2021 04:42:57 GMT" tweetId="1420968129987969026" urltweet="https://twitter.com/logseq/status/1420968129987969026" inReplyToId="" tweetUserName="logseq" />
 				</outline>
