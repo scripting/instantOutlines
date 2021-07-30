@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 15:38:56 GMT</dateModified>
-		<expansionState>1,2,17,20,34,39</expansionState>
+		<dateModified>Fri, 30 Jul 2021 18:03:52 GMT</dateModified>
+		<expansionState>1,2,18,21,35,40</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 30" created="Fri, 30 Jul 2021 15:27:59 GMT" type="calendarDay" name="30" >
+				<outline text="Anyone who still loves the guy with the bad combover is a Trumphole&amp;trade;." created="Fri, 30 Jul 2021 18:03:38 GMT" type="outline" />
 				<outline text="It's &lt;i&gt;always&lt;/i&gt; a good time to watch the &lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;Pale Blue Dot&lt;/a&gt;, regain perspective. " created="Fri, 30 Jul 2021 15:37:27 GMT" type="outline" inlineVideo="https://www.youtube.com/watch?v=wupToqz1e2g" />
 				</outline>
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
