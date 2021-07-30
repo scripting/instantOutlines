@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 15:38:06 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 15:38:56 GMT</dateModified>
 		<expansionState>1,2,17,20,34,39</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 30" created="Fri, 30 Jul 2021 15:27:59 GMT" type="calendarDay" name="30" >
-				<outline text="It's a good time to watch the &lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;Pale Blue Dot&lt;/a&gt;. " created="Fri, 30 Jul 2021 15:37:27 GMT" type="outline" inlineVideo="https://www.youtube.com/watch?v=wupToqz1e2g" />
+				<outline text="It's &lt;i&gt;always&lt;/i&gt; a good time to watch the &lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;Pale Blue Dot&lt;/a&gt;, regain perspective. " created="Fri, 30 Jul 2021 15:37:27 GMT" type="outline" inlineVideo="https://www.youtube.com/watch?v=wupToqz1e2g" />
 				</outline>
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=ooRX9GB9vTU&quot;&gt;Adrian&lt;/a&gt;." created="Thu, 29 Jul 2021 21:16:12 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=ooRX9GB9vTU" />
