@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 16:07:25 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 16:56:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="😅 &lt;a href=&quot;https://twitter.com/Schwartzie14/status/1421111294984433666&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 16:55:53 GMT" tweetId="1421152581603057664" urltweet="https://twitter.com/taylorlorenz/status/1421152581603057664" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Kahlil Greene was elected as the first Black student body president at Yale and has nearly a half-million followers on TikTok. After taking a semester off to focus on TikTok, Mr. Greene plans to graduate from Yale this Dec. 
 A must read by @MissAdenikeO! &lt;a href=&quot;https://www.nytimes.com/2021/07/30/style/kahlil-greene-yale-president-black-genz-historian.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 16:06:30 GMT" tweetId="1421140150688522242" urltweet="https://twitter.com/taylorlorenz/status/1421140150688522242" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="My people! &lt;a href=&quot;https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 15:31:39 GMT" tweetId="1421131381879410692" urltweet="https://twitter.com/taylorlorenz/status/1421131381879410692" inReplyToId="" tweetUserName="taylorlorenz" >
