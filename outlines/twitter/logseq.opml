@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 30 Jul 2021 01:27:21 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 04:43:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="It feels so good to see so many interests in Datalog! Join us if you're interested too! &lt;a href=&quot;https://discord.com/invite/KpN4eHY&quot;&gt;[link]&lt;/a&gt; https://t.co/BV1abqkSYp" type="tweet" created="Fri, 30 Jul 2021 04:42:57 GMT" tweetId="1420968129987969026" urltweet="https://twitter.com/logseq/status/1420968129987969026" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
 				<outline text="PR merged! 🎉🎉 &lt;a href=&quot;https://twitter.com/JulioNavr/status/1420912528260046853&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 01:26:42 GMT" tweetId="1420918744658833412" urltweet="https://twitter.com/logseq/status/1420918744658833412" inReplyToId="" tweetUserName="logseq" />
 				</outline>
