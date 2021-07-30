@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 15:33:51 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 15:34:38 GMT</dateModified>
 		<expansionState>1,2,17,20,34,39</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 30" created="Fri, 30 Jul 2021 15:27:59 GMT" type="calendarDay" name="30" >
-				<outline text="It's always a good time to watch the Pale Blue Dot by Carl Sagan, to regain perspective. &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wupToqz1e2g&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; " created="Fri, 30 Jul 2021 15:33:36 GMT" type="outline" />
+				<outline text="It's a good time to watch the &lt;a href=&quot;https://www.youtube.com/watch?v=wupToqz1e2g&quot;&gt;Pale Blue Dot&lt;/a&gt; by Carl Sagan. &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wupToqz1e2g&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; " created="Fri, 30 Jul 2021 15:33:36 GMT" type="outline" />
 				</outline>
 			<outline text="July 29" created="Thu, 29 Jul 2021 13:56:50 GMT" type="calendarDay" name="29" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=ooRX9GB9vTU&quot;&gt;Adrian&lt;/a&gt;." created="Thu, 29 Jul 2021 21:16:12 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=ooRX9GB9vTU" />
