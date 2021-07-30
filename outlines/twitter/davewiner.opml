@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 30 Jul 2021 09:15:38 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 10:49:44 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="The WP motto/mission is “democracy dies in darkness.”
+
+NYT publishes “all the news that’s fit to print.”
+
+Do any of their mission statements say anything about the reader, and what they hope to do for us?" type="tweet" created="Fri, 30 Jul 2021 10:49:07 GMT" tweetId="1421060280499548160" urltweet="https://twitter.com/davewiner/status/1421060280499548160" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Washington Post has gifting, like the NYT. &lt;a href=&quot;https://twitter.com/davewiner/status/1421036590164553730/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 09:14:59 GMT" tweetId="1421036590164553730" urltweet="https://twitter.com/davewiner/status/1421036590164553730" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Biden’s vaccine rule draws both cheers and resistance from federal workers. &lt;a href=&quot;https://www.washingtonpost.com/s/business/2021/07/29/biden-vaccine-federal-workers/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjMxMzEzNDYzIiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTYyNzYzNjM2OSwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTYyODg0NTk2OSwiaWF0IjoxNjI3NjM2MzY5LCJqdGkiOiI4ODIzZjg4My03ZWRjLTQ5MjYtYmUwOC05OGVjNTJlNmUwMzgiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYnVzaW5lc3MvMjAyMS8wNy8yOS9iaWRlbi12YWNjaW5lLWZlZGVyYWwtd29ya2Vycy8ifQ.26u_f-E0ugYHOb8FXCqbOGMbYQLz_vZNGWvKzyc8dPc&amp;itid=gfta&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 09:13:42 GMT" tweetId="1421036266162900997" urltweet="https://twitter.com/davewiner/status/1421036266162900997" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
