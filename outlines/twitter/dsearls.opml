@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 29 Jul 2021 15:20:17 GMT</dateModified>
+		<dateModified>Fri, 30 Jul 2021 16:09:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="Do things listen? I just told this old screen it had one last chance to light up, after failing dozens of pluggings and unpluggings, swapped adapters, different ports tried out... or I'd be done with it. So it flickered on." type="tweet" created="Fri, 30 Jul 2021 16:09:07 GMT" tweetId="1421140810251313163" urltweet="https://twitter.com/dsearls/status/1421140810251313163" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
 				<outline text="Heard today (second hand) that @Bing gets to track persons through clicks on ads in @DuckDuckGo. That true?" type="tweet" created="Thu, 29 Jul 2021 15:19:36 GMT" tweetId="1420765963109142534" urltweet="https://twitter.com/dsearls/status/1420765963109142534" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
