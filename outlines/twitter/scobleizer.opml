@@ -6,11 +6,25 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 23:41:49 GMT</dateModified>
+		<dateModified>Sat, 31 Jul 2021 17:14:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 31" type="calendarDay" name="31" >
+				<outline text="Dolby Atmos Music playlists:
+
+You might not realize that Apple Music is dramatically better now than Spotify or Tidal, particularly because Apple now is distributing music in Dolby Atmos format (better bass, better definition, and multi-channel -- much more like the real thing)." type="tweet" created="Sat, 31 Jul 2021 17:14:19 GMT" tweetId="1421519605462278144" urltweet="https://twitter.com/scobleizer/status/1421519605462278144" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="My playlists ONLY include Dolby Atmos music. Others, that say they are for Spatial Audio, include non-Atmos music. Mine aren't yet complete, but get better every day.
+Got anything to add?
+Good selection: &lt;a href=&quot;https://music.apple.com/.../dolby-atmos.../pl.u-E2VCa2qY2A&quot;&gt;[link]&lt;/a&gt; 
+Classical Albums: https://t.co/XTmHsikV25" type="tweet" created="Sat, 31 Jul 2021 17:14:19 GMT" tweetId="1421519606389252096" urltweet="https://twitter.com/scobleizer/status/1421519606389252096" inReplyToId="1421519605462278144" tweetUserName="scobleizer" >
+						<outline text="Popular Music: &lt;a href=&quot;https://music.apple.com/.../spatial-audio.../pl.u-ELWFa2qY2A&quot;&gt;[link]&lt;/a&gt;
+I'll be working on Jazz this weekend. 
+I love following other music lovers too, so your listening behavior brings me more music. So, if you are open to that, let me know your Apple Music profile." type="tweet" created="Sat, 31 Jul 2021 17:14:19 GMT" tweetId="1421519607433551875" urltweet="https://twitter.com/scobleizer/status/1421519607433551875" inReplyToId="1421519606389252096" tweetUserName="scobleizer" />
+						</outline>
+					</outline>
+				</outline>
 			<outline text="July 30" type="calendarDay" name="30" >
 				<outline text="Do you have a Dolby Atmos audio system?" type="tweet" created="Fri, 30 Jul 2021 23:41:36 GMT" tweetId="1421254681452421120" urltweet="https://twitter.com/scobleizer/status/1421254681452421120" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Innovation.
