@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 00:46:57 GMT</dateModified>
+		<dateModified>Sat, 31 Jul 2021 01:50:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
+				<outline text="😒 &lt;a href=&quot;https://deadline.com/2021/07/los-angeles-covid-surge-driven-by-white-affluent-neighborhoods-1234802675/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 31 Jul 2021 01:49:17 GMT" tweetId="1421286815701430276" urltweet="https://twitter.com/taylorlorenz/status/1421286815701430276" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Damn &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1421270940034367490/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 31 Jul 2021 00:46:12 GMT" tweetId="1421270940034367490" urltweet="https://twitter.com/taylorlorenz/status/1421270940034367490" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Humbled to receive all the clout of a New Yorker byline without any of the work 😌 &lt;a href=&quot;https://twitter.com/chaykak/status/1421246335102095368&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 31 Jul 2021 00:01:25 GMT" tweetId="1421259668500873216" urltweet="https://twitter.com/taylorlorenz/status/1421259668500873216" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Bored Ape Yacht Club is a combo gated online community, stock-shareholding group, art collection, streetwear brand, hedge fund, and a user-generated universe of intellectual property.
