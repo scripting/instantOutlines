@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 28 Jul 2021 20:56:05 GMT</dateModified>
+		<dateModified>Sat, 31 Jul 2021 19:17:31 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/ql</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 31" type="calendarDay" name="31" >
+				<outline text="Updating our mask policy today at the clinic. 
+
+#freebritney @ Downtown Salt Lake City &lt;a href=&quot;https://www.instagram.com/accounts/login/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 31 Jul 2021 19:16:51 GMT" tweetId="1421550444640415745" urltweet="https://twitter.com/nakedjen/status/1421550444640415745" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
 				<outline text="RUSS WALKER, owner of MERIDIAN HEIGHTS, might want to rethink management of his SENIOR APARTMENTS in #Sandy, #Utah. He hides behind them and refuses to take RESPONSIBILITY.  Meanwhile, tenants are suffering! No AC, No Running Water. @KSL @KLSMatt" type="tweet" created="Wed, 28 Jul 2021 20:55:19 GMT" tweetId="1420488061658419200" urltweet="https://twitter.com/nakedjen/status/1420488061658419200" inReplyToId="" tweetUserName="nakedjen" />
 				<outline text="MERIDIAN HEIGHTS APARTMENTS in #SANDY #Utah has total disregard for its elderly residents. NO AC for days. No running water. EXORBITANT RENT. @KSLmatt this is a STORY FOR YOU! I promise this is just one example of many in the #SLC valley." type="tweet" created="Wed, 28 Jul 2021 20:17:18 GMT" tweetId="1420478492261584897" urltweet="https://twitter.com/nakedjen/status/1420478492261584897" inReplyToId="" tweetUserName="nakedjen" />
