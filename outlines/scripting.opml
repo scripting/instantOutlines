@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 14:11:17 GMT</dateModified>
+		<dateModified>Sat, 31 Jul 2021 14:44:14 GMT</dateModified>
 		<expansionState>1,2,4,5,7,28,31,45,50</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="July 2021" created="Thu, 01 Jul 2021 12:37:38 GMT" name="july2021" type="calendarMonth" >
 			<outline text="July 31" created="Sat, 31 Jul 2021 14:07:25 GMT" type="calendarDay" name="31" >
-				<outline text="I know the American Olympics basketball team is playing right now, where can I watch it? That's a hard question to answer, believe it or not, in 2021. In the early 90s, I did an experiment with my brother, in Palo Alto. We knew the Mets were playing in Los Angeles. We decided to try to find out the score, as an experiment. We knew we were living in information impoverished times, that it would eventually get much better. We tried calling the news organizations in NYC and Los Angeles. They had no idea what the score was. Certainly someone at the news org would know, we said. The person answering the phone didn't know. Tried calling the ballpark. The teams. We couldn't find out the score. Maybe it was possible but we couldn't think of a way to do it. This was before cell phones and before the web. " created="Sat, 31 Jul 2021 14:07:26 GMT" type="outline" />
+				<outline text="I know the American Olympics basketball team is playing right now, where can I watch it? That's a hard question to answer, believe it or not, in 2021. In the early 90s, I did an experiment with my brother, in Palo Alto. We knew the Mets were playing in Los Angeles. We decided to try to find out the score, as an experiment. We knew we were living in information impoverished times, that it would eventually get much better. We tried calling the news organizations in NYC and Los Angeles. They had no idea what the score was. Certainly someone at the news org would know, we said. The person answering the phone didn't know. Tried calling the ballpark. The teams. We couldn't find out the score. Maybe it was possible but we couldn't think of a way to do it. This was before cell phones and before the web. " created="Sat, 31 Jul 2021 14:07:26 GMT" type="outline" image="http://scripting.com/images/2020/12/24/simcity.png" />
 				</outline>
 			<outline text="July 30" created="Fri, 30 Jul 2021 15:27:59 GMT" type="calendarDay" name="30" >
 				<outline text="Carl Sagan" created="Fri, 30 Jul 2021 18:04:15 GMT" type="outline" metaImage="http://scripting.com/images/2021/07/29/earthrise.png" >
