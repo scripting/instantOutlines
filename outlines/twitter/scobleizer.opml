@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 17:14:55 GMT</dateModified>
+		<dateModified>Sat, 31 Jul 2021 17:31:56 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -23,6 +23,7 @@ Classical Albums: https://t.co/XTmHsikV25" type="tweet" created="Sat, 31 Jul 202
 I'll be working on Jazz this weekend. 
 I love following other music lovers too, so your listening behavior brings me more music. So, if you are open to that, let me know your Apple Music profile." type="tweet" created="Sat, 31 Jul 2021 17:14:19 GMT" tweetId="1421519607433551875" urltweet="https://twitter.com/scobleizer/status/1421519607433551875" inReplyToId="1421519606389252096" tweetUserName="scobleizer" />
 						</outline>
+					<outline text="Some people are having trouble with my links. They are all on my profile at &lt;a href=&quot;https://music.apple.com/profile/scobleizer&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 31 Jul 2021 17:31:28 GMT" tweetId="1421523923720495104" urltweet="https://twitter.com/scobleizer/status/1421523923720495104" inReplyToId="1421519605462278144" tweetUserName="scobleizer" />
 					</outline>
 				</outline>
 			<outline text="July 30" type="calendarDay" name="30" >
