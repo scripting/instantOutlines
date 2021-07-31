@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 16:09:51 GMT</dateModified>
+		<dateModified>Sat, 31 Jul 2021 22:45:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 31" type="calendarDay" name="31" >
+				<outline text="I was asked why live audio or video tends to be better than a transcription of either, so I pointed to this: &lt;a href=&quot;https://www.digitalriptide.org/person/doc-searls/&quot;&gt;[link]&lt;/a&gt; HT for the original (video in this case) goes to @martinn123 (An aside: it's good that one's voice ages more slowly than the rest of one's self.)" type="tweet" created="Sat, 31 Jul 2021 22:45:34 GMT" tweetId="1421602969334726672" urltweet="https://twitter.com/dsearls/status/1421602969334726672" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="July 30" type="calendarDay" name="30" >
 				<outline text="Do things listen? I just told this old screen it had one last chance to light up, after failing dozens of pluggings and unpluggings, swapped adapters, different ports tried out... or I'd be done with it. So it flickered on." type="tweet" created="Fri, 30 Jul 2021 16:09:07 GMT" tweetId="1421140810251313163" urltweet="https://twitter.com/dsearls/status/1421140810251313163" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
