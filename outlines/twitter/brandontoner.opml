@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 15:46:08 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 15:48:08 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -28,7 +28,13 @@ What is my decision making algorithm?
 What data do I need? 
 Can I get that data directly? 
 If not, can I it using other data and formulas? 
-How do I want it presented?" type="tweet" created="Sun, 01 Aug 2021 15:45:33 GMT" tweetId="1421859654410424327" urltweet="https://twitter.com/brandontoner/status/1421859654410424327" inReplyToId="1421858561525788680" tweetUserName="brandontoner" />
+How do I want it presented?" type="tweet" created="Sun, 01 Aug 2021 15:45:33 GMT" tweetId="1421859654410424327" urltweet="https://twitter.com/brandontoner/status/1421859654410424327" inReplyToId="1421858561525788680" tweetUserName="brandontoner" >
+										<outline text="As I look down this path, the following feel important: 
+
+- data access (in usable formats)
+- data integrity (accuracy, precision, presence) 
+- data manipulation (working it to create custom lenses/solve unique problems)" type="tweet" created="Sun, 01 Aug 2021 15:47:34 GMT" tweetId="1421860164500611076" urltweet="https://twitter.com/brandontoner/status/1421860164500611076" inReplyToId="1421859654410424327" tweetUserName="brandontoner" />
+										</outline>
 									</outline>
 								</outline>
 							</outline>
