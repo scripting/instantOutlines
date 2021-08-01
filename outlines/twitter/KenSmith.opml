@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 18:26:22 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 18:27:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="“The rich just send karma back to the kitchen if it comes out under or overcooked.”
+
+#SundaySentence &lt;a href=&quot;https://twitter.com/kensmith/status/1421899876640731141&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 18:26:30 GMT" tweetId="1421900160376971267" urltweet="https://twitter.com/KenSmith/status/1421900160376971267" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="“It’s my experience that money alters destinies forever. Kismet for chaos is for broke people. The rich just send karma back to the kitchen if it comes out under or overcooked.”
 
 The private school wit kid tells how things went down there.
