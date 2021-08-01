@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Fri, 30 Jul 2021 03:13:06 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 00:39:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 31" type="calendarDay" name="31" >
+				<outline text="S-M-R-T &lt;a href=&quot;https://twitter.com/JoshMandelOhio/status/1421561413705797637&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 00:39:36 GMT" tweetId="1421631666200711170" urltweet="https://twitter.com/gruber/status/1421631666200711170" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
 				<outline text="Dumb. &lt;a href=&quot;https://twitter.com/clubhouseio/status/1420821884313116674&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 03:12:20 GMT" tweetId="1420945327536881673" urltweet="https://twitter.com/gruber/status/1420945327536881673" inReplyToId="" tweetUserName="gruber" />
 				</outline>
