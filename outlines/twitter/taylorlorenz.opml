@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 17:38:01 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 20:08:41 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="Can someone who knows more about this than I do explain why Heather Young from Selling Sunset and Tarek and his kids are always traveling around in one of these giant vans??? Like why aren’t they driving around in a normal car? &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1421925675846365184/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 20:07:53 GMT" tweetId="1421925675846365184" urltweet="https://twitter.com/taylorlorenz/status/1421925675846365184" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
 				<outline text="Missing nyc already 😭 &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1421525364778565633/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 31 Jul 2021 17:37:12 GMT" tweetId="1421525364778565633" urltweet="https://twitter.com/taylorlorenz/status/1421525364778565633" inReplyToId="" tweetUserName="taylorlorenz" />
