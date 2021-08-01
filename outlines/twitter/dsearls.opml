@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 22:45:46 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 18:54:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="Shots of vast active and inactive copper mines of Miami, Arizona. Current operator is Freeport-McMoRan. &lt;a href=&quot;https://www.flickr.com/photos/docsearls/sets/72157719626166741&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 18:53:51 GMT" tweetId="1421907041279528962" urltweet="https://twitter.com/dsearls/status/1421907041279528962" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
 				<outline text="I was asked why live audio or video tends to be better than a transcription of either, so I pointed to this: &lt;a href=&quot;https://www.digitalriptide.org/person/doc-searls/&quot;&gt;[link]&lt;/a&gt; HT for the original (video in this case) goes to @martinn123 (An aside: it's good that one's voice ages more slowly than the rest of one's self.)" type="tweet" created="Sat, 31 Jul 2021 22:45:34 GMT" tweetId="1421602969334726672" urltweet="https://twitter.com/dsearls/status/1421602969334726672" inReplyToId="" tweetUserName="dsearls" />
