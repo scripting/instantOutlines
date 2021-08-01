@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 15:53:08 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 16:05:09 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="Reading Dune and learning Excel has me feeling like a Mentat" type="tweet" created="Sun, 01 Aug 2021 16:04:27 GMT" tweetId="1421864412613332994" urltweet="https://twitter.com/brandontoner/status/1421864412613332994" inReplyToId="" tweetUserName="brandontoner" />
 				<outline text="I’m falling in love with Excel lol" type="tweet" created="Sun, 01 Aug 2021 15:32:18 GMT" tweetId="1421856322610421761" urltweet="https://twitter.com/brandontoner/status/1421856322610421761" inReplyToId="" tweetUserName="brandontoner" >
 					<outline text="Prior to last year, I used Excel in VERY basic ways. 
 
