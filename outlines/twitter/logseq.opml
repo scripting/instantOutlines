@@ -7,9 +7,15 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 30 Jul 2021 15:32:15 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 08:36:50 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="Thank you! 
+We have some early feedback so that we made some changes, for example, removing the &quot;_key&quot; from the page title and put &quot;Abstract&quot; to a separate block, those will be in the next release! &lt;a href=&quot;https://twitter.com/AlixLahuec/status/1421133692500692993&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 08:36:28 GMT" tweetId="1421751673181990914" urltweet="https://twitter.com/logseq/status/1421751673181990914" inReplyToId="" tweetUserName="logseq" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
 				<outline text="@zotero rocks! &lt;a href=&quot;https://twitter.com/gabriheinrichs/status/1421128564301352964&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 15:31:36 GMT" tweetId="1421131369254559746" urltweet="https://twitter.com/logseq/status/1421131369254559746" inReplyToId="" tweetUserName="logseq" />
