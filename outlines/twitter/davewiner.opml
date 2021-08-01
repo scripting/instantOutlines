@@ -7,9 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 01 Aug 2021 01:00:08 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 12:44:52 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="Olympics-Belarusian athlete says she was taken to airport to go home after criticising coaches. &lt;a href=&quot;https://www.reuters.com/lifestyle/sports/exclusive-olympics-belarusian-athlete-says-she-was-taken-airport-go-home-after-2021-08-01/?taid=610693cc7815cb000162a15b&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 12:44:13 GMT" tweetId="1421814021691424772" urltweet="https://twitter.com/davewiner/status/1421814021691424772" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
 				<outline text="Provincetown, Mass., the quirky community at the tip of Cape Cod, thought it was safe to return to prepandemic partying. It wasn’t. &lt;a href=&quot;https://www.nytimes.com/2021/07/31/us/covid-outbreak-provincetown-cape-cod.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohkT1UYAibIRp8sqQOHib3I3aA2nHL3L22NUzFczuIeDpSH5EGIbqN7ap442DjdRMNENPVnYs1O-dJlHh4nTRi08NzDkY4ZIi4xpMXuB21uhp7DBvVlrGO6KzS3ebg6lLHu41eLOWbsDaHZ2XEqI1t1sNAyIwHRrH8JxqrCFO&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 00:59:11 GMT" tweetId="1421636595220992005" urltweet="https://twitter.com/davewiner/status/1421636595220992005" inReplyToId="" tweetUserName="davewiner" />
