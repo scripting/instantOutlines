@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 15:48:08 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 15:50:08 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -33,7 +33,13 @@ How do I want it presented?" type="tweet" created="Sun, 01 Aug 2021 15:45:33 GMT
 
 - data access (in usable formats)
 - data integrity (accuracy, precision, presence) 
-- data manipulation (working it to create custom lenses/solve unique problems)" type="tweet" created="Sun, 01 Aug 2021 15:47:34 GMT" tweetId="1421860164500611076" urltweet="https://twitter.com/brandontoner/status/1421860164500611076" inReplyToId="1421859654410424327" tweetUserName="brandontoner" />
+- data manipulation (working it to create custom lenses/solve unique problems)" type="tweet" created="Sun, 01 Aug 2021 15:47:34 GMT" tweetId="1421860164500611076" urltweet="https://twitter.com/brandontoner/status/1421860164500611076" inReplyToId="1421859654410424327" tweetUserName="brandontoner" >
+											<outline text="It’s funny how transferable data/information skills are.
+
+Tools for Thought/Excel/Web Design/Programming 
+
+It’s all just working with data and information. Being able to play with it — create with it — think with it." type="tweet" created="Sun, 01 Aug 2021 15:49:16 GMT" tweetId="1421860590859980801" urltweet="https://twitter.com/brandontoner/status/1421860590859980801" inReplyToId="1421860164500611076" tweetUserName="brandontoner" />
+											</outline>
 										</outline>
 									</outline>
 								</outline>
