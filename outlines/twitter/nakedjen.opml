@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 19:17:31 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 02:47:59 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/ql</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
+				<outline text="Standing in my kitchen having a midlife Sam Fox moment and then thought, “I wonder how they are all holding up in the #pandemic?” For reals. They all live in my ❤️. #betterthings &lt;a href=&quot;https://twitter.com/nakedjen/status/1421663864429547520/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 02:47:33 GMT" tweetId="1421663864429547520" urltweet="https://twitter.com/nakedjen/status/1421663864429547520" inReplyToId="" tweetUserName="nakedjen" />
 				<outline text="Updating our mask policy today at the clinic. 
 
 #freebritney @ Downtown Salt Lake City &lt;a href=&quot;https://www.instagram.com/accounts/login/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 31 Jul 2021 19:16:51 GMT" tweetId="1421550444640415745" urltweet="https://twitter.com/nakedjen/status/1421550444640415745" inReplyToId="" tweetUserName="nakedjen" />
