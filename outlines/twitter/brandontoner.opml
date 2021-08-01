@@ -6,13 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 15:33:07 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 15:34:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 1" type="calendarDay" name="01" >
-				<outline text="I’m falling in love with Excel lol" type="tweet" created="Sun, 01 Aug 2021 15:32:18 GMT" tweetId="1421856322610421761" urltweet="https://twitter.com/brandontoner/status/1421856322610421761" inReplyToId="" tweetUserName="brandontoner" />
+				<outline text="I’m falling in love with Excel lol" type="tweet" created="Sun, 01 Aug 2021 15:32:18 GMT" tweetId="1421856322610421761" urltweet="https://twitter.com/brandontoner/status/1421856322610421761" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="Prior to last year, I used Excel in VERY basic ways. 
+
+Like, basic tables of text lol" type="tweet" created="Sun, 01 Aug 2021 15:33:19 GMT" tweetId="1421856578660151300" urltweet="https://twitter.com/brandontoner/status/1421856578660151300" inReplyToId="1421856322610421761" tweetUserName="brandontoner" >
+						<outline text="I am starting to see the power." type="tweet" created="Sun, 01 Aug 2021 15:33:43 GMT" tweetId="1421856678400729090" urltweet="https://twitter.com/brandontoner/status/1421856678400729090" inReplyToId="1421856578660151300" tweetUserName="brandontoner" />
+						</outline>
+					</outline>
 				</outline>
 			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
