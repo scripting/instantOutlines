@@ -6,10 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 17:59:47 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 13:53:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="&quot;You can't fight not-normal with normal.&quot;
+
+From the footer of today's edition of a daily email I read." type="tweet" created="Sun, 01 Aug 2021 13:52:52 GMT" tweetId="1421831300001026055" urltweet="https://twitter.com/KenSmith/status/1421831300001026055" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
 				<outline text="To carry out the kind of “COVID-is-fake” conspiracy some people are imagining, the number of intensive care unit staffers you’d have to bribe to remain silent in North America alone is breathtaking to consider." type="tweet" created="Sat, 31 Jul 2021 17:59:14 GMT" tweetId="1421530910118273033" urltweet="https://twitter.com/KenSmith/status/1421530910118273033" inReplyToId="" tweetUserName="KenSmith" />
