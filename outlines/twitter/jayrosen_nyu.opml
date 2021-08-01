@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 02:09:58 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 21:31:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="I give you this tight paragraph by George Packer in his latest book. He's writing about the spring and summer of 2020 and what the pandemic did to American democracy. Rarely do you see experts, politicians and citizens put into proper standing like this. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1421946414498725897/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 21:30:18 GMT" tweetId="1421946414498725897" urltweet="https://twitter.com/jayrosen_nyu/status/1421946414498725897" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
 				<outline text="From my blog, PressThink, 17 years ago. https://t.co/vOaUnlMIaM https://t.co/JhGKR5arYk" type="tweet" created="Sun, 01 Aug 2021 02:09:01 GMT" tweetId="1421654170491310085" urltweet="https://twitter.com/jayrosen_nyu/status/1421654170491310085" inReplyToId="" tweetUserName="jayrosen_nyu" />
