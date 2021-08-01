@@ -6,14 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 21:36:47 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 21:38:47 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 1" type="calendarDay" name="01" >
 				<outline text="I wrote about how the White House, as well as state and local governments, are leveraging influencers to fight back against vaccine misinformation and encourage people to get vaccinated &lt;a href=&quot;https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 21:01:44 GMT" tweetId="1421939224199106560" urltweet="https://twitter.com/taylorlorenz/status/1421939224199106560" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="According data analysis, “when large numbers of influencers post in the same time period, vaccination rates go up,” said Rob Perry, founder and CEO of @XOMAD, which has worked with state and local governments across the country to lead these campaigns &lt;a href=&quot;https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 21:35:56 GMT" tweetId="1421947832425095173" urltweet="https://twitter.com/taylorlorenz/status/1421947832425095173" inReplyToId="1421939224199106560" tweetUserName="taylorlorenz" />
+					<outline text="According data analysis, “when large numbers of influencers post in the same time period, vaccination rates go up,” said Rob Perry, founder and CEO of @XOMAD, which has worked with state and local governments across the country to lead these campaigns &lt;a href=&quot;https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 21:35:56 GMT" tweetId="1421947832425095173" urltweet="https://twitter.com/taylorlorenz/status/1421947832425095173" inReplyToId="1421939224199106560" tweetUserName="taylorlorenz" >
+						<outline text="New Jersey, Oklahoma City County, Guildford County, N.C., as well as cities like San Jose, Calif, and several counties in Colorado (and soon Texas) are running influencer marketing campaigns aimed at boosting vaccination rates &lt;a href=&quot;https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 21:37:52 GMT" tweetId="1421948320017092608" urltweet="https://twitter.com/taylorlorenz/status/1421948320017092608" inReplyToId="1421947832425095173" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				<outline text="Can someone who knows more about this than I do explain why Heather Young from Selling Sunset and Tarek and his kids are always traveling around in one of these giant vans??? Like why aren’t they driving around in a normal car? &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1421925675846365184/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 20:07:53 GMT" tweetId="1421925675846365184" urltweet="https://twitter.com/taylorlorenz/status/1421925675846365184" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
