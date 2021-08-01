@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 01 Aug 2021 15:44:04 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 16:19:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="Things Get Awkward When Snoop Dogg Goes Off Script While Talking About Skeet Shooting During Olympics Coverage. &lt;a href=&quot;https://brobible.com/sports/article/snoop-dogg-skeet-olympics-coverage/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 16:18:11 GMT" tweetId="1421867868300447746" urltweet="https://twitter.com/davewiner/status/1421867868300447746" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Someone should write a book about the lost software ideas of the 70s and 80s. There's a lot of reinventing going on. Layers of reinvention. It'd be great if there was one book earnest devs could read, ones who want to build on what was learned in the past." type="tweet" created="Sun, 01 Aug 2021 15:43:53 GMT" tweetId="1421859236842250241" urltweet="https://twitter.com/davewiner/status/1421859236842250241" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Olympics-Belarusian athlete says she was taken to airport to go home after criticising coaches. &lt;a href=&quot;https://www.reuters.com/lifestyle/sports/exclusive-olympics-belarusian-athlete-says-she-was-taken-airport-go-home-after-2021-08-01/?taid=610693cc7815cb000162a15b&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 12:44:13 GMT" tweetId="1421814021691424772" urltweet="https://twitter.com/davewiner/status/1421814021691424772" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
