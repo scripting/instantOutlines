@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sun, 01 Aug 2021 09:42:54 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 16:26:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="Thank you for the kind words! @kanru contributed the encryption part! &lt;a href=&quot;https://twitter.com/sai_prasanna/status/1421772810851012611&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 16:25:37 GMT" tweetId="1421869740033597441" urltweet="https://twitter.com/logseq/status/1421869740033597441" inReplyToId="" tweetUserName="logseq" />
 				<outline text="SRS cards, Zotero integration, and PDF annotations are for people who enjoy learning or who gave up Anki because it's too hard to make cards. All those features are developed, our focus will be on bugs, UX enhancements, and mobile apps. 
 Also, real-time collaboration!" type="tweet" created="Sun, 01 Aug 2021 09:42:17 GMT" tweetId="1421768236404600836" urltweet="https://twitter.com/logseq/status/1421768236404600836" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Ok, a preview for our &quot;last&quot; big feature! 😄 &lt;a href=&quot;https://twitter.com/nabhan_yt/status/1421197030886711303&quot;&gt;[link]&lt;/a&gt; https://t.co/qC7wztX3mJ" type="tweet" created="Sun, 01 Aug 2021 09:25:11 GMT" tweetId="1421763933782765570" urltweet="https://twitter.com/logseq/status/1421763933782765570" inReplyToId="" tweetUserName="logseq" />
