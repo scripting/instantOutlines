@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 30 Jul 2021 19:27:02 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 02:09:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 31" type="calendarDay" name="31" >
+				<outline text="From my blog, PressThink, 17 years ago. https://t.co/vOaUnlMIaM https://t.co/JhGKR5arYk" type="tweet" created="Sun, 01 Aug 2021 02:09:01 GMT" tweetId="1421654170491310085" urltweet="https://twitter.com/jayrosen_nyu/status/1421654170491310085" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="July 30" type="calendarDay" name="30" >
 				<outline text="Next week, the research project I direct, @membershippzzle, will be holding its wrap-up event, a summit on the spread of membership models in public service journalism. It's online. It's free. It's global. Half days, August 2-6.
 
