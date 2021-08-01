@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 31 Jul 2021 17:31:56 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 02:51:32 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
+				<outline text="Just went to the Tesla factory in Fremont. Model Y’s are sold out until December. 
+
+Factory employee parking lots are packed. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1421664629445447680/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 02:50:35 GMT" tweetId="1421664629445447680" urltweet="https://twitter.com/scobleizer/status/1421664629445447680" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Dolby Atmos Music playlists:
 
 You might not realize that Apple Music is dramatically better now than Spotify or Tidal, particularly because Apple now is distributing music in Dolby Atmos format (better bass, better definition, and multi-channel -- much more like the real thing)." type="tweet" created="Sat, 31 Jul 2021 17:14:19 GMT" tweetId="1421519605462278144" urltweet="https://twitter.com/scobleizer/status/1421519605462278144" inReplyToId="" tweetUserName="scobleizer" >
