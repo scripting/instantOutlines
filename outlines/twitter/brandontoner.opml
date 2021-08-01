@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 15:42:08 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 15:46:08 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
@@ -20,7 +20,16 @@ Like, basic tables of text lol" type="tweet" created="Sun, 01 Aug 2021 15:33:19 
 							<outline text="Right now I’m using it to manage pharmacy inventory between two locations. 
 
 CSV export, paste link to another sheet, then filtering, sorting, and custom formulas to help present the data in usable ways — and to answer questions I think of." type="tweet" created="Sun, 01 Aug 2021 15:35:33 GMT" tweetId="1421857139375620100" urltweet="https://twitter.com/brandontoner/status/1421857139375620100" inReplyToId="1421856678400729090" tweetUserName="brandontoner" >
-								<outline text="What’s happening, I think, is that I’m starting to *think* in data." type="tweet" created="Sun, 01 Aug 2021 15:41:12 GMT" tweetId="1421858561525788680" urltweet="https://twitter.com/brandontoner/status/1421858561525788680" inReplyToId="1421857139375620100" tweetUserName="brandontoner" />
+								<outline text="What’s happening, I think, is that I’m starting to *think* in data." type="tweet" created="Sun, 01 Aug 2021 15:41:12 GMT" tweetId="1421858561525788680" urltweet="https://twitter.com/brandontoner/status/1421858561525788680" inReplyToId="1421857139375620100" tweetUserName="brandontoner" >
+									<outline text="I pass most things through a data lens. 
+
+What’s the desired outcome/status?
+What is my decision making algorithm? 
+What data do I need? 
+Can I get that data directly? 
+If not, can I it using other data and formulas? 
+How do I want it presented?" type="tweet" created="Sun, 01 Aug 2021 15:45:33 GMT" tweetId="1421859654410424327" urltweet="https://twitter.com/brandontoner/status/1421859654410424327" inReplyToId="1421858561525788680" tweetUserName="brandontoner" />
+									</outline>
 								</outline>
 							</outline>
 						</outline>
