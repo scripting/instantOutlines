@@ -6,21 +6,26 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 22 Jul 2021 13:01:31 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 15:33:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="I’m falling in love with Excel lol" type="tweet" created="Sun, 01 Aug 2021 15:32:18 GMT" tweetId="1421856322610421761" urltweet="https://twitter.com/brandontoner/status/1421856322610421761" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 22" type="calendarDay" name="22" >
-				<outline text="It's my #Twitterversary! I have been on Twitter for 1 year, since 21 Jul 2020 (via @twi_age)." type="tweet" created="Thu, 22 Jul 2021 13:01:12 GMT" tweetId="1418194416255176705" urltweet="https://twitter.com/brandontoner/status/1418194416255176705" inReplyToId="" tweetUserName="brandontoner" />
+				<outline text="It's my #Twitterversary! I have been on Twitter for 1 year, since 21 Jul 2020 (via @twi_age)." type="tweet" created="Thu, 22 Jul 2021 13:01:12 GMT" tweetId="1418194416255176705" urltweet="https://twitter.com/brandontoner/status/1418194416255176705" tweetUserName="brandontoner" />
 				</outline>
 			<outline text="July 20" type="calendarDay" name="20" >
-				<outline text="One year. #MyTwitterAnniversary &lt;a href=&quot;https://twitter.com/brandontoner/status/1417648200383614979/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 00:50:44 GMT" tweetId="1417648200383614979" urltweet="https://twitter.com/brandontoner/status/1417648200383614979" inReplyToId="" tweetUserName="brandontoner" />
+				<outline text="One year. #MyTwitterAnniversary &lt;a href=&quot;https://twitter.com/brandontoner/status/1417648200383614979/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 21 Jul 2021 00:50:44 GMT" tweetId="1417648200383614979" urltweet="https://twitter.com/brandontoner/status/1417648200383614979" tweetUserName="brandontoner" />
 				</outline>
 			<outline text="July 14" type="calendarDay" name="14" >
 				<outline text="WELL. After some wrestling and some steep learning curves, it seems that V0.1 of the website is live and functional. 
 
-https://t.co/coT8IWLt9P" type="tweet" created="Wed, 14 Jul 2021 16:05:26 GMT" tweetId="1415341678769156099" urltweet="https://twitter.com/brandontoner/status/1415341678769156099" inReplyToId="" tweetUserName="brandontoner" >
+https://t.co/coT8IWLt9P" type="tweet" created="Wed, 14 Jul 2021 16:05:26 GMT" tweetId="1415341678769156099" urltweet="https://twitter.com/brandontoner/status/1415341678769156099" tweetUserName="brandontoner" >
 					<outline text="• Created a Digital Ocean droplet
 • Created a PagePark server*
 • OPML content live-published via the Little Outliner editor*
@@ -41,14 +46,14 @@ They are the backbone of the site." type="tweet" created="Wed, 14 Jul 2021 16:25
 			<outline text="July 11" type="calendarDay" name="11" >
 				<outline text="How have I gone this long without learning the Mac command line?? 
 
-This is fun." type="tweet" created="Mon, 12 Jul 2021 01:16:52 GMT" tweetId="1414393286505209857" urltweet="https://twitter.com/brandontoner/status/1414393286505209857" inReplyToId="" tweetUserName="brandontoner" >
+This is fun." type="tweet" created="Mon, 12 Jul 2021 01:16:52 GMT" tweetId="1414393286505209857" urltweet="https://twitter.com/brandontoner/status/1414393286505209857" tweetUserName="brandontoner" >
 					<outline text="Homebrew is wild." type="tweet" created="Mon, 12 Jul 2021 01:17:04 GMT" tweetId="1414393337935798273" urltweet="https://twitter.com/brandontoner/status/1414393337935798273" inReplyToId="1414393286505209857" tweetUserName="brandontoner" />
 					</outline>
 				</outline>
 			<outline text="July 10" type="calendarDay" name="10" >
 				<outline text="Loving TedEd’s user experience. 
 
-It’s especially fun to interact with since one of my courses right now is a brief intro to educational theory &amp;amp; design. &lt;a href=&quot;https://twitter.com/brandontoner/status/1414025982596501508/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 00:57:20 GMT" tweetId="1414025982596501508" urltweet="https://twitter.com/brandontoner/status/1414025982596501508" inReplyToId="" tweetUserName="brandontoner" >
+It’s especially fun to interact with since one of my courses right now is a brief intro to educational theory &amp;amp; design. &lt;a href=&quot;https://twitter.com/brandontoner/status/1414025982596501508/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Jul 2021 00:57:20 GMT" tweetId="1414025982596501508" urltweet="https://twitter.com/brandontoner/status/1414025982596501508" tweetUserName="brandontoner" >
 					<outline text="In particular, I LOVE that side-pane.
 
 • Watch
@@ -85,7 +90,7 @@ Pretty cool if that’s your jam — though I’d prefer taking the convo to Twi
 
 • “What is the internet?” 
 • “How does the internet work?” 
-• “What is needed to create an host a website?”" type="tweet" created="Sat, 10 Jul 2021 23:54:44 GMT" tweetId="1414010227922460675" urltweet="https://twitter.com/brandontoner/status/1414010227922460675" inReplyToId="" tweetUserName="brandontoner" >
+• “What is needed to create an host a website?”" type="tweet" created="Sat, 10 Jul 2021 23:54:44 GMT" tweetId="1414010227922460675" urltweet="https://twitter.com/brandontoner/status/1414010227922460675" tweetUserName="brandontoner" >
 					<outline text="It’s so easy to breeze over the basics of something — and take a thing for granted. 
 
 Digging into those “right under your nose”-type questions are my favourite." type="tweet" created="Sat, 10 Jul 2021 23:55:30 GMT" tweetId="1414010422550749185" urltweet="https://twitter.com/brandontoner/status/1414010422550749185" inReplyToId="1414010227922460675" tweetUserName="brandontoner" >
