@@ -14,7 +14,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 15:52:07 GMT</dateModified>
+		<dateModified>Sun, 01 Aug 2021 15:53:02 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>4</lastCursor>
 		</head>
@@ -23,7 +23,7 @@
 			<outline text="August 1" created="Sun, 01 Aug 2021 15:41:32 GMT" type="calendarDay" name="01" >
 				<outline text="The &lt;a href=&quot;http://scripting.com/2020/06/23/115824.html?title=anEzpassForNews&quot;&gt;E-ZPass for News&lt;/a&gt; idea is &lt;a href=&quot;https://twitter.com/KristyT/status/1421204761177518080&quot;&gt;out there&lt;/a&gt;. " created="Sun, 01 Aug 2021 15:44:17 GMT" type="outline" />
 				<outline text="Someone should write a book about the lost software ideas of the 70s and 80s. There's a lot of reinventing going on. Layers of reinvention. It'd be great if there was one book earnest devs could read, ones who want to build on what was learned in the past. " created="Sun, 01 Aug 2021 15:43:39 GMT" type="outline" />
-				<outline text="The monthly ritual is complete. Here's the &lt;a href=&quot;https://github.com/scripting/Scripting-News/blob/master/blog/opml/2021/07.opml&quot;&gt;OPML for July 2021&lt;/a&gt;. And just for fun, I &lt;a href=&quot;http://scripting.com/publicfolder/misc/scriptingNewsArchiveInOpmlFromMay2017.zip&quot;&gt;zipped up&lt;/a&gt; an archive of the [[OPML]] for this blog going back to May 2017, when I deployed my &quot;new&quot; content management system. It's all a matter of perspective I guess. 2017 seems to me like a short time ago, but then a lot has happened in the interim. Some of it is in the contents of the blog. I think some interesting apps could be built using this archive as a seed. So far there haven't been any takers that I know of, but I think we may be getting close with all the [[tools for thought]] activity. " created="Sun, 01 Aug 2021 15:41:33 GMT" type="outline" />
+				<outline text="The monthly ritual is complete. Here's the &lt;a href=&quot;https://github.com/scripting/Scripting-News/blob/master/blog/opml/2021/07.opml&quot;&gt;OPML for July 2021&lt;/a&gt;. And just for fun, I &lt;a href=&quot;http://scripting.com/publicfolder/misc/scriptingNewsArchiveInOpmlFromMay2017.zip&quot;&gt;zipped up&lt;/a&gt; an archive going back to May 2017, when I deployed my &quot;new&quot; content management system. It's all a matter of perspective I guess. 2017 seems to me like a short time ago, but then a lot has happened in the interim. Some of it is in the contents of the blog. I think some interesting apps could be built using this archive as a seed. So far there haven't been any takers that I know of, but I think we may be getting close with all the [[tools for thought]] activity. " created="Sun, 01 Aug 2021 15:41:33 GMT" type="outline" />
 				</outline>
 			</outline>
 		</body>
