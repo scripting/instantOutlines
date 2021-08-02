@@ -6,12 +6,74 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/rozzie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 24 Jul 2021 20:35:17 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 08:32:36 GMT</dateModified>
+		<urlInstant>http://instantoutliner.com/r9</urlInstant>
 		</head>
 	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 8" type="calendarDay" name="08" >
+				<outline text="&quot;We hope users believe in Apple as a trustworthy intermediary&quot; 
+
+&lt;a href=&quot;https://9to5mac.com/2021/06/07/craig-federighi-details-icloud-private-relay-and-ios-15-privacy-features-in-new-interview/&quot;&gt;[link]&lt;/a&gt;
+
+Even w/ clearly good intent, a centralized &quot;first hop&quot; (plus the Find My net) solidifies Apple as the #1 govt tool/target for the foreseeable future
+
+There's a better way eg @NetAbstraction" type="tweet" created="Tue, 08 Jun 2021 11:20:16 GMT" tweetId="1402223949895933956" urltweet="https://twitter.com/rozzie/status/1402223949895933956" tweetUserName="rozzie" />
+				</outline>
+			<outline text="June 1" type="calendarDay" name="01" >
+				<outline text="Congrats, Amit, and thank you for your service.
+
+&lt;a href=&quot;https://potomacofficersclub.com/news/amit-mital-named-nsc-senior-director-special-assistant-to-the-president/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 01 Jun 2021 20:26:09 GMT" tweetId="1399824610691104770" urltweet="https://twitter.com/rozzie/status/1399824610691104770" tweetUserName="rozzie" />
+				</outline>
+			</outline>
+		<outline text="March 2021" type="calendarMonth" name="march2021" >
+			<outline text="March 30" type="calendarDay" name="30" >
+				<outline text="Absolutely +1 &lt;a href=&quot;https://twitter.com/avc/status/1376485995613409282&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 31 Mar 2021 01:24:13 GMT" tweetId="1377069188670484486" urltweet="https://twitter.com/rozzie/status/1377069188670484486" tweetUserName="rozzie" />
+				</outline>
+			</outline>
+		<outline text="May 2021" type="calendarMonth" name="may2021" >
+			<outline text="May 7" type="calendarDay" name="07" >
+				<outline text="This is a high-impact decision. 
+
+Some devs need to use Win x86-only apps (in our case IAR Embedded Workbench for ARM) while also needing to use Xcode.
+
+Other than carrying two laptops, have others had thoughts as to how the cross-platform dev community might cope?
+
+@siracusa? &lt;a href=&quot;https://twitter.com/VMwareFusion/status/1387900548779679745&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 07 May 2021 21:57:16 GMT" tweetId="1390787844512260097" urltweet="https://twitter.com/rozzie/status/1390787844512260097" tweetUserName="rozzie" />
+				</outline>
+			</outline>
+		<outline text="July 2021" type="calendarMonth" name="july2021" >
+			<outline text="July 13" type="calendarDay" name="13" >
+				<outline text="Hey @natfriedman, this is not unrelated to what we'd discussed some time back. &lt;a href=&quot;https://twitter.com/davewiner/status/1414945524101287938&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 13 Jul 2021 15:45:28 GMT" tweetId="1414974265787654154" urltweet="https://twitter.com/rozzie/status/1414974265787654154" tweetUserName="rozzie" />
+				</outline>
+			<outline text="July 12" type="calendarDay" name="12" >
+				<outline text="Very pleased to announce that our @blueswireless Series A round was led by @sequoia and @lachygroom, joined by @xyz_vc and returning investor BMGI.
+
+A strongly product-led developer-focused company, working with tremendous commercial customers. Join us!
+
+&lt;a href=&quot;https://www.geekwire.com/2021/ray-ozzies-telecom-startup-blues-wireless-raises-22m-bill-gates-others/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 14:47:22 GMT" tweetId="1414597256586711048" urltweet="https://twitter.com/rozzie/status/1414597256586711048" tweetUserName="rozzie" >
+					<outline text="Thanks, @inafried 
+
+&lt;a href=&quot;https://www.axios.com/ray-ozzie-blues-wireless-5g-funding-5dd3b9d2-f16e-4e27-a0c8-d01ca99518ff.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 12 Jul 2021 15:00:11 GMT" tweetId="1414600483679862791" urltweet="https://twitter.com/rozzie/status/1414600483679862791" inReplyToId="1414597256586711048" tweetUserName="rozzie" />
+					</outline>
+				</outline>
+			</outline>
 		<outline text="April 2021" type="calendarMonth" name="april2021" >
+			<outline text="April 22" type="calendarDay" name="22" >
+				<outline text="Enjoyed participating in today's @SafecastJapan #EarthDay event.
+
+Impressed seeing Airbox's success in Taiwan!
+&lt;a href=&quot;https://v5.airmap.g0v.tw/#/map&quot;&gt;[link]&lt;/a&gt;
+https://t.co/WcusEe47eY
+
+This is why there's excitement about Airnote: $150 and 15 min puts your neighborhood on the map.
+https://t.co/Kh2y3ZKRRE" type="tweet" created="Thu, 22 Apr 2021 11:41:27 GMT" tweetId="1385197050426445846" urltweet="https://twitter.com/rozzie/status/1385197050426445846" tweetUserName="rozzie" />
+				</outline>
+			<outline text="April 18" type="calendarDay" name="18" >
+				<outline text="Beast Mode is wicked-eloquent in framing the issues. Well worth watching. &lt;a href=&quot;https://twitter.com/deanhach/status/1383828745149050884&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 18 Apr 2021 17:55:10 GMT" tweetId="1383841550807945218" urltweet="https://twitter.com/rozzie/status/1383841550807945218" tweetUserName="rozzie" />
+				</outline>
 			<outline text="April 11" type="calendarDay" name="11" >
-				<outline text="For some strange reason, in past weeks I've once again become enamored of this little device given to me by @jallard &lt;a href=&quot;https://twitter.com/rozzie/status/1381282430707990529/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Apr 2021 16:26:09 GMT" tweetId="1381282430707990529" urltweet="https://twitter.com/rozzie/status/1381282430707990529" inReplyToId="" tweetUserName="rozzie" />
+				<outline text="For some strange reason, in past weeks I've once again become enamored of this little device given to me by @jallard &lt;a href=&quot;https://twitter.com/rozzie/status/1381282430707990529/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 11 Apr 2021 16:26:09 GMT" tweetId="1381282430707990529" urltweet="https://twitter.com/rozzie/status/1381282430707990529" tweetUserName="rozzie" />
 				</outline>
 			</outline>
 		</body>
