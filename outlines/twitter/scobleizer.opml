@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 08:32:24 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 08:40:25 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -20,17 +20,18 @@ True story.
 
 The lady next door studies literature at a high level.
 
-I am the stupid one." type="tweet" created="Mon, 02 Aug 2021 08:29:54 GMT" tweetId="1422112407363543041" urltweet="https://twitter.com/scobleizer/status/1422112407363543041" inReplyToId="" tweetUserName="scobleizer" >
+I am the stupid one." type="tweet" created="Mon, 02 Aug 2021 08:29:54 GMT" tweetId="1422112407363543041" urltweet="https://twitter.com/scobleizer/status/1422112407363543041" tweetUserName="scobleizer" >
 					<outline text="Andrew: thanks for the gift of knowing my neighbors." type="tweet" created="Mon, 02 Aug 2021 08:31:48 GMT" tweetId="1422112886734786564" urltweet="https://twitter.com/scobleizer/status/1422112886734786564" inReplyToId="1422112407363543041" tweetUserName="scobleizer" />
+					<outline text="Oh, across the street? Concrete contractors. Next to a guy who does IPO’s for tech companies." type="tweet" created="Mon, 02 Aug 2021 08:39:27 GMT" tweetId="1422114813442805760" urltweet="https://twitter.com/scobleizer/status/1422114813442805760" inReplyToId="1422112407363543041" tweetUserName="scobleizer" />
 					</outline>
-				<outline text="Wow. &lt;a href=&quot;https://twitter.com/jimmygunawanapp/status/1422103328679358464&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 07:57:37 GMT" tweetId="1422104284653449221" urltweet="https://twitter.com/scobleizer/status/1422104284653449221" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Wow. &lt;a href=&quot;https://twitter.com/jimmygunawanapp/status/1422103328679358464&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 07:57:37 GMT" tweetId="1422104284653449221" urltweet="https://twitter.com/scobleizer/status/1422104284653449221" tweetUserName="scobleizer" />
 				<outline text="The reason there is so much consternation in the VR industry?
 
 TV is turning more amazing for me every week.
 
 After getting a decent 83-inch TV and audio system VR just isn’t nearly as interesting.
 
-We are playing for next year and we are tired of waiting. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1422103112077090821/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 07:52:57 GMT" tweetId="1422103112077090821" urltweet="https://twitter.com/scobleizer/status/1422103112077090821" inReplyToId="" tweetUserName="scobleizer" >
+We are playing for next year and we are tired of waiting. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1422103112077090821/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 07:52:57 GMT" tweetId="1422103112077090821" urltweet="https://twitter.com/scobleizer/status/1422103112077090821" tweetUserName="scobleizer" >
 					<outline text="VR is not dead. It just needed more time in the oven." type="tweet" created="Mon, 02 Aug 2021 07:53:50 GMT" tweetId="1422103332898762755" urltweet="https://twitter.com/scobleizer/status/1422103332898762755" inReplyToId="1422103112077090821" tweetUserName="scobleizer" />
 					<outline text="I am seeing things in my photography that I never would see without such a big TV. Wow." type="tweet" created="Mon, 02 Aug 2021 07:55:05 GMT" tweetId="1422103646590828544" urltweet="https://twitter.com/scobleizer/status/1422103646590828544" inReplyToId="1422103112077090821" tweetUserName="scobleizer" >
 						<outline text="And VR didn’t show this to me. So sad." type="tweet" created="Mon, 02 Aug 2021 07:55:56 GMT" tweetId="1422103861263667205" urltweet="https://twitter.com/scobleizer/status/1422103861263667205" inReplyToId="1422103646590828544" tweetUserName="scobleizer" />
@@ -47,10 +48,10 @@ We are playing for next year and we are tired of waiting. &lt;a href=&quot;https
 			<outline text="July 31" type="calendarDay" name="31" >
 				<outline text="Just went to the Tesla factory in Fremont. Model Y’s are sold out until December. 
 
-Factory employee parking lots are packed. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1421664629445447680/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 02:50:35 GMT" tweetId="1421664629445447680" urltweet="https://twitter.com/scobleizer/status/1421664629445447680" inReplyToId="" tweetUserName="scobleizer" />
+Factory employee parking lots are packed. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1421664629445447680/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 02:50:35 GMT" tweetId="1421664629445447680" urltweet="https://twitter.com/scobleizer/status/1421664629445447680" tweetUserName="scobleizer" />
 				<outline text="Dolby Atmos Music playlists:
 
-You might not realize that Apple Music is dramatically better now than Spotify or Tidal, particularly because Apple now is distributing music in Dolby Atmos format (better bass, better definition, and multi-channel -- much more like the real thing)." type="tweet" created="Sat, 31 Jul 2021 17:14:19 GMT" tweetId="1421519605462278144" urltweet="https://twitter.com/scobleizer/status/1421519605462278144" inReplyToId="" tweetUserName="scobleizer" >
+You might not realize that Apple Music is dramatically better now than Spotify or Tidal, particularly because Apple now is distributing music in Dolby Atmos format (better bass, better definition, and multi-channel -- much more like the real thing)." type="tweet" created="Sat, 31 Jul 2021 17:14:19 GMT" tweetId="1421519605462278144" urltweet="https://twitter.com/scobleizer/status/1421519605462278144" tweetUserName="scobleizer" >
 					<outline text="My playlists ONLY include Dolby Atmos music. Others, that say they are for Spatial Audio, include non-Atmos music. Mine aren't yet complete, but get better every day.
 Got anything to add?
 Good selection: &lt;a href=&quot;https://music.apple.com/.../dolby-atmos.../pl.u-E2VCa2qY2A&quot;&gt;[link]&lt;/a&gt; 
@@ -63,7 +64,7 @@ I love following other music lovers too, so your listening behavior brings me mo
 					</outline>
 				</outline>
 			<outline text="July 30" type="calendarDay" name="30" >
-				<outline text="Do you have a Dolby Atmos audio system?" type="tweet" created="Fri, 30 Jul 2021 23:41:36 GMT" tweetId="1421254681452421120" urltweet="https://twitter.com/scobleizer/status/1421254681452421120" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Do you have a Dolby Atmos audio system?" type="tweet" created="Fri, 30 Jul 2021 23:41:36 GMT" tweetId="1421254681452421120" urltweet="https://twitter.com/scobleizer/status/1421254681452421120" tweetUserName="scobleizer" />
 				<outline text="Innovation.
 Creativity.
 State of the art (best enjoyed on a Dolby Atmos and Vision TV and audio system).
@@ -72,7 +73,7 @@ Anyone want to come over and watch it on a $12,000 AV system?
 
 If you are a creator you are invited.
 
-Do you know the way to San Jose? &lt;a href=&quot;https://twitter.com/applemusic/status/1421135999464210432&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 21:41:39 GMT" tweetId="1421224496330002434" urltweet="https://twitter.com/scobleizer/status/1421224496330002434" inReplyToId="" tweetUserName="scobleizer" />
+Do you know the way to San Jose? &lt;a href=&quot;https://twitter.com/applemusic/status/1421135999464210432&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 21:41:39 GMT" tweetId="1421224496330002434" urltweet="https://twitter.com/scobleizer/status/1421224496330002434" tweetUserName="scobleizer" />
 				<outline text="This isn’t about music.
 
 It is about the creative process and innovation.
@@ -83,18 +84,18 @@ Hugely important for the AR/VR industry.
 
 It is life changing.
 
-All six episodes are amazing. &lt;a href=&quot;https://twitter.com/markronson/status/1421168458407071747&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 21:36:47 GMT" tweetId="1421223272197197827" urltweet="https://twitter.com/scobleizer/status/1421223272197197827" inReplyToId="" tweetUserName="scobleizer" />
+All six episodes are amazing. &lt;a href=&quot;https://twitter.com/markronson/status/1421168458407071747&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 21:36:47 GMT" tweetId="1421223272197197827" urltweet="https://twitter.com/scobleizer/status/1421223272197197827" tweetUserName="scobleizer" />
 				<outline text="Tim Cook watched Steve Jobs kick out Apple’s then current CEO. 
 
 There is no way Tim will allow that to happen until he ships the things he worked for a decade on.
 
-That is next year. &lt;a href=&quot;https://twitter.com/elonmusk/status/1421150913075503112&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 19:15:38 GMT" tweetId="1421187751383240706" urltweet="https://twitter.com/scobleizer/status/1421187751383240706" inReplyToId="" tweetUserName="scobleizer" />
+That is next year. &lt;a href=&quot;https://twitter.com/elonmusk/status/1421150913075503112&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 19:15:38 GMT" tweetId="1421187751383240706" urltweet="https://twitter.com/scobleizer/status/1421187751383240706" tweetUserName="scobleizer" />
 				<outline text="“Watch the Sound” with @MarkRonson is an amazing look at how tech is used in the music industry.
 
-Must watch for people who care about experiences (either consuming or making). &lt;a href=&quot;https://twitter.com/markronson/status/1421168458407071747&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 18:42:20 GMT" tweetId="1421179370366898184" urltweet="https://twitter.com/scobleizer/status/1421179370366898184" inReplyToId="" tweetUserName="scobleizer" />
+Must watch for people who care about experiences (either consuming or making). &lt;a href=&quot;https://twitter.com/markronson/status/1421168458407071747&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 18:42:20 GMT" tweetId="1421179370366898184" urltweet="https://twitter.com/scobleizer/status/1421179370366898184" tweetUserName="scobleizer" />
 				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
-				<outline text="I want Sutu’s Verse in my house. &lt;a href=&quot;https://twitter.com/sutu_eats_flies/status/1420123521699569668&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 15:56:00 GMT" tweetId="1420775123569709060" urltweet="https://twitter.com/scobleizer/status/1420775123569709060" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="I want Sutu’s Verse in my house. &lt;a href=&quot;https://twitter.com/sutu_eats_flies/status/1420123521699569668&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 15:56:00 GMT" tweetId="1420775123569709060" urltweet="https://twitter.com/scobleizer/status/1420775123569709060" tweetUserName="scobleizer" />
 				<outline text="My brain is a warehouse.
 
 Full of boxes.
@@ -107,32 +108,32 @@ Got me to see the value in having a crowd take a look.
 
 Makes great friends.
 
-Yes I will sign up for @neuralink" type="tweet" created="Thu, 29 Jul 2021 10:09:10 GMT" tweetId="1420687838027288578" urltweet="https://twitter.com/scobleizer/status/1420687838027288578" inReplyToId="" tweetUserName="scobleizer" >
+Yes I will sign up for @neuralink" type="tweet" created="Thu, 29 Jul 2021 10:09:10 GMT" tweetId="1420687838027288578" urltweet="https://twitter.com/scobleizer/status/1420687838027288578" tweetUserName="scobleizer" >
 					<outline text="Almost always people feel guilty and then share their boxes with me" type="tweet" created="Thu, 29 Jul 2021 10:11:39 GMT" tweetId="1420688464878522373" urltweet="https://twitter.com/scobleizer/status/1420688464878522373" inReplyToId="1420687838027288578" tweetUserName="scobleizer" >
 						<outline text="The conversation always leads to great places." type="tweet" created="Thu, 29 Jul 2021 10:12:15 GMT" tweetId="1420688615697313794" urltweet="https://twitter.com/scobleizer/status/1420688615697313794" inReplyToId="1420688464878522373" tweetUserName="scobleizer" />
 						</outline>
 					</outline>
-				<outline text="I expect to do most of this next Christmas. &lt;a href=&quot;https://twitter.com/mashable/status/1420571529381773317&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 09:52:35 GMT" tweetId="1420683666217332741" urltweet="https://twitter.com/scobleizer/status/1420683666217332741" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="I expect to do most of this next Christmas. &lt;a href=&quot;https://twitter.com/mashable/status/1420571529381773317&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 29 Jul 2021 09:52:35 GMT" tweetId="1420683666217332741" urltweet="https://twitter.com/scobleizer/status/1420683666217332741" tweetUserName="scobleizer" />
 				<outline text="Where do toxic people come from?
 
 Every time I take an asshole aside they were abused as children.
 
 In my case my alcoholic mom participated in my sexual abuse.
 
-Which is why I ask for empathy for assholes in the industry even as I agree they need to be removed and treated." type="tweet" created="Thu, 29 Jul 2021 09:10:25 GMT" tweetId="1420673052862341121" urltweet="https://twitter.com/scobleizer/status/1420673052862341121" inReplyToId="" tweetUserName="scobleizer" >
+Which is why I ask for empathy for assholes in the industry even as I agree they need to be removed and treated." type="tweet" created="Thu, 29 Jul 2021 09:10:25 GMT" tweetId="1420673052862341121" urltweet="https://twitter.com/scobleizer/status/1420673052862341121" tweetUserName="scobleizer" >
 					<outline text="I am physically shaking sharing this. I am getting through it with the help of @maryamie but this was my most painful tweet, by far." type="tweet" created="Thu, 29 Jul 2021 09:16:14 GMT" tweetId="1420674519442759682" urltweet="https://twitter.com/scobleizer/status/1420674519442759682" inReplyToId="1420673052862341121" tweetUserName="scobleizer" >
 						<outline text="The downside of #metoo" type="tweet" created="Thu, 29 Jul 2021 09:19:42 GMT" tweetId="1420675388204675080" urltweet="https://twitter.com/scobleizer/status/1420675388204675080" inReplyToId="1420674519442759682" tweetUserName="scobleizer" />
 						</outline>
 					</outline>
 				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
-				<outline text="Now this looks interesting. The future is coming fast. &lt;a href=&quot;https://twitter.com/metamaterialtec/status/1420189319260741633&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:08:49 GMT" tweetId="1420461256331333634" urltweet="https://twitter.com/scobleizer/status/1420461256331333634" inReplyToId="" tweetUserName="scobleizer" />
-				<outline text="Next Christmas our living rooms will look even better. &lt;a href=&quot;https://twitter.com/sutu_eats_flies/status/1420410345974210560&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:06:35 GMT" tweetId="1420460697876451328" urltweet="https://twitter.com/scobleizer/status/1420460697876451328" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Now this looks interesting. The future is coming fast. &lt;a href=&quot;https://twitter.com/metamaterialtec/status/1420189319260741633&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:08:49 GMT" tweetId="1420461256331333634" urltweet="https://twitter.com/scobleizer/status/1420461256331333634" tweetUserName="scobleizer" />
+				<outline text="Next Christmas our living rooms will look even better. &lt;a href=&quot;https://twitter.com/sutu_eats_flies/status/1420410345974210560&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 19:06:35 GMT" tweetId="1420460697876451328" urltweet="https://twitter.com/scobleizer/status/1420460697876451328" tweetUserName="scobleizer" />
 				<outline text="It might surprise you that I am for and support the #metoo movement. It is almost four years ago now.
 
 Activision’s misdeeds has me writing tonight about why. I am an investor and I think investors have a huge role to play here. 
 
-It is way past time for the industry to change." type="tweet" created="Wed, 28 Jul 2021 09:10:06 GMT" tweetId="1420310585883824132" urltweet="https://twitter.com/scobleizer/status/1420310585883824132" inReplyToId="" tweetUserName="scobleizer" >
+It is way past time for the industry to change." type="tweet" created="Wed, 28 Jul 2021 09:10:06 GMT" tweetId="1420310585883824132" urltweet="https://twitter.com/scobleizer/status/1420310585883824132" tweetUserName="scobleizer" >
 					<outline text="The CEO needs to go. Culture change is painful. But pain is how we learn and get better." type="tweet" created="Wed, 28 Jul 2021 09:11:17 GMT" tweetId="1420310884962824197" urltweet="https://twitter.com/scobleizer/status/1420310884962824197" inReplyToId="1420310585883824132" tweetUserName="scobleizer" >
 						<outline text="New management is needed. The old team has zero ability to credibly guide the company." type="tweet" created="Wed, 28 Jul 2021 09:12:46 GMT" tweetId="1420311257584783361" urltweet="https://twitter.com/scobleizer/status/1420311257584783361" inReplyToId="1420310884962824197" tweetUserName="scobleizer" />
 						</outline>
@@ -140,7 +141,7 @@ It is way past time for the industry to change." type="tweet" created="Wed, 28 J
 					</outline>
 				</outline>
 			<outline text="July 27" type="calendarDay" name="27" >
-				<outline text="Another magic of VR. @getsupernatural is awesome! It should be. Its founder was the first to show me Spatial Audio and VR. &lt;a href=&quot;https://twitter.com/brittlestar/status/1420027462793170946&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:34:21 GMT" tweetId="1420150594531053570" urltweet="https://twitter.com/scobleizer/status/1420150594531053570" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Another magic of VR. @getsupernatural is awesome! It should be. Its founder was the first to show me Spatial Audio and VR. &lt;a href=&quot;https://twitter.com/brittlestar/status/1420027462793170946&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:34:21 GMT" tweetId="1420150594531053570" urltweet="https://twitter.com/scobleizer/status/1420150594531053570" tweetUserName="scobleizer" />
 				<outline text="This is another place we all have gone down a bad path.
 
 The best experiences will be done by diverse teams.
@@ -149,9 +150,9 @@ Beyoncé not fat white sexist guys like me.
 
 Watch this of hers: &lt;a href=&quot;https://www.youtube.com/watch?v=jOSfoVdqSRk&amp;feature=youtu.be&quot;&gt;[link]&lt;/a&gt;
 
-This is the future. https://t.co/63oD35DSe1" type="tweet" created="Tue, 27 Jul 2021 22:25:49 GMT" tweetId="1420148448888688644" urltweet="https://twitter.com/scobleizer/status/1420148448888688644" inReplyToId="" tweetUserName="scobleizer" />
-				<outline text="Sutu is focusing on experiences. Brilliant. &lt;a href=&quot;https://twitter.com/sutu_eats_flies/status/1420123521699569668&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:15:03 GMT" tweetId="1420145738449702916" urltweet="https://twitter.com/scobleizer/status/1420145738449702916" inReplyToId="" tweetUserName="scobleizer" />
-				<outline text="Look for Apple to accelerate over the next three years. &lt;a href=&quot;https://twitter.com/neilcybart/status/1420121798117666820&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:11:53 GMT" tweetId="1420144940353351681" urltweet="https://twitter.com/scobleizer/status/1420144940353351681" inReplyToId="" tweetUserName="scobleizer" />
+This is the future. https://t.co/63oD35DSe1" type="tweet" created="Tue, 27 Jul 2021 22:25:49 GMT" tweetId="1420148448888688644" urltweet="https://twitter.com/scobleizer/status/1420148448888688644" tweetUserName="scobleizer" />
+				<outline text="Sutu is focusing on experiences. Brilliant. &lt;a href=&quot;https://twitter.com/sutu_eats_flies/status/1420123521699569668&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:15:03 GMT" tweetId="1420145738449702916" urltweet="https://twitter.com/scobleizer/status/1420145738449702916" tweetUserName="scobleizer" />
+				<outline text="Look for Apple to accelerate over the next three years. &lt;a href=&quot;https://twitter.com/neilcybart/status/1420121798117666820&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:11:53 GMT" tweetId="1420144940353351681" urltweet="https://twitter.com/scobleizer/status/1420144940353351681" tweetUserName="scobleizer" />
 				<outline text="What I am looking forward to in VR/AR:
 
 Going to a concert.
@@ -161,21 +162,21 @@ Experiencing art museum.
 Playing blackjack.
 Traveling to places I can’t get to.
 
-Focus on delivering experiences that blow people away. Or argue that this is all metaverse. :-)" type="tweet" created="Tue, 27 Jul 2021 21:57:04 GMT" tweetId="1420141212841832448" urltweet="https://twitter.com/scobleizer/status/1420141212841832448" inReplyToId="" tweetUserName="scobleizer" />
+Focus on delivering experiences that blow people away. Or argue that this is all metaverse. :-)" type="tweet" created="Tue, 27 Jul 2021 21:57:04 GMT" tweetId="1420141212841832448" urltweet="https://twitter.com/scobleizer/status/1420141212841832448" tweetUserName="scobleizer" />
 				<outline text="My 11-year-old son calls the Metaverse “playing with friends.”
 
 He is on Discord and a variety of things that are technically the metaverse. They NEVER use the term metaverse.
 
 It is where this industry has gone into a bad place.
 
-Think about experiences." type="tweet" created="Tue, 27 Jul 2021 18:54:38 GMT" tweetId="1420095299037499396" urltweet="https://twitter.com/scobleizer/status/1420095299037499396" inReplyToId="" tweetUserName="scobleizer" />
+Think about experiences." type="tweet" created="Tue, 27 Jul 2021 18:54:38 GMT" tweetId="1420095299037499396" urltweet="https://twitter.com/scobleizer/status/1420095299037499396" tweetUserName="scobleizer" />
 				<outline text="Metaverse is what you experience after doing LSD.
 
 I stared at a brick wall for an hour once when I was tripping.
 
 In the grout was an entire metaverse.
 
-I hate the term already." type="tweet" created="Tue, 27 Jul 2021 04:54:19 GMT" tweetId="1419883828143820800" urltweet="https://twitter.com/scobleizer/status/1419883828143820800" inReplyToId="" tweetUserName="scobleizer" >
+I hate the term already." type="tweet" created="Tue, 27 Jul 2021 04:54:19 GMT" tweetId="1419883828143820800" urltweet="https://twitter.com/scobleizer/status/1419883828143820800" tweetUserName="scobleizer" >
 					<outline text="But if we are gonna use it @AeonixAeon should be on the board." type="tweet" created="Tue, 27 Jul 2021 04:55:31 GMT" tweetId="1419884131370999811" urltweet="https://twitter.com/scobleizer/status/1419884131370999811" inReplyToId="1419883828143820800" tweetUserName="scobleizer" />
 					</outline>
 				</outline>
@@ -184,7 +185,7 @@ I hate the term already." type="tweet" created="Tue, 27 Jul 2021 04:54:19 GMT" t
 
 Way way way better sounding than Tidal or Spotify:
 
-&lt;a href=&quot;https://music.apple.com/us/playlist/huge-spatial-audio-collection/pl.u-zJYsZ6806L&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 21:50:02 GMT" tweetId="1419777053516197893" urltweet="https://twitter.com/scobleizer/status/1419777053516197893" inReplyToId="" tweetUserName="scobleizer" />
+&lt;a href=&quot;https://music.apple.com/us/playlist/huge-spatial-audio-collection/pl.u-zJYsZ6806L&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 21:50:02 GMT" tweetId="1419777053516197893" urltweet="https://twitter.com/scobleizer/status/1419777053516197893" tweetUserName="scobleizer" />
 				</outline>
 			<outline text="July 23" type="calendarDay" name="23" >
 				<outline text="I will use it. But I have almost my entire life there already.
