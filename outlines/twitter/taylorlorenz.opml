@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 18:10:05 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 20:02:12 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
-				<outline text="They are just full on going for it!! &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422258278646501391/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 18:09:32 GMT" tweetId="1422258278646501391" urltweet="https://twitter.com/taylorlorenz/status/1422258278646501391" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="They are just full on going for it!! &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422258278646501391/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 18:09:32 GMT" tweetId="1422258278646501391" urltweet="https://twitter.com/taylorlorenz/status/1422258278646501391" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Ahhhh! &lt;a href=&quot;https://twitter.com/krupali/status/1422285300521263105&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 20:01:55 GMT" tweetId="1422286562151202817" urltweet="https://twitter.com/taylorlorenz/status/1422286562151202817" inReplyToId="1422258278646501391" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Best part of the morning has been educating @RMac18 on the wide world of Divorcefluencers &lt;a href=&quot;https://twitter.com/RMac18/status/1422226198743052292&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 16:06:22 GMT" tweetId="1422227283822071811" urltweet="https://twitter.com/taylorlorenz/status/1422227283822071811" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="🔥🔥🔥 the evolution we love to see on @nytimesbusiness 🥰 &lt;a href=&quot;https://twitter.com/puiwingtam/status/1422219100126732291&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:47:45 GMT" tweetId="1422222597358428160" urltweet="https://twitter.com/taylorlorenz/status/1422222597358428160" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I wrote about a new startup called F*** You Pay Me, that's building basically a Glassdoor for influencers, and the power shift from traditional brands to the creators &lt;a href=&quot;https://www.nytimes.com/2021/08/02/technology/fypm-creators-app-pay.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:35:45 GMT" tweetId="1422219579330228230" urltweet="https://twitter.com/taylorlorenz/status/1422219579330228230" inReplyToId="" tweetUserName="taylorlorenz" >
