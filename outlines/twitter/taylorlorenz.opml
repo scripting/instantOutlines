@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 21:17:17 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 21:27:17 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Someone let the girl in the 72 square foot micro studio know 👇🏻 &lt;a href=&quot;https://twitter.com/nytrealestate/status/1420770612344238082&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 21:26:25 GMT" tweetId="1422307827146579968" urltweet="https://twitter.com/taylorlorenz/status/1422307827146579968" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="OMG!! this is so cool &lt;a href=&quot;https://twitter.com/NickDiodato/status/1422292161735893001&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 21:16:27 GMT" tweetId="1422305316054585345" urltweet="https://twitter.com/taylorlorenz/status/1422305316054585345" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="The bathroom did me in &lt;a href=&quot;https://www.insider.com/living-in-microstudio-apartment-in-nyc-what-its-like-cost-2021-6&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 20:23:21 GMT" tweetId="1422291955032068115" urltweet="https://twitter.com/taylorlorenz/status/1422291955032068115" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="They are just full on going for it!! &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422258278646501391/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 18:09:32 GMT" tweetId="1422258278646501391" urltweet="https://twitter.com/taylorlorenz/status/1422258278646501391" inReplyToId="" tweetUserName="taylorlorenz" >
