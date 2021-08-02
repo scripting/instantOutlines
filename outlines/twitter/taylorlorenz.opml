@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 01:20:01 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 05:19:16 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Important thread and reminder that for many “mild” Covid can result in serious disability and chronic illness &lt;a href=&quot;https://twitter.com/lauramiers/status/1421969767649447944&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 05:18:27 GMT" tweetId="1422064227213135878" urltweet="https://twitter.com/taylorlorenz/status/1422064227213135878" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
 				<outline text="Extra extra read all about it! &lt;a href=&quot;https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html&quot;&gt;[link]&lt;/a&gt; https://t.co/z7sv1Ra9I6" type="tweet" created="Mon, 02 Aug 2021 01:19:28 GMT" tweetId="1422004087868952577" urltweet="https://twitter.com/taylorlorenz/status/1422004087868952577" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Tinx is always on brand! It's what makes her an effective influencer :) &lt;a href=&quot;https://twitter.com/JordanUhl/status/1421996383981215745&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 01:08:07 GMT" tweetId="1422001230507741185" urltweet="https://twitter.com/taylorlorenz/status/1422001230507741185" inReplyToId="" tweetUserName="taylorlorenz" />
