@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 02 Aug 2021 12:45:01 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 14:22:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="I tried to set up https://t.co/Q05prZiTQZ and scriptingnews.come as redirects to https://t.co/gPQ9VPYOLB but there's a DNS issue when I try to go to them from my desktop. 
+
+Do they work for you? 
+
+I will delete this message after I get enough responses. Thanks." type="tweet" created="Mon, 02 Aug 2021 14:22:56 GMT" tweetId="1422201253560475652" urltweet="https://twitter.com/davewiner/status/1422201253560475652" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="February: Donald McNeil, the Jeremy Lin of the NYT. https://t.co/lyuDUEgRMW" type="tweet" created="Mon, 02 Aug 2021 12:42:13 GMT" tweetId="1422175907805110275" urltweet="https://twitter.com/davewiner/status/1422175907805110275" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Did the New York Times stifle lab leak debate? &lt;a href=&quot;https://unherd.com/2021/08/did-the-new-york-times-stifle-lab-leak-debate/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 12:28:02 GMT" tweetId="1422172338628481025" urltweet="https://twitter.com/davewiner/status/1422172338628481025" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Warriors owner Joe Lacob's 'win-now, develop-now' strategy is a disservice to Steph Curry. &lt;a href=&quot;https://www.sfgate.com/warriors/article/joe-lacob-nba-draft-warriors-trades-curry-16355889.php&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 11:06:43 GMT" tweetId="1422151872048246786" urltweet="https://twitter.com/davewiner/status/1422151872048246786" inReplyToId="" tweetUserName="davewiner" />
