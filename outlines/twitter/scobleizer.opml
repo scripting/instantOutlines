@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 07:56:22 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 07:58:22 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Wow. &lt;a href=&quot;https://twitter.com/jimmygunawanapp/status/1422103328679358464&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 07:57:37 GMT" tweetId="1422104284653449221" urltweet="https://twitter.com/scobleizer/status/1422104284653449221" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The reason there is so much consternation in the VR industry?
 
 TV is turning more amazing for me every week.
