@@ -6,37 +6,40 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 18:54:03 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 18:35:32 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Car design trends &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/08/02/car-design-trends/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 18:34:44 GMT" tweetId="1422264618794340352" urltweet="https://twitter.com/dsearls/status/1422264618794340352" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
-				<outline text="Shots of vast active and inactive copper mines of Miami, Arizona. Current operator is Freeport-McMoRan. &lt;a href=&quot;https://www.flickr.com/photos/docsearls/sets/72157719626166741&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 18:53:51 GMT" tweetId="1421907041279528962" urltweet="https://twitter.com/dsearls/status/1421907041279528962" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="Shots of vast active and inactive copper mines of Miami, Arizona. Current operator is Freeport-McMoRan. &lt;a href=&quot;https://www.flickr.com/photos/docsearls/sets/72157719626166741&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 18:53:51 GMT" tweetId="1421907041279528962" urltweet="https://twitter.com/dsearls/status/1421907041279528962" tweetUserName="dsearls" />
 				</outline>
 			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
-				<outline text="I was asked why live audio or video tends to be better than a transcription of either, so I pointed to this: &lt;a href=&quot;https://www.digitalriptide.org/person/doc-searls/&quot;&gt;[link]&lt;/a&gt; HT for the original (video in this case) goes to @martinn123 (An aside: it's good that one's voice ages more slowly than the rest of one's self.)" type="tweet" created="Sat, 31 Jul 2021 22:45:34 GMT" tweetId="1421602969334726672" urltweet="https://twitter.com/dsearls/status/1421602969334726672" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="I was asked why live audio or video tends to be better than a transcription of either, so I pointed to this: &lt;a href=&quot;https://www.digitalriptide.org/person/doc-searls/&quot;&gt;[link]&lt;/a&gt; HT for the original (video in this case) goes to @martinn123 (An aside: it's good that one's voice ages more slowly than the rest of one's self.)" type="tweet" created="Sat, 31 Jul 2021 22:45:34 GMT" tweetId="1421602969334726672" urltweet="https://twitter.com/dsearls/status/1421602969334726672" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 30" type="calendarDay" name="30" >
-				<outline text="Do things listen? I just told this old screen it had one last chance to light up, after failing dozens of pluggings and unpluggings, swapped adapters, different ports tried out... or I'd be done with it. So it flickered on." type="tweet" created="Fri, 30 Jul 2021 16:09:07 GMT" tweetId="1421140810251313163" urltweet="https://twitter.com/dsearls/status/1421140810251313163" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="Do things listen? I just told this old screen it had one last chance to light up, after failing dozens of pluggings and unpluggings, swapped adapters, different ports tried out... or I'd be done with it. So it flickered on." type="tweet" created="Fri, 30 Jul 2021 16:09:07 GMT" tweetId="1421140810251313163" urltweet="https://twitter.com/dsearls/status/1421140810251313163" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
-				<outline text="Heard today (second hand) that @Bing gets to track persons through clicks on ads in @DuckDuckGo. That true?" type="tweet" created="Thu, 29 Jul 2021 15:19:36 GMT" tweetId="1420765963109142534" urltweet="https://twitter.com/dsearls/status/1420765963109142534" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="Heard today (second hand) that @Bing gets to track persons through clicks on ads in @DuckDuckGo. That true?" type="tweet" created="Thu, 29 Jul 2021 15:19:36 GMT" tweetId="1420765963109142534" urltweet="https://twitter.com/dsearls/status/1420765963109142534" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
-				<outline text="(Second try: sorry for the bad link) In @VRM, QR codes are becoming fishhooks: &lt;a href=&quot;https://blogs.harvard.edu/vrm/2021/07/28/qr-code-fishhooks/&quot;&gt;[link]&lt;/a&gt; HT @erinkwoo @nytimes" type="tweet" created="Wed, 28 Jul 2021 13:11:01 GMT" tweetId="1420371216116953098" urltweet="https://twitter.com/dsearls/status/1420371216116953098" inReplyToId="" tweetUserName="dsearls" />
-				<outline text="In @VRM: QR codes are becoming fishhooks &lt;a href=&quot;https://blogs.harvard.edu/vrm/2021/07/28/qr-code-fishhooks/@erinkwoo&quot;&gt;[link]&lt;/a&gt; HT @erinkwoo @nytimes" type="tweet" created="Wed, 28 Jul 2021 12:03:23 GMT" tweetId="1420354193987100672" urltweet="https://twitter.com/dsearls/status/1420354193987100672" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="(Second try: sorry for the bad link) In @VRM, QR codes are becoming fishhooks: &lt;a href=&quot;https://blogs.harvard.edu/vrm/2021/07/28/qr-code-fishhooks/&quot;&gt;[link]&lt;/a&gt; HT @erinkwoo @nytimes" type="tweet" created="Wed, 28 Jul 2021 13:11:01 GMT" tweetId="1420371216116953098" urltweet="https://twitter.com/dsearls/status/1420371216116953098" tweetUserName="dsearls" />
+				<outline text="In @VRM: QR codes are becoming fishhooks &lt;a href=&quot;https://blogs.harvard.edu/vrm/2021/07/28/qr-code-fishhooks/@erinkwoo&quot;&gt;[link]&lt;/a&gt; HT @erinkwoo @nytimes" type="tweet" created="Wed, 28 Jul 2021 12:03:23 GMT" tweetId="1420354193987100672" urltweet="https://twitter.com/dsearls/status/1420354193987100672" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 27" type="calendarDay" name="27" >
-				<outline text="My answer to a @quora #question: &lt;a href=&quot;https://www.quora.com/Was-shortwave-and-mediumwave-radio-in-the-50s-and-60s-better-to-listen-to-than-today/answer/Doc-Searls&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:22:29 GMT" tweetId="1420147608513830917" urltweet="https://twitter.com/dsearls/status/1420147608513830917" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="My answer to a @quora #question: &lt;a href=&quot;https://www.quora.com/Was-shortwave-and-mediumwave-radio-in-the-50s-and-60s-better-to-listen-to-than-today/answer/Doc-Searls&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 27 Jul 2021 22:22:29 GMT" tweetId="1420147608513830917" urltweet="https://twitter.com/dsearls/status/1420147608513830917" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 26" type="calendarDay" name="26" >
-				<outline text="The gruntles I heard this morning were from two people, on different operating systems, flummoxed by @Microsoft #Word documents going to some cloud rather than to where they wanted. For some reason I don't have the same problem, but I thought it was worth reporting." type="tweet" created="Mon, 26 Jul 2021 18:34:18 GMT" tweetId="1419727797954752512" urltweet="https://twitter.com/dsearls/status/1419727797954752512" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="The gruntles I heard this morning were from two people, on different operating systems, flummoxed by @Microsoft #Word documents going to some cloud rather than to where they wanted. For some reason I don't have the same problem, but I thought it was worth reporting." type="tweet" created="Mon, 26 Jul 2021 18:34:18 GMT" tweetId="1419727797954752512" urltweet="https://twitter.com/dsearls/status/1419727797954752512" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 24" type="calendarDay" name="24" >
-				<outline text="What kind of snake or snakes was or were this or these? &lt;a href=&quot;https://twitter.com/dsearls/status/1419109375537524742/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 01:36:55 GMT" tweetId="1419109375537524742" urltweet="https://twitter.com/dsearls/status/1419109375537524742" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="What kind of snake or snakes was or were this or these? &lt;a href=&quot;https://twitter.com/dsearls/status/1419109375537524742/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 01:36:55 GMT" tweetId="1419109375537524742" urltweet="https://twitter.com/dsearls/status/1419109375537524742" tweetUserName="dsearls" />
 				</outline>
 			<outline text="July 19" type="calendarDay" name="19" >
 				<outline text="I love that &lt;a href=&quot;https://www.mindat.org/&quot;&gt;[link]&lt;/a&gt; exists." type="tweet" created="Mon, 19 Jul 2021 12:53:53 GMT" tweetId="1417105411279314945" urltweet="https://twitter.com/dsearls/status/1417105411279314945" tweetUserName="dsearls" />
