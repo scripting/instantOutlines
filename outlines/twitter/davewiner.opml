@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 02 Aug 2021 15:22:02 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 16:19:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -16,7 +16,9 @@
 					<outline text="2/5 Thankfully Netflix and Amazon helped to budge them. There should be, if everything were sane, a network location I can go to where I see the schedule of the whole event, past, present and future. I can schedule reminders for upcoming events. And go back, like using YouTube to" type="tweet" created="Mon, 02 Aug 2021 15:21:17 GMT" tweetId="1422215937483231244" urltweet="https://twitter.com/davewiner/status/1422215937483231244" inReplyToId="1422215934031372293" tweetUserName="davewiner" >
 						<outline text="3/5 watch events I missed. Instead I have to hunt and peck, and depend on luck, and the programmer's sense of what'll be popular, and endure NBC's business model, like only making some events available on Peacock, a service I don't use and do not want to subscribe to. It's the" type="tweet" created="Mon, 02 Aug 2021 15:21:18 GMT" tweetId="1422215941497184263" urltweet="https://twitter.com/davewiner/status/1422215941497184263" inReplyToId="1422215937483231244" tweetUserName="davewiner" >
 							<outline text="4/5 same mess as with news on the web. I subscribe to services I never watch. There are a hundred thousand shows on and nothing I want to see, and the stuff I do want to see is inaccessible. Come on. Isn't there a person in power somewhere in TV-land who is just as fed up as" type="tweet" created="Mon, 02 Aug 2021 15:21:19 GMT" tweetId="1422215945846677504" urltweet="https://twitter.com/davewiner/status/1422215945846677504" inReplyToId="1422215941497184263" tweetUserName="davewiner" >
-								<outline text="5/5 everyone else must be? Meanwhile we should give up the pretense that these athletes represent the USA, they represent NBC and should wear a peacock on their uniforms and salute NBC's flag and their anthem whatever that might be." type="tweet" created="Mon, 02 Aug 2021 15:21:20 GMT" tweetId="1422215949919338506" urltweet="https://twitter.com/davewiner/status/1422215949919338506" inReplyToId="1422215945846677504" tweetUserName="davewiner" />
+								<outline text="5/5 everyone else must be? Meanwhile we should give up the pretense that these athletes represent the USA, they represent NBC and should wear a peacock on their uniforms and salute NBC's flag and their anthem whatever that might be." type="tweet" created="Mon, 02 Aug 2021 15:21:20 GMT" tweetId="1422215949919338506" urltweet="https://twitter.com/davewiner/status/1422215949919338506" inReplyToId="1422215945846677504" tweetUserName="davewiner" >
+									<outline text="Also, obviously, NBC should pay the athletes." type="tweet" created="Mon, 02 Aug 2021 16:18:12 GMT" tweetId="1422230259336888322" urltweet="https://twitter.com/davewiner/status/1422230259336888322" inReplyToId="1422215949919338506" tweetUserName="davewiner" />
+									</outline>
 								</outline>
 							</outline>
 						</outline>
