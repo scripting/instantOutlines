@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 01 Aug 2021 22:55:31 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 01:50:42 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 1" type="calendarDay" name="01" >
+				<outline text="What's So Special About Kevin Spacey. &lt;a href=&quot;https://theiomag.com/2021/06/10/whats-so-special-about-kevin-spacey/?fbclid=IwAR3F476guBQazxX1gfYoCCIrifnLkEwDWNhPuUGvbCc9c7Lt9XE-DkOAfrI&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 01:49:48 GMT" tweetId="1422011719644286979" urltweet="https://twitter.com/davewiner/status/1422011719644286979" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The 147 Republicans Who Voted to Overturn Election Results. &lt;a href=&quot;https://www.nytimes.com/interactive/2021/01/07/us/elections/electoral-college-biden-objectors.html?campaign_id=9&amp;emc=edit_nn_20210107&amp;instance_id=25739&amp;nl=the-morning&amp;regi_id=78466333&amp;segment_id=48611&amp;te=1&amp;user_id=338c1fcc7fe6bd71cc6dac5cf0ca8e8d&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 22:54:42 GMT" tweetId="1421967655360139269" urltweet="https://twitter.com/davewiner/status/1421967655360139269" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Things Get Awkward When Snoop Dogg Goes Off Script While Talking About Skeet Shooting During Olympics Coverage. &lt;a href=&quot;https://brobible.com/sports/article/snoop-dogg-skeet-olympics-coverage/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 16:18:11 GMT" tweetId="1421867868300447746" urltweet="https://twitter.com/davewiner/status/1421867868300447746" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Someone should write a book about the lost software ideas of the 70s and 80s. There's a lot of reinventing going on. Layers of reinvention. It'd be great if there was one book earnest devs could read, ones who want to build on what was learned in the past." type="tweet" created="Sun, 01 Aug 2021 15:43:53 GMT" tweetId="1421859236842250241" urltweet="https://twitter.com/davewiner/status/1421859236842250241" inReplyToId="" tweetUserName="davewiner" />
