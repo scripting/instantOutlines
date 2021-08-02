@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 02 Aug 2021 14:22:59 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 14:31:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="I loved this piece about the venture capitalist who runs the Golden State Warriors. 
+
+&lt;a href=&quot;https://www.sfgate.com/warriors/article/joe-lacob-nba-draft-warriors-trades-curry-16355889.php&quot;&gt;[link]&lt;/a&gt;
+
+I was in the same ecosystem as the Silicon Valley VCs. I think in their hearts they believe they could do the job better than most of the entrepreneurs they invest in." type="tweet" created="Mon, 02 Aug 2021 14:31:44 GMT" tweetId="1422203468891176960" urltweet="https://twitter.com/davewiner/status/1422203468891176960" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I tried to set up https://t.co/Q05prZiTQZ and scriptingnews.come as redirects to https://t.co/gPQ9VPYOLB but there's a DNS issue when I try to go to them from my desktop. 
 
 Do they work for you? 
