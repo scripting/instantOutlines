@@ -6,12 +6,23 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 08:21:23 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 08:32:24 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Ever since Andrew Keen @ajkeen gave me heck, in his book, for not knowing my neighbors I make it a point to talk to everyone.
+
+One of the best bagpipers in the world lives on my street.
+
+True story. 
+
+The lady next door studies literature at a high level.
+
+I am the stupid one." type="tweet" created="Mon, 02 Aug 2021 08:29:54 GMT" tweetId="1422112407363543041" urltweet="https://twitter.com/scobleizer/status/1422112407363543041" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="Andrew: thanks for the gift of knowing my neighbors." type="tweet" created="Mon, 02 Aug 2021 08:31:48 GMT" tweetId="1422112886734786564" urltweet="https://twitter.com/scobleizer/status/1422112886734786564" inReplyToId="1422112407363543041" tweetUserName="scobleizer" />
+					</outline>
 				<outline text="Wow. &lt;a href=&quot;https://twitter.com/jimmygunawanapp/status/1422103328679358464&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 07:57:37 GMT" tweetId="1422104284653449221" urltweet="https://twitter.com/scobleizer/status/1422104284653449221" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The reason there is so much consternation in the VR industry?
 
