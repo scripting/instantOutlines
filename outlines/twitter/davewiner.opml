@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 02 Aug 2021 16:19:06 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 16:20:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Kanban development. &lt;a href=&quot;https://en.wikipedia.org/wiki/Kanban_(development)&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 16:19:45 GMT" tweetId="1422230649428221953" urltweet="https://twitter.com/davewiner/status/1422230649428221953" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/5 Watching the Olympics is ridiculously hard given that it's 2021 and our entire entertainment system is now computerized and networked. They've had plenty of time to adapt, but the entertainment industry is stuck in the 1980s cable model, where ever they can get away with it." type="tweet" created="Mon, 02 Aug 2021 15:21:16 GMT" tweetId="1422215934031372293" urltweet="https://twitter.com/davewiner/status/1422215934031372293" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/5 Thankfully Netflix and Amazon helped to budge them. There should be, if everything were sane, a network location I can go to where I see the schedule of the whole event, past, present and future. I can schedule reminders for upcoming events. And go back, like using YouTube to" type="tweet" created="Mon, 02 Aug 2021 15:21:17 GMT" tweetId="1422215937483231244" urltweet="https://twitter.com/davewiner/status/1422215937483231244" inReplyToId="1422215934031372293" tweetUserName="davewiner" >
 						<outline text="3/5 watch events I missed. Instead I have to hunt and peck, and depend on luck, and the programmer's sense of what'll be popular, and endure NBC's business model, like only making some events available on Peacock, a service I don't use and do not want to subscribe to. It's the" type="tweet" created="Mon, 02 Aug 2021 15:21:18 GMT" tweetId="1422215941497184263" urltweet="https://twitter.com/davewiner/status/1422215941497184263" inReplyToId="1422215937483231244" tweetUserName="davewiner" >
