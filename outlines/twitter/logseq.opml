@@ -7,33 +7,34 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Mon, 02 Aug 2021 04:36:05 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 15:53:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="&lt;a href=&quot;https://twitter.com/JulioNavr/status/1422206905817223168&quot;&gt;[link]&lt;/a&gt; https://t.co/8iw7xR8F8v" type="tweet" created="Mon, 02 Aug 2021 15:53:21 GMT" tweetId="1422224004815855618" urltweet="https://twitter.com/logseq/status/1422224004815855618" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Incredible unofficial Logseq Documentation by &lt;a href=&quot;https://github.com/mschmidtkorth&quot;&gt;[link]&lt;/a&gt;! 😱
 
 https://t.co/WsdcyCBwAv
 
-Source pages: https://t.co/leiWo9bjma https://t.co/ePvlxlsIlb" type="tweet" created="Mon, 02 Aug 2021 04:35:48 GMT" tweetId="1422053495205552130" urltweet="https://twitter.com/logseq/status/1422053495205552130" inReplyToId="" tweetUserName="logseq" />
+Source pages: https://t.co/leiWo9bjma https://t.co/ePvlxlsIlb" type="tweet" created="Mon, 02 Aug 2021 04:35:48 GMT" tweetId="1422053495205552130" urltweet="https://twitter.com/logseq/status/1422053495205552130" tweetUserName="logseq" />
 				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
-				<outline text="Thank you for the kind words! @kanru contributed the encryption part! &lt;a href=&quot;https://twitter.com/sai_prasanna/status/1421772810851012611&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 16:25:37 GMT" tweetId="1421869740033597441" urltweet="https://twitter.com/logseq/status/1421869740033597441" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Thank you for the kind words! @kanru contributed the encryption part! &lt;a href=&quot;https://twitter.com/sai_prasanna/status/1421772810851012611&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 16:25:37 GMT" tweetId="1421869740033597441" urltweet="https://twitter.com/logseq/status/1421869740033597441" tweetUserName="logseq" />
 				<outline text="SRS cards, Zotero integration, and PDF annotations are for people who enjoy learning or who gave up Anki because it's too hard to make cards. All those features are developed, our focus will be on bugs, UX enhancements, and mobile apps. 
-Also, real-time collaboration!" type="tweet" created="Sun, 01 Aug 2021 09:42:17 GMT" tweetId="1421768236404600836" urltweet="https://twitter.com/logseq/status/1421768236404600836" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Ok, a preview for our &quot;last&quot; big feature! 😄 &lt;a href=&quot;https://twitter.com/nabhan_yt/status/1421197030886711303&quot;&gt;[link]&lt;/a&gt; https://t.co/qC7wztX3mJ" type="tweet" created="Sun, 01 Aug 2021 09:25:11 GMT" tweetId="1421763933782765570" urltweet="https://twitter.com/logseq/status/1421763933782765570" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thank you Julio! &lt;a href=&quot;https://twitter.com/JulioNavr/status/1421470444759232518&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 08:59:15 GMT" tweetId="1421757408318148608" urltweet="https://twitter.com/logseq/status/1421757408318148608" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thanks! &lt;a href=&quot;https://twitter.com/curtaindsleep/status/1421381038580903939&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 08:53:47 GMT" tweetId="1421756031886008321" urltweet="https://twitter.com/logseq/status/1421756031886008321" inReplyToId="" tweetUserName="logseq" />
+Also, real-time collaboration!" type="tweet" created="Sun, 01 Aug 2021 09:42:17 GMT" tweetId="1421768236404600836" urltweet="https://twitter.com/logseq/status/1421768236404600836" tweetUserName="logseq" />
+				<outline text="Ok, a preview for our &quot;last&quot; big feature! 😄 &lt;a href=&quot;https://twitter.com/nabhan_yt/status/1421197030886711303&quot;&gt;[link]&lt;/a&gt; https://t.co/qC7wztX3mJ" type="tweet" created="Sun, 01 Aug 2021 09:25:11 GMT" tweetId="1421763933782765570" urltweet="https://twitter.com/logseq/status/1421763933782765570" tweetUserName="logseq" />
+				<outline text="Thank you Julio! &lt;a href=&quot;https://twitter.com/JulioNavr/status/1421470444759232518&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 08:59:15 GMT" tweetId="1421757408318148608" urltweet="https://twitter.com/logseq/status/1421757408318148608" tweetUserName="logseq" />
+				<outline text="Thanks! &lt;a href=&quot;https://twitter.com/curtaindsleep/status/1421381038580903939&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 08:53:47 GMT" tweetId="1421756031886008321" urltweet="https://twitter.com/logseq/status/1421756031886008321" tweetUserName="logseq" />
 				<outline text="Thank you! 
-We have some early feedback so that we made some changes, for example, removing the &quot;_key&quot; from the page title and put &quot;Abstract&quot; to a separate block, those will be in the next release! &lt;a href=&quot;https://twitter.com/AlixLahuec/status/1421133692500692993&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 08:36:28 GMT" tweetId="1421751673181990914" urltweet="https://twitter.com/logseq/status/1421751673181990914" inReplyToId="" tweetUserName="logseq" />
+We have some early feedback so that we made some changes, for example, removing the &quot;_key&quot; from the page title and put &quot;Abstract&quot; to a separate block, those will be in the next release! &lt;a href=&quot;https://twitter.com/AlixLahuec/status/1421133692500692993&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 08:36:28 GMT" tweetId="1421751673181990914" urltweet="https://twitter.com/logseq/status/1421751673181990914" tweetUserName="logseq" />
 				</outline>
 			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 30" type="calendarDay" name="30" >
-				<outline text="@zotero rocks! &lt;a href=&quot;https://twitter.com/gabriheinrichs/status/1421128564301352964&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 15:31:36 GMT" tweetId="1421131369254559746" urltweet="https://twitter.com/logseq/status/1421131369254559746" inReplyToId="" tweetUserName="logseq" />
+				<outline text="@zotero rocks! &lt;a href=&quot;https://twitter.com/gabriheinrichs/status/1421128564301352964&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 15:31:36 GMT" tweetId="1421131369254559746" urltweet="https://twitter.com/logseq/status/1421131369254559746" tweetUserName="logseq" />
 				<outline text="This plugin took the idea and inspiration from the great zotero-roam made by @AlixLahuec. Special thanks to @AlixLahuec for providing all kinds of ideas and useful suggestions!
-The documentation is at &lt;a href=&quot;https://logseq.github.io/#/page/Zotero&quot;&gt;[link]&lt;/a&gt; https://t.co/ss52TQrZF1" type="tweet" created="Fri, 30 Jul 2021 14:58:14 GMT" tweetId="1421122972954202121" urltweet="https://twitter.com/logseq/status/1421122972954202121" inReplyToId="" tweetUserName="logseq" />
+The documentation is at &lt;a href=&quot;https://logseq.github.io/#/page/Zotero&quot;&gt;[link]&lt;/a&gt; https://t.co/ss52TQrZF1" type="tweet" created="Fri, 30 Jul 2021 14:58:14 GMT" tweetId="1421122972954202121" urltweet="https://twitter.com/logseq/status/1421122972954202121" tweetUserName="logseq" />
 				<outline text="0.3.0 is just out!
 Some highlights:
 1. Zotero integration! 🥳🥳
@@ -41,17 +42,17 @@ Some highlights:
 2. Support == for highlight in Markdown
 3. Add /Embed Twitter support! (by @pengx17)
 4. Fixed broken block references after refreshing
-5. Fixed page references not working &lt;a href=&quot;https://twitter.com/logseq/status/1421122418043625472/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 14:56:02 GMT" tweetId="1421122418043625472" urltweet="https://twitter.com/logseq/status/1421122418043625472" inReplyToId="" tweetUserName="logseq" >
+5. Fixed page references not working &lt;a href=&quot;https://twitter.com/logseq/status/1421122418043625472/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 14:56:02 GMT" tweetId="1421122418043625472" urltweet="https://twitter.com/logseq/status/1421122418043625472" tweetUserName="logseq" >
 					<outline text="Full changelog at &lt;a href=&quot;https://logseq.github.io/#/page/f65e2408-643d-43af-9320-57f1076847d5&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 14:56:21 GMT" tweetId="1421122496888115200" urltweet="https://twitter.com/logseq/status/1421122496888115200" inReplyToId="1421122418043625472" tweetUserName="logseq" />
 					</outline>
-				<outline text="Yes, you can add `:default-home {:page &quot;My home page&quot;}` to your config.edn file. Replace `My home page` with your page name. More examples can be found at &lt;a href=&quot;https://github.com/logseq/logseq/blob/master/templates/config.edn#L40&quot;&gt;[link]&lt;/a&gt; https://t.co/FJnBe7Bj3Y https://t.co/b5Rh43PsVI" type="tweet" created="Fri, 30 Jul 2021 10:02:35 GMT" tweetId="1421048568312307718" urltweet="https://twitter.com/logseq/status/1421048568312307718" inReplyToId="" tweetUserName="logseq" />
-				<outline text="It feels so good to see so many interests in Datalog! Join us if you're interested too! &lt;a href=&quot;https://discord.com/invite/KpN4eHY&quot;&gt;[link]&lt;/a&gt; https://t.co/BV1abqkSYp" type="tweet" created="Fri, 30 Jul 2021 04:42:57 GMT" tweetId="1420968129987969026" urltweet="https://twitter.com/logseq/status/1420968129987969026" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Yes, you can add `:default-home {:page &quot;My home page&quot;}` to your config.edn file. Replace `My home page` with your page name. More examples can be found at &lt;a href=&quot;https://github.com/logseq/logseq/blob/master/templates/config.edn#L40&quot;&gt;[link]&lt;/a&gt; https://t.co/FJnBe7Bj3Y https://t.co/b5Rh43PsVI" type="tweet" created="Fri, 30 Jul 2021 10:02:35 GMT" tweetId="1421048568312307718" urltweet="https://twitter.com/logseq/status/1421048568312307718" tweetUserName="logseq" />
+				<outline text="It feels so good to see so many interests in Datalog! Join us if you're interested too! &lt;a href=&quot;https://discord.com/invite/KpN4eHY&quot;&gt;[link]&lt;/a&gt; https://t.co/BV1abqkSYp" type="tweet" created="Fri, 30 Jul 2021 04:42:57 GMT" tweetId="1420968129987969026" urltweet="https://twitter.com/logseq/status/1420968129987969026" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
-				<outline text="PR merged! 🎉🎉 &lt;a href=&quot;https://twitter.com/JulioNavr/status/1420912528260046853&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 01:26:42 GMT" tweetId="1420918744658833412" urltweet="https://twitter.com/logseq/status/1420918744658833412" inReplyToId="" tweetUserName="logseq" />
+				<outline text="PR merged! 🎉🎉 &lt;a href=&quot;https://twitter.com/JulioNavr/status/1420912528260046853&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 01:26:42 GMT" tweetId="1420918744658833412" urltweet="https://twitter.com/logseq/status/1420918744658833412" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 27" type="calendarDay" name="27" >
-				<outline text="Pretty mindmap! 🎉🎉 &lt;a href=&quot;https://twitter.com/vipzhicheng/status/1419893209338048512&quot;&gt;[link]&lt;/a&gt; https://t.co/VTh037VUBi" type="tweet" created="Tue, 27 Jul 2021 05:40:50 GMT" tweetId="1419895536467931136" urltweet="https://twitter.com/logseq/status/1419895536467931136" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Pretty mindmap! 🎉🎉 &lt;a href=&quot;https://twitter.com/vipzhicheng/status/1419893209338048512&quot;&gt;[link]&lt;/a&gt; https://t.co/VTh037VUBi" type="tweet" created="Tue, 27 Jul 2021 05:40:50 GMT" tweetId="1419895536467931136" urltweet="https://twitter.com/logseq/status/1419895536467931136" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 26" type="calendarDay" name="26" >
 				<outline text="0.2.10 is just out!
@@ -60,18 +61,18 @@ Some highlights:
 2. Query results support both nested children and breadcrumbs
 3. Both `^^` and `__` can be auto paired when there's selected text
 4. fix crash when auto-complete some page references
-5. org-mode id links &lt;a href=&quot;https://twitter.com/logseq/status/1419705524136779782/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 17:05:48 GMT" tweetId="1419705524136779782" urltweet="https://twitter.com/logseq/status/1419705524136779782" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Wow! Thank you very much for making this! &lt;a href=&quot;https://twitter.com/kris__kaminski/status/1419698524950773772&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 16:49:35 GMT" tweetId="1419701445142536192" urltweet="https://twitter.com/logseq/status/1419701445142536192" inReplyToId="" tweetUserName="logseq" />
-				<outline text="That's a lot! Congrats!🥳 &lt;a href=&quot;https://twitter.com/dasaptaerwin/status/1419647258933354501&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 14:41:31 GMT" tweetId="1419669215804485633" urltweet="https://twitter.com/logseq/status/1419669215804485633" inReplyToId="" tweetUserName="logseq" />
+5. org-mode id links &lt;a href=&quot;https://twitter.com/logseq/status/1419705524136779782/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 17:05:48 GMT" tweetId="1419705524136779782" urltweet="https://twitter.com/logseq/status/1419705524136779782" tweetUserName="logseq" />
+				<outline text="Wow! Thank you very much for making this! &lt;a href=&quot;https://twitter.com/kris__kaminski/status/1419698524950773772&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 16:49:35 GMT" tweetId="1419701445142536192" urltweet="https://twitter.com/logseq/status/1419701445142536192" tweetUserName="logseq" />
+				<outline text="That's a lot! Congrats!🥳 &lt;a href=&quot;https://twitter.com/dasaptaerwin/status/1419647258933354501&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 26 Jul 2021 14:41:31 GMT" tweetId="1419669215804485633" urltweet="https://twitter.com/logseq/status/1419669215804485633" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 25" type="calendarDay" name="25" >
-				<outline text="Thank you for the kind words! Looking forward to making Logseq more stable! 😄 &lt;a href=&quot;https://twitter.com/TfTHacker/status/1419251833831370752&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 11:11:20 GMT" tweetId="1419253930270158852" urltweet="https://twitter.com/logseq/status/1419253930270158852" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thanks! &lt;a href=&quot;https://twitter.com/therayfdj/status/1419200441473241089&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 08:43:23 GMT" tweetId="1419216700378009602" urltweet="https://twitter.com/logseq/status/1419216700378009602" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Thank you for the kind words! Looking forward to making Logseq more stable! 😄 &lt;a href=&quot;https://twitter.com/TfTHacker/status/1419251833831370752&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 11:11:20 GMT" tweetId="1419253930270158852" urltweet="https://twitter.com/logseq/status/1419253930270158852" tweetUserName="logseq" />
+				<outline text="Thanks! &lt;a href=&quot;https://twitter.com/therayfdj/status/1419200441473241089&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 08:43:23 GMT" tweetId="1419216700378009602" urltweet="https://twitter.com/logseq/status/1419216700378009602" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 24" type="calendarDay" name="24" >
 				<outline text="Thanks! You can add this query to your &quot;Favorites&quot; in the right sidebar or any page.
-{{query (task later now todo doing)}} &lt;a href=&quot;https://twitter.com/WillPlatnick/status/1418681592998940673&quot;&gt;[link]&lt;/a&gt; https://t.co/fur5KLieIW" type="tweet" created="Sun, 25 Jul 2021 03:54:40 GMT" tweetId="1419144041048903680" urltweet="https://twitter.com/logseq/status/1419144041048903680" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Thank you! &lt;a href=&quot;https://twitter.com/JohnHamiltonNZ/status/1418942831637454868&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 03:50:18 GMT" tweetId="1419142940736122884" urltweet="https://twitter.com/logseq/status/1419142940736122884" inReplyToId="" tweetUserName="logseq" />
+{{query (task later now todo doing)}} &lt;a href=&quot;https://twitter.com/WillPlatnick/status/1418681592998940673&quot;&gt;[link]&lt;/a&gt; https://t.co/fur5KLieIW" type="tweet" created="Sun, 25 Jul 2021 03:54:40 GMT" tweetId="1419144041048903680" urltweet="https://twitter.com/logseq/status/1419144041048903680" tweetUserName="logseq" />
+				<outline text="Thank you! &lt;a href=&quot;https://twitter.com/JohnHamiltonNZ/status/1418942831637454868&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 25 Jul 2021 03:50:18 GMT" tweetId="1419142940736122884" urltweet="https://twitter.com/logseq/status/1419142940736122884" tweetUserName="logseq" />
 				</outline>
 			<outline text="July 23" type="calendarDay" name="23" >
 				<outline text="🎊 &lt;a href=&quot;https://twitter.com/OneStuttering/status/1418300170576572417&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 06:25:18 GMT" tweetId="1418457175559606274" urltweet="https://twitter.com/logseq/status/1418457175559606274" tweetUserName="logseq" />
