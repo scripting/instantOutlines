@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Mon, 02 Aug 2021 15:53:48 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 15:55:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Thanks! &lt;a href=&quot;https://twitter.com/melikedonertas/status/1422209502053601284&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:55:26 GMT" tweetId="1422224531129655305" urltweet="https://twitter.com/logseq/status/1422224531129655305" inReplyToId="" tweetUserName="logseq" />
 				<outline text="&lt;a href=&quot;https://twitter.com/JulioNavr/status/1422206905817223168&quot;&gt;[link]&lt;/a&gt; https://t.co/8iw7xR8F8v" type="tweet" created="Mon, 02 Aug 2021 15:53:21 GMT" tweetId="1422224004815855618" urltweet="https://twitter.com/logseq/status/1422224004815855618" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Incredible unofficial Logseq Documentation by &lt;a href=&quot;https://github.com/mschmidtkorth&quot;&gt;[link]&lt;/a&gt;! 😱
 
