@@ -6,13 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 15:35:55 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 15:37:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
-				<outline text="I wrote about a new startup called F*** You Pay Me, that's building basically a Glassdoor for influencers, and the power shift from traditional brands to the creators &lt;a href=&quot;https://www.nytimes.com/2021/08/02/technology/fypm-creators-app-pay.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:35:45 GMT" tweetId="1422219579330228230" urltweet="https://twitter.com/taylorlorenz/status/1422219579330228230" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="I wrote about a new startup called F*** You Pay Me, that's building basically a Glassdoor for influencers, and the power shift from traditional brands to the creators &lt;a href=&quot;https://www.nytimes.com/2021/08/02/technology/fypm-creators-app-pay.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:35:45 GMT" tweetId="1422219579330228230" urltweet="https://twitter.com/taylorlorenz/status/1422219579330228230" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="There has been a HUGE move toward more pay transparency in the creator world, F*** You Pay Me is part of that.
+
+Founded by a content creator and former Facebook data scientist, they came out of a tech startup incubator program, launched in beta last month &lt;a href=&quot;https://www.nytimes.com/2021/08/02/technology/fypm-creators-app-pay.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:37:49 GMT" tweetId="1422220096567529480" urltweet="https://twitter.com/taylorlorenz/status/1422220096567529480" inReplyToId="1422219579330228230" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Meet the members of Texas' new bilingual TikTok content house, TejasHouse. 
 @CillaAguirre with the scoop! &lt;a href=&quot;https://www.mysanantonio.com/lifestyle/article/Meet-bilingual-content-house-in-Texas-Tejas-16352183.php&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:33:03 GMT" tweetId="1422218896296218628" urltweet="https://twitter.com/taylorlorenz/status/1422218896296218628" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="@CillaAguirre &quot;When I figured out there are no content houses in Texas, especially a bilingual one, I knew I had to start this project... We want to show representation in the content world and have it based in Texas.&quot; &lt;a href=&quot;https://www.mysanantonio.com/lifestyle/article/Meet-bilingual-content-house-in-Texas-Tejas-16352183.php&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 15:33:41 GMT" tweetId="1422219056900280327" urltweet="https://twitter.com/taylorlorenz/status/1422219056900280327" inReplyToId="1422218896296218628" tweetUserName="taylorlorenz" />
