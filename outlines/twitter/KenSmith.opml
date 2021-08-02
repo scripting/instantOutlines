@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 12:18:28 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 12:38:29 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="&quot;In short, the Select Committee Investigating January 6, like the two House impeachment efforts that preceded it, appears to have no social media strategy and no strategy of public outreach and public education.&quot; &lt;a href=&quot;https://jeffreycisaacdesign.wordpress.com/2021/07/29/can-the-house-select-committee-to-investigate-january-6-actually-help-to-defend-democracy/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 12:37:59 GMT" tweetId="1422174841910743041" urltweet="https://twitter.com/KenSmith/status/1422174841910743041" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="They do lawn ornaments big out west. &lt;a href=&quot;https://twitter.com/KenSmith/status/1422169790987358213/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 12:17:55 GMT" tweetId="1422169790987358213" urltweet="https://twitter.com/KenSmith/status/1422169790987358213" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
