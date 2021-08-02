@@ -6,12 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 13:49:33 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 14:40:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Gonna get rich with my new invention, a meter that monitors the chat at a meeting, counts the words that are negative or positive in attitude, and registers the spirit of the group on a big old dial." type="tweet" created="Mon, 02 Aug 2021 14:40:27 GMT" tweetId="1422205661975298049" urltweet="https://twitter.com/KenSmith/status/1422205661975298049" inReplyToId="" tweetUserName="KenSmith" >
+					<outline text="It will look like a device you'd see in a mad scientist lab in a black-and-white movie, a heavy dark Bakelite case and a dimly lit dial with just one needle swinging back and forth between the word NO on the left and the word YES on the right." type="tweet" created="Mon, 02 Aug 2021 14:40:28 GMT" tweetId="1422205663015473152" urltweet="https://twitter.com/KenSmith/status/1422205663015473152" inReplyToId="1422205661975298049" tweetUserName="KenSmith" >
+						<outline text="Stay too long in the red zone at the left of the dial and a cheap-sounding electric buzzer rattles the room for a moment or two." type="tweet" created="Mon, 02 Aug 2021 14:40:28 GMT" tweetId="1422205664647073803" urltweet="https://twitter.com/KenSmith/status/1422205664647073803" inReplyToId="1422205663015473152" tweetUserName="KenSmith" >
+							<outline text="The deluxe version will give a clattering teletype printout at the end of the meeting ranking the participants by their negativity and positivity. Of course some people would be proud to be at the negative end of that list, the sad bums." type="tweet" created="Mon, 02 Aug 2021 14:40:28 GMT" tweetId="1422205665574105089" urltweet="https://twitter.com/KenSmith/status/1422205665574105089" inReplyToId="1422205664647073803" tweetUserName="KenSmith" />
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Poem based on this painting by Katie Hoffman: &lt;a href=&quot;https://katiehoffman.net/2016/01/01/30-in-30-day-1-clown-college-drop-out/&quot;&gt;[link]&lt;/a&gt; https://t.co/kzHWp2560o" type="tweet" created="Mon, 02 Aug 2021 13:49:27 GMT" tweetId="1422192824523571202" urltweet="https://twitter.com/KenSmith/status/1422192824523571202" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="A little poem. &lt;a href=&quot;https://twitter.com/KenSmith/status/1422183917537402880/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 13:14:03 GMT" tweetId="1422183917537402880" urltweet="https://twitter.com/KenSmith/status/1422183917537402880" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="&quot;In short, the Select Committee Investigating January 6, like the two House impeachment efforts that preceded it, appears to have no social media strategy and no strategy of public outreach and public education.&quot; &lt;a href=&quot;https://jeffreycisaacdesign.wordpress.com/2021/07/29/can-the-house-select-committee-to-investigate-january-6-actually-help-to-defend-democracy/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 12:37:59 GMT" tweetId="1422174841910743041" urltweet="https://twitter.com/KenSmith/status/1422174841910743041" inReplyToId="" tweetUserName="KenSmith" />
