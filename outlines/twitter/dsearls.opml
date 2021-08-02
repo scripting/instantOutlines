@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 18:35:32 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 22:40:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="My answer to a question in @quora about radio and politics: &lt;a href=&quot;https://www.quora.com/Should-radio-stations-not-only-cater-to-an-audience-but-to-go-far-as-to-partner-with-a-partison-political-group-too-While-I-agree-that-a-radio-station-should-cater-to-their-audience-I-think-that-it-goes-too-far-when/answer/Doc-Searls&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 22:40:05 GMT" tweetId="1422326362887569415" urltweet="https://twitter.com/dsearls/status/1422326362887569415" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Car design trends &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/08/02/car-design-trends/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 18:34:44 GMT" tweetId="1422264618794340352" urltweet="https://twitter.com/dsearls/status/1422264618794340352" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
