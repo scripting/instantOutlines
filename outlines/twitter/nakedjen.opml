@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 14:20:14 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 14:22:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/ql</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="They are marching for their lives. &lt;a href=&quot;https://twitter.com/leedam18102/status/1422189724739936257&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 14:21:43 GMT" tweetId="1422200947489402885" urltweet="https://twitter.com/nakedjen/status/1422200947489402885" inReplyToId="" tweetUserName="nakedjen" />
 				<outline text="Let’s not forget them. &lt;a href=&quot;https://twitter.com/springrv22222/status/1422192886452428808&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 14:20:04 GMT" tweetId="1422200531192217606" urltweet="https://twitter.com/nakedjen/status/1422200531192217606" inReplyToId="" tweetUserName="nakedjen" />
 				</outline>
 			</outline>
