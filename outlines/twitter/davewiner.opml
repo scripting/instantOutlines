@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 02 Aug 2021 14:31:59 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 14:50:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="If NBC has their own national anthem, what would it be?" type="tweet" created="Mon, 02 Aug 2021 14:49:51 GMT" tweetId="1422208027961212933" urltweet="https://twitter.com/davewiner/status/1422208027961212933" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I loved this piece about the venture capitalist who runs the Golden State Warriors. 
 
 &lt;a href=&quot;https://www.sfgate.com/warriors/article/joe-lacob-nba-draft-warriors-trades-curry-16355889.php&quot;&gt;[link]&lt;/a&gt;
