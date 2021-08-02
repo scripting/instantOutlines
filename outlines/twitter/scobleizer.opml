@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 07:58:22 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 08:08:22 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -24,6 +24,7 @@ We are playing for next year and we are tired of waiting. &lt;a href=&quot;https
 					<outline text="I am seeing things in my photography that I never would see without such a big TV. Wow." type="tweet" created="Mon, 02 Aug 2021 07:55:05 GMT" tweetId="1422103646590828544" urltweet="https://twitter.com/scobleizer/status/1422103646590828544" inReplyToId="1422103112077090821" tweetUserName="scobleizer" >
 						<outline text="And VR didn’t show this to me. So sad." type="tweet" created="Mon, 02 Aug 2021 07:55:56 GMT" tweetId="1422103861263667205" urltweet="https://twitter.com/scobleizer/status/1422103861263667205" inReplyToId="1422103646590828544" tweetUserName="scobleizer" />
 						</outline>
+					<outline text="Field of view on the TV? More than a HoloLens." type="tweet" created="Mon, 02 Aug 2021 08:08:05 GMT" tweetId="1422106918961643520" urltweet="https://twitter.com/scobleizer/status/1422106918961643520" inReplyToId="1422103112077090821" tweetUserName="scobleizer" />
 					</outline>
 				</outline>
 			</outline>
