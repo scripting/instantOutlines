@@ -7,10 +7,17 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sun, 01 Aug 2021 16:26:19 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 04:36:05 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Incredible unofficial Logseq Documentation by &lt;a href=&quot;https://github.com/mschmidtkorth&quot;&gt;[link]&lt;/a&gt;! 😱
+
+https://t.co/WsdcyCBwAv
+
+Source pages: https://t.co/leiWo9bjma https://t.co/ePvlxlsIlb" type="tweet" created="Mon, 02 Aug 2021 04:35:48 GMT" tweetId="1422053495205552130" urltweet="https://twitter.com/logseq/status/1422053495205552130" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
 				<outline text="Thank you for the kind words! @kanru contributed the encryption part! &lt;a href=&quot;https://twitter.com/sai_prasanna/status/1421772810851012611&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 16:25:37 GMT" tweetId="1421869740033597441" urltweet="https://twitter.com/logseq/status/1421869740033597441" inReplyToId="" tweetUserName="logseq" />
 				<outline text="SRS cards, Zotero integration, and PDF annotations are for people who enjoy learning or who gave up Anki because it's too hard to make cards. All those features are developed, our focus will be on bugs, UX enhancements, and mobile apps. 
