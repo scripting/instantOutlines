@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 08:18:23 GMT</dateModified>
+		<dateModified>Mon, 02 Aug 2021 08:21:23 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -26,7 +26,9 @@ We are playing for next year and we are tired of waiting. &lt;a href=&quot;https
 						</outline>
 					<outline text="Field of view on the TV? More than a HoloLens." type="tweet" created="Mon, 02 Aug 2021 08:08:05 GMT" tweetId="1422106918961643520" urltweet="https://twitter.com/scobleizer/status/1422106918961643520" inReplyToId="1422103112077090821" tweetUserName="scobleizer" />
 					<outline text="There are a ton of lessons about the future of the home there. If you have a great OLED 4K TV." type="tweet" created="Mon, 02 Aug 2021 08:09:25 GMT" tweetId="1422107252048031744" urltweet="https://twitter.com/scobleizer/status/1422107252048031744" inReplyToId="1422103112077090821" tweetUserName="scobleizer" />
-					<outline text="And I disagree about 8K. OLED beats it big time. A 4K Sony shows my photos better than an 8K Samsung." type="tweet" created="Mon, 02 Aug 2021 08:17:35 GMT" tweetId="1422109307936538626" urltweet="https://twitter.com/scobleizer/status/1422109307936538626" inReplyToId="1422103112077090821" tweetUserName="scobleizer" />
+					<outline text="And I disagree about 8K. OLED beats it big time. A 4K Sony shows my photos better than an 8K Samsung." type="tweet" created="Mon, 02 Aug 2021 08:17:35 GMT" tweetId="1422109307936538626" urltweet="https://twitter.com/scobleizer/status/1422109307936538626" inReplyToId="1422103112077090821" tweetUserName="scobleizer" >
+						<outline text="But I would be very happy if the Samsung was on my wall instead." type="tweet" created="Mon, 02 Aug 2021 08:21:13 GMT" tweetId="1422110222676467714" urltweet="https://twitter.com/scobleizer/status/1422110222676467714" inReplyToId="1422109307936538626" tweetUserName="scobleizer" />
+						</outline>
 					</outline>
 				</outline>
 			</outline>
