@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 19:20:41 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 23:06:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="Teenagers on TikTok are romanticizing Connecticut again" type="tweet" created="Tue, 03 Aug 2021 23:06:50 GMT" tweetId="1422695483919634433" urltweet="https://twitter.com/taylorlorenz/status/1422695483919634433" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Former Vine star Hayes Grier arrested for robbery and assault after causing his victim 'brain damage' and 'hearing loss', according to police warrants &lt;a href=&quot;https://www.insider.com/vine-star-hayes-grier-arrested-assault-robbery-felonies-william-markolf-2021-8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 19:19:29 GMT" tweetId="1422638269502615553" urltweet="https://twitter.com/taylorlorenz/status/1422638269502615553" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="End of an era &lt;a href=&quot;https://twitter.com/Brotractor/status/1422283609105305609&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 19:15:45 GMT" tweetId="1422637331123621888" urltweet="https://twitter.com/taylorlorenz/status/1422637331123621888" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="&lt;a href=&quot;https://twitter.com/Brotractor/status/1422638427846025223&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 19:20:33 GMT" tweetId="1422638536788889600" urltweet="https://twitter.com/taylorlorenz/status/1422638536788889600" inReplyToId="1422637331123621888" tweetUserName="taylorlorenz" />
