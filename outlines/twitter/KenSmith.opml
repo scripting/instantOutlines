@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 03:41:26 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 14:14:17 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="In Fahrenheit 451, a number of people decide that a particular social good will not survive unless they themselves undertake to preserve it.
+
+https://t.co/m5ArgErG36" type="tweet" created="Tue, 03 Aug 2021 14:11:19 GMT" tweetId="1422560717950103552" urltweet="https://twitter.com/KenSmith/status/1422560717950103552" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 2" type="calendarDay" name="02" >
 				<outline text="“The victim who is able to articulate the situation of the victim has ceased to be a victim…. He, or she, has become a threat.” &lt;a href=&quot;https://bigother.com/2021/08/02/james-baldwin-on-art-life-writing-reading-and-more-2/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 03:40:58 GMT" tweetId="1422402084511658002" urltweet="https://twitter.com/KenSmith/status/1422402084511658002" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Gonna get rich with my new invention, a meter that monitors the chat at a meeting, counts the words that are negative or positive in attitude, and registers the spirit of the group on a big old dial." type="tweet" created="Mon, 02 Aug 2021 14:40:27 GMT" tweetId="1422205661975298049" urltweet="https://twitter.com/KenSmith/status/1422205661975298049" inReplyToId="" tweetUserName="KenSmith" >
