@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 16:18:29 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 18:28:38 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="@bydanielvictor they're calling your name &lt;a href=&quot;https://twitter.com/SpencerDukoff/status/1422540592127614978&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 18:28:26 GMT" tweetId="1422625420592091137" urltweet="https://twitter.com/taylorlorenz/status/1422625420592091137" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="YouTube Shorts $100M creator fund launches today. 
 
 Creators who’ve posted the most engaging Shorts content in the month of July will begin receiving payments of up to $10k early next week
