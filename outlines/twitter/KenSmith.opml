@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 14:14:17 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 15:11:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="Why praise for voting isn't a wise enough understanding of democracy.
+
+https://t.co/8qImq5qoBQ" type="tweet" created="Tue, 03 Aug 2021 15:08:25 GMT" tweetId="1422575086125600771" urltweet="https://twitter.com/KenSmith/status/1422575086125600771" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="In Fahrenheit 451, a number of people decide that a particular social good will not survive unless they themselves undertake to preserve it.
 
 https://t.co/m5ArgErG36" type="tweet" created="Tue, 03 Aug 2021 14:11:19 GMT" tweetId="1422560717950103552" urltweet="https://twitter.com/KenSmith/status/1422560717950103552" inReplyToId="" tweetUserName="KenSmith" />
