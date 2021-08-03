@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 23:42:26 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 01:15:32 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="I've never posted a Fleet and I'm not gonna start now" type="tweet" created="Tue, 03 Aug 2021 01:14:58 GMT" tweetId="1422365343641575429" urltweet="https://twitter.com/taylorlorenz/status/1422365343641575429" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Iverm*ctin influencers be like &lt;a href=&quot;https://twitter.com/oneunderscore__/status/1422336535165288458&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 23:41:47 GMT" tweetId="1422341890335154178" urltweet="https://twitter.com/taylorlorenz/status/1422341890335154178" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Someone let the girl in the 72 square foot micro studio know 👇🏻 &lt;a href=&quot;https://twitter.com/nytrealestate/status/1420770612344238082&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 21:26:25 GMT" tweetId="1422307827146579968" urltweet="https://twitter.com/taylorlorenz/status/1422307827146579968" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="OMG!! this is so cool &lt;a href=&quot;https://twitter.com/NickDiodato/status/1422292161735893001&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 21:16:27 GMT" tweetId="1422305316054585345" urltweet="https://twitter.com/taylorlorenz/status/1422305316054585345" inReplyToId="" tweetUserName="taylorlorenz" />
