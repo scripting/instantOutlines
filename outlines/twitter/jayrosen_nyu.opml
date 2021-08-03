@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 08:32:36 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 13:08:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="The second day of @membershippzzle's wrap-up summit on membership models in journalism. Just started. You can find the full agenda and registration info here: &lt;a href=&quot;https://membershippuzzle.org/summit/agenda&quot;&gt;[link]&lt;/a&gt; https://t.co/zkERLki3LO" type="tweet" created="Tue, 03 Aug 2021 13:07:48 GMT" tweetId="1422544731482083328" urltweet="https://twitter.com/jayrosen_nyu/status/1422544731482083328" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
 				<outline text="I give you this tight paragraph by George Packer in his latest book. He's writing about the spring and summer of 2020 and what the pandemic did to American democracy. Rarely do you see experts, politicians and citizens put into proper standing like this. &lt;a href=&quot;https://twitter.com/jayrosen_nyu/status/1421946414498725897/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 21:30:18 GMT" tweetId="1421946414498725897" urltweet="https://twitter.com/jayrosen_nyu/status/1421946414498725897" tweetUserName="jayrosen_nyu" />
 				</outline>
