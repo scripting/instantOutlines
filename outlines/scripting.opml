@@ -14,14 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 20:01:56 GMT</dateModified>
-		<expansionState>1,2,4,9</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 03 Aug 2021 20:04:25 GMT</dateModified>
+		<expansionState>1,2,5,10</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 3" created="Tue, 03 Aug 2021 17:21:33 GMT" type="calendarDay" name="03" >
 				<outline text="The [[NBA]] free agent season started last night. The [[Knicks]] are &lt;a href=&quot;https://elitesportsny.com/2021/08/02/new-york-knicks-2021-free-agency-tracker-signings/&quot;&gt;sticking&lt;/a&gt; mostly with the players that made last season so much fun. This Knicks fan approves. &lt;a href=&quot;https://theknickswall.com/knicks-prioritize-re-signing-veteran-core-during-free-agency/&quot;&gt;Steady&lt;/a&gt; as it goes, no superteam-building in Manhattan. " created="Tue, 03 Aug 2021 17:21:34 GMT" type="outline" />
+				<outline text="I went to a produce stand yesterday to get some fresh local peaches, and everyone was masked up. I think we're doing the wise thing in NY state. It's easy to put a mask on, much easier than being intubated and dying." created="Tue, 03 Aug 2021 20:04:00 GMT" type="outline" />
 				</outline>
 			<outline text="August 2" created="Mon, 02 Aug 2021 12:30:05 GMT" type="calendarDay" name="02" >
 				<outline text="Should we be excited about big silos and podcasting? Apple, Spotify, etc. Well if you like the way news works now on the web, I'm sure you'll love what they do to podcasting. On the other hand, what we have now is what most sane users want. So I say resist them if you can." created="Mon, 02 Aug 2021 14:53:33 GMT" type="outline" />
