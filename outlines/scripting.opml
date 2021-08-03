@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 19:03:25 GMT</dateModified>
-		<expansionState>1,2,7</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Tue, 03 Aug 2021 17:30:49 GMT</dateModified>
+		<expansionState>1,2,4,9</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 3" created="Tue, 03 Aug 2021 17:21:33 GMT" type="calendarDay" name="03" >
+				<outline text="The [[NBA]] free agent season started last night. The [[Knicks]] are &lt;a href=&quot;https://elitesportsny.com/2021/08/02/new-york-knicks-2021-free-agency-tracker-signings/&quot;&gt;sticking&lt;/a&gt; mostly with the players that made last season so much fun." created="Tue, 03 Aug 2021 17:21:34 GMT" type="outline" />
+				</outline>
 			<outline text="August 2" created="Mon, 02 Aug 2021 12:30:05 GMT" type="calendarDay" name="02" >
 				<outline text="Should we be excited about big silos and podcasting? Apple, Spotify, etc. Well if you like the way news works now on the web, I'm sure you'll love what they do to podcasting. On the other hand, what we have now is what most sane users want. So I say resist them if you can." created="Mon, 02 Aug 2021 14:53:33 GMT" type="outline" />
 				<outline text="Watching the [[Olympics]] is ridiculously hard given that it's 2021 and our entire entertainment system is computerized and networked. They've had plenty of time to adapt, but the entertainment industry is stuck in the 1980s cable model, where ever they can get away with it. Thankfully [[Netflix]] and [[Amazon]] helped to budge them. There should be, if everything were sane, a network location I can go to where I see the schedule of the whole event, past, present and future. I can schedule reminders for upcoming events. And go back, like using YouTube to watch events I missed. Instead I have to hunt and peck, and depend on luck, and the programmer's sense of what'll be popular, and endure NBC's business model, like only making some events available on Peacock, a service I don't use and do not want to subscribe to. It's the same mess as with &lt;a href=&quot;http://scripting.com/2020/08/06/133617.html?title=moneyForNews&quot;&gt;news on the web&lt;/a&gt;. I subscribe to services I never watch. There are a hundred thousand shows on and nothing I want to see, and the stuff I do want to see is inaccessible. Come on. Isn't there a person in power somewhere in TV-Land who is just as fed up as everyone else must be? Meanwhile we should give up the pretense that the athletes represent the USA, they rep NBC and should wear a &lt;a href=&quot;http://scripting.com/images/2021/08/02/nbcLogo.png&quot;&gt;peacock&lt;/a&gt; on their uniforms and salute the NBC flag and their anthem whatever that might be. " created="Mon, 02 Aug 2021 14:41:17 GMT" type="outline" image="http://scripting.com/images/2021/08/02/nbcLogo.png" />
