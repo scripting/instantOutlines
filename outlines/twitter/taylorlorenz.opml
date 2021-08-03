@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 19:05:40 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 19:08:40 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
-				<outline text="This hed makes Letter sound like it's Gab or Parler or something &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422634741023399936/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 19:05:28 GMT" tweetId="1422634741023399936" urltweet="https://twitter.com/taylorlorenz/status/1422634741023399936" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="This hed makes Letter sound like it's Gab or Parler or something &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422634741023399936/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 19:05:28 GMT" tweetId="1422634741023399936" urltweet="https://twitter.com/taylorlorenz/status/1422634741023399936" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="The article is good and explains the platform. I haven't spent too much time on Letter, but it's definitley not the same as Gab or Rumble whatever &lt;a href=&quot;https://techcrunch.com/2021/08/03/substack-doubles-down-on-uncensored-free-speech-with-acquisition-of-letter/&quot;&gt;[link]&lt;/a&gt; https://t.co/z1yaWrxx2Z" type="tweet" created="Tue, 03 Aug 2021 19:08:12 GMT" tweetId="1422635429065465859" urltweet="https://twitter.com/taylorlorenz/status/1422635429065465859" inReplyToId="1422634741023399936" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="@bydanielvictor they're calling your name &lt;a href=&quot;https://twitter.com/SpencerDukoff/status/1422540592127614978&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 18:28:26 GMT" tweetId="1422625420592091137" urltweet="https://twitter.com/taylorlorenz/status/1422625420592091137" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="YouTube Shorts $100M creator fund launches today. 
 
