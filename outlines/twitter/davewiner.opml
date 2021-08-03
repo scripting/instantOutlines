@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 03 Aug 2021 17:34:43 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 19:49:51 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="Will Andrew Cuomo Resign? &lt;a href=&quot;https://fivethirtyeight.com/features/will-andrew-cuomo-resign/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 19:49:36 GMT" tweetId="1422645850384347141" urltweet="https://twitter.com/davewiner/status/1422645850384347141" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Knicks Prioritize Re-Signing Vet Core in Free Agency. &lt;a href=&quot;https://theknickswall.com/knicks-prioritize-re-signing-veteran-core-during-free-agency/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 17:34:16 GMT" tweetId="1422611791918649348" urltweet="https://twitter.com/davewiner/status/1422611791918649348" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1422529138661990409/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 12:05:50 GMT" tweetId="1422529138661990409" urltweet="https://twitter.com/davewiner/status/1422529138661990409" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
