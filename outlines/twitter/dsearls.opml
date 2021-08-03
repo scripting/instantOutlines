@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 00:32:55 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 00:37:55 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 2" type="calendarDay" name="02" >
-				<outline text="1/2 WTF is with @Quora? Based on awful algorithmic inference, presumably, it suggested in an email that I might like the Biden Lies &quot;space.&quot; On the bottom of the email I clcked on the &quot;mute Biden Lies&quot; link and it sent me there anyway, with this: &lt;a href=&quot;https://twitter.com/dsearls/status/1422354605170647044/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 00:32:18 GMT" tweetId="1422354605170647044" urltweet="https://twitter.com/dsearls/status/1422354605170647044" inReplyToId="" tweetUserName="dsearls" />
+				<outline text="1/2 WTF is with @Quora? Based on awful algorithmic inference, presumably, it suggested in an email that I might like the Biden Lies &quot;space.&quot; On the bottom of the email I clcked on the &quot;mute Biden Lies&quot; link and it sent me there anyway, with this: &lt;a href=&quot;https://twitter.com/dsearls/status/1422354605170647044/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 00:32:18 GMT" tweetId="1422354605170647044" urltweet="https://twitter.com/dsearls/status/1422354605170647044" inReplyToId="" tweetUserName="dsearls" >
+					<outline text="2/2 I get @quora wanting some soc-med action, but as a strategic and branding move, this is about as wrong as wrong gets. (BTW &amp;amp; FWIW, the email came from what presented as Quora Suggested Spaces with the address biden-lies@quora.com.)" type="tweet" created="Tue, 03 Aug 2021 00:36:57 GMT" tweetId="1422355775817662467" urltweet="https://twitter.com/dsearls/status/1422355775817662467" inReplyToId="1422354605170647044" tweetUserName="dsearls" />
+					</outline>
 				<outline text="My answer to a question in @quora about radio and politics: &lt;a href=&quot;https://www.quora.com/Should-radio-stations-not-only-cater-to-an-audience-but-to-go-far-as-to-partner-with-a-partison-political-group-too-While-I-agree-that-a-radio-station-should-cater-to-their-audience-I-think-that-it-goes-too-far-when/answer/Doc-Searls&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 22:40:05 GMT" tweetId="1422326362887569415" urltweet="https://twitter.com/dsearls/status/1422326362887569415" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Car design trends &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/08/02/car-design-trends/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 18:34:44 GMT" tweetId="1422264618794340352" urltweet="https://twitter.com/dsearls/status/1422264618794340352" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
