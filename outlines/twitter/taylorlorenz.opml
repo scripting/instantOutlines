@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 04:04:43 GMT</dateModified>
+		<dateModified>Tue, 03 Aug 2021 04:10:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
-				<outline text="Once again declaring text bankruptcy 😰 &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422407921632116736/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 04:04:10 GMT" tweetId="1422407921632116736" urltweet="https://twitter.com/taylorlorenz/status/1422407921632116736" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Once again declaring text bankruptcy 😰 &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422407921632116736/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 04:04:10 GMT" tweetId="1422407921632116736" urltweet="https://twitter.com/taylorlorenz/status/1422407921632116736" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="If you messaged me anytime in the past month I’m sorry but I’ve been drowning. I hope u found peace and please don’t ask me for anything 😅. Love u all tho" type="tweet" created="Tue, 03 Aug 2021 04:10:22 GMT" tweetId="1422409484874309632" urltweet="https://twitter.com/taylorlorenz/status/1422409484874309632" inReplyToId="1422407921632116736" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="August 2" type="calendarDay" name="02" >
 				<outline text="I've never posted a Fleet and I'm not gonna start now" type="tweet" created="Tue, 03 Aug 2021 01:14:58 GMT" tweetId="1422365343641575429" urltweet="https://twitter.com/taylorlorenz/status/1422365343641575429" inReplyToId="" tweetUserName="taylorlorenz" />
