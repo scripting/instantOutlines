@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 04 Aug 2021 08:06:37 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 11:30:50 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="Google doesn’t care about your security, they care that Comcast and Verizon et al can’t mess with their ads. &lt;a href=&quot;https://twitter.com/slashdot/status/1422709715251855362&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 11:30:15 GMT" tweetId="1422882572024041472" urltweet="https://twitter.com/davewiner/status/1422882572024041472" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Country Joe: “Be the first one on your block to have your boy come home in a box.” &lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;v=Xth_lC8bhJk&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 08:05:57 GMT" tweetId="1422831156597301249" urltweet="https://twitter.com/davewiner/status/1422831156597301249" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I assume all politicians in NY are corrupt, by default, including the state attorney general." type="tweet" created="Wed, 04 Aug 2021 08:00:10 GMT" tweetId="1422829703103229952" urltweet="https://twitter.com/davewiner/status/1422829703103229952" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
