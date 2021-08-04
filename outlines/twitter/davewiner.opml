@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 04 Aug 2021 01:57:14 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 02:02:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="Do you know what you don’t know?" type="tweet" created="Wed, 04 Aug 2021 02:01:35 GMT" tweetId="1422739461251731460" urltweet="https://twitter.com/davewiner/status/1422739461251731460" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Residents of Rockaways Enclave Oppose Better Access To Their ‘Semi-Private’ Public Beach. &lt;a href=&quot;https://nyc.streetsblog.org/2021/07/26/residents-of-rockaways-enclave-oppose-better-access-to-their-semi-private-public-beach/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 01:57:07 GMT" tweetId="1422738336557551623" urltweet="https://twitter.com/davewiner/status/1422738336557551623" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="every time I tune in the news it’s exactly the same as the day before." type="tweet" created="Wed, 04 Aug 2021 00:22:31 GMT" tweetId="1422714528656248839" urltweet="https://twitter.com/davewiner/status/1422714528656248839" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Should Andrew Cuomo resign?" type="tweet" created="Tue, 03 Aug 2021 22:51:10 GMT" tweetId="1422691542888763396" urltweet="https://twitter.com/davewiner/status/1422691542888763396" inReplyToId="" tweetUserName="davewiner" />
