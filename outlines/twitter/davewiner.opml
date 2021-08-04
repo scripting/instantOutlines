@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 04 Aug 2021 19:32:20 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 21:56:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="The Eternal October: Bringing Back Tech Optimism, Without The Naivety. &lt;a href=&quot;https://www.techdirt.com/articles/20210718/01065747196/eternal-october-bringing-back-tech-optimism-without-naivety.shtml&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 21:56:04 GMT" tweetId="1423040061805940736" urltweet="https://twitter.com/davewiner/status/1423040061805940736" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Starlink Moves Closer to Matching or Even Beating Fixed Broadband Speeds. &lt;a href=&quot;https://www.pcmag.com/news/starlink-moves-closer-to-matching-or-even-beating-fixed-broadband-speeds?amp=true&amp;__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 19:31:42 GMT" tweetId="1423003730329444357" urltweet="https://twitter.com/davewiner/status/1423003730329444357" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="My two cents on Cuomo. https://t.co/D8iSaGIhos" type="tweet" created="Wed, 04 Aug 2021 13:24:38 GMT" tweetId="1422911357654032393" urltweet="https://twitter.com/davewiner/status/1422911357654032393" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Google doesn’t care about your security, they care that Comcast and Verizon et al can’t mess with their ads. &lt;a href=&quot;https://twitter.com/slashdot/status/1422709715251855362&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 11:30:15 GMT" tweetId="1422882572024041472" urltweet="https://twitter.com/davewiner/status/1422882572024041472" inReplyToId="" tweetUserName="davewiner" />
