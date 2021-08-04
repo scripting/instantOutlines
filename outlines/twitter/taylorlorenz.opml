@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 02:41:08 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 05:45:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="Really considering moving out into the woods and living off the land for a few years &lt;a href=&quot;https://twitter.com/thedailybeast/status/1422739078739632133&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 05:44:36 GMT" tweetId="1422795585577385989" urltweet="https://twitter.com/taylorlorenz/status/1422795585577385989" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 3" type="calendarDay" name="03" >
 				<outline text="“An anonymous social-media account claims to “combat right-wing threats” to democracy, and recently started fundraising through a PAC.” &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2021/08/patriottakes-and-future-resistance-twitter/619645/&quot;&gt;[link]&lt;/a&gt; https://t.co/rX36bMEeqQ" type="tweet" created="Wed, 04 Aug 2021 02:40:16 GMT" tweetId="1422749198210854913" urltweet="https://twitter.com/taylorlorenz/status/1422749198210854913" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is huge!! Congrats 🎉 &lt;a href=&quot;https://twitter.com/voxdotcom/status/1422580968032985092&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 01:55:02 GMT" tweetId="1422737811396972545" urltweet="https://twitter.com/taylorlorenz/status/1422737811396972545" inReplyToId="" tweetUserName="taylorlorenz" />
