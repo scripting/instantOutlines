@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 15:45:43 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 16:15:46 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="You can drive a good number of flatland corn/soy/far-barn miles with this song on repeat. &lt;a href=&quot;https://www.youtube.com/watch?v=MRKXFeyBIrw&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 16:14:46 GMT" tweetId="1422954172304044034" urltweet="https://twitter.com/KenSmith/status/1422954172304044034" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Politicians today, of a certain kind, a certain spirit, embrace this often cruel insight. &lt;a href=&quot;https://twitter.com/rabihalameddine/status/1422929537893994502&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 15:44:44 GMT" tweetId="1422946615896195078" urltweet="https://twitter.com/KenSmith/status/1422946615896195078" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="August 3" type="calendarDay" name="03" >
