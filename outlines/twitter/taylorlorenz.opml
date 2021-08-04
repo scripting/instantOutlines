@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 19:25:13 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 19:59:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="Amazon said these are not official Amazon ads and they are investigating the matter with TikTok &lt;a href=&quot;https://twitter.com/eddyburback/status/1422972566629543941&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 19:59:05 GMT" tweetId="1423010622480949249" urltweet="https://twitter.com/taylorlorenz/status/1423010622480949249" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&lt;a href=&quot;https://www.businessinsider.com/personal-finance/used-renters-insurance-to-pay-off-student-loans-2021-8&quot;&gt;[link]&lt;/a&gt; https://t.co/bY86gxABZO" type="tweet" created="Wed, 04 Aug 2021 19:24:56 GMT" tweetId="1423002030503698432" urltweet="https://twitter.com/taylorlorenz/status/1423002030503698432" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is one of those &quot;make it stop&quot; TikToks &lt;a href=&quot;https://twitter.com/tomgara/status/1422998075476529155&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 19:20:36 GMT" tweetId="1423000937249927173" urltweet="https://twitter.com/taylorlorenz/status/1423000937249927173" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Love going on TV/radio, but if you're a YouTuber covering one of my stories or something I've written abt and you want to have me on to chat about it please reach out!! :D I'd love to do more interviews with YTers, streamers, etc! Reach out on taylor.lorenz at nytimes dot com" type="tweet" created="Wed, 04 Aug 2021 17:41:33 GMT" tweetId="1422976010673291270" urltweet="https://twitter.com/taylorlorenz/status/1422976010673291270" inReplyToId="" tweetUserName="taylorlorenz" >
