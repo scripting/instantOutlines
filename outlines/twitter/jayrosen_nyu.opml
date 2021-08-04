@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 13:08:42 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 17:07:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="New entrant. Puck News says its &quot;reinventing the business model&quot; in journalism, &quot;in partnership with the journalists themselves,&quot; and that it is &quot;focused on the inside story at the nexus of Hollywood, Wall Street, Washington, and Silicon Valley.&quot; &lt;a href=&quot;https://puck.news/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 17:07:01 GMT" tweetId="1422967320939483139" urltweet="https://twitter.com/jayrosen_nyu/status/1422967320939483139" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 3" type="calendarDay" name="03" >
 				<outline text="The second day of @membershippzzle's wrap-up summit on membership models in journalism. Just started. You can find the full agenda and registration info here: &lt;a href=&quot;https://membershippuzzle.org/summit/agenda&quot;&gt;[link]&lt;/a&gt; https://t.co/zkERLki3LO" type="tweet" created="Tue, 03 Aug 2021 13:07:48 GMT" tweetId="1422544731482083328" urltweet="https://twitter.com/jayrosen_nyu/status/1422544731482083328" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
