@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 21:47:07 GMT</dateModified>
-		<expansionState>1,2,7,12</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Wed, 04 Aug 2021 13:05:10 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 4" created="Wed, 04 Aug 2021 13:04:31 GMT" type="calendarDay" name="04" >
+				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1422739461251731460&quot;&gt;Poll&lt;/a&gt;: Do you know what you don't know?" created="Wed, 04 Aug 2021 13:04:32 GMT" type="outline" />
+				</outline>
 			<outline text="August 3" created="Tue, 03 Aug 2021 17:21:33 GMT" type="calendarDay" name="03" >
 				<outline text="If you want to understand the utility of outliners, you have to understand renderers and processors. More about this soon." created="Tue, 03 Aug 2021 21:44:52 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1422660407890747392&quot;&gt;In my humble opinion&lt;/a&gt;, the thing to do is insist on being able to buy cable service without paying for Fox. But none of the talking heads will call for this because they all depend on a good relationship with the cable system owners. A very deep conflict of interest, across the board. It's like software devs can't afford to piss off Google or Apple, or else they'll figure out a way to kick them out of their app stores. There was a famous slogan at Microsoft back in the day, &quot;No version of DOS will ship until Lotus doesn't run.&quot; I'm sure it was just a joke. :smile:" created="Tue, 03 Aug 2021 21:40:39 GMT" type="outline" image="http://scripting.com/images/2019/11/30/apple.png" />
