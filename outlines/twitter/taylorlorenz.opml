@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 05:45:20 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 05:46:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
-				<outline text="Really considering moving out into the woods and living off the land for a few years &lt;a href=&quot;https://twitter.com/thedailybeast/status/1422739078739632133&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 05:44:36 GMT" tweetId="1422795585577385989" urltweet="https://twitter.com/taylorlorenz/status/1422795585577385989" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Really considering moving out into the woods and living off the land for a few years &lt;a href=&quot;https://twitter.com/thedailybeast/status/1422739078739632133&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 05:44:36 GMT" tweetId="1422795585577385989" urltweet="https://twitter.com/taylorlorenz/status/1422795585577385989" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="I’ve watched enough Robbie and Gary gardening videos on YouTube I’m almost ready" type="tweet" created="Wed, 04 Aug 2021 05:46:13 GMT" tweetId="1422795993179820035" urltweet="https://twitter.com/taylorlorenz/status/1422795993179820035" inReplyToId="1422795585577385989" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="August 3" type="calendarDay" name="03" >
 				<outline text="“An anonymous social-media account claims to “combat right-wing threats” to democracy, and recently started fundraising through a PAC.” &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2021/08/patriottakes-and-future-resistance-twitter/619645/&quot;&gt;[link]&lt;/a&gt; https://t.co/rX36bMEeqQ" type="tweet" created="Wed, 04 Aug 2021 02:40:16 GMT" tweetId="1422749198210854913" urltweet="https://twitter.com/taylorlorenz/status/1422749198210854913" inReplyToId="" tweetUserName="taylorlorenz" />
