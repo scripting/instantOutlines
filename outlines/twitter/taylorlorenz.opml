@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 17:42:05 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 17:43:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
-				<outline text="Love going on TV/radio, but if you're a YouTuber covering one of my stories or something I've written abt and you want to have me on to chat about it please reach out!! :D I'd love to do more interviews with YTers, streamers, etc! Reach out on taylor.lorenz at nytimes dot com" type="tweet" created="Wed, 04 Aug 2021 17:41:33 GMT" tweetId="1422976010673291270" urltweet="https://twitter.com/taylorlorenz/status/1422976010673291270" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Love going on TV/radio, but if you're a YouTuber covering one of my stories or something I've written abt and you want to have me on to chat about it please reach out!! :D I'd love to do more interviews with YTers, streamers, etc! Reach out on taylor.lorenz at nytimes dot com" type="tweet" created="Wed, 04 Aug 2021 17:41:33 GMT" tweetId="1422976010673291270" urltweet="https://twitter.com/taylorlorenz/status/1422976010673291270" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text=".@ColinandSamir can attest, I'm not a horrible guest!!" type="tweet" created="Wed, 04 Aug 2021 17:42:08 GMT" tweetId="1422976159084548097" urltweet="https://twitter.com/taylorlorenz/status/1422976159084548097" inReplyToId="1422976010673291270" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Must know more about these sorceress hustlers.... 👊🏻🔮😤 &lt;a href=&quot;https://twitter.com/jbienkahn/status/1422965855483097090&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 17:12:04 GMT" tweetId="1422968590316150786" urltweet="https://twitter.com/taylorlorenz/status/1422968590316150786" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;The Internet has a tendency to transform subcultures into popular culture at a disorienting rate.” &lt;a href=&quot;https://www.newyorker.com/magazine/2021/08/09/the-brash-exuberant-sounds-of-hyperpop&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 16:03:15 GMT" tweetId="1422951274241171460" urltweet="https://twitter.com/taylorlorenz/status/1422951274241171460" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Stop being like “oh such and such only affects people with underlying health issues.” Ok that’s me so am I just supposed to die lol? It’s probably a lot of other people u know too. Like congrats ur safe from whatever I guess but damn" type="tweet" created="Wed, 04 Aug 2021 05:57:55 GMT" tweetId="1422798937015001100" urltweet="https://twitter.com/taylorlorenz/status/1422798937015001100" inReplyToId="" tweetUserName="taylorlorenz" />
