@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 21:24:20 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 23:11:26 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="American Airlines passengers can now get 30 min of free access to TikTok while in the air &lt;a href=&quot;https://www.cnet.com/tech/services-and-software/tiktok-your-new-in-flight-entertainment-option/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 23:10:50 GMT" tweetId="1423058877445066752" urltweet="https://twitter.com/taylorlorenz/status/1423058877445066752" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Gonna carry this and fill it with red sauce &lt;a href=&quot;https://twitter.com/hypebae/status/1422947535656718341&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 21:23:31 GMT" tweetId="1423031870380380160" urltweet="https://twitter.com/taylorlorenz/status/1423031870380380160" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Insider got inside David Dobrik's big Lallapalooza &quot;house party&quot; &lt;a href=&quot;https://www.insider.com/david-dobriks-lollapalooza-chicago-party-photos-price-2021-8&quot;&gt;[link]&lt;/a&gt; https://t.co/fWdZkbed2b" type="tweet" created="Wed, 04 Aug 2021 20:16:40 GMT" tweetId="1423015048729939969" urltweet="https://twitter.com/taylorlorenz/status/1423015048729939969" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Amazon said these are not official Amazon ads and they are investigating the matter with TikTok &lt;a href=&quot;https://twitter.com/eddyburback/status/1422972566629543941&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 19:59:05 GMT" tweetId="1423010622480949249" urltweet="https://twitter.com/taylorlorenz/status/1423010622480949249" inReplyToId="" tweetUserName="taylorlorenz" >
