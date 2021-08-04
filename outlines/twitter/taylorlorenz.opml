@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 05:46:20 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 05:58:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="Stop being like “oh such and such only affects people with underlying health issues.” Ok that’s me so am I just supposed to die lol? It’s probably a lot of other people u know too. Like congrats ur safe from whatever I guess but damn" type="tweet" created="Wed, 04 Aug 2021 05:57:55 GMT" tweetId="1422798937015001100" urltweet="https://twitter.com/taylorlorenz/status/1422798937015001100" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Really considering moving out into the woods and living off the land for a few years &lt;a href=&quot;https://twitter.com/thedailybeast/status/1422739078739632133&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 05:44:36 GMT" tweetId="1422795585577385989" urltweet="https://twitter.com/taylorlorenz/status/1422795585577385989" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="I’ve watched enough Robbie and Gary gardening videos on YouTube I’m almost ready" type="tweet" created="Wed, 04 Aug 2021 05:46:13 GMT" tweetId="1422795993179820035" urltweet="https://twitter.com/taylorlorenz/status/1422795993179820035" inReplyToId="1422795585577385989" tweetUserName="taylorlorenz" />
 					</outline>
