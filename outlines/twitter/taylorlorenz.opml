@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 23:13:55 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 00:05:59 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="I want to believe the next phase of the creator economy includes things like healthcare like Jack says here 👇🏻, but considering how many contract laborers, freelancers, and hourly workers in this country still don’t have access to affordable healthcare I’m not hopeful &lt;a href=&quot;https://twitter.com/kyurieff/status/1422709254784524296&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 00:05:28 GMT" tweetId="1422710241125289984" urltweet="https://twitter.com/taylorlorenz/status/1422710241125289984" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Teenagers on TikTok are romanticizing Connecticut again" type="tweet" created="Tue, 03 Aug 2021 23:06:50 GMT" tweetId="1422695483919634433" urltweet="https://twitter.com/taylorlorenz/status/1422695483919634433" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Everyone involved in this genre of content needs their phone confiscated immediately &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1422697087070662657/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 23:13:12 GMT" tweetId="1422697087070662657" urltweet="https://twitter.com/taylorlorenz/status/1422697087070662657" inReplyToId="1422695483919634433" tweetUserName="taylorlorenz" />
 					</outline>
