@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 02 Aug 2021 19:59:08 GMT</dateModified>
+		<dateModified>Wed, 04 Aug 2021 23:23:23 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="This will become clearer and clearer over the next year.
+
+Already my Apple Max headphones sound better than when I bought them.
+
+A major paradigm shift is coming to music, movies, TV, games, and other experiences including shopping. &lt;a href=&quot;https://twitter.com/anastasiadevana/status/1423024960470233089&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 23:23:09 GMT" tweetId="1423061976968617984" urltweet="https://twitter.com/scobleizer/status/1423061976968617984" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 2" type="calendarDay" name="02" >
 				<outline text="This is what I think of when people say “Metaverse.” &lt;a href=&quot;https://twitter.com/terry_wakefield/status/1422285491727122438&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 19:58:28 GMT" tweetId="1422285692084752386" urltweet="https://twitter.com/scobleizer/status/1422285692084752386" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Cofounder of Pixar. Interesting read about computer graphics history. Highly recommended. &lt;a href=&quot;https://twitter.com/alvyray/status/1415910572118343680&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 02 Aug 2021 19:32:57 GMT" tweetId="1422279272379518987" urltweet="https://twitter.com/scobleizer/status/1422279272379518987" inReplyToId="" tweetUserName="scobleizer" >
