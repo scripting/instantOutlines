@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 19:12:39 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 19:18:39 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,9 @@
 “High-Res Lossless:” requires better gear and ears than I own.
 “Dolby Atmos:” surround sound (best for my gear and ears).
 “Spatial Audio (today):” Sound is locked to your TV.
-“SA (future):” sound locked to real world." type="tweet" created="Thu, 05 Aug 2021 19:12:28 GMT" tweetId="1423361281713598466" urltweet="https://twitter.com/scobleizer/status/1423361281713598466" inReplyToId="" tweetUserName="scobleizer" />
+“SA (future):” sound locked to real world." type="tweet" created="Thu, 05 Aug 2021 19:12:28 GMT" tweetId="1423361281713598466" urltweet="https://twitter.com/scobleizer/status/1423361281713598466" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="No matter how you look at it Apple Music is way better than Spotify." type="tweet" created="Thu, 05 Aug 2021 19:18:25 GMT" tweetId="1423362775942717441" urltweet="https://twitter.com/scobleizer/status/1423362775942717441" inReplyToId="1423361281713598466" tweetUserName="scobleizer" />
+					</outline>
 				<outline text="Old habits die hard. Who calls their surround sound system a “stereo” still? I do." type="tweet" created="Thu, 05 Aug 2021 18:32:55 GMT" tweetId="1423351328126820354" urltweet="https://twitter.com/scobleizer/status/1423351328126820354" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The world needs more of this. &lt;a href=&quot;https://twitter.com/maxn0ir/status/1423307822155116546&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 17:14:57 GMT" tweetId="1423331706904342530" urltweet="https://twitter.com/scobleizer/status/1423331706904342530" inReplyToId="" tweetUserName="scobleizer" />
 				</outline>
