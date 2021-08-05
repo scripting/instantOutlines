@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 05 Aug 2021 01:30:44 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 01:38:44 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="I’m loving Rick &amp;amp; Morty on HBO. &lt;a href=&quot;https://www.metacritic.com/tv/rick-morty&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 01:38:25 GMT" tweetId="1423096018997059584" urltweet="https://twitter.com/davewiner/status/1423096018997059584" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="When will they cancel NYC homecoming week? &lt;a href=&quot;https://www.homecoming2021.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 01:30:10 GMT" tweetId="1423093943164616706" urltweet="https://twitter.com/davewiner/status/1423093943164616706" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Which do you like better?" type="tweet" created="Thu, 05 Aug 2021 01:28:31 GMT" tweetId="1423093528742215685" urltweet="https://twitter.com/davewiner/status/1423093528742215685" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Eternal October: Bringing Back Tech Optimism, Without The Naivety. &lt;a href=&quot;https://www.techdirt.com/articles/20210718/01065747196/eternal-october-bringing-back-tech-optimism-without-naivety.shtml&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 21:56:04 GMT" tweetId="1423040061805940736" urltweet="https://twitter.com/davewiner/status/1423040061805940736" inReplyToId="" tweetUserName="davewiner" />
