@@ -6,12 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 23:23:23 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 00:20:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="Every day we see new AR experiences. 
+
+This one shows you tornado information if you are aiming your phone at a storm.
+
+I dream of stuff like this in glasses and thinking of the lives this could save make me happy.
+
+&lt;a href=&quot;https://collectiveweather.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 00:20:23 GMT" tweetId="1423076380854480899" urltweet="https://twitter.com/scobleizer/status/1423076380854480899" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="This will become clearer and clearer over the next year.
 
 Already my Apple Max headphones sound better than when I bought them.
