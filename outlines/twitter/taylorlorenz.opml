@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 16:18:32 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 17:26:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="I reached out to Amazon and TikTok about this. This was an error on TikTok’s end. 
+
+They “temporarily swapped the Amazon ad creative with a different video. The issue has now been fixed.&quot; - TikTok spokesperson &lt;a href=&quot;https://twitter.com/eddyburback/status/1422972566629543941&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 17:26:22 GMT" tweetId="1423334577657974788" urltweet="https://twitter.com/taylorlorenz/status/1423334577657974788" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Exactly 💓 &lt;a href=&quot;https://twitter.com/gawker/status/1423011547895537664&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 16:16:57 GMT" tweetId="1423317108297912328" urltweet="https://twitter.com/taylorlorenz/status/1423317108297912328" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="“To live in New York is to face a constant stream of indignities… but to be a real New Yorker is to develop a twisted admiration for these things.” &lt;a href=&quot;https://www.gawker.com/culture/new-york-we-like-that-it-sucks&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 16:17:40 GMT" tweetId="1423317288950718474" urltweet="https://twitter.com/taylorlorenz/status/1423317288950718474" inReplyToId="1423317108297912328" tweetUserName="taylorlorenz" />
 					</outline>
