@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 20:18:41 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 19:18:09 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="It was great having you on. A milestone! We’ll have you back for an anniversary of the show. &lt;a href=&quot;https://twitter.com/openanniv/status/1423101876413812740&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 19:17:50 GMT" tweetId="1423362631700684802" urltweet="https://twitter.com/dsearls/status/1423362631700684802" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="August 4" type="calendarDay" name="04" >
 				<outline text="My answer to a @quora question about bad radio reception in a city: &lt;a href=&quot;https://www.quora.com/Why-doesnt-radio-reception-work-am-FM-on-a-radio-I-live-in-a-large-city-with-many-radio-stations-In-my-apartment-most-of-the-stations-come-in-with-heavy-static-Should-I-connect-my-radio-to-an-external-antenna&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 20:18:17 GMT" tweetId="1423015456273797129" urltweet="https://twitter.com/dsearls/status/1423015456273797129" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
