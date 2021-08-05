@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 05 Aug 2021 08:54:12 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 11:26:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="Ad-free, private search. &lt;a href=&quot;https://neeva.com/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 11:26:01 GMT" tweetId="1423243893945077763" urltweet="https://twitter.com/davewiner/status/1423243893945077763" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Google breaks the web again. &lt;a href=&quot;https://www.theregister.com/2021/08/05/google_chrome_iframe/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 08:53:32 GMT" tweetId="1423205521788702722" urltweet="https://twitter.com/davewiner/status/1423205521788702722" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Rolling Stones' Charlie Watts Drops Out of U.S. Tour. &lt;a href=&quot;https://www.rollingstone.com/music/music-news/rolling-stones-charlie-watts-us-tour-1207707/?fbclid=IwAR1FNUwG0-Vw24Uq_0u-oe_0UqqBAOBdOl0tVi35cmMHErraBtJ0m7u0p3E&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 08:14:45 GMT" tweetId="1423195761307787264" urltweet="https://twitter.com/davewiner/status/1423195761307787264" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Delta variant’s rise plunges Europe into uncertainty — and offers a warning to the U.S. &lt;a href=&quot;https://news.yahoo.com/delta-variants-rise-plunges-europe-into-uncertainty-and-offers-a-warning-to-the-us-090002409.html?ncid=dcm_23910565_301671448_473553414_136036780&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 08:06:12 GMT" tweetId="1423193607641649153" urltweet="https://twitter.com/davewiner/status/1423193607641649153" inReplyToId="" tweetUserName="davewiner" />
