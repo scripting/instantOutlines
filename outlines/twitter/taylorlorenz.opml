@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 17:26:36 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 19:52:45 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="It's interesting to read lines like this from politicians about how they view online communities. I feel like it reveals a lot more about the internet bubble they operate in rather than the actual online landscape &lt;a href=&quot;https://www.nytimes.com/2021/08/04/us/politics/biden-democrats.html&quot;&gt;[link]&lt;/a&gt; https://t.co/QLKteg9nUp" type="tweet" created="Thu, 05 Aug 2021 19:52:06 GMT" tweetId="1423371255281901569" urltweet="https://twitter.com/taylorlorenz/status/1423371255281901569" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I reached out to Amazon and TikTok about this. This was an error on TikTok’s end. 
 
 They “temporarily swapped the Amazon ad creative with a different video. The issue has now been fixed.&quot; - TikTok spokesperson &lt;a href=&quot;https://twitter.com/eddyburback/status/1422972566629543941&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 17:26:22 GMT" tweetId="1423334577657974788" urltweet="https://twitter.com/taylorlorenz/status/1423334577657974788" inReplyToId="" tweetUserName="taylorlorenz" />
