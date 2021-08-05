@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 03:37:44 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 04:27:47 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="People are taking the 00s nostalgia too far worshiping rich people again and trying to act like downtown Manhattan is cool" type="tweet" created="Thu, 05 Aug 2021 04:27:22 GMT" tweetId="1423138538183270400" urltweet="https://twitter.com/taylorlorenz/status/1423138538183270400" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 4" type="calendarDay" name="04" >
 				<outline text="Me learning that people regularly use and check &quot;email&quot; instead of DMing and text like normal ppl &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1423076296171556866/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 00:20:03 GMT" tweetId="1423076296171556866" urltweet="https://twitter.com/taylorlorenz/status/1423076296171556866" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Life would be a whole lot better if everyone would kindly embrace my method &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2019/01/case-inbox-infinity/579673/&quot;&gt;[link]&lt;/a&gt; https://t.co/eqEEjGcnJL" type="tweet" created="Thu, 05 Aug 2021 00:26:43 GMT" tweetId="1423077974018977796" urltweet="https://twitter.com/taylorlorenz/status/1423077974018977796" inReplyToId="1423076296171556866" tweetUserName="taylorlorenz" />
