@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 05 Aug 2021 14:42:34 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 15:26:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="This is beautiful. I freeze up too when arguing starts, for similar reasons. &lt;a href=&quot;https://twitter.com/kseniaanske/status/1423303388725342213&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 15:25:54 GMT" tweetId="1423304263485251590" urltweet="https://twitter.com/davewiner/status/1423304263485251590" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Nazis and the Internet Archive. &lt;a href=&quot;https://www.patreon.com/posts/54433149&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 14:41:40 GMT" tweetId="1423293131852713992" urltweet="https://twitter.com/davewiner/status/1423293131852713992" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Do you think any note-taking tool on a phone is just the right size? Not too complicated. Easy to make notes and refer to notes. 
 
