@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 22:24:55 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 23:10:58 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="My culture &lt;a href=&quot;https://twitter.com/GregBensinger/status/1423419584288153604&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 23:10:04 GMT" tweetId="1423421072041398272" urltweet="https://twitter.com/taylorlorenz/status/1423421072041398272" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;Chandler interrupted the proceedings, loudly saying 'I’m famous on the internet,' before Heilberg told her not to speak until spoken to by the court.&quot; &lt;a href=&quot;https://dailyprogress.com/news/local/crime-and-courts/greene-woman-charged-with-incest-is-denied-bond/article_672612c0-f625-11eb-ae4a-57451e11d882.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 22:23:58 GMT" tweetId="1423409471297003523" urltweet="https://twitter.com/taylorlorenz/status/1423409471297003523" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="The media desperately needs to better interrogate what type of influencers they platform in glowing profiles and what types of messages those influencers will inevitably promote, using that fame and mainstream clout &lt;a href=&quot;https://twitter.com/ejdickson/status/1423332535195652101&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 22:10:24 GMT" tweetId="1423406059859763200" urltweet="https://twitter.com/taylorlorenz/status/1423406059859763200" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="It's interesting to read lines like this from politicians about how they view online communities. I feel like it reveals a lot more about the internet bubble they operate in rather than the actual online landscape &lt;a href=&quot;https://www.nytimes.com/2021/08/04/us/politics/biden-democrats.html&quot;&gt;[link]&lt;/a&gt; https://t.co/QLKteg9nUp" type="tweet" created="Thu, 05 Aug 2021 19:52:06 GMT" tweetId="1423371255281901569" urltweet="https://twitter.com/taylorlorenz/status/1423371255281901569" inReplyToId="" tweetUserName="taylorlorenz" />
