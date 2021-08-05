@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 15:17:28 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 15:21:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
-				<outline text="Trolls have been targeting @WajSKhan &amp;amp; I over the past day. I met Waj at @columbiajourn in 2019 he’s a phenomenal journalist. The allegations these accts are making about him are not true. I’m saddened that journalists these days have to face these attacks for telling the truth." type="tweet" created="Thu, 05 Aug 2021 15:16:53 GMT" tweetId="1423301994106654730" urltweet="https://twitter.com/taylorlorenz/status/1423301994106654730" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Trolls have been targeting @WajSKhan &amp;amp; I over the past day. I met Waj at @columbiajourn in 2019 he’s a phenomenal journalist. The allegations these accts are making about him are not true. I’m saddened that journalists these days have to face these attacks for telling the truth." type="tweet" created="Thu, 05 Aug 2021 15:16:53 GMT" tweetId="1423301994106654730" urltweet="https://twitter.com/taylorlorenz/status/1423301994106654730" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="These campaigns are organized to spread disinformation and smear journalists in an effort to discredit their reporting, especially when they cover national security like @WajSKhan does. I’m grateful to consider him a colleague and it’s sad ppl would try to manipulate that." type="tweet" created="Thu, 05 Aug 2021 15:21:18 GMT" tweetId="1423303104972292103" urltweet="https://twitter.com/taylorlorenz/status/1423303104972292103" inReplyToId="1423301994106654730" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Silicon Valley men who say “learn to code” I’d like to see you build one decent tumblr theme" type="tweet" created="Thu, 05 Aug 2021 08:07:56 GMT" tweetId="1423194042616086536" urltweet="https://twitter.com/taylorlorenz/status/1423194042616086536" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="This is really, really kind and thank you to whoever did this. @GirlsWhoCode is an amazing organization. 
 
