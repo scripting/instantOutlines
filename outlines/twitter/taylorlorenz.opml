@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 04:27:47 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 06:03:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="I feel like I already know people like this &lt;a href=&quot;https://twitter.com/bimbopolitic/status/1423071648840921093&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 06:03:25 GMT" tweetId="1423162709768425474" urltweet="https://twitter.com/taylorlorenz/status/1423162709768425474" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="People are taking the 00s nostalgia too far worshiping rich people again and trying to act like downtown Manhattan is cool" type="tweet" created="Thu, 05 Aug 2021 04:27:22 GMT" tweetId="1423138538183270400" urltweet="https://twitter.com/taylorlorenz/status/1423138538183270400" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="August 4" type="calendarDay" name="04" >
