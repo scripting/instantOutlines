@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 19:21:37 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 17:17:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="One way you know that Fox is not a NEWS network is that the star of a genuine news network would not anchor his show from the capital of democracy's blackslide, where an independent press is being squeezed out, unless he wanted to warn his viewers that this could happen to them. &lt;a href=&quot;https://twitter.com/NewDay/status/1422897249533652992&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 17:16:40 GMT" tweetId="1423332138812854272" urltweet="https://twitter.com/jayrosen_nyu/status/1423332138812854272" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 4" type="calendarDay" name="04" >
 				<outline text="Documenters is a nonprofit that pays community members to take notes (and often live tweet) at public meetings— like school boards. The notes are then posted on the Documenters website, where they are publicly viewable and searchable. &lt;a href=&quot;https://kappanonline.org/walker-in-cleveland-community-efforts-fill-in-for-school-coverage-russo/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 19:21:13 GMT" tweetId="1423001093219495939" urltweet="https://twitter.com/jayrosen_nyu/status/1423001093219495939" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="New entrant. Puck News says its &quot;reinventing the business model&quot; in journalism, &quot;in partnership with the journalists themselves,&quot; and that it is &quot;focused on the inside story at the nexus of Hollywood, Wall Street, Washington, and Silicon Valley.&quot; &lt;a href=&quot;https://puck.news/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 17:07:01 GMT" tweetId="1422967320939483139" urltweet="https://twitter.com/jayrosen_nyu/status/1422967320939483139" inReplyToId="" tweetUserName="jayrosen_nyu" />
