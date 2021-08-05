@@ -14,18 +14,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 23:37:54 GMT</dateModified>
-		<expansionState>1,2,6</expansionState>
+		<dateModified>Thu, 05 Aug 2021 12:36:42 GMT</dateModified>
+		<expansionState>1,2,4,8</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 5" created="Thu, 05 Aug 2021 12:32:00 GMT" type="calendarDay" name="05" >
+				<outline text="This must-read &lt;a href=&quot;https://donaldgmcneiljr1954.medium.com/what-is-biden-waiting-for-193df3fb4ac9&quot;&gt;piece&lt;/a&gt; is by [[Donald McNeil]], the [[NYT]] reporter they fired, probably for telling the truth about [[Covid]], stuff that none of their new Covid reporters would ever say. Read it, you’ll get fresh ideas on what the US government must have the courage to do now to save your life." created="Thu, 05 Aug 2021 12:35:26 GMT" type="outline" />
+				</outline>
 			<outline text="August 4" created="Wed, 04 Aug 2021 13:04:31 GMT" type="calendarDay" name="04" >
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1422691542888763396&quot;&gt;Poll&lt;/a&gt;: Should Andrew Cuomo resign? 90% said yes. " created="Wed, 04 Aug 2021 23:37:17 GMT" type="outline" />
 				<outline text="Google doesn’t care about your security, they care that Comcast and Verizon et al can’t mess with their ads." created="Wed, 04 Aug 2021 13:26:20 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1422739461251731460&quot;&gt;Poll&lt;/a&gt;: Do you know what you don't know?" created="Wed, 04 Aug 2021 13:04:32 GMT" type="outline" />
 				<outline text="My two cents on Cuomo" created="Wed, 04 Aug 2021 13:09:02 GMT" type="outline" description="We have a justice system to protect against mob rule. And this is a mob trying to rule." >
-					<outline text="I wonder how many people calling for Cuomo's resignation know what he was accused of in any specific way." created="Wed, 04 Aug 2021 13:09:10 GMT" />
+					<outline text="I wonder how many people calling for [[Cuomo]]'s resignation know what he was accused of in any specific way." created="Wed, 04 Aug 2021 13:09:10 GMT" />
 					<outline text="I wonder how many people calling for Cuomo's resignation have regrets about forcing &lt;a href=&quot;https://www.google.com/search?q=al+franken+forced+to+resign&quot;&gt;Al Franken&lt;/a&gt; to &lt;a href=&quot;https://www.chicagotribune.com/nation-world/ct-nw-al-franken-resignation-20190722-kaivwbwj4jhmfnf7sr3z53kuxy-story.html&quot;&gt;resign&lt;/a&gt; in 2017." created="Wed, 04 Aug 2021 13:11:16 GMT" />
 					<outline text="I wonder how many NY voters agree that Cuomo should resign? And if most of them don't, he shouldn't. " created="Wed, 04 Aug 2021 13:09:25 GMT" />
 					<outline text="Personally, I don't trust NY politicians, even the Attorney General. I think they're all corrupt. And I certainly don't trust the NY press, who, without dissent, has decided it's time for him to resign. That alone would be enough for me to encourage him to fight. It's not their call. They don't care what the voters think. They arrogantly think they are the public. They are not. " created="Wed, 04 Aug 2021 13:09:45 GMT" />
