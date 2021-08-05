@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 04 Aug 2021 23:20:27 GMT</dateModified>
+		<dateModified>Thu, 05 Aug 2021 00:20:31 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 4" type="calendarDay" name="04" >
+				<outline text="Me learning that people regularly use and check &quot;email&quot; instead of DMing and text like normal ppl &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1423076296171556866/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 00:20:03 GMT" tweetId="1423076296171556866" urltweet="https://twitter.com/taylorlorenz/status/1423076296171556866" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This was extremely inevitable &lt;a href=&quot;https://twitter.com/nypost/status/1422227107946635265&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 23:19:36 GMT" tweetId="1423061083170820096" urltweet="https://twitter.com/taylorlorenz/status/1423061083170820096" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I ASPIRE &lt;a href=&quot;https://twitter.com/nyttypos/status/1423058512050106368&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 23:16:33 GMT" tweetId="1423060318385696770" urltweet="https://twitter.com/taylorlorenz/status/1423060318385696770" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="American Airlines passengers can now get 30 min of free access to TikTok while in the air &lt;a href=&quot;https://www.cnet.com/tech/services-and-software/tiktok-your-new-in-flight-entertainment-option/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 04 Aug 2021 23:10:50 GMT" tweetId="1423058877445066752" urltweet="https://twitter.com/taylorlorenz/status/1423058877445066752" inReplyToId="" tweetUserName="taylorlorenz" />
