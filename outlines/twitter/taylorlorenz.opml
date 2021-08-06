@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 06 Aug 2021 03:20:14 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 17:08:08 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 6" type="calendarDay" name="06" >
+				<outline text="You can now put virtual NFT strippers to work earning you crypto on a platform called Stripperville, which calls itself the “Worlds first digital strip club” &lt;a href=&quot;https://www.stripperville.io/&quot;&gt;[link]&lt;/a&gt; https://t.co/XzvCSEAjZ1" type="tweet" created="Fri, 06 Aug 2021 17:07:20 GMT" tweetId="1423692176941219843" urltweet="https://twitter.com/taylorlorenz/status/1423692176941219843" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 5" type="calendarDay" name="05" >
 				<outline text="Just a reminder than @juliacarriew is one of the most talented, dogged and brilliant journalists on this site." type="tweet" created="Fri, 06 Aug 2021 03:20:01 GMT" tweetId="1423483976174370816" urltweet="https://twitter.com/taylorlorenz/status/1423483976174370816" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="My culture &lt;a href=&quot;https://twitter.com/GregBensinger/status/1423419584288153604&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 23:10:04 GMT" tweetId="1423421072041398272" urltweet="https://twitter.com/taylorlorenz/status/1423421072041398272" inReplyToId="" tweetUserName="taylorlorenz" />
