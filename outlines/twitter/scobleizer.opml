@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 06 Aug 2021 02:55:10 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 03:33:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="I built a house to celebrate all media. 
+
+Kanye’s life show is amazing! &lt;a href=&quot;https://music.apple.com/us/station/apple-music-tv/ra.1534941676&quot;&gt;[link]&lt;/a&gt; https://t.co/zlgqXozJeg" type="tweet" created="Fri, 06 Aug 2021 03:32:55 GMT" tweetId="1423487221072490497" urltweet="https://twitter.com/scobleizer/status/1423487221072490497" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Kanye Live: &lt;a href=&quot;https://music.apple.com/us/station/apple-music-tv/ra.1534941676&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 02:54:38 GMT" tweetId="1423477586273792012" urltweet="https://twitter.com/scobleizer/status/1423477586273792012" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Here is a guide to the new icons on Apple Music, made after thousands of listening hours: &lt;a href=&quot;https://www.linkedin.com/posts/scobleizer_you-might-be-noticing-these-new-icons-showing-activity-6829174957503864832-eVic&quot;&gt;[link]&lt;/a&gt; https://t.co/ZipbMFntwN" type="tweet" created="Thu, 05 Aug 2021 22:38:23 GMT" tweetId="1423413100343042048" urltweet="https://twitter.com/scobleizer/status/1423413100343042048" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Apple Spatial Audio decoded:
