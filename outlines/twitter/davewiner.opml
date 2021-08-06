@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 06 Aug 2021 01:16:14 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 11:27:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 6" type="calendarDay" name="06" >
+				<outline text="2017: Rules for standards-makers. https://t.co/U8sueEiIyK" type="tweet" created="Fri, 06 Aug 2021 11:27:23 GMT" tweetId="1423606623965257735" urltweet="https://twitter.com/davewiner/status/1423606623965257735" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 5" type="calendarDay" name="05" >
 				<outline text="Apple debuts plan to detect images of child sexual abuse. (Could probably be used for other more nefarious purposes.) &lt;a href=&quot;https://www.axios.com/apple-detect-images-child-sexual-abuse-6d89357e-e7f4-4275-b93a-7f2bf86ce7f7.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=editorial&amp;utm_content=technology-apple&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 01:15:51 GMT" tweetId="1423452728261496834" urltweet="https://twitter.com/davewiner/status/1423452728261496834" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The best audiobook I've listened to so far is The Color Purple, narrated by the author Alice Walker.  &lt;a href=&quot;https://www.audible.com/pd/The-Color-Purple-Audiobook/B07LCV3R2F&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 00:47:11 GMT" tweetId="1423445512863244290" urltweet="https://twitter.com/davewiner/status/1423445512863244290" inReplyToId="" tweetUserName="davewiner" />
