@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Fri, 06 Aug 2021 13:58:25 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 15:34:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 6" type="calendarDay" name="06" >
+				<outline text="Mind-boggling that anyone thinks this looks good, or isn’t bothered by the fact that it’s very hard to see which tab is selected. &lt;a href=&quot;https://twitter.com/stevex/status/1423604246348500997&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 15:34:04 GMT" tweetId="1423668703732903938" urltweet="https://twitter.com/gruber/status/1423668703732903938" inReplyToId="" tweetUserName="gruber" />
 				<outline text="Good thing I’m wearing my tab-closing pants today. &lt;a href=&quot;https://twitter.com/gruber/status/1423644404242395136/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 13:57:30 GMT" tweetId="1423644404242395136" urltweet="https://twitter.com/gruber/status/1423644404242395136" inReplyToId="" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 5" type="calendarDay" name="05" >
