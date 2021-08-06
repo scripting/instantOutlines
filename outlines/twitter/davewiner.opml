@@ -7,12 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 06 Aug 2021 11:38:55 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 11:41:55 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 6" type="calendarDay" name="06" >
-				<outline text="Apple's plan to scan iCloud for child porn sets off privacy firestorm. &lt;a href=&quot;https://www.ped30.com/2021/08/06/apple-scan-child-porn/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 11:38:43 GMT" tweetId="1423609478990155776" urltweet="https://twitter.com/davewiner/status/1423609478990155776" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Apple's plan to scan iCloud for child porn sets off privacy firestorm. &lt;a href=&quot;https://www.ped30.com/2021/08/06/apple-scan-child-porn/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 11:38:43 GMT" tweetId="1423609478990155776" urltweet="https://twitter.com/davewiner/status/1423609478990155776" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Just like Google, they want to protect you against spying, by everyone, except them. It’s practically criminal. It should be criminal.
+
+And get this, we’re paying them to do it to us! Oy." type="tweet" created="Fri, 06 Aug 2021 11:40:57 GMT" tweetId="1423610039982600192" urltweet="https://twitter.com/davewiner/status/1423610039982600192" inReplyToId="1423609478990155776" tweetUserName="davewiner" />
+					</outline>
 				<outline text="2017: Rules for standards-makers. https://t.co/U8sueEiIyK" type="tweet" created="Fri, 06 Aug 2021 11:27:23 GMT" tweetId="1423606623965257735" urltweet="https://twitter.com/davewiner/status/1423606623965257735" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 5" type="calendarDay" name="05" >
