@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Tue, 03 Aug 2021 15:34:19 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 07:12:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 6" type="calendarDay" name="06" >
+				<outline text="Very cool! &lt;a href=&quot;https://twitter.com/szal_ai/status/1423395381292027913&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 07:11:28 GMT" tweetId="1423542221991673859" urltweet="https://twitter.com/logseq/status/1423542221991673859" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="August 3" type="calendarDay" name="03" >
 				<outline text="Our existing backend code is open sourced on GitHub, it's mostly for people who'd like to self-host the GitHub integration themselves.
 &lt;a href=&quot;https://github.com/logseq/deprecated-github-backend&quot;&gt;[link]&lt;/a&gt;
