@@ -14,12 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 17:57:22 GMT</dateModified>
-		<expansionState>1,2,8,12</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 06 Aug 2021 13:09:17 GMT</dateModified>
+		<expansionState>1,2,3,5,11,15</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 6" created="Fri, 06 Aug 2021 13:07:56 GMT" type="calendarDay" name="06" >
+				<outline text="Diego Rivera" created="Fri, 06 Aug 2021 13:07:57 GMT" type="outline" >
+					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/diego-rivera/portrait-of-sra-dona-elena-flores-de-carrillo-1953&quot;&gt;Portrait of Sra. Dona Elena Flores de Carrillo&lt;/a&gt;, 1953.
+" created="Fri, 06 Aug 2021 13:07:59 GMT" inlineImage="http://scripting.com/images/2021/08/06/diegoRivera.png" />
+					</outline>
+				</outline>
 			<outline text="August 5" created="Thu, 05 Aug 2021 12:32:00 GMT" type="calendarDay" name="05" >
 				<outline text="Obviously &lt;a href=&quot;https://www.vox.com/policy-and-politics/2021/8/5/22607465/tucker-carlson-hungary-orban-authoritarianism-democracy-backsliding&quot;&gt;Tucker Carlson&lt;/a&gt; wants to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n&quot;&gt;Viktor Orbán&lt;/a&gt; of the US. " created="Thu, 05 Aug 2021 17:56:37 GMT" type="outline" />
 				<outline text="I recently got [[Drummer]] to work reasonably well on a tablet like an iPad. But I'm thinking about doing something different for phones. I wonder if you think any note-taking tool on a phone is doing a particularly great job. Just the right size. Not too complicated. Easy to make notes, easy to refer to notes. If so, could you post a screen shot &lt;a href=&quot;https://twitter.com/davewiner/status/1423267186794246154&quot;&gt;here&lt;/a&gt;. BTW -- I don't &lt;a href=&quot;https://twitter.com/davewiner/status/1423269337763303427&quot;&gt;insist&lt;/a&gt; on doing this app. In fact I'd prefer not to." created="Thu, 05 Aug 2021 12:54:06 GMT" type="outline" image="http://scripting.com/images/2021/06/14/strongman.png" />
