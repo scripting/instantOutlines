@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 06 Aug 2021 13:34:11 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 19:04:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 6" type="calendarDay" name="06" >
+				<outline text="7 Out Of 10 New York State Voters Say Cuomo Should Resign. &lt;a href=&quot;https://poll.qu.edu/poll-release?releaseid=3816&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 19:03:53 GMT" tweetId="1423721507503714321" urltweet="https://twitter.com/davewiner/status/1423721507503714321" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This article, while shocking, doesn't explain how devastating it will be if the Gulf Stream disappears. The Gulf Stream is why the UK has a temperate climate, even though it's at the same latitude as Hudson Bay in Canada." type="tweet" created="Fri, 06 Aug 2021 13:30:16 GMT" tweetId="1423637549667454996" urltweet="https://twitter.com/davewiner/status/1423637549667454996" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Links here:
 
