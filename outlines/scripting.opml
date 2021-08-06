@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 06 Aug 2021 13:09:17 GMT</dateModified>
-		<expansionState>1,2,3,5,11,15</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Fri, 06 Aug 2021 13:23:38 GMT</dateModified>
+		<expansionState>1,2,4,6,12,16</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 6" created="Fri, 06 Aug 2021 13:07:56 GMT" type="calendarDay" name="06" >
+				<outline text="This &lt;a href=&quot;https://www.washingtonpost.com/climate-environment/2021/08/05/change-ocean-collapse-atlantic-meridional/&quot;&gt;article&lt;/a&gt;, while shocking, doesn't explain how devastating it will be if the &lt;a href=&quot;https://en.wikipedia.org/wiki/Gulf_Stream&quot;&gt;Gulf Stream&lt;/a&gt; disappears, as apparently it's happening now. The Gulf Stream is why &lt;a href=&quot;https://www.thesun.co.uk/news/2569640/what-is-the-gulf-stream-where-is-it-how-does-it-affect-uk-weather-and-why-does-it-cause-heavy-snow/#:~:text=How%20does%20the%20Gulf%20Stream,to%205%20%C2%B0C%20cooler.&quot;&gt;the UK&lt;/a&gt;, for example, has a temperate climate, even though it's at the same latitude as &lt;a href=&quot;https://en.wikipedia.org/wiki/Hudson_Bay&quot;&gt;Hudson Bay&lt;/a&gt; in Canada. " created="Fri, 06 Aug 2021 13:20:02 GMT" type="outline" />
 				<outline text="Diego Rivera" created="Fri, 06 Aug 2021 13:07:57 GMT" type="outline" >
 					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/diego-rivera/portrait-of-sra-dona-elena-flores-de-carrillo-1953&quot;&gt;Portrait of Sra. Dona Elena Flores de Carrillo&lt;/a&gt;, 1953.
 " created="Fri, 06 Aug 2021 13:07:59 GMT" inlineImage="http://scripting.com/images/2021/08/06/diegoRivera.png" />
