@@ -7,21 +7,26 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Sun, 01 Aug 2021 00:39:57 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 01:59:39 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 5" type="calendarDay" name="05" >
+				<outline text="Dumb. &lt;a href=&quot;https://twitter.com/atrupar/status/1423438848282005507&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 01:58:48 GMT" tweetId="1423463537490513926" urltweet="https://twitter.com/gruber/status/1423463537490513926" inReplyToId="" tweetUserName="gruber" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 31" type="calendarDay" name="31" >
-				<outline text="S-M-R-T &lt;a href=&quot;https://twitter.com/JoshMandelOhio/status/1421561413705797637&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 00:39:36 GMT" tweetId="1421631666200711170" urltweet="https://twitter.com/gruber/status/1421631666200711170" inReplyToId="" tweetUserName="gruber" />
+				<outline text="S-M-R-T &lt;a href=&quot;https://twitter.com/JoshMandelOhio/status/1421561413705797637&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 01 Aug 2021 00:39:36 GMT" tweetId="1421631666200711170" urltweet="https://twitter.com/gruber/status/1421631666200711170" tweetUserName="gruber" />
 				</outline>
 			<outline text="July 29" type="calendarDay" name="29" >
-				<outline text="Dumb. &lt;a href=&quot;https://twitter.com/clubhouseio/status/1420821884313116674&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 03:12:20 GMT" tweetId="1420945327536881673" urltweet="https://twitter.com/gruber/status/1420945327536881673" inReplyToId="" tweetUserName="gruber" />
+				<outline text="Dumb. &lt;a href=&quot;https://twitter.com/clubhouseio/status/1420821884313116674&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 30 Jul 2021 03:12:20 GMT" tweetId="1420945327536881673" urltweet="https://twitter.com/gruber/status/1420945327536881673" tweetUserName="gruber" />
 				</outline>
 			<outline text="July 28" type="calendarDay" name="28" >
 				<outline text="Mobile Safari versions 1–14: no one ever had to explain anything.
 
-Mobile Safari 15: “See, you don’t get the genius of this design, let me explain…”" type="tweet" created="Wed, 28 Jul 2021 04:47:30 GMT" tweetId="1420244500404912130" urltweet="https://twitter.com/gruber/status/1420244500404912130" inReplyToId="" tweetUserName="gruber" />
-				<outline text="“New” is carrying a lot of water here. &lt;a href=&quot;https://twitter.com/gruber/status/1420242650217730053/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 04:40:09 GMT" tweetId="1420242650217730053" urltweet="https://twitter.com/gruber/status/1420242650217730053" inReplyToId="" tweetUserName="gruber" />
+Mobile Safari 15: “See, you don’t get the genius of this design, let me explain…”" type="tweet" created="Wed, 28 Jul 2021 04:47:30 GMT" tweetId="1420244500404912130" urltweet="https://twitter.com/gruber/status/1420244500404912130" tweetUserName="gruber" />
+				<outline text="“New” is carrying a lot of water here. &lt;a href=&quot;https://twitter.com/gruber/status/1420242650217730053/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 04:40:09 GMT" tweetId="1420242650217730053" urltweet="https://twitter.com/gruber/status/1420242650217730053" tweetUserName="gruber" />
 				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
 				<outline text="Zen dialog: &lt;a href=&quot;https://twitter.com/gruber/status/1418360725152665602/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 23 Jul 2021 00:02:03 GMT" tweetId="1418360725152665602" urltweet="https://twitter.com/gruber/status/1418360725152665602" tweetUserName="gruber" />
