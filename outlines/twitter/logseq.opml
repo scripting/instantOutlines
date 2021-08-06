@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 06 Aug 2021 15:22:53 GMT</dateModified>
+		<dateModified>Fri, 06 Aug 2021 15:24:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 6" type="calendarDay" name="06" >
+				<outline text="Full changelog at &lt;a href=&quot;https://logseq.github.io/#/page/f3b8092e-ab5c-42c9-883c-81ae055b051d&quot;&gt;[link]&lt;/a&gt; https://t.co/AhMtzsE09R" type="tweet" created="Fri, 06 Aug 2021 15:24:02 GMT" tweetId="1423666182075289608" urltweet="https://twitter.com/logseq/status/1423666182075289608" inReplyToId="" tweetUserName="logseq" />
 				<outline text="PDF highlighter is out 📖✍️
 Some features:
 1. text highlight
