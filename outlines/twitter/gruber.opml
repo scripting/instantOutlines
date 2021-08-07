@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Fri, 06 Aug 2021 23:58:04 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 05:02:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 7" type="calendarDay" name="07" >
+				<outline text="Nice try, France." type="tweet" created="Sat, 07 Aug 2021 05:01:55 GMT" tweetId="1423872008081846272" urltweet="https://twitter.com/gruber/status/1423872008081846272" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="August 6" type="calendarDay" name="06" >
 				<outline text="A good story well told, indeed. &lt;a href=&quot;https://twitter.com/KristerJohnson/status/1423393547181461504&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 23:58:00 GMT" tweetId="1423795526177370129" urltweet="https://twitter.com/gruber/status/1423795526177370129" inReplyToId="" tweetUserName="gruber" />
 				<outline text="Mind-boggling that anyone thinks this looks good, or isn’t bothered by the fact that it’s very hard to see which tab is selected. &lt;a href=&quot;https://twitter.com/stevex/status/1423604246348500997&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 15:34:04 GMT" tweetId="1423668703732903938" urltweet="https://twitter.com/gruber/status/1423668703732903938" inReplyToId="" tweetUserName="gruber" />
