@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sat, 07 Aug 2021 08:03:56 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 08:08:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 7" type="calendarDay" name="07" >
+				<outline text="Awesome! Let us know if you have any feedback or suggestions! &lt;a href=&quot;https://twitter.com/curtaindsleep/status/1423918409578958854&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 08:08:27 GMT" tweetId="1423918950832742401" urltweet="https://twitter.com/logseq/status/1423918950832742401" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you! &lt;a href=&quot;https://twitter.com/nabhan_yt/status/1423747069991395338&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 08:03:15 GMT" tweetId="1423917641727500298" urltweet="https://twitter.com/logseq/status/1423917641727500298" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you for the shout-out! There're many things to explore in the future, but I'm super happy that it works for the way you work! &lt;a href=&quot;https://twitter.com/fncll/status/1423765441000792066&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 08:02:56 GMT" tweetId="1423917563734413316" urltweet="https://twitter.com/logseq/status/1423917563734413316" inReplyToId="" tweetUserName="logseq" />
 				</outline>
