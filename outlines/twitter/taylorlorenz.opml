@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 07 Aug 2021 20:21:51 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 20:25:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 7" type="calendarDay" name="07" >
-				<outline text="Media companies: if u want to support people dealing with harassment and abuse then give them time off. Full stop. If a worker is forced to spend hours and hours of overtime dealing w/ harassment that comes *because* of their job that is labor and deserves compensation/time off" type="tweet" created="Sat, 07 Aug 2021 20:20:54 GMT" tweetId="1424103276975321093" urltweet="https://twitter.com/taylorlorenz/status/1424103276975321093" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Media companies: if u want to support people dealing with harassment and abuse then give them time off. Full stop. If a worker is forced to spend hours and hours of overtime dealing w/ harassment that comes *because* of their job that is labor and deserves compensation/time off" type="tweet" created="Sat, 07 Aug 2021 20:20:54 GMT" tweetId="1424103276975321093" urltweet="https://twitter.com/taylorlorenz/status/1424103276975321093" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="There’s so much more to be done to help media companies at every level understand these issues, that’s why I’m grateful to be part of a union that advocates for change in the industry 💪🏻" type="tweet" created="Sat, 07 Aug 2021 20:25:33 GMT" tweetId="1424104446556966914" urltweet="https://twitter.com/taylorlorenz/status/1424104446556966914" inReplyToId="1424103276975321093" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="August 6" type="calendarDay" name="06" >
 				<outline text="Tucker is now weighing in on Chris Chan &lt;a href=&quot;https://twitter.com/nezumi_ningen/status/1423818231962275840&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 01:50:58 GMT" tweetId="1423823952380514309" urltweet="https://twitter.com/taylorlorenz/status/1423823952380514309" inReplyToId="" tweetUserName="taylorlorenz" >
