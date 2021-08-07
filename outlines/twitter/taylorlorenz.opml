@@ -6,14 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 07 Aug 2021 01:53:41 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 01:56:41 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 6" type="calendarDay" name="06" >
 				<outline text="Tucker is now weighing in on Chris Chan &lt;a href=&quot;https://twitter.com/nezumi_ningen/status/1423818231962275840&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 01:50:58 GMT" tweetId="1423823952380514309" urltweet="https://twitter.com/taylorlorenz/status/1423823952380514309" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="Follow @IAmAsarch who has been doing absolutely phenomenal reporting on the Chris Chan case &lt;a href=&quot;https://twitter.com/iamasarch/status/1423820888026324995&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 01:53:33 GMT" tweetId="1423824602661199874" urltweet="https://twitter.com/taylorlorenz/status/1423824602661199874" inReplyToId="1423823952380514309" tweetUserName="taylorlorenz" />
+					<outline text="Follow @IAmAsarch who has been doing absolutely phenomenal reporting on the Chris Chan case &lt;a href=&quot;https://twitter.com/iamasarch/status/1423820888026324995&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 01:53:33 GMT" tweetId="1423824602661199874" urltweet="https://twitter.com/taylorlorenz/status/1423824602661199874" inReplyToId="1423823952380514309" tweetUserName="taylorlorenz" >
+						<outline text=".@IAmAsarch also wrote a great rundown of who she is and why she’s such a well known internet figure &lt;a href=&quot;https://www.insider.com/chris-chan-arrested-trending-who-is-mom-twitter-history-sonichu-2021-8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 01:56:29 GMT" tweetId="1423825341626294274" urltweet="https://twitter.com/taylorlorenz/status/1423825341626294274" inReplyToId="1423824602661199874" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				<outline text="The only way to work 😌 &lt;a href=&quot;https://twitter.com/juiceboxca/status/1423604873585733632&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 21:17:29 GMT" tweetId="1423755130474688512" urltweet="https://twitter.com/taylorlorenz/status/1423755130474688512" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Work for the rest of the day is cancelled in order to hold the poetry discussion group" type="tweet" created="Fri, 06 Aug 2021 20:18:40 GMT" tweetId="1423740327458791426" urltweet="https://twitter.com/taylorlorenz/status/1423740327458791426" inReplyToId="" tweetUserName="taylorlorenz" />
