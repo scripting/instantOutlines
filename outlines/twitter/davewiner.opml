@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 07 Aug 2021 04:57:01 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 11:08:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 7" type="calendarDay" name="07" >
+				<outline text="Black real estate agent and his client arrested while touring Michigan house. &lt;a href=&quot;https://www.washingtonpost.com/nation/2021/08/06/black-realtor-michigan-police-handcuffed/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 11:07:43 GMT" tweetId="1423964062053015554" urltweet="https://twitter.com/davewiner/status/1423964062053015554" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Team U.S.A. Triumphs Over France in Olympic Basketball Final. &lt;a href=&quot;https://www.nytimes.com/2021/08/07/sports/olympics/usa-wins-olympic-basketball-final-france.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 04:56:13 GMT" tweetId="1423870573084610560" urltweet="https://twitter.com/davewiner/status/1423870573084610560" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 6" type="calendarDay" name="06" >
