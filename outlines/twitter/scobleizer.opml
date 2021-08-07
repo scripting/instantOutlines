@@ -6,11 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 06 Aug 2021 04:04:13 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 23:50:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 7" type="calendarDay" name="07" >
+				<outline text="I used 1.4 terabytes of data last month says Comcast.
+
+4K TV sure uses a lot. 
+
+Or maybe my son is doing something whacky in @Roblox.
+
+Either way that is nuts." type="tweet" created="Sat, 07 Aug 2021 23:49:52 GMT" tweetId="1424155863594504197" urltweet="https://twitter.com/scobleizer/status/1424155863594504197" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 5" type="calendarDay" name="05" >
 				<outline text="I built a house to celebrate all media. 
 
