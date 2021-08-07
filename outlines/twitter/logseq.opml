@@ -7,7 +7,7 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sat, 07 Aug 2021 08:08:57 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 10:59:07 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -31,7 +31,9 @@ Gif demo:
 &lt;a href=&quot;https://logseq.github.io/assets/2021-08-06_21.46.20_1628257857150_0.gif&quot;&gt;[link]&lt;/a&gt;
 
 Download: https://t.co/ZOuXPnXd9b https://t.co/6dXF77vbCF" type="tweet" created="Fri, 06 Aug 2021 15:22:29 GMT" tweetId="1423665790134349826" urltweet="https://twitter.com/logseq/status/1423665790134349826" inReplyToId="" tweetUserName="logseq" />
-				<outline text="Today's card! &lt;a href=&quot;https://twitter.com/logseq/status/1423581905425891340/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 09:49:09 GMT" tweetId="1423581905425891340" urltweet="https://twitter.com/logseq/status/1423581905425891340" inReplyToId="" tweetUserName="logseq" />
+				<outline text="Today's card! &lt;a href=&quot;https://twitter.com/logseq/status/1423581905425891340/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 09:49:09 GMT" tweetId="1423581905425891340" urltweet="https://twitter.com/logseq/status/1423581905425891340" inReplyToId="" tweetUserName="logseq" >
+					<outline text="The trick is to embed a page in a block that has a #card. &lt;a href=&quot;https://twitter.com/logseq/status/1423961724525244419/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 10:58:25 GMT" tweetId="1423961724525244419" urltweet="https://twitter.com/logseq/status/1423961724525244419" inReplyToId="1423581905425891340" tweetUserName="logseq" />
+					</outline>
 				<outline text="😄 Wonderful tweaks! &lt;a href=&quot;https://twitter.com/hrdcrpxxx/status/1422954794617131008&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 09:24:40 GMT" tweetId="1423575742831423490" urltweet="https://twitter.com/logseq/status/1423575742831423490" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Very cool! &lt;a href=&quot;https://twitter.com/szal_ai/status/1423395381292027913&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 07:11:28 GMT" tweetId="1423542221991673859" urltweet="https://twitter.com/logseq/status/1423542221991673859" inReplyToId="" tweetUserName="logseq" />
 				</outline>
