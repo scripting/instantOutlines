@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 07 Aug 2021 22:31:00 GMT</dateModified>
+		<dateModified>Sat, 07 Aug 2021 22:34:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 7" type="calendarDay" name="07" >
+				<outline text="I can’t wait to watch!!! &lt;a href=&quot;https://twitter.com/kll5/status/1424136375817752579&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 22:33:35 GMT" tweetId="1424136669872021504" urltweet="https://twitter.com/taylorlorenz/status/1424136669872021504" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is an entertaining read but the main thing I love about the internet is people like Cindy (no offense to her at all) aren't the arbiters of anything anymore &lt;a href=&quot;https://www.nytimes.com/2021/08/07/style/cindy-adams-ny-post-only-in-new-york-kids-showtime-documentary-gossip.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 22:12:40 GMT" tweetId="1424131405055811587" urltweet="https://twitter.com/taylorlorenz/status/1424131405055811587" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="The gossip world is very toxic now, but grateful we’ve moved beyond the tabloid heyday and the worldview it pushed. Will definitely watch the doc mentioned in this story too! &lt;a href=&quot;https://www.nytimes.com/2021/08/07/style/cindy-adams-ny-post-only-in-new-york-kids-showtime-documentary-gossip.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 22:23:11 GMT" tweetId="1424134049417678848" urltweet="https://twitter.com/taylorlorenz/status/1424134049417678848" inReplyToId="1424131405055811587" tweetUserName="taylorlorenz" >
 						<outline text="I do wonder what Cindy would think of Deuxmoi or TikTok Room (rip) though 🙈 &lt;a href=&quot;https://www.nytimes.com/2021/08/07/style/cindy-adams-ny-post-only-in-new-york-kids-showtime-documentary-gossip.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 22:30:13 GMT" tweetId="1424135820617785345" urltweet="https://twitter.com/taylorlorenz/status/1424135820617785345" inReplyToId="1424134049417678848" tweetUserName="taylorlorenz" />
