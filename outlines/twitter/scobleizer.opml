@@ -6,11 +6,22 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 07 Aug 2021 23:50:01 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 19:49:16 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="The average music video I see on Apple Music TV has dozens of people who built it.
+
+The least hyped talent is that of team building.
+
+Is the day of the independent contributor over?
+
+VR for mainstream use is even tougher than creating a music video.
+
+&lt;a href=&quot;https://music.apple.com/us/station/apple-music-tv/ra.1534941676&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 19:48:34 GMT" tweetId="1424457526603501570" urltweet="https://twitter.com/scobleizer/status/1424457526603501570" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 7" type="calendarDay" name="07" >
 				<outline text="I used 1.4 terabytes of data last month says Comcast.
 
