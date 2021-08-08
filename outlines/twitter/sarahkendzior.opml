@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sun, 08 Aug 2021 17:24:38 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 18:44:43 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -32,7 +32,9 @@
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
 				<outline text="On hiatus for a few weeks &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1420354735845093377/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:05:32 GMT" tweetId="1420354735845093377" urltweet="https://twitter.com/sarahkendzior/status/1420354735845093377" tweetUserName="sarahkendzior" >
-					<outline text="See ya later Twitter &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1420355159486513155/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:07:13 GMT" tweetId="1420355159486513155" urltweet="https://twitter.com/sarahkendzior/status/1420355159486513155" inReplyToId="1420354735845093377" tweetUserName="sarahkendzior" />
+					<outline text="See ya later Twitter &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1420355159486513155/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:07:13 GMT" tweetId="1420355159486513155" urltweet="https://twitter.com/sarahkendzior/status/1420355159486513155" inReplyToId="1420354735845093377" tweetUserName="sarahkendzior" >
+						<outline text="Still on a Twitter break for a bit. I'll be back later in the month. Good luck, folks! &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424441380626079744/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 18:44:24 GMT" tweetId="1424441380626079744" urltweet="https://twitter.com/sarahkendzior/status/1424441380626079744" inReplyToId="1420355159486513155" tweetUserName="sarahkendzior" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="July 22" type="calendarDay" name="22" >
