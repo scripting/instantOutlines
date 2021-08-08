@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 03 Aug 2021 17:58:00 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 20:03:45 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/ql</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="This does not surprise me, but I'm still playing my own sad trombone. It's the right thing to do, I'm just really tired of putting my #joy on hold.  Part of me just wants to start swimming for #newzealand. &lt;a href=&quot;https://twitter.com/jazzfest/status/1424445674511290369&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 20:03:12 GMT" tweetId="1424461211517652995" urltweet="https://twitter.com/nakedjen/status/1424461211517652995" inReplyToId="" tweetUserName="nakedjen" />
+				</outline>
 			<outline text="August 3" type="calendarDay" name="03" >
 				<outline text="And #backtoschool we go. &lt;a href=&quot;https://twitter.com/BenWinslow/status/1422579083762823171&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 03 Aug 2021 17:57:53 GMT" tweetId="1422617732650991617" urltweet="https://twitter.com/nakedjen/status/1422617732650991617" inReplyToId="" tweetUserName="nakedjen" />
 				</outline>
