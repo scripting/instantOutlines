@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Sun, 08 Aug 2021 17:15:38 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 17:20:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -17,7 +17,9 @@
 						<outline text="Fort Sumter &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424415647312846852/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 17:02:09 GMT" tweetId="1424415647312846852" urltweet="https://twitter.com/sarahkendzior/status/1424415647312846852" inReplyToId="1424414517262442496" tweetUserName="sarahkendzior" >
 							<outline text="St Augustine. 17th century Spanish fort Castillo de San Marcos, Florida Man with Florida Dog, the ocean, extra corona... &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424416946309713923/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 17:07:19 GMT" tweetId="1424416946309713923" urltweet="https://twitter.com/sarahkendzior/status/1424416946309713923" inReplyToId="1424415647312846852" tweetUserName="sarahkendzior" >
 								<outline text="🤘 &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424418205813002249/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 17:12:19 GMT" tweetId="1424418205813002249" urltweet="https://twitter.com/sarahkendzior/status/1424418205813002249" inReplyToId="1424416946309713923" tweetUserName="sarahkendzior" />
-								<outline text="&lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424418994044407809/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 17:15:27 GMT" tweetId="1424418994044407809" urltweet="https://twitter.com/sarahkendzior/status/1424418994044407809" inReplyToId="1424416946309713923" tweetUserName="sarahkendzior" />
+								<outline text="&lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424418994044407809/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 17:15:27 GMT" tweetId="1424418994044407809" urltweet="https://twitter.com/sarahkendzior/status/1424418994044407809" inReplyToId="1424416946309713923" tweetUserName="sarahkendzior" >
+									<outline text="The hotel room where Al Capone was held in Chattanooga TN before he was transported to prison &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424420087864467461/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 17:19:48 GMT" tweetId="1424420087864467461" urltweet="https://twitter.com/sarahkendzior/status/1424420087864467461" inReplyToId="1424418994044407809" tweetUserName="sarahkendzior" />
+									</outline>
 								</outline>
 							</outline>
 						</outline>
