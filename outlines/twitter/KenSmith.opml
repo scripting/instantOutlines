@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 08 Aug 2021 14:32:45 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 22:50:17 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="Book technology going way back. &lt;a href=&quot;https://www.amazon.com/Studying-Early-Printed-Books-1450-1800-ebook/dp/B07MNQQC12&quot;&gt;[link]&lt;/a&gt; https://t.co/2jcOti1n31" type="tweet" created="Sun, 08 Aug 2021 22:50:15 GMT" tweetId="1424503248518590465" urltweet="https://twitter.com/KenSmith/status/1424503248518590465" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="“In my lifetime there have only been nine years when the price of corn exceeded the cost of production.” &lt;a href=&quot;https://www.youtube.com/watch?v=WJ0wP9FJU1s&amp;feature=youtu.be&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 14:31:47 GMT" tweetId="1424377809045229570" urltweet="https://twitter.com/KenSmith/status/1424377809045229570" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="If your great-grandmother would recognize it, it’s likely a better choice than that packaged thing on the shelf in aisle seven. In grocery stores around here, most of the healthier foods are on the three aisles nearest the outer walls of the building. Produce, butcher, dairy. &lt;a href=&quot;https://twitter.com/joannablythman/status/1292051065936936960&quot;&gt;[link]&lt;/a&gt; https://t.co/PB8ITfm14k" type="tweet" created="Sun, 08 Aug 2021 13:31:54 GMT" tweetId="1424362735308054533" urltweet="https://twitter.com/KenSmith/status/1424362735308054533" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
