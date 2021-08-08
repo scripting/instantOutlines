@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 08 Aug 2021 01:23:19 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 12:08:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="Vocal anti-vaccine broadcaster dies from COVID-19 complications. &lt;a href=&quot;https://www.wptv.com/lifestyle/taste-and-see/vocal-anti-vaccine-broadcaster-dies-from-covid-19-complications?_amp=true&amp;__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 12:08:27 GMT" tweetId="1424341735908519938" urltweet="https://twitter.com/davewiner/status/1424341735908519938" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 7" type="calendarDay" name="07" >
 				<outline text="Why CAPTCHA Pictures Are So Unbearably Depressing. &lt;a href=&quot;https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 01:22:21 GMT" tweetId="1424179138441662464" urltweet="https://twitter.com/davewiner/status/1424179138441662464" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The authorities in Austin warn residents that the city’s Covid situation is ‘dire.’. &lt;a href=&quot;https://www.nytimes.com/live/2021/08/07/world/covid-delta-variant-vaccine#click=https://t.co/07HV3ajh1L&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 23:25:01 GMT" tweetId="1424149611837546497" urltweet="https://twitter.com/davewiner/status/1424149611837546497" inReplyToId="" tweetUserName="davewiner" />
