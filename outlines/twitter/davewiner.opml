@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 08 Aug 2021 14:14:07 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 14:15:07 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 8" type="calendarDay" name="08" >
-				<outline text="When we pledge allegiance to the United States, who do you think we are pledging allegiance to? (See the reply for the answer.)" type="tweet" created="Sun, 08 Aug 2021 14:13:38 GMT" tweetId="1424373239887896592" urltweet="https://twitter.com/davewiner/status/1424373239887896592" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="When we pledge allegiance to the United States, who do you think we are pledging allegiance to? (See the reply for the answer.)" type="tweet" created="Sun, 08 Aug 2021 14:13:38 GMT" tweetId="1424373239887896592" urltweet="https://twitter.com/davewiner/status/1424373239887896592" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Answer: Each other." type="tweet" created="Sun, 08 Aug 2021 14:14:21 GMT" tweetId="1424373418439450633" urltweet="https://twitter.com/davewiner/status/1424373418439450633" inReplyToId="1424373239887896592" tweetUserName="davewiner" />
+					</outline>
 				<outline text="I've been &quot;remote working&quot; since 1979, with a few intervals of office work inbetween, but not many.
 
 The world has caught up. 
