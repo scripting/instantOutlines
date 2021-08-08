@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 06 Aug 2021 11:52:32 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 13:32:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="If your great-grandmother would recognize it, it’s likely a better choice than that packaged thing on the shelf in aisle seven. In grocery stores around here, most of the healthier foods are on the three aisles nearest the outer walls of the building. Produce, butcher, dairy. &lt;a href=&quot;https://twitter.com/joannablythman/status/1292051065936936960&quot;&gt;[link]&lt;/a&gt; https://t.co/PB8ITfm14k" type="tweet" created="Sun, 08 Aug 2021 13:31:54 GMT" tweetId="1424362735308054533" urltweet="https://twitter.com/KenSmith/status/1424362735308054533" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 6" type="calendarDay" name="06" >
 				<outline text="“Not stepping into that.” Reply to Steve McQueen.
 
