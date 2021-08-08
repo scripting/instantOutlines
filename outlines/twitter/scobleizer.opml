@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 08 Aug 2021 19:49:16 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 23:45:31 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="Will has been a great member of the VR/AR community and needs our help. &lt;a href=&quot;https://twitter.com/aeonixaeon/status/1424513593236762626&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 23:45:11 GMT" tweetId="1424517075746181120" urltweet="https://twitter.com/scobleizer/status/1424517075746181120" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The average music video I see on Apple Music TV has dozens of people who built it.
 
 The least hyped talent is that of team building.
