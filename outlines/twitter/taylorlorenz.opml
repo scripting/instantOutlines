@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 08 Aug 2021 12:28:53 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 12:47:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="Twitter needs ways to close threads or turn off replies post tweet or mark question tweets as answered" type="tweet" created="Sun, 08 Aug 2021 12:47:26 GMT" tweetId="1424351545924079621" urltweet="https://twitter.com/taylorlorenz/status/1424351545924079621" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Has anyone else’s arm never stopped hurting after they got the vaccine? My arm never stopped hurting after I got vaxxed this spring and I’m starting to think it might never go away 😰. Everyone should get vaxxed, very grateful to have gotten Pfizer but genuinely looking for info" type="tweet" created="Sun, 08 Aug 2021 12:01:57 GMT" tweetId="1424340100842856466" urltweet="https://twitter.com/taylorlorenz/status/1424340100842856466" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="It’s a very mild soreness and I would take it over getting severe Covid every day. It’s not even a question whether it’s worth the trade off. Everyone should get vaccinated. Just wondering if anyone has any info on this b/c I can’t find anything online. 🙏🏻" type="tweet" created="Sun, 08 Aug 2021 12:05:17 GMT" tweetId="1424340939187777541" urltweet="https://twitter.com/taylorlorenz/status/1424340939187777541" inReplyToId="1424340100842856466" tweetUserName="taylorlorenz" />
 					<outline text="Ty to everyone who replied! It seems like this can happen very rarely with a shot if they inject it in the wrong way/place. My arm was hanging out a car window so makes sense it hit a weird nerve or something. Appreciate all who responded and grateful to be fully vaccinated 🙏🏻" type="tweet" created="Sun, 08 Aug 2021 12:28:17 GMT" tweetId="1424346726517809154" urltweet="https://twitter.com/taylorlorenz/status/1424346726517809154" inReplyToId="1424340100842856466" tweetUserName="taylorlorenz" />
