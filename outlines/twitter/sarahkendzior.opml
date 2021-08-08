@@ -7,12 +7,17 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 28 Jul 2021 12:07:35 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 15:48:32 GMT</dateModified>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="I went to Florida &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1424397068563537925/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 15:48:19 GMT" tweetId="1424397068563537925" urltweet="https://twitter.com/sarahkendzior/status/1424397068563537925" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 28" type="calendarDay" name="28" >
-				<outline text="On hiatus for a few weeks &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1420354735845093377/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:05:32 GMT" tweetId="1420354735845093377" urltweet="https://twitter.com/sarahkendzior/status/1420354735845093377" inReplyToId="" tweetUserName="sarahkendzior" >
+				<outline text="On hiatus for a few weeks &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1420354735845093377/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:05:32 GMT" tweetId="1420354735845093377" urltweet="https://twitter.com/sarahkendzior/status/1420354735845093377" tweetUserName="sarahkendzior" >
 					<outline text="See ya later Twitter &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1420355159486513155/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 28 Jul 2021 12:07:13 GMT" tweetId="1420355159486513155" urltweet="https://twitter.com/sarahkendzior/status/1420355159486513155" inReplyToId="1420354735845093377" tweetUserName="sarahkendzior" />
 					</outline>
 				</outline>
