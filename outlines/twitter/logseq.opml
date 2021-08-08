@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sun, 08 Aug 2021 14:32:52 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 14:49:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="Logseq supports the knowledge collaboration(a.k.a CKM) from the first day, but it's based on Git and GitHub. I'm so grateful that so many people are telling me how they love to use Logseq! Community first, teams/enterprise later, collaborative Logseq is coming soon! &lt;a href=&quot;https://twitter.com/OneStuttering/status/1424323707766509568&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 14:49:44 GMT" tweetId="1424382325354209286" urltweet="https://twitter.com/logseq/status/1424382325354209286" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you for another great video on the new graph, namespaces, and your thoughts! &lt;a href=&quot;https://twitter.com/OneStuttering/status/1424323373967056900&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 14:32:31 GMT" tweetId="1424377991367331842" urltweet="https://twitter.com/logseq/status/1424377991367331842" inReplyToId="" tweetUserName="logseq" />
 				</outline>
 			<outline text="August 7" type="calendarDay" name="07" >
