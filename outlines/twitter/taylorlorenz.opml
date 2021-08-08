@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 08 Aug 2021 12:02:51 GMT</dateModified>
+		<dateModified>Sun, 08 Aug 2021 12:05:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 8" type="calendarDay" name="08" >
-				<outline text="Has anyone else’s arm never stopped hurting after they got the vaccine? My arm never stopped hurting after I got vaxxed this spring and I’m starting to think it might never go away 😰. Everyone should get vaxxed, very grateful to have gotten Pfizer but genuinely looking for info" type="tweet" created="Sun, 08 Aug 2021 12:01:57 GMT" tweetId="1424340100842856466" urltweet="https://twitter.com/taylorlorenz/status/1424340100842856466" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Has anyone else’s arm never stopped hurting after they got the vaccine? My arm never stopped hurting after I got vaxxed this spring and I’m starting to think it might never go away 😰. Everyone should get vaxxed, very grateful to have gotten Pfizer but genuinely looking for info" type="tweet" created="Sun, 08 Aug 2021 12:01:57 GMT" tweetId="1424340100842856466" urltweet="https://twitter.com/taylorlorenz/status/1424340100842856466" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="It’s a very mild soreness and I would take it over getting severe Covid every day. It’s not even a question whether it’s worth the trade off. Everyone should get vaccinated. Just wondering if anyone has any info on this b/c I can’t find anything online. 🙏🏻" type="tweet" created="Sun, 08 Aug 2021 12:05:17 GMT" tweetId="1424340939187777541" urltweet="https://twitter.com/taylorlorenz/status/1424340939187777541" inReplyToId="1424340100842856466" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="August 7" type="calendarDay" name="07" >
 				<outline text="I can’t wait to watch!!! &lt;a href=&quot;https://twitter.com/kll5/status/1424136375817752579&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 07 Aug 2021 22:33:35 GMT" tweetId="1424136669872021504" urltweet="https://twitter.com/taylorlorenz/status/1424136669872021504" inReplyToId="" tweetUserName="taylorlorenz" />
