@@ -6,14 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 09 Aug 2021 13:29:12 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 13:33:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 9" type="calendarDay" name="09" >
 				<outline text="Ordinarily you’d want to impeach an Indiana Governor who was so incompetent. &lt;a href=&quot;https://twitter.com/KenSmith/status/1424722929426784257/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 13:23:11 GMT" tweetId="1424722929426784257" urltweet="https://twitter.com/KenSmith/status/1424722929426784257" inReplyToId="" tweetUserName="KenSmith" >
-					<outline text="Another view of the Victoria data. &lt;a href=&quot;https://twitter.com/KenSmith/status/1424724336741650436/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 13:28:46 GMT" tweetId="1424724336741650436" urltweet="https://twitter.com/KenSmith/status/1424724336741650436" inReplyToId="1424722929426784257" tweetUserName="KenSmith" />
+					<outline text="Another view of the Victoria data. &lt;a href=&quot;https://twitter.com/KenSmith/status/1424724336741650436/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 13:28:46 GMT" tweetId="1424724336741650436" urltweet="https://twitter.com/KenSmith/status/1424724336741650436" inReplyToId="1424722929426784257" tweetUserName="KenSmith" >
+						<outline text="Another view of the Indiana data. Ordinarily you’d want to impeach an Indiana Governor who was so incompetent. &lt;a href=&quot;https://twitter.com/KenSmith/status/1424725312542289928/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 13:32:39 GMT" tweetId="1424725312542289928" urltweet="https://twitter.com/KenSmith/status/1424725312542289928" inReplyToId="1424724336741650436" tweetUserName="KenSmith" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="August 8" type="calendarDay" name="08" >
