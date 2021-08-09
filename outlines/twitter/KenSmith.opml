@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 09 Aug 2021 01:22:26 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 13:23:12 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 9" type="calendarDay" name="09" >
+				<outline text="Ordinarily you’d want to impeach an Indiana Governor who was so incompetent. &lt;a href=&quot;https://twitter.com/KenSmith/status/1424722929426784257/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 13:23:11 GMT" tweetId="1424722929426784257" urltweet="https://twitter.com/KenSmith/status/1424722929426784257" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 8" type="calendarDay" name="08" >
 				<outline text="“A pandemic is a communications emergency as much as it is a medical crisis.” &lt;a href=&quot;https://www.nytimes.com/2021/08/04/opinion/cdc-covid-guidelines.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 01:22:05 GMT" tweetId="1424541461614403588" urltweet="https://twitter.com/KenSmith/status/1424541461614403588" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Book technology going way back. &lt;a href=&quot;https://www.amazon.com/Studying-Early-Printed-Books-1450-1800-ebook/dp/B07MNQQC12&quot;&gt;[link]&lt;/a&gt; https://t.co/2jcOti1n31" type="tweet" created="Sun, 08 Aug 2021 22:50:15 GMT" tweetId="1424503248518590465" urltweet="https://twitter.com/KenSmith/status/1424503248518590465" inReplyToId="" tweetUserName="KenSmith" />
