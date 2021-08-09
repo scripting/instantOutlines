@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 09 Aug 2021 15:09:34 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 15:14:34 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 9" type="calendarDay" name="09" >
-				<outline text="I did it 😌 &lt;a href=&quot;https://twitter.com/NYT_first_said/status/1424748410905759753&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:09:00 GMT" tweetId="1424749559993954308" urltweet="https://twitter.com/taylorlorenz/status/1424749559993954308" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="I did it 😌 &lt;a href=&quot;https://twitter.com/NYT_first_said/status/1424748410905759753&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:09:00 GMT" tweetId="1424749559993954308" urltweet="https://twitter.com/taylorlorenz/status/1424749559993954308" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="I wrote about the rise of IG's Create Most and Whisper app posts, how self expression has evolved on IG, and why shitposting pages are booming right now &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:13:41 GMT" tweetId="1424750740350795784" urltweet="https://twitter.com/taylorlorenz/status/1424750740350795784" inReplyToId="1424749559993954308" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="August 8" type="calendarDay" name="08" >
 				<outline text="Mortality rates are not everything. People across the country are suffering with potentially lifelong disability and chronic illness due to #longcovid, including many children &lt;a href=&quot;https://www.nytimes.com/2021/08/08/health/long-covid-kids.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 02:18:53 GMT" tweetId="1424555754288140289" urltweet="https://twitter.com/taylorlorenz/status/1424555754288140289" inReplyToId="" tweetUserName="taylorlorenz" />
