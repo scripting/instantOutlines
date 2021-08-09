@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 09 Aug 2021 15:22:35 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 15:57:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 9" type="calendarDay" name="09" >
+				<outline text="&quot;I'm the niche internet micro celeb of the ironic posting community,&quot; Mr. Robbin, 20, said. &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:56:37 GMT" tweetId="1424761545901240320" urltweet="https://twitter.com/taylorlorenz/status/1424761545901240320" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I know!! There were so many good ones left on the cutting room floor since we can't embed anything with a swear word 😌 &lt;a href=&quot;https://twitter.com/wareisian/status/1424751829699682307&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:22:10 GMT" tweetId="1424752873934516225" urltweet="https://twitter.com/taylorlorenz/status/1424752873934516225" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I did it 😌 &lt;a href=&quot;https://twitter.com/NYT_first_said/status/1424748410905759753&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:09:00 GMT" tweetId="1424749559993954308" urltweet="https://twitter.com/taylorlorenz/status/1424749559993954308" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="I wrote about the rise of IG's Create Most and Whisper app posts, how self expression has evolved on IG, and why shitposting pages are booming right now &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:13:41 GMT" tweetId="1424750740350795784" urltweet="https://twitter.com/taylorlorenz/status/1424750740350795784" inReplyToId="1424749559993954308" tweetUserName="taylorlorenz" />
