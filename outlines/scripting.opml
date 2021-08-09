@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 09 Aug 2021 14:49:45 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 14:50:40 GMT</dateModified>
 		<expansionState>1,2,4</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 9" created="Mon, 09 Aug 2021 14:46:43 GMT" type="calendarDay" name="09" >
-				<outline text="&lt;a href=&quot;http://scripting.com/98/04/stories/simpleCrossNetworkScript.html&quot;&gt;Back in 1998&lt;/a&gt;, we were getting ready to simplify scripting of apps that ran on other nodes on the net. Spoiler alert, we did implement this in &quot;Frontier&quot; and it was wonderful. Now the question is -- can we implement it in JavaScript, or will it require a pre-preprocessor, which is an option in &quot;Drummer&quot; since we have a very thin pre-processor. I opened a thread for discussion &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/219&quot;&gt;here&lt;/a&gt;. " created="Mon, 09 Aug 2021 14:46:44 GMT" type="outline" image="http://scripting.com/images/2019/09/10/drummer.png" />
+				<outline text="&lt;a href=&quot;http://scripting.com/98/04/stories/simpleCrossNetworkScript.html&quot;&gt;Back in 1998&lt;/a&gt;, we were getting ready to simplify scripting of apps that ran on other nodes on the net. I felt there was no reason function calls should be more complicated than they need to be, just because the function was on a server. Spoiler alert, we did implement this in &quot;Frontier&quot; and it was wonderful. Now the question is -- can we implement it in JavaScript, or will it require a pre-preprocessor, which is an option in &quot;Drummer&quot; since we have a very thin pre-processor. I opened a thread for discussion &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/219&quot;&gt;here&lt;/a&gt;. " created="Mon, 09 Aug 2021 14:46:44 GMT" type="outline" image="http://scripting.com/images/2019/09/10/drummer.png" />
 				</outline>
 			<outline text="August 8" created="Sun, 08 Aug 2021 13:53:33 GMT" type="calendarDay" name="08" >
 				<outline text="We spend a trillion on defense, but it doesn’t protect us against Russia or the virus. Humbly suggest perhaps we‘re spending all that money preparing for the &lt;a href=&quot;https://en.wikipedia.org/wiki/Maginot_Line&quot;&gt;wrong war&lt;/a&gt;." created="Sun, 08 Aug 2021 16:01:39 GMT" type="outline" />
