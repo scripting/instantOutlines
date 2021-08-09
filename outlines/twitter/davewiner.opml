@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 09 Aug 2021 02:22:53 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 11:03:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 9" type="calendarDay" name="09" >
+				<outline text="COVID cases among kids overwhelming Florida hospitals. &lt;a href=&quot;https://nypost.com/2021/08/08/covid-cases-among-kids-overwhelming-florida-hospitals-doc/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 11:02:28 GMT" tweetId="1424687517899665409" urltweet="https://twitter.com/davewiner/status/1424687517899665409" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 8" type="calendarDay" name="08" >
 				<outline text="Why Instagram’s creatives are angry about its move to video. &lt;a href=&quot;https://amp.theguardian.com/technology/2021/aug/08/instagram-artists-leaving-social-media-tiktok-shopping?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 02:22:26 GMT" tweetId="1424556648975245319" urltweet="https://twitter.com/davewiner/status/1424556648975245319" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Is Freedom White? &lt;a href=&quot;https://bostonreview.net/race/jefferson-cowie-is-freedom-white&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 20:42:54 GMT" tweetId="1424471202966515716" urltweet="https://twitter.com/davewiner/status/1424471202966515716" inReplyToId="" tweetUserName="davewiner" />
