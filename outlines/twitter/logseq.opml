@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Sun, 08 Aug 2021 14:59:54 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 06:25:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 9" type="calendarDay" name="09" >
+				<outline text="😅 &lt;a href=&quot;https://twitter.com/zwakikushtia/status/1424617084814696453&quot;&gt;[link]&lt;/a&gt; https://t.co/07tZu2bAyD" type="tweet" created="Mon, 09 Aug 2021 06:24:56 GMT" tweetId="1424617675418783745" urltweet="https://twitter.com/logseq/status/1424617675418783745" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="August 8" type="calendarDay" name="08" >
 				<outline text="Anyone using @zettlr and @logseq together? Let us know what we can do to make your life easier. &lt;a href=&quot;https://twitter.com/zettlr/status/1424050701722955777&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 14:59:19 GMT" tweetId="1424384737624268804" urltweet="https://twitter.com/logseq/status/1424384737624268804" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thanks! &lt;a href=&quot;https://twitter.com/jysperm/status/1424373990542352398&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 14:50:31 GMT" tweetId="1424382522591350786" urltweet="https://twitter.com/logseq/status/1424382522591350786" inReplyToId="" tweetUserName="logseq" />
