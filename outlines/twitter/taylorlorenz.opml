@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 08 Aug 2021 23:27:34 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 02:19:45 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 8" type="calendarDay" name="08" >
+				<outline text="Mortality rates are not everything. People across the country are suffering with potentially lifelong disability and chronic illness due to #longcovid, including many children &lt;a href=&quot;https://www.nytimes.com/2021/08/08/health/long-covid-kids.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 02:18:53 GMT" tweetId="1424555754288140289" urltweet="https://twitter.com/taylorlorenz/status/1424555754288140289" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Thread &lt;a href=&quot;https://twitter.com/feministabulous/status/1424477835767558147&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 23:26:35 GMT" tweetId="1424512394290634752" urltweet="https://twitter.com/taylorlorenz/status/1424512394290634752" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="A girl I interned with at Harper’s Bazaar married a mega rich guy in the Hamptons, doesn’t work anymore and now spends her time reposting insane anti vaxx Qanon conspiracies on IG" type="tweet" created="Sun, 08 Aug 2021 13:26:32 GMT" tweetId="1424361387069820935" urltweet="https://twitter.com/taylorlorenz/status/1424361387069820935" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Twitter needs ways to close threads or turn off replies post tweet or mark question tweets as answered" type="tweet" created="Sun, 08 Aug 2021 12:47:26 GMT" tweetId="1424351545924079621" urltweet="https://twitter.com/taylorlorenz/status/1424351545924079621" inReplyToId="" tweetUserName="taylorlorenz" />
