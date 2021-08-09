@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 09 Aug 2021 16:05:37 GMT</dateModified>
+		<dateModified>Mon, 09 Aug 2021 16:17:38 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -17,7 +17,11 @@
 				<outline text="&quot;I'm the niche internet micro celeb of the ironic posting community,&quot; Mr. Robbin, 20, said. &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:56:37 GMT" tweetId="1424761545901240320" urltweet="https://twitter.com/taylorlorenz/status/1424761545901240320" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I know!! There were so many good ones left on the cutting room floor since we can't embed anything with a swear word 😌 &lt;a href=&quot;https://twitter.com/wareisian/status/1424751829699682307&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:22:10 GMT" tweetId="1424752873934516225" urltweet="https://twitter.com/taylorlorenz/status/1424752873934516225" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I did it 😌 &lt;a href=&quot;https://twitter.com/NYT_first_said/status/1424748410905759753&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:09:00 GMT" tweetId="1424749559993954308" urltweet="https://twitter.com/taylorlorenz/status/1424749559993954308" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="I wrote about the rise of IG's Create Most and Whisper app posts, how self expression has evolved on IG, and why shitposting pages are booming right now &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:13:41 GMT" tweetId="1424750740350795784" urltweet="https://twitter.com/taylorlorenz/status/1424750740350795784" inReplyToId="1424749559993954308" tweetUserName="taylorlorenz" />
+					<outline text="I wrote about the rise of IG's Create Most and Whisper app posts, how self expression has evolved on IG, and why shitposting pages are booming right now &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 15:13:41 GMT" tweetId="1424750740350795784" urltweet="https://twitter.com/taylorlorenz/status/1424750740350795784" inReplyToId="1424749559993954308" tweetUserName="taylorlorenz" >
+						<outline text="For a long time, Twitter was the unofficial CMS for Instagram. Large meme pages grew by reposting tweets. 
+
+Now, reposts of tweets have fallen out of favor and IG Create mode and Whisper app posts have taken their place. &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 16:17:11 GMT" tweetId="1424766719973761024" urltweet="https://twitter.com/taylorlorenz/status/1424766719973761024" inReplyToId="1424750740350795784" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="August 8" type="calendarDay" name="08" >
