@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 00:20:09 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 00:21:09 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 9" type="calendarDay" name="09" >
+				<outline text="Read the story everyone's talking about!! &lt;a href=&quot;https://www.nytimes.com/2021/08/09/technology/instagram-text-memes.html&quot;&gt;[link]&lt;/a&gt; https://t.co/20lwhuFqST" type="tweet" created="Tue, 10 Aug 2021 00:20:16 GMT" tweetId="1424888291451576342" urltweet="https://twitter.com/taylorlorenz/status/1424888291451576342" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;We’re mostly just tickled that The New York Times has finally had to acknowledge the practicality of a term as precise as shitposting in order to engage with a world absolutely filled to the brim with it.&quot;
 
 Me too @TheAVClub, me too 😌 &lt;a href=&quot;https://www.avclub.com/the-new-york-times-learned-a-fun-new-word-for-this-arti-1847450319&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 00:19:21 GMT" tweetId="1424888059712081920" urltweet="https://twitter.com/taylorlorenz/status/1424888059712081920" inReplyToId="" tweetUserName="taylorlorenz" />
