@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 19:12:05 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 19:19:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="Caro carefully italicizes “feel” in that potent sentence to deepen its import.
+
+Twitter declines to let us use italics, even though every damn computer on Earth is happy to provide this linguistic nuance.
+
+“Big deal, so what?” Twitter says when asked about it. [Made that up.] &lt;a href=&quot;https://twitter.com/kensmith/status/1425173108466536452&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 19:18:42 GMT" tweetId="1425174786024607752" urltweet="https://twitter.com/KenSmith/status/1425174786024607752" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Robert Caro claims “the human cost of [———]” is the standard of excellence, the ethical standard, for writers:
 
 “to show—to make readers not only see but understand and feel—what ‘human cost’ meant.”
