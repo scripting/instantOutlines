@@ -6,12 +6,31 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 19:19:05 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 21:54:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="So many potent images in this part of American literature." type="tweet" created="Tue, 10 Aug 2021 21:53:50 GMT" tweetId="1425213830297268224" urltweet="https://twitter.com/KenSmith/status/1425213830297268224" inReplyToId="" tweetUserName="KenSmith" >
+					<outline text="A woman fleeing slavery, hiding for some years in an attic space not much bigger than her own body, and through a crack in the wall viewing her own children growing up, playing outside." type="tweet" created="Tue, 10 Aug 2021 21:53:51 GMT" tweetId="1425213832075558912" urltweet="https://twitter.com/KenSmith/status/1425213832075558912" inReplyToId="1425213830297268224" tweetUserName="KenSmith" >
+						<outline text="A young man hungry for understanding, gingerly seeking a white man who will conspire with him to gain some access to the public library, otherwise out of reach because of his color." type="tweet" created="Tue, 10 Aug 2021 21:53:51 GMT" tweetId="1425213833992458244" urltweet="https://twitter.com/KenSmith/status/1425213833992458244" inReplyToId="1425213832075558912" tweetUserName="KenSmith" >
+							<outline text="A slave master unknowingly lets slip the power of literacy, tipping off a young man to how it is that whites are able so readily to enslave others." type="tweet" created="Tue, 10 Aug 2021 21:53:52 GMT" tweetId="1425213835129012230" urltweet="https://twitter.com/KenSmith/status/1425213835129012230" inReplyToId="1425213833992458244" tweetUserName="KenSmith" >
+								<outline text="A young teenage boy in Harlem, newly awake to the dangers the city poses to him, clutches at the first strong figure who turns his way." type="tweet" created="Tue, 10 Aug 2021 21:53:52 GMT" tweetId="1425213836253143042" urltweet="https://twitter.com/KenSmith/status/1425213836253143042" inReplyToId="1425213835129012230" tweetUserName="KenSmith" >
+									<outline text="A young man who has chosen to play it safe, to conform, struggles to connect with his more daring, more troubled, more creative brother." type="tweet" created="Tue, 10 Aug 2021 21:53:52 GMT" tweetId="1425213838010552325" urltweet="https://twitter.com/KenSmith/status/1425213838010552325" inReplyToId="1425213836253143042" tweetUserName="KenSmith" >
+										<outline text="Over and over again, writers alluding to the central values of the nation and claiming a share of them." type="tweet" created="Tue, 10 Aug 2021 21:53:53 GMT" tweetId="1425213838912376834" urltweet="https://twitter.com/KenSmith/status/1425213838912376834" inReplyToId="1425213838010552325" tweetUserName="KenSmith" >
+											<outline text="As an adult, a son finally understands the dutiful labors his father performed for the family every winter Sunday morning." type="tweet" created="Tue, 10 Aug 2021 21:53:53 GMT" tweetId="1425213839914700805" urltweet="https://twitter.com/KenSmith/status/1425213839914700805" inReplyToId="1425213838912376834" tweetUserName="KenSmith" >
+												<outline text="The precise research, the passion, the damning case made by a journalist against the widespread travesty of lynching." type="tweet" created="Tue, 10 Aug 2021 21:53:53 GMT" tweetId="1425213840938123270" urltweet="https://twitter.com/KenSmith/status/1425213840938123270" inReplyToId="1425213839914700805" tweetUserName="KenSmith" >
+													<outline text="The cool young men in the pool hall, asserting themselves against all odds." type="tweet" created="Tue, 10 Aug 2021 21:53:53 GMT" tweetId="1425213842280300546" urltweet="https://twitter.com/KenSmith/status/1425213842280300546" inReplyToId="1425213840938123270" tweetUserName="KenSmith" />
+													</outline>
+												</outline>
+											</outline>
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Caro carefully italicizes “feel” in that potent sentence to deepen its import.
 
 Twitter declines to let us use italics, even though every damn computer on Earth is happy to provide this linguistic nuance.
