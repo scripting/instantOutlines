@@ -6,11 +6,38 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 08 Aug 2021 23:45:31 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 19:49:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="I once asked astronaut @Astro_Cady to tell me a story I wouldn’t have heard about being in space on TV.
+
+She told me she was stuck for months in the Space Station with an asshole.
+
+The Russians had stuck the American crew with their worst astronaut. 
+
+The rest of the story…" type="tweet" created="Tue, 10 Aug 2021 19:48:27 GMT" tweetId="1425182272848683009" urltweet="https://twitter.com/scobleizer/status/1425182272848683009" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="The Space Station is very small, she told me, and it was impossible to avoid the guy. 
+
+Being a toxic asshole myself I can imagine the shit she had to put up with.
+
+“How did you handle it?” I asked her." type="tweet" created="Tue, 10 Aug 2021 19:48:27 GMT" tweetId="1425182273867943936" urltweet="https://twitter.com/scobleizer/status/1425182273867943936" inReplyToId="1425182272848683009" tweetUserName="scobleizer" >
+						<outline text="“I focused on the job and remembered the resources the country had spent to put me there.”
+
+I am watching “For All Mankind,” which details the kind of shit women have to deal with every day. 
+
+I am sorry for adding onto the pile of shit." type="tweet" created="Tue, 10 Aug 2021 19:48:27 GMT" tweetId="1425182274853564416" urltweet="https://twitter.com/scobleizer/status/1425182274853564416" inReplyToId="1425182273867943936" tweetUserName="scobleizer" >
+							<outline text="If you ask yourself if a woman deserves to be where she is, you are the problem. Not her. 
+
+She had to be better than you just to get there.
+
+I wish I could go back and tell this to my younger self." type="tweet" created="Tue, 10 Aug 2021 19:48:27 GMT" tweetId="1425182275843497985" urltweet="https://twitter.com/scobleizer/status/1425182275843497985" inReplyToId="1425182274853564416" tweetUserName="scobleizer" />
+							</outline>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="August 8" type="calendarDay" name="08" >
 				<outline text="Will has been a great member of the VR/AR community and needs our help. &lt;a href=&quot;https://twitter.com/aeonixaeon/status/1424513593236762626&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 08 Aug 2021 23:45:11 GMT" tweetId="1424517075746181120" urltweet="https://twitter.com/scobleizer/status/1424517075746181120" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The average music video I see on Apple Music TV has dozens of people who built it.
