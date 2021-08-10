@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 02:15:16 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 03:12:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 9" type="calendarDay" name="09" >
+				<outline text="@blacknftart check DM 🙏🏻" type="tweet" created="Tue, 10 Aug 2021 03:11:54 GMT" tweetId="1424931482963906561" urltweet="https://twitter.com/taylorlorenz/status/1424931482963906561" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="✨ New LA creator industry reporter just dropped ✨ &lt;a href=&quot;https://twitter.com/arperelli/status/1424894187988676612&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 02:14:49 GMT" tweetId="1424917119548813318" urltweet="https://twitter.com/taylorlorenz/status/1424917119548813318" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="@_mecyver check DM 🙏🏻" type="tweet" created="Tue, 10 Aug 2021 01:46:48 GMT" tweetId="1424910066700881924" urltweet="https://twitter.com/taylorlorenz/status/1424910066700881924" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="@MinnesotaHaze check DM" type="tweet" created="Tue, 10 Aug 2021 01:44:10 GMT" tweetId="1424909405661798412" urltweet="https://twitter.com/taylorlorenz/status/1424909405661798412" inReplyToId="" tweetUserName="taylorlorenz" />
