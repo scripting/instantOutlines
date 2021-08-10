@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 14:19:36 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 14:36:45 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 10" created="Tue, 10 Aug 2021 14:19:04 GMT" type="calendarDay" name="10" >
-				<outline text="I need to create an S3 bucket that's publicly accessible over the web, so serve web content. I used to do this routinely, but not recently. They've changed it enough that I can't figure out how to do it.  " created="Tue, 10 Aug 2021 14:19:05 GMT" type="outline" />
+				<outline text="I need to create an S3 bucket that's publicly accessible over the web, so serve web content. I used to do this routinely, but not recently. They've changed it enough that I can't figure out how to do it.  BTW, I found a current tutorial and filled in the missing bit, and now my bucket is happily serving over the web." created="Tue, 10 Aug 2021 14:19:05 GMT" type="outline" />
 				</outline>
 			<outline text="August 9" created="Mon, 09 Aug 2021 14:46:43 GMT" type="calendarDay" name="09" >
 				<outline text="Is there a theory on why &lt;a href=&quot;https://www.politico.com/news/2021/08/08/biden-infrastructure-bill-senate-502785&quot;&gt;the Repubs&lt;/a&gt; are going along with Biden's infrastructure bill? I've heard that it's their way to break away from Trump. Also thought it might be a trap, to push forward the date when the &lt;a href=&quot;https://en.wikipedia.org/wiki/United_States_debt_ceiling&quot;&gt;debt ceiling&lt;/a&gt; has to be raised? Very odd." created="Mon, 09 Aug 2021 15:42:53 GMT" type="outline" />
