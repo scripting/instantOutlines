@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 13:30:44 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 19:12:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="Robert Caro claims “the human cost of [———]” is the standard of excellence, the ethical standard, for writers:
+
+“to show—to make readers not only see but understand and feel—what ‘human cost’ meant.”
+
+From the opening of his short book about doing research, called Working. &lt;a href=&quot;https://twitter.com/KenSmith/status/1425173108466536452/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 19:12:02 GMT" tweetId="1425173108466536452" urltweet="https://twitter.com/KenSmith/status/1425173108466536452" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="C-19 horror show in the making for Georgia’s public university system this fall, reports @jlazarus001. &lt;a href=&quot;https://twitter.com/KenSmith/status/1425087007999549445/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 13:29:54 GMT" tweetId="1425087007999549445" urltweet="https://twitter.com/KenSmith/status/1425087007999549445" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="August 9" type="calendarDay" name="09" >
