@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 09 Aug 2021 18:03:53 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 06:19:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="Choice Words about the Upcoming Deprecation of JavaScript Dialogs. &lt;a href=&quot;https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 06:18:44 GMT" tweetId="1424978503808790548" urltweet="https://twitter.com/davewiner/status/1424978503808790548" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 9" type="calendarDay" name="09" >
 				<outline text="Earth is warming faster than scientists previously thought scientists say, and the window is closing to avoid catastrophic outcomes. &lt;a href=&quot;https://www.cnn.com/2021/08/09/world/global-climate-change-report-un-ipcc/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 09 Aug 2021 18:03:03 GMT" tweetId="1424793362062790663" urltweet="https://twitter.com/davewiner/status/1424793362062790663" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Theory on why the Repubs are going along with Biden's infrastructure bill? 
