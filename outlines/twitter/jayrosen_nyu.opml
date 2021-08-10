@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 05 Aug 2021 17:17:01 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 18:43:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="Perry is rapdily becoming our most useful political columnist. Here he explains why it's lazy and wrong to claim that &quot;moderates&quot; or &quot;centrists&quot; hold the key to winning elections and passing legislation.  &lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/08/09/why-moderation-doesnt-guarantee-electoral-success-biden-democrats/&quot;&gt;[link]&lt;/a&gt; Recommended. @perrybaconjr" type="tweet" created="Tue, 10 Aug 2021 18:43:16 GMT" tweetId="1425165868712009728" urltweet="https://twitter.com/jayrosen_nyu/status/1425165868712009728" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 5" type="calendarDay" name="05" >
 				<outline text="One way you know that Fox is not a NEWS network is that the star of a genuine news network would not anchor his show from the capital of democracy's blackslide, where an independent press is being squeezed out, unless he wanted to warn his viewers that this could happen to them. &lt;a href=&quot;https://twitter.com/NewDay/status/1422897249533652992&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 05 Aug 2021 17:16:40 GMT" tweetId="1423332138812854272" urltweet="https://twitter.com/jayrosen_nyu/status/1423332138812854272" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
