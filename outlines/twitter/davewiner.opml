@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 10 Aug 2021 14:19:10 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 14:20:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="I wish there were an emoji that means Oy." type="tweet" created="Tue, 10 Aug 2021 14:19:50 GMT" tweetId="1425099574130233346" urltweet="https://twitter.com/davewiner/status/1425099574130233346" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I need to create an S3 bucket that's publicly accessible over the web, so serve web content.
 
 I used to do this routinely, but not recently.
