@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 10 Aug 2021 15:37:15 GMT</dateModified>
+		<dateModified>Tue, 10 Aug 2021 16:30:18 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 10" type="calendarDay" name="10" >
+				<outline text="Kathy Hochul is the new governor of New York. &lt;a href=&quot;https://en.wikipedia.org/wiki/Kathy_Hochul&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 16:29:34 GMT" tweetId="1425132224173776897" urltweet="https://twitter.com/davewiner/status/1425132224173776897" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="I've been reading books this year by and black cultural figures. Really informative, perspective exploding stuff. 
+
+Some great writing, like Alice Walker. And she narrates so beautifully. 
+
+An interesting side-effect is that I embrace my own cultural heritage w more confidence." type="tweet" created="Tue, 10 Aug 2021 16:22:55 GMT" tweetId="1425130548847128578" urltweet="https://twitter.com/davewiner/status/1425130548847128578" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Andrew Cuomo Resigns. &lt;a href=&quot;https://nymag.com/intelligencer/2021/08/andrew-cuomo-resigns.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 16:10:53 GMT" tweetId="1425127520870019077" urltweet="https://twitter.com/davewiner/status/1425127520870019077" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Herschel Walker’s Wife May Have Voted Illegally. &lt;a href=&quot;https://politicalwire.com/2021/08/10/herschel-walkers-wife-may-have-voted-illegally/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 15:36:43 GMT" tweetId="1425118922475548675" urltweet="https://twitter.com/davewiner/status/1425118922475548675" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I wish there were an emoji that means Oy." type="tweet" created="Tue, 10 Aug 2021 14:19:50 GMT" tweetId="1425099574130233346" urltweet="https://twitter.com/davewiner/status/1425099574130233346" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I need to create an S3 bucket that's publicly accessible over the web, so serve web content.
