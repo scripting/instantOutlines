@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 19:25:52 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 19:27:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
-				<outline text="I’m about to be off for a month working on book stuff so I don’t have time to cover!! 😭 Can’t wait to read everyone else’s pieces &lt;a href=&quot;https://twitter.com/daniellekantor/status/1425538126613827593&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:25:39 GMT" tweetId="1425538923418198016" urltweet="https://twitter.com/taylorlorenz/status/1425538923418198016" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="I’m about to be off for a month working on book stuff so I don’t have time to cover!! 😭 Can’t wait to read everyone else’s pieces &lt;a href=&quot;https://twitter.com/daniellekantor/status/1425538126613827593&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:25:39 GMT" tweetId="1425538923418198016" urltweet="https://twitter.com/taylorlorenz/status/1425538923418198016" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Drop any links you see to any good stories on Bama RushTok below 👇🏻" type="tweet" created="Wed, 11 Aug 2021 19:27:02 GMT" tweetId="1425539272753389573" urltweet="https://twitter.com/taylorlorenz/status/1425539272753389573" inReplyToId="1425538923418198016" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Trailer for the new Collab Crib reality show &lt;a href=&quot;https://twitter.com/Kaychelle_/status/1425537150276276225&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:20:35 GMT" tweetId="1425537649834479616" urltweet="https://twitter.com/taylorlorenz/status/1425537649834479616" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“Conservatives like J. D. Vance have invented a bogeyman of childlessness, and are using actual kids as political pawns.” &lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2021/08/jd-vance-childless-left-culture-wars/619705/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 17:11:06 GMT" tweetId="1425505062437097473" urltweet="https://twitter.com/taylorlorenz/status/1425505062437097473" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="When will these platforms reconsider their recommendation algorithms &lt;a href=&quot;https://twitter.com/corintxt/status/1425492190365618187&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 17:00:41 GMT" tweetId="1425502442003656704" urltweet="https://twitter.com/taylorlorenz/status/1425502442003656704" inReplyToId="" tweetUserName="taylorlorenz" />
