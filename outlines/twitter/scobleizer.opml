@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 19:49:18 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 20:07:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="iOS developer beta 5, shipped yesterday, makes Dolby Atmos content sound amazing in Apple’s Max and Pro headphones.
+
+Anyone else notice the difference in the audio rendering engine?
+
+Thousands of Dolby Atmos songs: &lt;a href=&quot;https://music.apple.com/us/playlist/dolby-atmos-and-spatial-audio/pl.u-E2VCa2qY2A&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 20:07:17 GMT" tweetId="1425549403528384512" urltweet="https://twitter.com/scobleizer/status/1425549403528384512" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 10" type="calendarDay" name="10" >
 				<outline text="I once asked astronaut @Astro_Cady to tell me a story I wouldn’t have heard about being in space on TV.
 
