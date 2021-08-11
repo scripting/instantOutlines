@@ -6,14 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 01 Aug 2021 16:05:09 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 21:53:44 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="There’s a big difference between “how I learn best” and “how I study to do well on tests”" type="tweet" created="Wed, 11 Aug 2021 21:52:57 GMT" tweetId="1425575994820370439" urltweet="https://twitter.com/brandontoner/status/1425575994820370439" inReplyToId="" tweetUserName="brandontoner" />
+				</outline>
 			<outline text="August 1" type="calendarDay" name="01" >
-				<outline text="Reading Dune and learning Excel has me feeling like a Mentat" type="tweet" created="Sun, 01 Aug 2021 16:04:27 GMT" tweetId="1421864412613332994" urltweet="https://twitter.com/brandontoner/status/1421864412613332994" inReplyToId="" tweetUserName="brandontoner" />
-				<outline text="I’m falling in love with Excel lol" type="tweet" created="Sun, 01 Aug 2021 15:32:18 GMT" tweetId="1421856322610421761" urltweet="https://twitter.com/brandontoner/status/1421856322610421761" inReplyToId="" tweetUserName="brandontoner" >
+				<outline text="Reading Dune and learning Excel has me feeling like a Mentat" type="tweet" created="Sun, 01 Aug 2021 16:04:27 GMT" tweetId="1421864412613332994" urltweet="https://twitter.com/brandontoner/status/1421864412613332994" tweetUserName="brandontoner" />
+				<outline text="I’m falling in love with Excel lol" type="tweet" created="Sun, 01 Aug 2021 15:32:18 GMT" tweetId="1421856322610421761" urltweet="https://twitter.com/brandontoner/status/1421856322610421761" tweetUserName="brandontoner" >
 					<outline text="Prior to last year, I used Excel in VERY basic ways. 
 
 Like, basic tables of text lol" type="tweet" created="Sun, 01 Aug 2021 15:33:19 GMT" tweetId="1421856578660151300" urltweet="https://twitter.com/brandontoner/status/1421856578660151300" inReplyToId="1421856322610421761" tweetUserName="brandontoner" >
