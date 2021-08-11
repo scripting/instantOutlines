@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 22:22:06 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 23:56:09 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="Chronically ill and disabled people have long known their lives are seen as expendable, but the way people on here are so open about how little they care is something!" type="tweet" created="Wed, 11 Aug 2021 23:55:59 GMT" tweetId="1425606954177552390" urltweet="https://twitter.com/taylorlorenz/status/1425606954177552390" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="&quot;Sonically, it’s like being inside of a videogame; lyrically, it’s like scrolling a Tumblr meme page of an edgy teenage girl.&quot; &lt;a href=&quot;https://www.billboard.com/articles/columns/pop/9542817/penelope-scott-interview-tiktok-rat/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 22:21:47 GMT" tweetId="1425583248533385218" urltweet="https://twitter.com/taylorlorenz/status/1425583248533385218" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="YUP &lt;a href=&quot;https://twitter.com/theintercept/status/1425579523467251715&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 22:10:36 GMT" tweetId="1425580434440658944" urltweet="https://twitter.com/taylorlorenz/status/1425580434440658944" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Or they send your tests to an out of network lab so then you owe tens of thousands of $$. Or they bill you for treatment they did when you were fully unconscious. Or so many atrocious that have been totally normalized in our medical system" type="tweet" created="Wed, 11 Aug 2021 22:12:08 GMT" tweetId="1425580819368714246" urltweet="https://twitter.com/taylorlorenz/status/1425580819368714246" inReplyToId="1425580434440658944" tweetUserName="taylorlorenz" />
