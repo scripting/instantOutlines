@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 16:06:39 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 16:44:42 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="Excited for this!!! &lt;a href=&quot;https://twitter.com/tejalrao/status/1423289026258243584&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 16:44:00 GMT" tweetId="1425498243903885313" urltweet="https://twitter.com/taylorlorenz/status/1425498243903885313" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Limiting people from commenting who only just followed you is great, excited to use this feature &lt;a href=&quot;https://twitter.com/mosseri/status/1425416287933640708&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 16:06:05 GMT" tweetId="1425488700109033479" urltweet="https://twitter.com/taylorlorenz/status/1425488700109033479" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Does anyone have the link to that TikTok where he ordered all his outdoor furniture directly from the distributor in China that makes West Elm or something? Or any other video like that? Need it for something real quick" type="tweet" created="Wed, 11 Aug 2021 16:03:30 GMT" tweetId="1425488050256105472" urltweet="https://twitter.com/taylorlorenz/status/1425488050256105472" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="IG moving notifs to a spot I literally never check is the best thing that’s happened to my mental health in years" type="tweet" created="Wed, 11 Aug 2021 06:02:22 GMT" tweetId="1425336769768087556" urltweet="https://twitter.com/taylorlorenz/status/1425336769768087556" inReplyToId="" tweetUserName="taylorlorenz" />
