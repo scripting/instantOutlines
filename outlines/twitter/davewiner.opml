@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 11 Aug 2021 12:05:32 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 12:52:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="Woodstock 1969 Crowd Photos. &lt;a href=&quot;https://www.esquire.com/entertainment/music/g14487500/woodstock-1969-crowd-photos/?utm_source=facebook_arb&amp;utm_medium=cpm&amp;utm_campaign=arb_fb_esq_d_am_g14487500&amp;fbclid=IwAR3DbH7U8ii9gKsQx-KWadtYsCfeBwCvqTFxdOhJt2c4w2RJNNOgqejgqKU&amp;slide=1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 12:52:21 GMT" tweetId="1425439948430352384" urltweet="https://twitter.com/davewiner/status/1425439948430352384" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="&lt;a href=&quot;https://glitch.new/&quot;&gt;[link]&lt;/a&gt;. https://t.co/fcm5Qla6sn" type="tweet" created="Wed, 11 Aug 2021 12:04:42 GMT" tweetId="1425427955363241986" urltweet="https://twitter.com/davewiner/status/1425427955363241986" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The death of the 'Millionaire Next Door' dream. &lt;a href=&quot;https://www.latimes.com/business/hiltzik/la-fi-mh-the-death-of-the-millionaire-next-door-dream-20150310-column.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 12:02:26 GMT" tweetId="1425427386816942085" urltweet="https://twitter.com/davewiner/status/1425427386816942085" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
