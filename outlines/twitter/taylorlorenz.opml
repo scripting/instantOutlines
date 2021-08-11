@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 20:30:56 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 21:46:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="Another must read by @kattenbarge &lt;a href=&quot;https://twitter.com/kattenbarge/status/1425143965825835011&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 21:45:56 GMT" tweetId="1425574227265015808" urltweet="https://twitter.com/taylorlorenz/status/1425574227265015808" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Watching so many young women on TikTok go through a finance bro phase is just heartbreaking" type="tweet" created="Wed, 11 Aug 2021 20:30:32 GMT" tweetId="1425555251214438400" urltweet="https://twitter.com/taylorlorenz/status/1425555251214438400" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Big opportunity for the next TikTok cult &lt;a href=&quot;https://twitter.com/cgdhopkins/status/1425120148785147906&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 20:13:34 GMT" tweetId="1425550984596525056" urltweet="https://twitter.com/taylorlorenz/status/1425550984596525056" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="As payments from Snap have slowed, creators are hopping back to Instagram and YouTube Shorts, where payments are still coming &lt;a href=&quot;https://www.cnbc.com/2021/08/11/snap-creators-say-theyre-leaving-the-apps-spotlight-feature-as-payments-dry-up.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:40:31 GMT" tweetId="1425542666339504134" urltweet="https://twitter.com/taylorlorenz/status/1425542666339504134" inReplyToId="" tweetUserName="taylorlorenz" />
