@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 15:22:22 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 17:07:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="I heard a lecture about a farming anti-erosion innovation called no-till when I was in Ag school at Mizzou in 1975. A lot of Iowa topsoil has gone under the bridge at St. Louis since then. I can’t remember the last time I noticed a no-till farm field as I drove down the highway." type="tweet" created="Wed, 11 Aug 2021 17:07:05 GMT" tweetId="1425504052616564736" urltweet="https://twitter.com/KenSmith/status/1425504052616564736" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="&quot;The rage of the disesteemed is personally fruitless, but it is also absolutely inevitable; this rage, so generally discounted, so little understood even among the people whose daily bread it is, is one of the things that makes history.&quot; --James Baldwin" type="tweet" created="Wed, 11 Aug 2021 15:21:51 GMT" tweetId="1425477569843957768" urltweet="https://twitter.com/KenSmith/status/1425477569843957768" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="“Yes, over the last six years large bipartisan majorities have passed laws on issues of low partisan salience and low public attention. But there is more to do in this country than pass the occasional transportation bill or consumer protection act.” &lt;a href=&quot;https://www.nytimes.com/2021/08/10/opinion/congress-infrastructure-senate-filibuster.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 15:02:04 GMT" tweetId="1425472591528177675" urltweet="https://twitter.com/KenSmith/status/1425472591528177675" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
