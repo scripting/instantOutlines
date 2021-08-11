@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 21:54:15 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 15:02:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="“Yes, over the last six years large bipartisan majorities have passed laws on issues of low partisan salience and low public attention. But there is more to do in this country than pass the occasional transportation bill or consumer protection act.” &lt;a href=&quot;https://www.nytimes.com/2021/08/10/opinion/congress-infrastructure-senate-filibuster.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 15:02:04 GMT" tweetId="1425472591528177675" urltweet="https://twitter.com/KenSmith/status/1425472591528177675" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 10" type="calendarDay" name="10" >
 				<outline text="So many potent images in this part of American literature." type="tweet" created="Tue, 10 Aug 2021 21:53:50 GMT" tweetId="1425213830297268224" urltweet="https://twitter.com/KenSmith/status/1425213830297268224" inReplyToId="" tweetUserName="KenSmith" >
 					<outline text="A woman fleeing slavery, hiding for some years in an attic space not much bigger than her own body, and through a crack in the wall viewing her own children growing up, playing outside." type="tweet" created="Tue, 10 Aug 2021 21:53:51 GMT" tweetId="1425213832075558912" urltweet="https://twitter.com/KenSmith/status/1425213832075558912" inReplyToId="1425213830297268224" tweetUserName="KenSmith" >
