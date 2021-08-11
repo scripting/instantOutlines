@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 11 Aug 2021 01:36:53 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 12:02:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="The death of the 'Millionaire Next Door' dream. &lt;a href=&quot;https://www.latimes.com/business/hiltzik/la-fi-mh-the-death-of-the-millionaire-next-door-dream-20150310-column.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 12:02:26 GMT" tweetId="1425427386816942085" urltweet="https://twitter.com/davewiner/status/1425427386816942085" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 10" type="calendarDay" name="10" >
 				<outline text="The California tourist town that’s running out of water. &lt;a href=&quot;https://www.theguardian.com/us-news/2021/aug/07/california-drought-water-mendocino-tourism?CMP=oth_b-aplnews_d-1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 01:36:25 GMT" tweetId="1425269841259384836" urltweet="https://twitter.com/davewiner/status/1425269841259384836" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="First hints that the whole medical system is about to melt down. Actually the whole *everything* system. &lt;a href=&quot;https://twitter.com/kidney_boy/status/1425210653376196611&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 10 Aug 2021 21:54:03 GMT" tweetId="1425213883535462411" urltweet="https://twitter.com/davewiner/status/1425213883535462411" inReplyToId="" tweetUserName="davewiner" />
