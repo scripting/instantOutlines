@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 10 Aug 2021 18:43:52 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 15:24:02 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="This surprises me. The top editor of the @postandcourier in Charleston, SC, family-owned and on the rise nationally, is taking the top job at the Chicago Tribune, bleeding talent in the grip of Alden Global Capital, the crocodile hedge fund. &lt;a href=&quot;https://www.postandcourier.com/news/post-and-courier-s-mitch-pugh-named-editor-in-chief-of-chicago-tribune/article_347b61ba-f9de-11eb-a198-4f397b5cd810.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 15:23:53 GMT" tweetId="1425478080370462722" urltweet="https://twitter.com/jayrosen_nyu/status/1425478080370462722" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 10" type="calendarDay" name="10" >
 				<outline text="Perry is rapdily becoming our most useful political columnist. Here he explains why it's lazy and wrong to claim that &quot;moderates&quot; or &quot;centrists&quot; hold the key to winning elections and passing legislation.  &lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/08/09/why-moderation-doesnt-guarantee-electoral-success-biden-democrats/&quot;&gt;[link]&lt;/a&gt; Recommended. @perrybaconjr" type="tweet" created="Tue, 10 Aug 2021 18:43:16 GMT" tweetId="1425165868712009728" urltweet="https://twitter.com/jayrosen_nyu/status/1425165868712009728" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
