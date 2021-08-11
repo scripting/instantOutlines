@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 11 Aug 2021 20:08:02 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 20:09:03 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -16,7 +16,9 @@
 
 1. A dirty smelly person pulls down their pants in the middle of an office and takes a crap 💩 right there.
 
-2. A nice looking person who is infected with the Delta variant and isn’t wearing a mask walks thru the same office." type="tweet" created="Wed, 11 Aug 2021 20:07:20 GMT" tweetId="1425549412940591106" urltweet="https://twitter.com/davewiner/status/1425549412940591106" inReplyToId="" tweetUserName="davewiner" />
+2. A nice looking person who is infected with the Delta variant and isn’t wearing a mask walks thru the same office." type="tweet" created="Wed, 11 Aug 2021 20:07:20 GMT" tweetId="1425549412940591106" urltweet="https://twitter.com/davewiner/status/1425549412940591106" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="In the first case they might not even be wearing pants at all. I’m sure governor abbot wouldn’t mind that! 🙄" type="tweet" created="Wed, 11 Aug 2021 20:08:54 GMT" tweetId="1425549808257884166" urltweet="https://twitter.com/davewiner/status/1425549808257884166" inReplyToId="1425549412940591106" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Travel from Rotterdam to Amsterdam in 10 minutes by boat. &lt;a href=&quot;https://www.youtube.com/watch?v=HfPCdJapIXA&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:41:31 GMT" tweetId="1425542918102818820" urltweet="https://twitter.com/davewiner/status/1425542918102818820" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Top 10 Best Secure Note-Taking Apps. &lt;a href=&quot;https://deskoflawyer.com/secure-note-taking-apps/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:13:21 GMT" tweetId="1425535827636068362" urltweet="https://twitter.com/davewiner/status/1425535827636068362" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Has Twitter ever added a new feature that made you feel like they care about users like you." type="tweet" created="Wed, 11 Aug 2021 19:09:47 GMT" tweetId="1425534931300667406" urltweet="https://twitter.com/davewiner/status/1425534931300667406" inReplyToId="" tweetUserName="davewiner" />
