@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 11 Aug 2021 20:09:03 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 23:56:17 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="We’re far too complacent about letting big tech companies ruin our networks." type="tweet" created="Wed, 11 Aug 2021 23:55:21 GMT" tweetId="1425606796899725315" urltweet="https://twitter.com/davewiner/status/1425606796899725315" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Think about this. Which is more gross…
 
 1. A dirty smelly person pulls down their pants in the middle of an office and takes a crap 💩 right there.
