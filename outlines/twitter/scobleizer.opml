@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 23:11:02 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 23:14:04 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="August 11" type="calendarDay" name="11" >
 				<outline text="My Tesla sounds better too. Apple is definitely improving Audio in iOS 15 developer betas. &lt;a href=&quot;https://twitter.com/scobleizer/status/1425549403528384512&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 22:29:31 GMT" tweetId="1425585198129762305" urltweet="https://twitter.com/scobleizer/status/1425585198129762305" inReplyToId="" tweetUserName="scobleizer" >
 					<outline text="Apple is doing some Bluetooth magic to push multi-channel audio to my Tesla." type="tweet" created="Wed, 11 Aug 2021 22:47:28 GMT" tweetId="1425589712652177414" urltweet="https://twitter.com/scobleizer/status/1425589712652177414" inReplyToId="1425585198129762305" tweetUserName="scobleizer" >
-						<outline text="On songs like this it isn’t even close. Has better bass, way better, and multi channel plus better fidelity everywhere. Doing A/B tests with Spotify, and Tesla service." type="tweet" created="Wed, 11 Aug 2021 23:10:19 GMT" tweetId="1425595462220869637" urltweet="https://twitter.com/scobleizer/status/1425595462220869637" inReplyToId="1425589712652177414" tweetUserName="scobleizer" />
+						<outline text="On songs like this it isn’t even close. Has better bass, way better, and multi channel plus better fidelity everywhere. Doing A/B tests with Spotify, and Tesla service." type="tweet" created="Wed, 11 Aug 2021 23:10:19 GMT" tweetId="1425595462220869637" urltweet="https://twitter.com/scobleizer/status/1425595462220869637" inReplyToId="1425589712652177414" tweetUserName="scobleizer" >
+							<outline text="Sorry here: &lt;a href=&quot;https://music.apple.com/us/album/having-our-way-feat-drake/1572789904?i=1572790276&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 23:13:18 GMT" tweetId="1425596214494466048" urltweet="https://twitter.com/scobleizer/status/1425596214494466048" inReplyToId="1425595462220869637" tweetUserName="scobleizer" />
+							</outline>
 						</outline>
 					</outline>
 				<outline text="iOS developer beta 5, shipped yesterday, makes Dolby Atmos content sound amazing in Apple’s Max and Pro headphones.
