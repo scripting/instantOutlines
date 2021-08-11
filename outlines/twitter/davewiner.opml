@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 11 Aug 2021 18:48:08 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 19:09:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="Has Twitter ever added a new feature that made you feel like they care about users like you." type="tweet" created="Wed, 11 Aug 2021 19:09:47 GMT" tweetId="1425534931300667406" urltweet="https://twitter.com/davewiner/status/1425534931300667406" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="2017: I used to have a better blog. It accommodated and focused my thinking instead of limiting and scattering it. I'm just writing this evening to say I want my old blog back. I liked the freedom. My ideas flowed better. https://t.co/t9O16nXhw4" type="tweet" created="Wed, 11 Aug 2021 18:45:06 GMT" tweetId="1425528718727028737" urltweet="https://twitter.com/davewiner/status/1425528718727028737" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/4 One of the reasons I prefer to write on the open web rather than on Facebook is that if I get an Aha! idea about a feature, on my blog I can implement it. On Facebook I'm just a user." type="tweet" created="Wed, 11 Aug 2021 17:13:09 GMT" tweetId="1425505581364924417" urltweet="https://twitter.com/davewiner/status/1425505581364924417" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/4 That was/is one of the great things about the web. Anyone can develop features for it. On Facebook, just their employees can. No wonder it never moves." type="tweet" created="Wed, 11 Aug 2021 17:13:11 GMT" tweetId="1425505589602529284" urltweet="https://twitter.com/davewiner/status/1425505589602529284" inReplyToId="1425505581364924417" tweetUserName="davewiner" >
