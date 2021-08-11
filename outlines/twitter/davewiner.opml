@@ -7,11 +7,22 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 11 Aug 2021 12:55:36 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 13:07:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="1/6 Most of the people my age when we were in school never imagined computers would be used by normal people to communicate. They resisted the idea." type="tweet" created="Wed, 11 Aug 2021 13:06:57 GMT" tweetId="1425443621873008642" urltweet="https://twitter.com/davewiner/status/1425443621873008642" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2/6 So what are most of us, not just boomers, missing today? I think it has to do with who will be doing our daily journalism. Imho, we all will. Why?" type="tweet" created="Wed, 11 Aug 2021 13:06:58 GMT" tweetId="1425443626147061767" urltweet="https://twitter.com/davewiner/status/1425443626147061767" inReplyToId="1425443621873008642" tweetUserName="davewiner" >
+						<outline text="3/6 A void is being left as professional journalists focus on fewer stories." type="tweet" created="Wed, 11 Aug 2021 13:06:59 GMT" tweetId="1425443630400016389" urltweet="https://twitter.com/davewiner/status/1425443630400016389" inReplyToId="1425443626147061767" tweetUserName="davewiner" >
+							<outline text="4/6 We’re learning how to do it with blogging and social media." type="tweet" created="Wed, 11 Aug 2021 13:07:00 GMT" tweetId="1425443634741059585" urltweet="https://twitter.com/davewiner/status/1425443634741059585" inReplyToId="1425443630400016389" tweetUserName="davewiner" >
+								<outline text="5/6 We need and want journalism." type="tweet" created="Wed, 11 Aug 2021 13:07:02 GMT" tweetId="1425443643029139458" urltweet="https://twitter.com/davewiner/status/1425443643029139458" inReplyToId="1425443634741059585" tweetUserName="davewiner" >
+									<outline text="6/6 It’s like jury duty, it’s uplifting, gives our life purpose and meaning. It’s its own reward." type="tweet" created="Wed, 11 Aug 2021 13:07:03 GMT" tweetId="1425443647340822529" urltweet="https://twitter.com/davewiner/status/1425443647340822529" inReplyToId="1425443643029139458" tweetUserName="davewiner" />
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Daring Fireball: What's the Point of Apple TV Hardware? &lt;a href=&quot;https://daringfireball.net/linked/2021/08/10/apple-tv-point&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 12:54:45 GMT" tweetId="1425440552842141703" urltweet="https://twitter.com/davewiner/status/1425440552842141703" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Woodstock 1969 Crowd Photos. &lt;a href=&quot;https://www.esquire.com/entertainment/music/g14487500/woodstock-1969-crowd-photos/?utm_source=facebook_arb&amp;utm_medium=cpm&amp;utm_campaign=arb_fb_esq_d_am_g14487500&amp;fbclid=IwAR3DbH7U8ii9gKsQx-KWadtYsCfeBwCvqTFxdOhJt2c4w2RJNNOgqejgqKU&amp;slide=1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 12:52:21 GMT" tweetId="1425439948430352384" urltweet="https://twitter.com/davewiner/status/1425439948430352384" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="&lt;a href=&quot;https://glitch.new/&quot;&gt;[link]&lt;/a&gt;. https://t.co/fcm5Qla6sn" type="tweet" created="Wed, 11 Aug 2021 12:04:42 GMT" tweetId="1425427955363241986" urltweet="https://twitter.com/davewiner/status/1425427955363241986" inReplyToId="" tweetUserName="davewiner" />
