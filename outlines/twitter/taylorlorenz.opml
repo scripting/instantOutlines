@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 04:57:57 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 04:59:57 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
-				<outline text="Last year someone tweeted the pandemic would last until 2025 or something and I really laughed like no way that’s crazy. But now it feels like it all really won’t end it’s so depressing :(" type="tweet" created="Wed, 11 Aug 2021 04:57:05 GMT" tweetId="1425320344475209729" urltweet="https://twitter.com/taylorlorenz/status/1425320344475209729" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="Last year someone tweeted the pandemic would last until 2025 or something and I really laughed like no way that’s crazy. But now it feels like it all really won’t end it’s so depressing :(" type="tweet" created="Wed, 11 Aug 2021 04:57:05 GMT" tweetId="1425320344475209729" urltweet="https://twitter.com/taylorlorenz/status/1425320344475209729" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Really just lost all remaining faith in humanity the past year 😌" type="tweet" created="Wed, 11 Aug 2021 04:59:13 GMT" tweetId="1425320877839687686" urltweet="https://twitter.com/taylorlorenz/status/1425320877839687686" inReplyToId="1425320344475209729" tweetUserName="taylorlorenz" />
+					</outline>
 				</outline>
 			<outline text="August 10" type="calendarDay" name="10" >
 				<outline text="Turns out an &quot;all female&quot; NFT project was actually made by a bunch of men &lt;a href=&quot;https://twitter.com/mdudas/status/1425195414597275648&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 00:04:43 GMT" tweetId="1425246765595316229" urltweet="https://twitter.com/taylorlorenz/status/1425246765595316229" inReplyToId="" tweetUserName="taylorlorenz" />
