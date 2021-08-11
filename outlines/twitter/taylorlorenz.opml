@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 19:27:52 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 19:36:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="I'm going to TRY 😌🙏🏻 but this website is pretty ingrained in my head so we'll see &lt;a href=&quot;https://twitter.com/rcodyromero/status/1425541103852290050&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:36:37 GMT" tweetId="1425541683169558529" urltweet="https://twitter.com/taylorlorenz/status/1425541683169558529" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I’m about to be off for a month working on book stuff so I don’t have time to cover!! 😭 Can’t wait to read everyone else’s pieces &lt;a href=&quot;https://twitter.com/daniellekantor/status/1425538126613827593&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 19:25:39 GMT" tweetId="1425538923418198016" urltweet="https://twitter.com/taylorlorenz/status/1425538923418198016" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Drop any links you see to any good stories on Bama RushTok below 👇🏻" type="tweet" created="Wed, 11 Aug 2021 19:27:02 GMT" tweetId="1425539272753389573" urltweet="https://twitter.com/taylorlorenz/status/1425539272753389573" inReplyToId="1425538923418198016" tweetUserName="taylorlorenz" />
 					</outline>
