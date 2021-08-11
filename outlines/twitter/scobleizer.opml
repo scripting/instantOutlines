@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 20:19:51 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 20:28:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -18,6 +18,7 @@ Anyone else notice the difference in the audio rendering engine?
 
 Thousands of Dolby Atmos songs: &lt;a href=&quot;https://music.apple.com/us/playlist/dolby-atmos-and-spatial-audio/pl.u-E2VCa2qY2A&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 20:07:17 GMT" tweetId="1425549403528384512" urltweet="https://twitter.com/scobleizer/status/1425549403528384512" inReplyToId="" tweetUserName="scobleizer" >
 					<outline text="I have only tested them on iPhone 12 Pro Max." type="tweet" created="Wed, 11 Aug 2021 20:19:17 GMT" tweetId="1425552420709437441" urltweet="https://twitter.com/scobleizer/status/1425552420709437441" inReplyToId="1425549403528384512" tweetUserName="scobleizer" />
+					<outline text="My favorite Atmos recording is from @boxrZhu &lt;a href=&quot;https://music.apple.com/us/album/z-train/1579973738?i=1579973746&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 20:27:15 GMT" tweetId="1425554428640120835" urltweet="https://twitter.com/scobleizer/status/1425554428640120835" inReplyToId="1425549403528384512" tweetUserName="scobleizer" />
 					</outline>
 				</outline>
 			<outline text="August 10" type="calendarDay" name="10" >
