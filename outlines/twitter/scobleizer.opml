@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 20:32:53 GMT</dateModified>
+		<dateModified>Wed, 11 Aug 2021 22:30:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="My Tesla sounds better too. Apple is definitely improving Audio in iOS 15 developer betas. &lt;a href=&quot;https://twitter.com/scobleizer/status/1425549403528384512&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 22:29:31 GMT" tweetId="1425585198129762305" urltweet="https://twitter.com/scobleizer/status/1425585198129762305" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="iOS developer beta 5, shipped yesterday, makes Dolby Atmos content sound amazing in Apple’s Max and Pro headphones.
 
 Anyone else notice the difference in the audio rendering engine?
