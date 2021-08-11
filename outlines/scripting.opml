@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 22:25:56 GMT</dateModified>
-		<expansionState>1,2,6,7,27,30</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Wed, 11 Aug 2021 22:27:23 GMT</dateModified>
+		<expansionState>1,2,6,9,10,30</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -24,6 +24,10 @@
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1425575108261842952&quot;&gt;We have&lt;/a&gt; always overestimated how much attention users are paying. The Visicalc guys found out that many spreadsheet users had no idea that it could do recalc. They just saw it as a note-taking grid." created="Wed, 11 Aug 2021 22:12:04 GMT" type="outline" />
 				<outline text="I've been looking for &lt;a href=&quot;http://scripting.com/2017/05/05/iWantMyOldBlogBack.html&quot;&gt;this piece&lt;/a&gt; forever. It was part of my blog that was wiped out in the transition in May 2017 from &lt;a href=&quot;http://1999.io/&quot;&gt;1999.io&lt;/a&gt; to Electric Outliner and Old School. I finally had the thought to look in my previous editing system and there it was. I said this: &lt;a href=&quot;http://scripting.com/2017/05/05/iWantMyOldBlogBack.html&quot;&gt;I want my old blog back&lt;/a&gt;. I decided that all the crazy michegas in trying to make Twitter, Medium, Facebook, the defunct Google Reader that still limited what we could do with blogs, from its grave, to make all those work with my writing -- it wasn't worth it. All these limits amounted to there was nothing I could write that would make even a small subset of them happy. And no links, titles, bold, italic, or podcasts. Fuck you Facebook. What a bad netizen they are. And Twitter, although I love it, it's fucked up too. They support every damn type, video, audio, gifs, whatever -- except HTML text. What the fuck Jack. I'm out of patience with Twitter too. So in May 2017 I broke free of all that bullshit. And now four-plus years later, I'm getting ready to do more. " created="Wed, 11 Aug 2021 17:20:03 GMT" type="outline" image="http://scripting.com/2017/05/05/plane.png" />
 				<outline text="I've been writing and writing, docs for &quot;drummer&quot;. Not much time to write here. &lt;i&gt;Still diggin! &lt;/i&gt;" created="Wed, 11 Aug 2021 16:55:35 GMT" type="outline" />
+				<outline text="From 2017, why I prefer blogging on the open web" created="Wed, 11 Aug 2021 17:10:05 GMT" type="outline" >
+					<outline text="One of the reasons I prefer to blog here rather than on Facebook is that if I get an Aha! idea about a feature, over here I can implement it. On Facebook I'm just a user. That was/is one of the great things about the web. Anyone can develop features for it. On Facebook, just their employees can. No wonder it never moves.#" created="Wed, 11 Aug 2021 17:10:35 GMT" />
+					<outline text="When a company dominates an activity, they tend to invest elsewhere. Seems kind of perverse, but that's why markets don't always evolve to fill every niche. Open platforms are more favorable. If you want to perform a new style of music in Central Park, you can. If you want to do it in Carnegie Hall or Lincoln Center, you need to get the approval of a lot of rich people" />
+					</outline>
 				<outline text="Links to lost stories from May 2017" created="Wed, 11 Aug 2021 22:13:01 GMT" type="outline" >
 					<outline text="Now hopefully the search engines will index them. :smile:" created="Wed, 11 Aug 2021 22:13:14 GMT" flBulletedSubs="true" >
 						<outline text="&lt;a href=&quot;http://scripting.com/2017/07/21/musicalPodcastsFrom2005.html&quot;&gt;Musical podcasts of 2005&lt;/a&gt;. " created="Wed, 11 Aug 2021 22:24:22 GMT" />
@@ -46,10 +50,6 @@
 						<outline text="&lt;a href=&quot;http://scripting.com/2017/05/02/threePiecesFrom1997.html&quot;&gt;Three pieces from 1997&lt;/a&gt;." created="Wed, 11 Aug 2021 22:14:51 GMT" />
 						<outline text="&lt;a href=&quot;http://scripting.com/2017/05/01/aMacBackupProblem.html&quot;&gt;A Mac backup problem&lt;/a&gt;." created="Wed, 11 Aug 2021 22:13:29 GMT" />
 						</outline>
-					</outline>
-				<outline text="From 2017, why I prefer blogging on the open web" created="Wed, 11 Aug 2021 17:10:05 GMT" type="outline" >
-					<outline text="One of the reasons I prefer to blog here rather than on Facebook is that if I get an Aha! idea about a feature, over here I can implement it. On Facebook I'm just a user. That was/is one of the great things about the web. Anyone can develop features for it. On Facebook, just their employees can. No wonder it never moves.#" created="Wed, 11 Aug 2021 17:10:35 GMT" />
-					<outline text="When a company dominates an activity, they tend to invest elsewhere. Seems kind of perverse, but that's why markets don't always evolve to fill every niche. Open platforms are more favorable. If you want to perform a new style of music in Central Park, you can. If you want to do it in Carnegie Hall or Lincoln Center, you need to get the approval of a lot of rich people" />
 					</outline>
 				</outline>
 			<outline text="August 10" created="Tue, 10 Aug 2021 14:19:04 GMT" type="calendarDay" name="10" >
