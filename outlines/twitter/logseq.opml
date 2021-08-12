@@ -7,10 +7,20 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 11 Aug 2021 14:38:26 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 13:51:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="0.3.3 is just out! 
+&lt;a href=&quot;https://github.com/logseq/logseq/releases/tag/0.3.3&quot;&gt;[link]&lt;/a&gt;
+Some highlights:
+- Add Norwegian (bokmål) translation
+- feat: Copy selected blocks as text/HTML/OPML
+- feat: PDF support linked references for highlights
+- feat: Direct Zotero attachments support
+- tons of fixes and enhancements https://t.co/4fgeZmz9Gv" type="tweet" created="Thu, 12 Aug 2021 13:51:26 GMT" tweetId="1425817203551576065" urltweet="https://twitter.com/logseq/status/1425817203551576065" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="August 11" type="calendarDay" name="11" >
 				<outline text="Awesome! &lt;a href=&quot;https://twitter.com/vipzhicheng/status/1425292667882065926&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 14:38:22 GMT" tweetId="1425466628909592582" urltweet="https://twitter.com/logseq/status/1425466628909592582" inReplyToId="" tweetUserName="logseq" />
 				<outline text="It looks great! &lt;a href=&quot;https://twitter.com/kvistgaard/status/1425444462835159048&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 13:19:10 GMT" tweetId="1425446695140167689" urltweet="https://twitter.com/logseq/status/1425446695140167689" inReplyToId="" tweetUserName="logseq" />
