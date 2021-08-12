@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 21:27:30 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 22:46:35 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="My head is spinning &lt;a href=&quot;https://twitter.com/people/status/1425951263808794634&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 22:45:35 GMT" tweetId="1425951626448183302" urltweet="https://twitter.com/taylorlorenz/status/1425951626448183302" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Aside from Glenn ranting about a single study abroad program I did for a year, shaming people for trichotillomania is extremely cruel!
 Conquering trichotillomania is something I'm super proud of and doesn't make me less of a journalist. &amp;lt;3  &lt;a href=&quot;https://twitter.com/ggreenwald/status/1425915345995436040&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 20:47:40 GMT" tweetId="1425921950749134850" urltweet="https://twitter.com/taylorlorenz/status/1425921950749134850" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Sending love to anyone else struggling with trich or OCD! Don’t let ignorant people shame you, you got this 💪🏻💓. And my hair is doing great! &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1425924089311416326/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 20:56:09 GMT" tweetId="1425924089311416326" urltweet="https://twitter.com/taylorlorenz/status/1425924089311416326" inReplyToId="1425921950749134850" tweetUserName="taylorlorenz" >
