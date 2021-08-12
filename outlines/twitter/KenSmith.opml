@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 14:15:48 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 14:23:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="“Agriculture for most consumers is a black box.” &lt;a href=&quot;https://podcasts.google.com/feed/aHR0cDovL3JlYWxmb29kbGl6LmNvbS9mZWVkL21vZGVybi1mYXJtLWdpcmxzLw/episode/aHR0cHM6Ly9zdXN0YWluYWJsZWRpc2guY29tLz9wb3N0X3R5cGU9cG9kY2FzdHMmcD01Mjgy&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 14:23:06 GMT" tweetId="1425825172288786446" urltweet="https://twitter.com/KenSmith/status/1425825172288786446" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="Book Review: Deaths of Despair by Anne Case and Angus Deaton | LSE Review of Books &lt;a href=&quot;https://blogs.lse.ac.uk/lsereviewofbooks/2021/08/12/book-review-deaths-of-despair-and-the-future-of-capitalism-by-anne-case-and-angus-deaton/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 14:15:00 GMT" tweetId="1425823133936717826" urltweet="https://twitter.com/KenSmith/status/1425823133936717826" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="August 11" type="calendarDay" name="11" >
