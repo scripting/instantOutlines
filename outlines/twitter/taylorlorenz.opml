@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 19:04:21 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 19:05:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="the New Yorker should NFT all their little illo'd avis" type="tweet" created="Thu, 12 Aug 2021 19:05:06 GMT" tweetId="1425896142198300676" urltweet="https://twitter.com/taylorlorenz/status/1425896142198300676" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text=".@kevinroose on NFT avatar mania &lt;a href=&quot;https://www.nytimes.com/2021/08/12/technology/penguin-nft-club.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 18:55:15 GMT" tweetId="1425893660642611204" urltweet="https://twitter.com/taylorlorenz/status/1425893660642611204" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="@kevinroose Speaking of NFT avis I really liked following the conversation around @packyM's recent piece and @jeremysliew's thoughts here
 &lt;a href=&quot;https://twitter.com/jeremysliew/status/1425511424579694596&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 19:04:16 GMT" tweetId="1425895931472355329" urltweet="https://twitter.com/taylorlorenz/status/1425895931472355329" inReplyToId="1425893660642611204" tweetUserName="taylorlorenz" />
