@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 12 Aug 2021 13:51:53 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 13:53:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="Linked references for PDF highlights! &lt;a href=&quot;https://twitter.com/logseq/status/1425817622231150592/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 13:53:06 GMT" tweetId="1425817622231150592" urltweet="https://twitter.com/logseq/status/1425817622231150592" inReplyToId="" tweetUserName="logseq" />
 				<outline text="0.3.3 is just out! 
 &lt;a href=&quot;https://github.com/logseq/logseq/releases/tag/0.3.3&quot;&gt;[link]&lt;/a&gt;
 Some highlights:
