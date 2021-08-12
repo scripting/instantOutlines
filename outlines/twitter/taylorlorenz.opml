@@ -6,13 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 18:55:20 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 19:04:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
-				<outline text=".@kevinroose on NFT avatar mania &lt;a href=&quot;https://www.nytimes.com/2021/08/12/technology/penguin-nft-club.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 18:55:15 GMT" tweetId="1425893660642611204" urltweet="https://twitter.com/taylorlorenz/status/1425893660642611204" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text=".@kevinroose on NFT avatar mania &lt;a href=&quot;https://www.nytimes.com/2021/08/12/technology/penguin-nft-club.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 18:55:15 GMT" tweetId="1425893660642611204" urltweet="https://twitter.com/taylorlorenz/status/1425893660642611204" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="@kevinroose Speaking of NFT avis I really liked following the conversation around @packyM's recent piece and @jeremysliew's thoughts here
+&lt;a href=&quot;https://twitter.com/jeremysliew/status/1425511424579694596&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 19:04:16 GMT" tweetId="1425895931472355329" urltweet="https://twitter.com/taylorlorenz/status/1425895931472355329" inReplyToId="1425893660642611204" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="Jukin Media Acquired By ‘Reader’s Digest’ Owner Trusted Media Brands &lt;a href=&quot;https://www.tubefilter.com/2021/08/12/jukin-media-acquired-trusted-media-brands/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 17:46:58 GMT" tweetId="1425876479255089157" urltweet="https://twitter.com/taylorlorenz/status/1425876479255089157" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This led me to check who the CIA actually follows on IG and it’s very funny &lt;a href=&quot;https://twitter.com/nonpoccafe/status/1425807649485070342&quot;&gt;[link]&lt;/a&gt; https://t.co/sFXnNScbtE" type="tweet" created="Thu, 12 Aug 2021 17:28:50 GMT" tweetId="1425871912584892416" urltweet="https://twitter.com/taylorlorenz/status/1425871912584892416" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="They all played spies or CIA in movies, which makes sense, but seeing them all together makes an odd bunch 🙈" type="tweet" created="Thu, 12 Aug 2021 17:32:46 GMT" tweetId="1425872904139415552" urltweet="https://twitter.com/taylorlorenz/status/1425872904139415552" inReplyToId="1425871912584892416" tweetUserName="taylorlorenz" />
