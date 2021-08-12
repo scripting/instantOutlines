@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 17:29:15 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 17:33:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
-				<outline text="This led me to check who the CIA actually follows on IG and it’s very funny &lt;a href=&quot;https://twitter.com/nonpoccafe/status/1425807649485070342&quot;&gt;[link]&lt;/a&gt; https://t.co/sFXnNScbtE" type="tweet" created="Thu, 12 Aug 2021 17:28:50 GMT" tweetId="1425871912584892416" urltweet="https://twitter.com/taylorlorenz/status/1425871912584892416" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="This led me to check who the CIA actually follows on IG and it’s very funny &lt;a href=&quot;https://twitter.com/nonpoccafe/status/1425807649485070342&quot;&gt;[link]&lt;/a&gt; https://t.co/sFXnNScbtE" type="tweet" created="Thu, 12 Aug 2021 17:28:50 GMT" tweetId="1425871912584892416" urltweet="https://twitter.com/taylorlorenz/status/1425871912584892416" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="They all played spies or CIA in movies, which makes sense, but seeing them all together makes an odd bunch 🙈" type="tweet" created="Thu, 12 Aug 2021 17:32:46 GMT" tweetId="1425872904139415552" urltweet="https://twitter.com/taylorlorenz/status/1425872904139415552" inReplyToId="1425871912584892416" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="The funny thing about this tweet is it led me to check who the CIA follows and they do follow Ben Affleck &lt;a href=&quot;https://twitter.com/nonpoccafe/status/1425807649485070342&quot;&gt;[link]&lt;/a&gt; https://t.co/PmcmJTpHzr" type="tweet" created="Thu, 12 Aug 2021 17:16:17 GMT" tweetId="1425868757134561283" urltweet="https://twitter.com/taylorlorenz/status/1425868757134561283" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="Would love to get all the CIA Instagram account follows together in one room &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1425871130108203010/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 17:25:43 GMT" tweetId="1425871130108203010" urltweet="https://twitter.com/taylorlorenz/status/1425871130108203010" inReplyToId="1425868757134561283" tweetUserName="taylorlorenz" />
 					</outline>
