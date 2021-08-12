@@ -7,11 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 12 Aug 2021 01:25:22 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 01:27:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 11" type="calendarDay" name="11" >
+				<outline text="An art museum on your screen.
+
+https://t.co/eeL2tiCb7m" type="tweet" created="Thu, 12 Aug 2021 01:26:26 GMT" tweetId="1425629720159432705" urltweet="https://twitter.com/davewiner/status/1425629720159432705" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Open-source Dropbox client for macOS and Linux. &lt;a href=&quot;https://github.com/SamSchott/maestral&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 01:24:37 GMT" tweetId="1425629260568477707" urltweet="https://twitter.com/davewiner/status/1425629260568477707" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="We’re far too complacent about letting big tech companies ruin our networks." type="tweet" created="Wed, 11 Aug 2021 23:55:21 GMT" tweetId="1425606796899725315" urltweet="https://twitter.com/davewiner/status/1425606796899725315" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Think about this. Which is more gross…
