@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 12 Aug 2021 13:55:53 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 13:59:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="You can annotate an online PDF too! &lt;a href=&quot;https://twitter.com/logseq/status/1425819258571792390/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 13:59:36 GMT" tweetId="1425819258571792390" urltweet="https://twitter.com/logseq/status/1425819258571792390" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Direct Zotero attachments support! No need to copy PDF files everywhere. &lt;a href=&quot;https://twitter.com/logseq/status/1425818281861009414/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 13:55:43 GMT" tweetId="1425818281861009414" urltweet="https://twitter.com/logseq/status/1425818281861009414" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Linked references for PDF highlights! &lt;a href=&quot;https://twitter.com/logseq/status/1425817622231150592/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 13:53:06 GMT" tweetId="1425817622231150592" urltweet="https://twitter.com/logseq/status/1425817622231150592" inReplyToId="" tweetUserName="logseq" />
 				<outline text="0.3.3 is just out! 
