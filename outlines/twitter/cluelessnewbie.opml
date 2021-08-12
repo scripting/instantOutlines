@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/cluelessnewbie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 16:38:07 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 16:39:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r6</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="You can read this blog at https://t.co/PZ3IS8XVoE." type="tweet" created="Thu, 12 Aug 2021 16:38:30 GMT" tweetId="1425859245820493826" urltweet="https://twitter.com/cluelessnewbie/status/1425859245820493826" inReplyToId="" tweetUserName="cluelessnewbie" />
 				<outline text="Another day another dolla!" type="tweet" created="Thu, 12 Aug 2021 16:37:18 GMT" tweetId="1425858945818808325" urltweet="https://twitter.com/cluelessnewbie/status/1425858945818808325" inReplyToId="" tweetUserName="cluelessnewbie" />
 				</outline>
 			</outline>
