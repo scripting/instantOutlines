@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 23:14:04 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 22:17:29 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="Extremely smart! Playing now with my kids. &lt;a href=&quot;https://twitter.com/jwegener/status/1425906339390185473&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 22:16:38 GMT" tweetId="1425944341961347078" urltweet="https://twitter.com/scobleizer/status/1425944341961347078" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 11" type="calendarDay" name="11" >
 				<outline text="My Tesla sounds better too. Apple is definitely improving Audio in iOS 15 developer betas. &lt;a href=&quot;https://twitter.com/scobleizer/status/1425549403528384512&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 22:29:31 GMT" tweetId="1425585198129762305" urltweet="https://twitter.com/scobleizer/status/1425585198129762305" inReplyToId="" tweetUserName="scobleizer" >
 					<outline text="Apple is doing some Bluetooth magic to push multi-channel audio to my Tesla." type="tweet" created="Wed, 11 Aug 2021 22:47:28 GMT" tweetId="1425589712652177414" urltweet="https://twitter.com/scobleizer/status/1425589712652177414" inReplyToId="1425585198129762305" tweetUserName="scobleizer" >
