@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 11 Aug 2021 18:22:13 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 16:54:38 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="Major newspaper chan is revamping its approach to crime coverage. &lt;a href=&quot;https://www.poynter.org/reporting-editing/2021/gannett-launches-a-network-wide-push-to-rework-its-crime-coverage/&quot;&gt;[link]&lt;/a&gt; I read this with two reactions:
+
+1. &quot;This is smart, I'm glad their fixing that...&quot;
+
+2. But my god, it's been broken like this for generations. The critiques were made, the research was done." type="tweet" created="Thu, 12 Aug 2021 16:54:27 GMT" tweetId="1425863262156070912" urltweet="https://twitter.com/jayrosen_nyu/status/1425863262156070912" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 11" type="calendarDay" name="11" >
 				<outline text="&quot;If your website is full of assholes, it’s your fault.&quot; &lt;a href=&quot;https://medium.com/humane-tech/the-immortal-myths-about-online-abuse-a156e3370aee&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 11 Aug 2021 18:21:49 GMT" tweetId="1425522858407698433" urltweet="https://twitter.com/jayrosen_nyu/status/1425522858407698433" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="It has virtues, too, but CNN's vice has always been entertainment. The maudlin, the sentimental, the news family with vivid characters eclipsing the news team with high standards.
