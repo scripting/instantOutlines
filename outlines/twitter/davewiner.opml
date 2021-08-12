@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 12 Aug 2021 09:49:54 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 13:20:07 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="Only 27 Percent of Young Black New Yorkers Are Vaccinated. &lt;a href=&quot;https://www.nytimes.com/2021/08/12/nyregion/covid-vaccine-black-young-new-yorkers.html?referringSource=articleShare&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 13:19:40 GMT" tweetId="1425809210802061312" urltweet="https://twitter.com/davewiner/status/1425809210802061312" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Scores of police officers are refusing the COVID vaccine. &lt;a href=&quot;https://www.axios.com/scores-of-police-officers-are-refusing-the-covid-vaccine-84acf99d-4602-40c9-bf94-4e10058df4dd.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 09:49:11 GMT" tweetId="1425756239284350976" urltweet="https://twitter.com/davewiner/status/1425756239284350976" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This is what passes for innovation at twitter. &lt;a href=&quot;https://www.cnet.com/news/twitters-new-font-chirp-is-apparently-giving-some-users-headaches/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 09:32:05 GMT" tweetId="1425751936024911873" urltweet="https://twitter.com/davewiner/status/1425751936024911873" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="There should be a twitter where everyone has a New Yorker sub." type="tweet" created="Thu, 12 Aug 2021 09:28:04 GMT" tweetId="1425750925352869894" urltweet="https://twitter.com/davewiner/status/1425750925352869894" inReplyToId="" tweetUserName="davewiner" />
