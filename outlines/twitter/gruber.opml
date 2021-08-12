@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Thu, 12 Aug 2021 01:07:43 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 14:55:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="Written two years ago. Prescient. &lt;a href=&quot;https://twitter.com/rjonesy/status/1195032113340387329&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 14:55:23 GMT" tweetId="1425833298899570698" urltweet="https://twitter.com/gruber/status/1425833298899570698" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="August 11" type="calendarDay" name="11" >
 				<outline text="I’ve noticed this a few times a year, for several years. &lt;a href=&quot;https://twitter.com/jonathanchait/status/1425621132921692162&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 01:06:44 GMT" tweetId="1425624762848628740" urltweet="https://twitter.com/gruber/status/1425624762848628740" inReplyToId="" tweetUserName="gruber" />
 				</outline>
