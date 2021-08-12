@@ -6,15 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/cluelessnewbie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 26 Jul 2021 22:16:40 GMT</dateModified>
+		<dateModified>Thu, 12 Aug 2021 16:38:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r6</urlInstant>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 12" type="calendarDay" name="12" >
+				<outline text="Another day another dolla!" type="tweet" created="Thu, 12 Aug 2021 16:37:18 GMT" tweetId="1425858945818808325" urltweet="https://twitter.com/cluelessnewbie/status/1425858945818808325" inReplyToId="" tweetUserName="cluelessnewbie" />
+				</outline>
+			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
 			<outline text="July 26" type="calendarDay" name="26" >
-				<outline text="Hello everybody. This is the @cluelessnewbie." type="tweet" created="Mon, 26 Jul 2021 22:16:10 GMT" tweetId="1419783631703322631" urltweet="https://twitter.com/cluelessnewbie/status/1419783631703322631" inReplyToId="" tweetUserName="cluelessnewbie" />
-				<outline text="greetings once again from @cluelessnewbie" type="tweet" created="Mon, 26 Jul 2021 18:50:51 GMT" tweetId="1419731962978349061" urltweet="https://twitter.com/cluelessnewbie/status/1419731962978349061" inReplyToId="" tweetUserName="cluelessnewbie" />
-				<outline text="This may become the developer support channel on Twitter for OPML developers." type="tweet" created="Mon, 26 Jul 2021 16:32:14 GMT" tweetId="1419697076187844610" urltweet="https://twitter.com/cluelessnewbie/status/1419697076187844610" inReplyToId="" tweetUserName="cluelessnewbie" >
+				<outline text="Hello everybody. This is the @cluelessnewbie." type="tweet" created="Mon, 26 Jul 2021 22:16:10 GMT" tweetId="1419783631703322631" urltweet="https://twitter.com/cluelessnewbie/status/1419783631703322631" tweetUserName="cluelessnewbie" />
+				<outline text="greetings once again from @cluelessnewbie" type="tweet" created="Mon, 26 Jul 2021 18:50:51 GMT" tweetId="1419731962978349061" urltweet="https://twitter.com/cluelessnewbie/status/1419731962978349061" tweetUserName="cluelessnewbie" />
+				<outline text="This may become the developer support channel on Twitter for OPML developers." type="tweet" created="Mon, 26 Jul 2021 16:32:14 GMT" tweetId="1419697076187844610" urltweet="https://twitter.com/cluelessnewbie/status/1419697076187844610" tweetUserName="cluelessnewbie" >
 					<outline text="In the meantime it's turning into a very convenient place to post messages for testing." type="tweet" created="Mon, 26 Jul 2021 16:37:36 GMT" tweetId="1419698427152195587" urltweet="https://twitter.com/cluelessnewbie/status/1419698427152195587" inReplyToId="1419697076187844610" tweetUserName="cluelessnewbie" >
 						<outline text="the calling conventions for opml.parse are different on server and in-browser. due to a design mistake elsewhere. oy." type="tweet" created="Mon, 26 Jul 2021 16:40:40 GMT" tweetId="1419699200481234946" urltweet="https://twitter.com/cluelessnewbie/status/1419699200481234946" inReplyToId="1419698427152195587" tweetUserName="cluelessnewbie" >
 							<outline text="every mistake i make is apple's fault. ;-)" type="tweet" created="Mon, 26 Jul 2021 16:43:33 GMT" tweetId="1419699924078374915" urltweet="https://twitter.com/cluelessnewbie/status/1419699924078374915" inReplyToId="1419699200481234946" tweetUserName="cluelessnewbie" >
@@ -34,9 +39,9 @@ When notifying about changes to instant outlines, always use the value of urlPub
 
 Both to notify and be notified.
 
-This way we don't get our signals crossed, as was happening." type="tweet" created="Mon, 26 Jul 2021 16:26:00 GMT" tweetId="1419695506649985028" urltweet="https://twitter.com/cluelessnewbie/status/1419695506649985028" inReplyToId="" tweetUserName="cluelessnewbie" />
-				<outline text="Still testing at 11:56AM." type="tweet" created="Mon, 26 Jul 2021 15:55:07 GMT" tweetId="1419687738299781120" urltweet="https://twitter.com/cluelessnewbie/status/1419687738299781120" inReplyToId="" tweetUserName="cluelessnewbie" />
-				<outline text="Hi this is Dave here. I'm using this account to test I/Oing in Drummer." type="tweet" created="Mon, 26 Jul 2021 15:25:50 GMT" tweetId="1419680367628505094" urltweet="https://twitter.com/cluelessnewbie/status/1419680367628505094" inReplyToId="" tweetUserName="cluelessnewbie" />
+This way we don't get our signals crossed, as was happening." type="tweet" created="Mon, 26 Jul 2021 16:26:00 GMT" tweetId="1419695506649985028" urltweet="https://twitter.com/cluelessnewbie/status/1419695506649985028" tweetUserName="cluelessnewbie" />
+				<outline text="Still testing at 11:56AM." type="tweet" created="Mon, 26 Jul 2021 15:55:07 GMT" tweetId="1419687738299781120" urltweet="https://twitter.com/cluelessnewbie/status/1419687738299781120" tweetUserName="cluelessnewbie" />
+				<outline text="Hi this is Dave here. I'm using this account to test I/Oing in Drummer." type="tweet" created="Mon, 26 Jul 2021 15:25:50 GMT" tweetId="1419680367628505094" urltweet="https://twitter.com/cluelessnewbie/status/1419680367628505094" tweetUserName="cluelessnewbie" />
 				</outline>
 			<outline text="July 23" type="calendarDay" name="23" >
 				<outline text="How is it that 51 people follow @cluelessnewbie?" type="tweet" created="Fri, 23 Jul 2021 21:46:06 GMT" tweetId="1418688902517379073" urltweet="https://twitter.com/cluelessnewbie/status/1418688902517379073" tweetUserName="cluelessnewbie" />
