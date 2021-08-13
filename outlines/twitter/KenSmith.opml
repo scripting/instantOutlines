@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 11:56:10 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 12:07:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="I’m not sure yet why this is called feudal, but I find this description of our psychological, political, and media landscape very suggestive. &lt;a href=&quot;https://twitter.com/rungrage/status/1426143581350203392&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 12:06:42 GMT" tweetId="1426153233190461446" urltweet="https://twitter.com/KenSmith/status/1426153233190461446" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="“Only the poor go to the battlefield while politicians watch.” &lt;a href=&quot;https://twitter.com/bbcworld/status/1426134319651753984&quot;&gt;[link]&lt;/a&gt; https://t.co/bEjG7YzFVO" type="tweet" created="Fri, 13 Aug 2021 11:53:04 GMT" tweetId="1426149802048430081" urltweet="https://twitter.com/KenSmith/status/1426149802048430081" inReplyToId="" tweetUserName="KenSmith" >
 					<outline text="“Which of their stories should I tell you?” —another of the refugees, speaking of some who did not manage to get away." type="tweet" created="Fri, 13 Aug 2021 11:55:59 GMT" tweetId="1426150536903020547" urltweet="https://twitter.com/KenSmith/status/1426150536903020547" inReplyToId="1426149802048430081" tweetUserName="KenSmith" />
 					</outline>
