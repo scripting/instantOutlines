@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 20:06:43 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 20:07:10 GMT</dateModified>
 		<expansionState>1,2,4,9,20,22,24,28,31,32,52</expansionState>
-		<lastCursor>18</lastCursor>
+		<lastCursor>12</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -31,7 +31,7 @@
 						<outline text="We have not yet started to decrease carbon emissions, in fact it's still going up." created="Fri, 13 Aug 2021 19:44:26 GMT" />
 						<outline text="Even if we never emitted another ton of carbon, the next 30 years are going to be an escalating climate catastrophe. What we're seeing now is nothing compared to what we are certain to see in five years, ten years, all the way up to thirty years. " created="Fri, 13 Aug 2021 19:44:28 GMT" />
 						<outline text="Then in thirty years it will level off. The climate will still be horrific but it won't get any worse. But only if we turn our carbon emissions down to zero, now. " created="Fri, 13 Aug 2021 19:44:29 GMT" />
-						<outline text="See #1." created="Fri, 13 Aug 2021 19:44:31 GMT" />
+						<outline text="See &lt;a href=&quot;http://scripting.com/2021/08/13/194244.html?title=wereCooked#a194426&quot;&gt;#1&lt;/a&gt;." created="Fri, 13 Aug 2021 19:44:31 GMT" />
 						<outline text="So the boomers are to blame, say the host and the guest. The guest is a boomer, the host is younger. This is where their version of the story ends. " created="Fri, 13 Aug 2021 19:44:32 GMT" />
 						<outline text="Here's the crazy part. They're doing exactly what the boomer supposedly did and feels so guilty about. Not owning the truth of now. Softening it. Shifting to blame instead of what to do. Now, even if we got our shit together, and we aren't and won't, we're &lt;i&gt;still&lt;/i&gt; fucked.  " created="Fri, 13 Aug 2021 19:44:34 GMT" />
 						<outline text="If the new generations are so cool, why are they doing the same thing? Why are they making it sound like we're not living in a wrecked ecosystem?" created="Fri, 13 Aug 2021 19:44:35 GMT" />
