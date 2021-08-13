@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 02:59:51 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 05:51:02 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="“Without data, decisions will be made that will continue to kill and disable people. Without taking long Covid into consideration, any resulting policy is not complete, and any resulting risk assessment is not accurate.” &lt;a href=&quot;https://www.theguardian.com/commentisfree/2021/aug/12/when-it-comes-to-breakthrough-cases-are-we-ignoring-long-covid-once-again&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 05:50:48 GMT" tweetId="1426058635533119488" urltweet="https://twitter.com/taylorlorenz/status/1426058635533119488" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
 				<outline text="I’m being attacked 🙈 &lt;a href=&quot;https://www.wsj.com/articles/do-multiple-ear-piercings-spell-mid-life-crisis-11628798485&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 02:59:03 GMT" tweetId="1426015415088545803" urltweet="https://twitter.com/taylorlorenz/status/1426015415088545803" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="My head is spinning &lt;a href=&quot;https://twitter.com/people/status/1425951263808794634&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 22:45:35 GMT" tweetId="1425951626448183302" urltweet="https://twitter.com/taylorlorenz/status/1425951626448183302" inReplyToId="" tweetUserName="taylorlorenz" />
