@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 17:59:49 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 18:40:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="“This is how the internet works: You get into something for the fun of it, and you end up being radicalized.” &lt;a href=&quot;https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 18:39:58 GMT" tweetId="1426252202146816000" urltweet="https://twitter.com/taylorlorenz/status/1426252202146816000" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I aspire &lt;a href=&quot;https://twitter.com/roughpatch40/status/1426176231238770688&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 17:59:35 GMT" tweetId="1426242039432183811" urltweet="https://twitter.com/taylorlorenz/status/1426242039432183811" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Discord Raising at Roughly $15 Billion. The funding round would at least double Discord's valuation, from $7 billion in 2020. &lt;a href=&quot;https://www.newcomer.co/p/sources-discord-raising-at-roughly&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 17:58:28 GMT" tweetId="1426241761236578304" urltweet="https://twitter.com/taylorlorenz/status/1426241761236578304" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Facebook removes Russian network that targeted influencers to peddle anti-vax messages &lt;a href=&quot;https://www.reuters.com/technology/facebook-removes-russian-network-that-targeted-influencers-peddle-anti-vax-2021-08-10/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 16:26:25 GMT" tweetId="1426218593948102656" urltweet="https://twitter.com/taylorlorenz/status/1426218593948102656" inReplyToId="" tweetUserName="taylorlorenz" />
