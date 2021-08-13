@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 13 Aug 2021 19:32:03 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 20:10:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -18,7 +18,11 @@ Listened to today's lame Daily podcast.
 
 The climate crisis is a lot worse than they were willing to say, obviously, based on facts they cited. 
 
-Then they got all weepy about how it's the fault of boomers." type="tweet" created="Fri, 13 Aug 2021 19:31:05 GMT" tweetId="1426265067503423489" urltweet="https://twitter.com/davewiner/status/1426265067503423489" inReplyToId="" tweetUserName="davewiner" />
+Then they got all weepy about how it's the fault of boomers." type="tweet" created="Fri, 13 Aug 2021 19:31:05 GMT" tweetId="1426265067503423489" urltweet="https://twitter.com/davewiner/status/1426265067503423489" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Here's the blog post that goes with this tweet.
+
+https://t.co/6UZJVlwlkB" type="tweet" created="Fri, 13 Aug 2021 20:07:54 GMT" tweetId="1426274331118772225" urltweet="https://twitter.com/davewiner/status/1426274331118772225" inReplyToId="1426265067503423489" tweetUserName="davewiner" />
+					</outline>
 				<outline text="I want to see if I can reply to one of Doc's posts.  #scriptingnews https://t.co/UYU5wMvECZ" type="tweet" created="Fri, 13 Aug 2021 17:09:37 GMT" tweetId="1426229464665575428" urltweet="https://twitter.com/davewiner/status/1426229464665575428" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="How dogs think, learn, communicate and problem-solve. &lt;a href=&quot;https://www.washingtonpost.com/science/2021/08/12/dog-cognition-research/?fbclid=IwAR1WJHvXWDo4H0-AcQhQT_r3_C1LrdVpInDy94ZKNkl2Dsi2lsXrM_HbKgs&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 16:48:07 GMT" tweetId="1426224056131637249" urltweet="https://twitter.com/davewiner/status/1426224056131637249" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Watching the Taliban crush the Afghan government so quickly makes quite an impression. 
