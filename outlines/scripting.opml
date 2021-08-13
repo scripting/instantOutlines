@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 22:12:11 GMT</dateModified>
-		<expansionState>1,2,4,6,10,13,14,34</expansionState>
+		<dateModified>Fri, 13 Aug 2021 15:54:19 GMT</dateModified>
+		<expansionState>1,2,4,6,8,12,15,16,36</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 13" created="Fri, 13 Aug 2021 15:51:57 GMT" type="calendarDay" name="13" >
+				<outline text="Watching the &lt;a href=&quot;https://www.cnn.com/2021/08/03/world/meanwhile-in-america-august-3-intl/index.html&quot;&gt;Taliban crush&lt;/a&gt; the Afghan government so quickly makes quite an impression. I think bringing our military home was probably a good idea. While we were protecting Afghanistan from their Taliban, we've been growing our own fundamentalist terrorism culture here. Where they want to return their country to the 5th century, our Taliban wasn't go back to before the Civil War. " created="Fri, 13 Aug 2021 15:51:58 GMT" type="outline" />
+				</outline>
 			<outline text="August 12" created="Thu, 12 Aug 2021 14:14:30 GMT" type="calendarDay" name="12" >
 				<outline text="Hit a milestone today. [[Drummer]] is working with [[Old School]]. So the best outliner now is hooked up with the best blogging CMS. Friends are trying it out now and letting me know if the software works, and if my docs work. Exciting moment. " created="Thu, 12 Aug 2021 22:10:30 GMT" type="outline" />
 				<outline text="Frida Kahlo" created="Thu, 12 Aug 2021 14:14:31 GMT" type="outline" >
