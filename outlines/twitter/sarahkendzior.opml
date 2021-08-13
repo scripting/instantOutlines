@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Fri, 13 Aug 2021 01:22:12 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 12:46:55 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -18,7 +18,9 @@
 				<outline text="Looks like I won't be leaving by the backdoor for awhile... #stlwx &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1425988019836891139/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 01:10:12 GMT" tweetId="1425988019836891139" urltweet="https://twitter.com/sarahkendzior/status/1425988019836891139" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="I'm still on Twitter hiatus but I wanted to document this moment in Missouri weather before the power goes out completely!" type="tweet" created="Fri, 13 Aug 2021 01:11:19 GMT" tweetId="1425988300649676801" urltweet="https://twitter.com/sarahkendzior/status/1425988300649676801" inReplyToId="1425988019836891139" tweetUserName="sarahkendzior" >
 						<outline text="What do the gods of weather have against my grill?! Struck yet again!  &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1413856735958347789?s=19&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 01:12:48 GMT" tweetId="1425988675138170884" urltweet="https://twitter.com/sarahkendzior/status/1425988675138170884" inReplyToId="1425988300649676801" tweetUserName="sarahkendzior" >
-							<outline text="Anyway we're all fine and relieved the house itself wasn't hurt by the storm. A narrow miss!" type="tweet" created="Fri, 13 Aug 2021 01:15:19 GMT" tweetId="1425989308285075462" urltweet="https://twitter.com/sarahkendzior/status/1425989308285075462" inReplyToId="1425988675138170884" tweetUserName="sarahkendzior" />
+							<outline text="Anyway we're all fine and relieved the house itself wasn't hurt by the storm. A narrow miss!" type="tweet" created="Fri, 13 Aug 2021 01:15:19 GMT" tweetId="1425989308285075462" urltweet="https://twitter.com/sarahkendzior/status/1425989308285075462" inReplyToId="1425988675138170884" tweetUserName="sarahkendzior" >
+								<outline text="In the light of day... &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1426163123359207428/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 12:46:00 GMT" tweetId="1426163123359207428" urltweet="https://twitter.com/sarahkendzior/status/1426163123359207428" inReplyToId="1425989308285075462" tweetUserName="sarahkendzior" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
