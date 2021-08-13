@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 13 Aug 2021 01:33:54 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 07:17:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="The Dangerous Ideas of “Longtermism” and “Existential Risk.” &lt;a href=&quot;https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 07:16:23 GMT" tweetId="1426080173842124800" urltweet="https://twitter.com/davewiner/status/1426080173842124800" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
 				<outline text="Are you woke?" type="tweet" created="Fri, 13 Aug 2021 01:32:57 GMT" tweetId="1425993745774923778" urltweet="https://twitter.com/davewiner/status/1425993745774923778" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I bought my first weed wacker today.  &lt;a href=&quot;https://www.amazon.com/gp/product/B011HX29H0?ref=ppx_pt2_dt_b_prod_image&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 01:32:09 GMT" tweetId="1425993544804806657" urltweet="https://twitter.com/davewiner/status/1425993544804806657" inReplyToId="" tweetUserName="davewiner" />
