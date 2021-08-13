@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 13 Aug 2021 07:17:15 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 07:31:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="Census data shows shows decrease in White population. &lt;a href=&quot;https://www.washingtonpost.com/dc-md-va/2021/08/12/census-data-race-ethnicity-neighborhoods/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 07:30:40 GMT" tweetId="1426083770352996355" urltweet="https://twitter.com/davewiner/status/1426083770352996355" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Dangerous Ideas of “Longtermism” and “Existential Risk.” &lt;a href=&quot;https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 07:16:23 GMT" tweetId="1426080173842124800" urltweet="https://twitter.com/davewiner/status/1426080173842124800" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
