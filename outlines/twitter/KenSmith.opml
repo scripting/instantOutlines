@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 09:39:01 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 11:53:10 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="“Only the poor go to the battlefield while politicians watch.” &lt;a href=&quot;https://twitter.com/bbcworld/status/1426134319651753984&quot;&gt;[link]&lt;/a&gt; https://t.co/bEjG7YzFVO" type="tweet" created="Fri, 13 Aug 2021 11:53:04 GMT" tweetId="1426149802048430081" urltweet="https://twitter.com/KenSmith/status/1426149802048430081" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="The problem reading a @Nick_Offerman tweet is that it will be either witty or wise but he doesn’t have the courtesy of telling you, at the start, which type it’s going to be. And now here he’s gone and blurred the two categories completely while talking about @HerdyShepherd1. &lt;a href=&quot;https://twitter.com/KenSmith/status/1426115892719534106/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 09:38:19 GMT" tweetId="1426115892719534106" urltweet="https://twitter.com/KenSmith/status/1426115892719534106" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
