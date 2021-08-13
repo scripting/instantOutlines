@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 16:26:43 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 17:58:49 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="Discord Raising at Roughly $15 Billion. The funding round would at least double Discord's valuation, from $7 billion in 2020. &lt;a href=&quot;https://www.newcomer.co/p/sources-discord-raising-at-roughly&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 17:58:28 GMT" tweetId="1426241761236578304" urltweet="https://twitter.com/taylorlorenz/status/1426241761236578304" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Facebook removes Russian network that targeted influencers to peddle anti-vax messages &lt;a href=&quot;https://www.reuters.com/technology/facebook-removes-russian-network-that-targeted-influencers-peddle-anti-vax-2021-08-10/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 16:26:25 GMT" tweetId="1426218593948102656" urltweet="https://twitter.com/taylorlorenz/status/1426218593948102656" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="The White House has partnered with Fuck Jerry’s “Dude With Sign” to promote vaccination &lt;a href=&quot;https://www.instagram.com/accounts/login/&quot;&gt;[link]&lt;/a&gt; https://t.co/ad9XjMQnPv" type="tweet" created="Fri, 13 Aug 2021 16:09:04 GMT" tweetId="1426214229128843265" urltweet="https://twitter.com/taylorlorenz/status/1426214229128843265" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="I wrote about the government’s campaign to leverage influencers, meme accounts and other online content creators to promote the vaccine here &lt;a href=&quot;https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 16:10:16 GMT" tweetId="1426214529797562372" urltweet="https://twitter.com/taylorlorenz/status/1426214529797562372" inReplyToId="1426214229128843265" tweetUserName="taylorlorenz" />
