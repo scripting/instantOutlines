@@ -14,17 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 20:11:30 GMT</dateModified>
-		<expansionState>1,2,4,6,11,22,24,26,30,33,34,54</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Fri, 13 Aug 2021 20:12:22 GMT</dateModified>
+		<expansionState>1,2,4,9,20,22,24,26,30,33,34,54</expansionState>
+		<lastCursor>19</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 13" created="Fri, 13 Aug 2021 15:51:57 GMT" type="calendarDay" name="13" >
 				<outline text="Watching the &lt;a href=&quot;https://www.cnn.com/2021/08/03/world/meanwhile-in-america-august-3-intl/index.html&quot;&gt;Taliban crush&lt;/a&gt; the Afghan government so quickly makes quite an impression. I think bringing our military home was probably a good idea. While we were protecting Afghanistan from their Taliban, we've been growing our own fundamentalist terrorism culture here. Where they want to return their country to the 5th century, our Taliban wasn't go back to before the Civil War. " created="Fri, 13 Aug 2021 15:51:58 GMT" type="outline" />
-				<outline text="As good a reason as any" created="Fri, 13 Aug 2021 20:09:24 GMT" type="outline" >
-					<outline text="Seen in a Woodstock store window today." created="Fri, 13 Aug 2021 20:09:32 GMT" inlineImage="http://scripting.com/images/2021/08/13/sorryWereStoned.png" />
-					</outline>
 				<outline text="We're cooked" created="Fri, 13 Aug 2021 19:42:44 GMT" type="outline" metaImage="http://scripting.com/images/2021/08/13/stoveOnFire.png" description="The planet is ruined for life as we know it. It's done. Nothing to worry about. It's over. " >
 					<outline text="I went for a walk in the noon heat and was wiped out.  " created="Fri, 13 Aug 2021 19:42:59 GMT" />
 					<outline text="Listened to &lt;a href=&quot;https://www.nytimes.com/2021/08/13/podcasts/the-daily/climate-change-IPCC.html&quot;&gt;today's lame Daily podcast&lt;/a&gt;." created="Fri, 13 Aug 2021 19:56:04 GMT" />
@@ -42,6 +39,9 @@
 						<outline text="The true story that I've yet to hear the NYT say, and today they had the perfect opportunity to say it, is that we're already over the cliff. The planet is ruined for life as it currently exists. It's done. Nothing to worry about. It's over. " created="Fri, 13 Aug 2021 19:44:39 GMT" />
 						</outline>
 					<outline text="PS: Here's the true true version of the story, an &lt;a href=&quot;https://www.youtube.com/watch?v=XM0uZ9mfOUI&quot;&gt;excerpt&lt;/a&gt; from The Newsroom, which was broadcast in 2014, seven years ago." created="Fri, 13 Aug 2021 19:45:03 GMT" urlvideo="https://www.youtube.com/watch?v=XM0uZ9mfOUI" />
+					</outline>
+				<outline text="What boomers were doing..." created="Fri, 13 Aug 2021 20:09:24 GMT" type="outline" >
+					<outline text="Seen in a Woodstock store window today." created="Fri, 13 Aug 2021 20:09:32 GMT" inlineImage="http://scripting.com/images/2021/08/13/sorryWereStoned.png" />
 					</outline>
 				</outline>
 			<outline text="August 12" created="Thu, 12 Aug 2021 14:14:30 GMT" type="calendarDay" name="12" >
