@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 12:14:11 GMT</dateModified>
+		<dateModified>Fri, 13 Aug 2021 12:23:12 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="“When code is law,” by @RungRage.
+
+&lt;a href=&quot;https://indianexpress.com/article/opinion/columns/when-code-is-law-digitised-data-leak-5168760/&quot;&gt;[link]&lt;/a&gt; https://t.co/GMxLLcKYbX" type="tweet" created="Fri, 13 Aug 2021 12:23:03 GMT" tweetId="1426157347878182912" urltweet="https://twitter.com/KenSmith/status/1426157347878182912" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="I’m not sure yet why this is called feudal, but I find this description of our psychological, political, and media landscape very suggestive. &lt;a href=&quot;https://twitter.com/rungrage/status/1426143581350203392&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 12:06:42 GMT" tweetId="1426153233190461446" urltweet="https://twitter.com/KenSmith/status/1426153233190461446" inReplyToId="" tweetUserName="KenSmith" >
 					<outline text="&lt;a href=&quot;https://twitter.com/KenSmith/status/1426154992583516161/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 12:13:41 GMT" tweetId="1426154992583516161" urltweet="https://twitter.com/KenSmith/status/1426154992583516161" inReplyToId="1426153233190461446" tweetUserName="KenSmith" />
 					</outline>
