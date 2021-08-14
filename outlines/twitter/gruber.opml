@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Sat, 14 Aug 2021 03:02:53 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 18:52:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="Drexel’s campus has improved a lot since my time there. &lt;a href=&quot;https://twitter.com/gruber/status/1426617735472103434/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 18:52:28 GMT" tweetId="1426617735472103434" urltweet="https://twitter.com/gruber/status/1426617735472103434" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="August 13" type="calendarDay" name="13" >
 				<outline text="&lt;a href=&quot;https://daringfireball.net/linked/2011/02/02/mantle-under-the-bleacher&quot;&gt;[link]&lt;/a&gt; https://t.co/lnqznItyqT" type="tweet" created="Sat, 14 Aug 2021 03:02:29 GMT" tweetId="1426378665584115713" urltweet="https://twitter.com/gruber/status/1426378665584115713" inReplyToId="" tweetUserName="gruber" />
 				</outline>
