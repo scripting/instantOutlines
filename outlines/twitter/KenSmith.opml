@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 14 Aug 2021 12:15:43 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 12:28:44 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="From time to time an institution out there in the world raises its many-eyed head above the horizon and says, &quot;I see you.&quot; &lt;a href=&quot;https://twitter.com/KenSmith/status/1426517758334980100&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 12:28:11 GMT" tweetId="1426521031024517125" urltweet="https://twitter.com/KenSmith/status/1426521031024517125" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="The insurance company is expected to rule on Monday.
 
 That’s the chilliest sentence I typed all week." type="tweet" created="Sat, 14 Aug 2021 12:15:11 GMT" tweetId="1426517758334980100" urltweet="https://twitter.com/KenSmith/status/1426517758334980100" inReplyToId="" tweetUserName="KenSmith" />
