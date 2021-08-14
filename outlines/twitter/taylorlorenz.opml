@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 18:58:53 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 16:07:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="😒 &lt;a href=&quot;https://twitter.com/tedcruz/status/1425976862862422018&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 16:07:04 GMT" tweetId="1426576114776907779" urltweet="https://twitter.com/taylorlorenz/status/1426576114776907779" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 13" type="calendarDay" name="13" >
 				<outline text="It’s nice that this works for some people, but meanwhile the rest of us are drowning trying to do one job decently well while our world is crashing down and people we love keep dying 😅 &lt;a href=&quot;https://www.wsj.com/articles/these-people-who-work-from-home-have-a-secret-they-have-two-jobs-11628866529&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 18:58:35 GMT" tweetId="1426256888174235651" urltweet="https://twitter.com/taylorlorenz/status/1426256888174235651" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“This is how the internet works: You get into something for the fun of it, and you end up being radicalized.” &lt;a href=&quot;https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 18:39:58 GMT" tweetId="1426252202146816000" urltweet="https://twitter.com/taylorlorenz/status/1426252202146816000" inReplyToId="" tweetUserName="taylorlorenz" />
