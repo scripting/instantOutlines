@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 14 Aug 2021 02:13:05 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 12:15:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="The insurance company is expected to rule on Monday.
+
+That’s the chilliest sentence I typed all week." type="tweet" created="Sat, 14 Aug 2021 12:15:11 GMT" tweetId="1426517758334980100" urltweet="https://twitter.com/KenSmith/status/1426517758334980100" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 13" type="calendarDay" name="13" >
 				<outline text="Armadillos heading north, finding the climate congenial. #scriptingnews https://t.co/2d1aQSURaF" type="tweet" created="Sat, 14 Aug 2021 02:12:52 GMT" tweetId="1426366178675630081" urltweet="https://twitter.com/KenSmith/status/1426366178675630081" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="How to rebel to help farmers, by James Rebanks, @herdyshepherd1 
