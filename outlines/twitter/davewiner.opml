@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 14 Aug 2021 21:21:41 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 23:11:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="Can You Remove &amp;amp; Reverse A 301 Redirect? &lt;a href=&quot;https://moz.com/blog/can-you-reverse-a-301-redirect&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 23:11:23 GMT" tweetId="1426682895079464964" urltweet="https://twitter.com/davewiner/status/1426682895079464964" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The year 1939 in film is widely considered the greatest year in film history. &lt;a href=&quot;https://en.wikipedia.org/wiki/1939_in_film&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 21:21:28 GMT" tweetId="1426655235125223427" urltweet="https://twitter.com/davewiner/status/1426655235125223427" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Public notetaking.
 
