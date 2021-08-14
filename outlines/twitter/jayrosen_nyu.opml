@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 18:29:16 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 15:42:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="There's no such thing as the &quot;when to amplify disinformation&quot; problem, according to @DavidCornDC. At least when it comes to amplifying the 45th President of the United States. He wants people who tweet him about it to stop. &lt;a href=&quot;https://link.motherjones.com/public/24728833&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 15:41:37 GMT" tweetId="1426569707906273283" urltweet="https://twitter.com/jayrosen_nyu/status/1426569707906273283" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 13" type="calendarDay" name="13" >
 				<outline text="The Co-Founder Of The Fact-Checking Site Snopes Wrote Plagiarized Articles Under A Fake Name &lt;a href=&quot;https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson&quot;&gt;[link]&lt;/a&gt; And did other things that are totally unethical." type="tweet" created="Fri, 13 Aug 2021 18:28:45 GMT" tweetId="1426249379195785227" urltweet="https://twitter.com/jayrosen_nyu/status/1426249379195785227" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Greatly enjoyed this thread by computer security expert @ErrataRob about Mike Pillow's proof event. Pillow Guy said he has &quot;packet captures&quot; that show election fraud. He asked real experts to come and see the proof. Twice I had to stop because I broke down laughing. Final score: &lt;a href=&quot;https://twitter.com/ErrataRob/status/1425913689169928192&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 15:29:46 GMT" tweetId="1426204337685028869" urltweet="https://twitter.com/jayrosen_nyu/status/1426204337685028869" inReplyToId="" tweetUserName="jayrosen_nyu" />
