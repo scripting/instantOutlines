@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Thu, 12 Aug 2021 21:42:01 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 03:02:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="&lt;a href=&quot;https://daringfireball.net/linked/2011/02/02/mantle-under-the-bleacher&quot;&gt;[link]&lt;/a&gt; https://t.co/lnqznItyqT" type="tweet" created="Sat, 14 Aug 2021 03:02:29 GMT" tweetId="1426378665584115713" urltweet="https://twitter.com/gruber/status/1426378665584115713" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
 				<outline text="Just double-checking here. iOS/iPadOS 15 still doesn’t support printing pages 2-up or 4-up, meaning its printing capabilities still lag behind System 7 circa ~25 years ago?" type="tweet" created="Thu, 12 Aug 2021 21:41:12 GMT" tweetId="1425935422811693056" urltweet="https://twitter.com/gruber/status/1425935422811693056" inReplyToId="" tweetUserName="gruber" />
 				<outline text="Written two years ago. Prescient. &lt;a href=&quot;https://twitter.com/rjonesy/status/1195032113340387329&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 14:55:23 GMT" tweetId="1425833298899570698" urltweet="https://twitter.com/gruber/status/1425833298899570698" inReplyToId="" tweetUserName="gruber" />
