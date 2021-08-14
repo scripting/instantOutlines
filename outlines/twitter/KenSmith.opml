@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 12:49:14 GMT</dateModified>
+		<dateModified>Sat, 14 Aug 2021 02:13:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="Armadillos heading north, finding the climate congenial. #scriptingnews https://t.co/2d1aQSURaF" type="tweet" created="Sat, 14 Aug 2021 02:12:52 GMT" tweetId="1426366178675630081" urltweet="https://twitter.com/KenSmith/status/1426366178675630081" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="How to rebel to help farmers, by James Rebanks, @herdyshepherd1 
 
 “Try to buy direct from at least one farmer, one who you make the effort to learn about, and who farms in ways you’d approve of. A veg box is a good start, and social media is a great way to connect with farmers.” &lt;a href=&quot;https://twitter.com/susfoodtrust/status/1426158591132766208&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 12:48:31 GMT" tweetId="1426163756468408324" urltweet="https://twitter.com/KenSmith/status/1426163756468408324" inReplyToId="" tweetUserName="KenSmith" />
