@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 14 Aug 2021 15:42:36 GMT</dateModified>
+		<dateModified>Sun, 15 Aug 2021 02:48:28 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="Tucker Carlson was punked by Viktor Orban. &lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/08/14/hungary-punked-tucker-carlson/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 15 Aug 2021 02:47:45 GMT" tweetId="1426737346691612676" urltweet="https://twitter.com/jayrosen_nyu/status/1426737346691612676" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="There's no such thing as the &quot;when to amplify disinformation&quot; problem, according to @DavidCornDC. At least when it comes to amplifying the 45th President of the United States. He wants people who tweet him about it to stop. &lt;a href=&quot;https://link.motherjones.com/public/24728833&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 15:41:37 GMT" tweetId="1426569707906273283" urltweet="https://twitter.com/jayrosen_nyu/status/1426569707906273283" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="August 13" type="calendarDay" name="13" >
