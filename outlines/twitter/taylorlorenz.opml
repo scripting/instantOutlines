@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 15 Aug 2021 17:59:51 GMT</dateModified>
+		<dateModified>Sun, 15 Aug 2021 18:47:54 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 15" type="calendarDay" name="15" >
+				<outline text="LoveShackFancy dresses are like $500??!!!!?? Is everyone insane" type="tweet" created="Sun, 15 Aug 2021 18:46:56 GMT" tweetId="1426978732942651396" urltweet="https://twitter.com/taylorlorenz/status/1426978732942651396" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“Though the marches were billed as events to push for universal healthcare, proponents of anti-vax conspiracy theories were included in the speaker list— a sign of how advocates for the fringe, anti-science belief system are working to infiltrate the progressive movement.” &lt;a href=&quot;https://twitter.com/eoinhiggins_/status/1426889858270834691&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 15 Aug 2021 17:59:33 GMT" tweetId="1426966807164833793" urltweet="https://twitter.com/taylorlorenz/status/1426966807164833793" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
 			<outline text="August 14" type="calendarDay" name="14" >
