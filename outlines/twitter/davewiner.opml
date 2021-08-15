@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 15 Aug 2021 13:56:44 GMT</dateModified>
+		<dateModified>Sun, 15 Aug 2021 14:42:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 15" type="calendarDay" name="15" >
+				<outline text="Very geekish. 
+
+Hover is a registrar. They used to let you put a CNAME where an A record is called for. This was great, made maintaining sites easier. But now it no longer seems to work. Anyone else notice this? Comment here if so..
+
+&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/220&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 15 Aug 2021 14:42:37 GMT" tweetId="1426917247772135431" urltweet="https://twitter.com/davewiner/status/1426917247772135431" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Why is my Facebook feed filled with garbage like this.
 
 Maybe they could give us better controls?? &lt;a href=&quot;https://twitter.com/davewiner/status/1426905675091922951/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 15 Aug 2021 13:56:38 GMT" tweetId="1426905675091922951" urltweet="https://twitter.com/davewiner/status/1426905675091922951" inReplyToId="" tweetUserName="davewiner" />
