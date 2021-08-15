@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 15 Aug 2021 16:14:10 GMT</dateModified>
+		<dateModified>Sun, 15 Aug 2021 16:19:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 15" type="calendarDay" name="15" >
+				<outline text="We need to start thinking and working outside the Web's haystack: &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/08/15/beyond-the-web/&quot;&gt;[link]&lt;/a&gt; https://t.co/KIqv2hJ4Bv" type="tweet" created="Sun, 15 Aug 2021 16:18:18 GMT" tweetId="1426941328752001027" urltweet="https://twitter.com/dsearls/status/1426941328752001027" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Beyond the Web &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/08/15/beyond-the-web/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 15 Aug 2021 16:13:30 GMT" tweetId="1426940119991431169" urltweet="https://twitter.com/dsearls/status/1426940119991431169" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="August 14" type="calendarDay" name="14" >
