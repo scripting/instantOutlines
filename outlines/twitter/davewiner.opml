@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 14 Aug 2021 23:31:49 GMT</dateModified>
+		<dateModified>Sun, 15 Aug 2021 03:02:03 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="Another day another dollar." type="tweet" created="Sun, 15 Aug 2021 03:01:41 GMT" tweetId="1426740853683392527" urltweet="https://twitter.com/davewiner/status/1426740853683392527" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If my family growing up was a patriarchy the patriarch was my grandfather Rudy Kiesler. I made a website for him. NBD. I imagine going back in time, showing him the site, trying to explain. Vat dis is David? he might have asked. 
 
 https://t.co/3a6miKhAtn" type="tweet" created="Sat, 14 Aug 2021 23:31:04 GMT" tweetId="1426687847843700737" urltweet="https://twitter.com/davewiner/status/1426687847843700737" inReplyToId="" tweetUserName="davewiner" />
