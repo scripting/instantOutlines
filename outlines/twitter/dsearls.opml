@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 13 Aug 2021 22:00:31 GMT</dateModified>
+		<dateModified>Sun, 15 Aug 2021 02:34:19 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 14" type="calendarDay" name="14" >
+				<outline text="This is important, folks. Pay attention. (You're already  overpaying for homes because of this kind of stuff.) &lt;a href=&quot;https://twitter.com/RealEstateCafe/status/1426662367098810374&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 15 Aug 2021 02:34:09 GMT" tweetId="1426733925246853122" urltweet="https://twitter.com/dsearls/status/1426733925246853122" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="August 13" type="calendarDay" name="13" >
 				<outline text="Looking at new TVs. Q: can optical audio-out of a TV be volume-controllable with the TV's remote? Our cheap 1K Samsung is not. The volume is fixed. But is the level (volume) controllable with other optical-out TVs? Thanks!" type="tweet" created="Fri, 13 Aug 2021 22:00:13 GMT" tweetId="1426302597317767170" urltweet="https://twitter.com/dsearls/status/1426302597317767170" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="What is the cheapest and easiest approach to steadily backing up two Mac laptops with a total of ~10TB of data between them, using Time Machine?" type="tweet" created="Fri, 13 Aug 2021 12:49:18 GMT" tweetId="1426163956855492609" urltweet="https://twitter.com/dsearls/status/1426163956855492609" inReplyToId="" tweetUserName="dsearls" />
