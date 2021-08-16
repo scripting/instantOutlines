@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 13:22:14 GMT</dateModified>
-		<expansionState>1,2,3,6,9,13,15,25,31,34,40,42,47,58,60,62,64,68,71,72,92</expansionState>
-		<lastCursor>13</lastCursor>
+		<dateModified>Mon, 16 Aug 2021 13:27:49 GMT</dateModified>
+		<expansionState>1,2,3,6,9,14,24,30,33,39,41,46,57,59,61,63,67,70,71,91</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -26,16 +26,14 @@
 					<outline text="Today I want to try to unwind one part of the mess." created="Mon, 16 Aug 2021 13:11:07 GMT" />
 					<outline text="Here's the situation." created="Mon, 16 Aug 2021 13:11:18 GMT" >
 						<outline text="opml.org's DNS is at hover.com." created="Mon, 16 Aug 2021 13:11:56 GMT" />
-						<outline text="I've set up the root, opml.org itself, as an A record pointing to 142.93.4.110. This server is where I host all my simple PagePark sites, ones that consist of static pages, and config.json settings. " created="Mon, 16 Aug 2021 13:12:06 GMT" />
+						<outline text="I've set up the root, &lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt; itself, as an A record pointing to 142.93.4.110. This server is where I host all my simple PagePark sites, ones that consist of static pages, and config.json settings. " created="Mon, 16 Aug 2021 13:12:06 GMT" />
 						<outline text="When I try to go to opml.org, I am redirected to dev.opml.org. " created="Mon, 16 Aug 2021 13:16:13 GMT" >
 							<outline text="Why? Until recently opml.org was a bucket on S3, set up to redirect to &lt;a href=&quot;http://dev.opml.org/&quot;&gt;dev.opml.org&lt;/a&gt;." created="Mon, 16 Aug 2021 13:17:09 GMT" />
 							<outline text="I'm guessing they used a 301 permanent redirect, which causes my browser to cache the redirect. It doesn't bother making a DNS request for opml.org, because (guessing) the redirect was permanent. " created="Mon, 16 Aug 2021 13:17:23 GMT" />
 							</outline>
 						<outline text="So that's where I am this morning. I want to get opml.org unstuck, and able to be its own site, not to redirect to dev.opml.org, which I'd very much like to retire (and in doing so probably redirecting in the other direction to opml.org)." created="Mon, 16 Aug 2021 13:18:38 GMT" />
 						</outline>
-					<outline text="I'm going to try various things and put notes here." created="Mon, 16 Aug 2021 13:21:55 GMT" >
-						<outline text="" created="Mon, 16 Aug 2021 13:22:13 GMT" />
-						</outline>
+					<outline text="I'm going to try various things and &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221&quot;&gt;put notes here&lt;/a&gt;." created="Mon, 16 Aug 2021 13:21:55 GMT" />
 					</outline>
 				<outline text="Comments on Afghanistan" created="Mon, 16 Aug 2021 12:52:12 GMT" type="outline" >
 					<outline text="I grew up in the time of the Vietnam War. I was draft age, had a low lottery number, no exemptions, and was flunking out of high school, so the prospect of being drafted was pretty real. " created="Mon, 16 Aug 2021 12:45:12 GMT" type="outline" />
