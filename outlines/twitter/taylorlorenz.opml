@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 16:19:16 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 17:52:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 16" type="calendarDay" name="16" >
+				<outline text="2021 is trying hard to outdo 2020 &lt;a href=&quot;https://twitter.com/yikyakapp/status/1427310464585900035&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 17:52:11 GMT" tweetId="1427327342720868353" urltweet="https://twitter.com/taylorlorenz/status/1427327342720868353" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Creators have always existed, most of the tech industry just ignored them and treated them as a “niche” class until literally 6 months ago &lt;a href=&quot;https://twitter.com/andrewchen/status/1427074251551514625&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 16:05:42 GMT" tweetId="1427300546185101315" urltweet="https://twitter.com/taylorlorenz/status/1427300546185101315" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="VCs love posting long threads about the creator economy while ignoring sex workers who pioneered the revenue models they now seek to exploit for profit" type="tweet" created="Mon, 16 Aug 2021 15:51:41 GMT" tweetId="1427297016158191617" urltweet="https://twitter.com/taylorlorenz/status/1427297016158191617" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="lol &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1427298050158960643/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:55:47 GMT" tweetId="1427298050158960643" urltweet="https://twitter.com/taylorlorenz/status/1427298050158960643" inReplyToId="1427297016158191617" tweetUserName="taylorlorenz" >
