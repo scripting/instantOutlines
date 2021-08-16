@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 15:34:13 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 15:37:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -20,7 +20,9 @@
 								<outline text="Yup, exactly &lt;a href=&quot;https://twitter.com/to_correspond/status/1427288768063623171&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:19:58 GMT" tweetId="1427289034762592265" urltweet="https://twitter.com/taylorlorenz/status/1427289034762592265" inReplyToId="1427285766506303493" tweetUserName="taylorlorenz" >
 									<outline text="Pls don’t reply and try to argue with me about why u only want to pay 20 cents to read a story or whatever. Read the thread, try to understand business models in media. Covering online biz models and the evolution of online media is my entire job so I’m not debating this topic rn" type="tweet" created="Mon, 16 Aug 2021 15:26:35 GMT" tweetId="1427290701239255043" urltweet="https://twitter.com/taylorlorenz/status/1427290701239255043" inReplyToId="1427289034762592265" tweetUserName="taylorlorenz" >
 										<outline text="Please also note that paywalls are porous and NYT, like most all sub based services, gives a certain $ of articles away for free and makes essential coverage, like Covid reporting free, among other things. There’s also an entire side of the industry built on aggregation." type="tweet" created="Mon, 16 Aug 2021 15:28:41 GMT" tweetId="1427291229985804292" urltweet="https://twitter.com/taylorlorenz/status/1427291229985804292" inReplyToId="1427290701239255043" tweetUserName="taylorlorenz" >
-											<outline text="The system is not perfect &amp;amp; I believe deeply in expanding access to high quality news, but Sam’s thread and the tweets I mention are a good summary of why micro payments won’t accomplish that. Whatever you just came up w/ on twitter has been considered by many ppl many times over" type="tweet" created="Mon, 16 Aug 2021 15:33:49 GMT" tweetId="1427292522846441476" urltweet="https://twitter.com/taylorlorenz/status/1427292522846441476" inReplyToId="1427291229985804292" tweetUserName="taylorlorenz" />
+											<outline text="The system is not perfect &amp;amp; I believe deeply in expanding access to high quality news, but Sam’s thread and the tweets I mention are a good summary of why micro payments won’t accomplish that. Whatever you just came up w/ on twitter has been considered by many ppl many times over" type="tweet" created="Mon, 16 Aug 2021 15:33:49 GMT" tweetId="1427292522846441476" urltweet="https://twitter.com/taylorlorenz/status/1427292522846441476" inReplyToId="1427291229985804292" tweetUserName="taylorlorenz" >
+												<outline text="I remember 😌 &lt;a href=&quot;https://twitter.com/jayshams/status/1427291945810923523&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:36:43 GMT" tweetId="1427293249731842053" urltweet="https://twitter.com/taylorlorenz/status/1427293249731842053" inReplyToId="1427292522846441476" tweetUserName="taylorlorenz" />
+												</outline>
 											</outline>
 										</outline>
 									</outline>
