@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 14:18:34 GMT</dateModified>
-		<expansionState>1,2,4,7,10,16,26,32,35,41,43,48,59,61,63,65,69,72,73,93</expansionState>
+		<dateModified>Mon, 16 Aug 2021 14:39:48 GMT</dateModified>
+		<expansionState>1,2,5,8,11,17,27,33,36,42,44,49,60,62,64,66,70,73,74,94</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 16" created="Mon, 16 Aug 2021 12:45:11 GMT" type="calendarDay" name="16" >
+				<outline text="The problem re opml.org, below, has &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221#issuecomment-899563687&quot;&gt;narrowed&lt;/a&gt; quite a bit. " created="Mon, 16 Aug 2021 14:39:16 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1427273264485781511&quot;&gt;Poll&lt;/a&gt;: What do you get when you go to opml.org?" created="Mon, 16 Aug 2021 14:18:06 GMT" type="outline" />
 				<outline text="Undoing the opml.org redirect mess" created="Mon, 16 Aug 2021 13:10:02 GMT" type="outline" >
 					<outline text="Yesterday I wrote a post about the mess that opml.org has become, and how I want to start fresh with a well-organized site that points to all the resources available to devs working with OPML." created="Mon, 16 Aug 2021 13:10:21 GMT" />
