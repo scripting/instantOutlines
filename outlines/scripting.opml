@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 15:09:00 GMT</dateModified>
-		<expansionState>1,2,5,7,13,19,22,28,30,35,46,48,50,52,56,59,60,80</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Mon, 16 Aug 2021 15:40:01 GMT</dateModified>
+		<expansionState>1,2,6,8,14,20,23,29,31,36,47,49,51,53,57,60,61,81</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 16" created="Mon, 16 Aug 2021 12:45:11 GMT" type="calendarDay" name="16" >
+				<outline text="Brent Ashley had exactly the &lt;a href=&quot;https://twitter.com/brentashley/status/1427290535480463361&quot;&gt;advice&lt;/a&gt; I &lt;a href=&quot;https://twitter.com/davewiner/status/1427293487410696195&quot;&gt;needed&lt;/a&gt;. opml.org problem solved everywhere. I can start with a &lt;a href=&quot;http://scripting.com/images/2021/08/16/solved.png&quot;&gt;fresh slate&lt;/a&gt;. Excellent. " created="Mon, 16 Aug 2021 15:38:12 GMT" type="outline" />
 				<outline text="The problem re opml.org, below, has &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221#issuecomment-899563687&quot;&gt;narrowed&lt;/a&gt; quite a bit. " created="Mon, 16 Aug 2021 14:39:16 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1427273264485781511&quot;&gt;Poll&lt;/a&gt;: What do you get when you go to opml.org?" created="Mon, 16 Aug 2021 14:18:06 GMT" type="outline" />
 				<outline text="Trumping on Twitter" created="Mon, 16 Aug 2021 15:06:29 GMT" type="outline" >
