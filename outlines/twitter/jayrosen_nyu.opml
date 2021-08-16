@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 14:58:36 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 19:34:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 16" type="calendarDay" name="16" >
+				<outline text="This account by @SangerNYT speaks of &quot;intelligence assessments that wildly overestimated the capabilities of an Afghan Army that disintegrated.&quot; &lt;a href=&quot;https://www.nytimes.com/2021/08/15/us/politics/afghanistan-biden.html&quot;&gt;[link]&lt;/a&gt; Which prompts a reader of the news to ask how that over-estimate happened. 
+
+But... 1/3" type="tweet" created="Mon, 16 Aug 2021 19:33:57 GMT" tweetId="1427352954097573888" urltweet="https://twitter.com/jayrosen_nyu/status/1427352954097573888" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="The news sources I saw said months, not days. That's today's top media story. How did that happen? &lt;a href=&quot;https://twitter.com/DanLamothe/status/1426905034386706445&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:58:09 GMT" tweetId="1427283544225746954" urltweet="https://twitter.com/jayrosen_nyu/status/1427283544225746954" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
 			<outline text="August 15" type="calendarDay" name="15" >
