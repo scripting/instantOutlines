@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Mon, 16 Aug 2021 14:41:37 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 16:50:45 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 16" type="calendarDay" name="16" >
+				<outline text="Thread from May. Remember this as you debate how crises will affect elections: nothing affects an election more than voter suppression. &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1392499585097125889&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 16:50:04 GMT" tweetId="1427311711355277320" urltweet="https://twitter.com/sarahkendzior/status/1427311711355277320" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="August 15" type="calendarDay" name="15" >
 				<outline text="You should have far more patience for ordinary people trying to navigate horrific global crises and far less patience for the powerful actors who created these crises and remain unaccountable. They do not deserve your defense. The people suffering because of them do." type="tweet" created="Mon, 16 Aug 2021 01:01:13 GMT" tweetId="1427072924905844736" urltweet="https://twitter.com/sarahkendzior/status/1427072924905844736" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
