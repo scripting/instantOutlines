@@ -14,12 +14,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 02:48:06 GMT</dateModified>
-		<expansionState>1,2,8,11,17,19,24,35,37,39,41,45,48,49,69</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Mon, 16 Aug 2021 12:58:51 GMT</dateModified>
+		<expansionState>1,2,3,12,18,21,27,29,34,45,47,49,51,55,58,59,79</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 16" created="Mon, 16 Aug 2021 12:45:11 GMT" type="calendarDay" name="16" >
+				<outline text="Comments on Afghanistan" created="Mon, 16 Aug 2021 12:52:12 GMT" type="outline" >
+					<outline text="I grew up in the time of the Vietnam War. I was draft age, had a low lottery number, no exemptions, and was flunking out of high school, so the prospect of being drafted was pretty real. " created="Mon, 16 Aug 2021 12:45:12 GMT" type="outline" />
+					<outline text="One thing I was absolutely sure of was that none of the people who were draft age in that time would start another war like Vietnam, but then &lt;a href=&quot;https://en.wikipedia.org/wiki/George_W._Bush&quot;&gt;one of them&lt;/a&gt; did. " created="Mon, 16 Aug 2021 12:52:44 GMT" />
+					<outline text="It became a debacle just like Vietnam. But with a few differences. No draft and no body bags. And far fewer American casualties. " created="Mon, 16 Aug 2021 12:52:51 GMT" />
+					<outline text="The idea of the US converting a country we know nothing about and don't want to know anything about into a country modeled after the US is just as wrong today as it was in the 60s and 70s. " created="Mon, 16 Aug 2021 12:53:15 GMT" />
+					<outline text="And &lt;a href=&quot;https://en.wikipedia.org/wiki/Lyndon_B._Johnson&quot;&gt;LBJ&lt;/a&gt;, who did so much for civil rights, also was brought down by &lt;a href=&quot;https://en.wikipedia.org/wiki/Lyndon_B._Johnson#Vietnam_War&quot;&gt;Vietnam&lt;/a&gt;. " created="Mon, 16 Aug 2021 12:53:20 GMT" />
+					<outline text="Lots of parallels. Another one is that journalism is completely fucking up the story, telling bedtime stories about what the US could do, and how events developed, and getting the story completely wrong. I'm no expert, but I've read enough to know that there was a deal between the US and the Taliban that did not include the Afghan government, where the US committed to leave in 2020, and the Taliban agreed to not attack us as we left. Had we decided to stay, breaking that deal, we would have committed to a full scale war with the Taliban. There was no middle alternative between leaving and war. Whether or not this was wise is something you have to ask former president Trump. He desperately wanted to get out of Afghanistan and was willing to give up everything to get it. But even that much he couldn't pull off. " created="Mon, 16 Aug 2021 12:53:30 GMT" />
+					<outline text="Fact: once we went in, there was no graceful way out. Give Biden credit for being willing to take the hit to get us out, finally, after Bush, Obama and Trump kicked the can down the road to the next administration. " created="Mon, 16 Aug 2021 12:54:34 GMT" />
+					<outline text="Of all the things you can read today, I recommend this &lt;a href=&quot;https://laurajedeed.medium.com/afghanistan-meant-nothing-9e3f099b00e5&quot;&gt;piece&lt;/a&gt;, written by an Afghanistan vet. It rings true. " created="Mon, 16 Aug 2021 12:54:54 GMT" />
+					</outline>
+				</outline>
 			<outline text="August 15" created="Sun, 15 Aug 2021 14:00:53 GMT" type="calendarDay" name="15" >
 				<outline text="&lt;a href=&quot;http://scripting.com/2021/08/15/howTheMoviePigReallyResonatedForMe.m4a&quot;&gt;Podcast&lt;/a&gt;: Pig is a beautiful &lt;a href=&quot;https://www.metacritic.com/movie/pig-2021&quot;&gt;movie&lt;/a&gt; because it's about showing people the beauty inside themselves, using the beauty inside yourself. I loved it. Warning, there are spoilers in this &lt;a href=&quot;http://scripting.com/2021/08/15/howTheMoviePigReallyResonatedForMe.m4a&quot;&gt;podcast&lt;/a&gt;, but something to know about the movie is that it isn't the kind of movie that you can spoil with spoilers, but you have been warned. :smile:" created="Sun, 15 Aug 2021 17:20:01 GMT" type="outline" enclosure="http://scripting.com/2021/08/15/howTheMoviePigReallyResonatedForMe.m4a" enclosureType="audio/mpeg" enclosureLength="9905595" />
 				<outline text="Honestly, tell the truth, did you think what we were doing in Afghanistan was going to do any good for anyone?" created="Sun, 15 Aug 2021 22:13:42 GMT" type="outline" />
