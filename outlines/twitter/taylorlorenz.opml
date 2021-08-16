@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 16:06:15 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 16:19:16 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="August 16" type="calendarDay" name="16" >
 				<outline text="Creators have always existed, most of the tech industry just ignored them and treated them as a “niche” class until literally 6 months ago &lt;a href=&quot;https://twitter.com/andrewchen/status/1427074251551514625&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 16:05:42 GMT" tweetId="1427300546185101315" urltweet="https://twitter.com/taylorlorenz/status/1427300546185101315" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="VCs love posting long threads about the creator economy while ignoring sex workers who pioneered the revenue models they now seek to exploit for profit" type="tweet" created="Mon, 16 Aug 2021 15:51:41 GMT" tweetId="1427297016158191617" urltweet="https://twitter.com/taylorlorenz/status/1427297016158191617" inReplyToId="" tweetUserName="taylorlorenz" >
-					<outline text="lol &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1427298050158960643/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:55:47 GMT" tweetId="1427298050158960643" urltweet="https://twitter.com/taylorlorenz/status/1427298050158960643" inReplyToId="1427297016158191617" tweetUserName="taylorlorenz" />
+					<outline text="lol &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1427298050158960643/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:55:47 GMT" tweetId="1427298050158960643" urltweet="https://twitter.com/taylorlorenz/status/1427298050158960643" inReplyToId="1427297016158191617" tweetUserName="taylorlorenz" >
+						<outline text="It goes without saying I certainly don’t mean all VCs or investors :) many are deeply versed in the creator space, they’re just not usually the loud ones on here" type="tweet" created="Mon, 16 Aug 2021 16:18:31 GMT" tweetId="1427303770707267587" urltweet="https://twitter.com/taylorlorenz/status/1427303770707267587" inReplyToId="1427298050158960643" tweetUserName="taylorlorenz" />
+						</outline>
 					</outline>
 				<outline text="Turning off replies to tweets is not enough, you should be able to turn off quote tweets too. Also wish Twitter could let me set an away message on here generally and close my DMs to prevent anyone from sending me a message when im out of office or need a break. @a_dsgnr 🙏🏻" type="tweet" created="Mon, 16 Aug 2021 15:45:55 GMT" tweetId="1427295565801426960" urltweet="https://twitter.com/taylorlorenz/status/1427295565801426960" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Louder for the people in the back 👇🏻 &lt;a href=&quot;https://twitter.com/lessin/status/1427273784248127488&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:37:54 GMT" tweetId="1427278449580732421" urltweet="https://twitter.com/taylorlorenz/status/1427278449580732421" inReplyToId="" tweetUserName="taylorlorenz" >
