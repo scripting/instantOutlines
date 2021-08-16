@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 15:07:32 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 15:09:00 GMT</dateModified>
 		<expansionState>1,2,5,7,13,19,22,28,30,35,46,48,50,52,56,59,60,80</expansionState>
-		<lastCursor>4</lastCursor>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -24,7 +24,7 @@
 				<outline text="The problem re opml.org, below, has &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221#issuecomment-899563687&quot;&gt;narrowed&lt;/a&gt; quite a bit. " created="Mon, 16 Aug 2021 14:39:16 GMT" type="outline" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1427273264485781511&quot;&gt;Poll&lt;/a&gt;: What do you get when you go to opml.org?" created="Mon, 16 Aug 2021 14:18:06 GMT" type="outline" />
 				<outline text="Trumping on Twitter" created="Mon, 16 Aug 2021 15:06:29 GMT" type="outline" >
-					<outline text="Someone I follow on Twitter complained that people thought just because he was a VC he wasn't allowed to have opinions. So I decided to take a look at what his opinion was about." created="Mon, 16 Aug 2021 15:06:53 GMT" />
+					<outline text="Someone I follow on Twitter complained that people thought just because he was a VC he wasn't allowed to have opinions. So I decided to take a look at what his opinion was." created="Mon, 16 Aug 2021 15:06:53 GMT" />
 					<outline text="This is what I wrote to him. " >
 						<outline text="&quot;I think you should have opinions, but trump watched tv all day, and sold us out any chance he got. He’s a fucking Nazi. When he lost the election he tried to overthrow the government. That’s what you support? I didn’t block you yet, but I did unfollow.&quot;" created="Mon, 16 Aug 2021 15:07:13 GMT" />
 						</outline>
