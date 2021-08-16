@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 15:07:11 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 15:20:12 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
@@ -16,7 +16,9 @@
 					<outline text="&lt;a href=&quot;https://twitter.com/lessin/status/1427277737249619971&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:38:57 GMT" tweetId="1427278713259921409" urltweet="https://twitter.com/taylorlorenz/status/1427278713259921409" inReplyToId="1427278449580732421" tweetUserName="taylorlorenz" >
 						<outline text="Another great thread on why micropayments are a horrible model for journalism and why it doesn’t make sense to let people “pay by article.” Please read this! &lt;a href=&quot;https://twitter.com/mgamini/status/1409914483372445697&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:50:55 GMT" tweetId="1427281723188944896" urltweet="https://twitter.com/taylorlorenz/status/1427281723188944896" inReplyToId="1427278713259921409" tweetUserName="taylorlorenz" />
 						<outline text="&lt;a href=&quot;https://twitter.com/mgamini/status/1409914483372445697&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:56:22 GMT" tweetId="1427283095170867201" urltweet="https://twitter.com/taylorlorenz/status/1427283095170867201" inReplyToId="1427278713259921409" tweetUserName="taylorlorenz" >
-							<outline text="&lt;a href=&quot;https://twitter.com/broderick/status/1427285501552246790&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:06:59 GMT" tweetId="1427285766506303493" urltweet="https://twitter.com/taylorlorenz/status/1427285766506303493" inReplyToId="1427283095170867201" tweetUserName="taylorlorenz" />
+							<outline text="&lt;a href=&quot;https://twitter.com/broderick/status/1427285501552246790&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:06:59 GMT" tweetId="1427285766506303493" urltweet="https://twitter.com/taylorlorenz/status/1427285766506303493" inReplyToId="1427283095170867201" tweetUserName="taylorlorenz" >
+								<outline text="Yup, exactly &lt;a href=&quot;https://twitter.com/to_correspond/status/1427288768063623171&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 15:19:58 GMT" tweetId="1427289034762592265" urltweet="https://twitter.com/taylorlorenz/status/1427289034762592265" inReplyToId="1427285766506303493" tweetUserName="taylorlorenz" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
