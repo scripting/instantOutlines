@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 18:03:22 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 18:09:22 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 16" type="calendarDay" name="16" >
+				<outline text="My story is on the front page of the Business section today!! &lt;a href=&quot;https://www.nytimes.com/2021/08/15/technology/tik-tok-friends-meet-up.html&quot;&gt;[link]&lt;/a&gt; https://t.co/AN1qpczLW0" type="tweet" created="Mon, 16 Aug 2021 18:08:22 GMT" tweetId="1427331413364273157" urltweet="https://twitter.com/taylorlorenz/status/1427331413364273157" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="2021 is trying hard to outdo 2020 &lt;a href=&quot;https://twitter.com/yikyakapp/status/1427310464585900035&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 17:52:11 GMT" tweetId="1427327342720868353" urltweet="https://twitter.com/taylorlorenz/status/1427327342720868353" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="“Anonymity online may engender individual harassment, but voting and ranking in apps allows groups to harass groups”. Before celebrating the return of this app read this by @DA_Banks &lt;a href=&quot;https://thenewinquiry.com/community-slander/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 18:01:46 GMT" tweetId="1427329754315694080" urltweet="https://twitter.com/taylorlorenz/status/1427329754315694080" inReplyToId="1427327342720868353" tweetUserName="taylorlorenz" >
 						<outline text="Will be interesting to see if the company spent the past 4 years addressing any of these issues &lt;a href=&quot;https://twitter.com/sagelazzaro/status/1427327540709011456&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 18:03:16 GMT" tweetId="1427330132079898624" urltweet="https://twitter.com/taylorlorenz/status/1427330132079898624" inReplyToId="1427329754315694080" tweetUserName="taylorlorenz" />
