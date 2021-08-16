@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 16 Aug 2021 02:41:32 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 03:00:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 15" type="calendarDay" name="15" >
+				<outline text="Why did the Afghan government collapse so quickly?" type="tweet" created="Mon, 16 Aug 2021 02:59:39 GMT" tweetId="1427102729789394946" urltweet="https://twitter.com/davewiner/status/1427102729789394946" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Virtue signalling - the main function of social media. &lt;a href=&quot;https://en.wikipedia.org/wiki/Virtue_signalling&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 02:40:35 GMT" tweetId="1427097931597889539" urltweet="https://twitter.com/davewiner/status/1427097931597889539" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Honestly, tell the truth, did you think what we were doing in Afghanistan was going to do any good for anyone?" type="tweet" created="Sun, 15 Aug 2021 21:54:59 GMT" tweetId="1427026058050686977" urltweet="https://twitter.com/davewiner/status/1427026058050686977" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="What you think doesn’t matter." type="tweet" created="Sun, 15 Aug 2021 21:14:28 GMT" tweetId="1427015860871389184" urltweet="https://twitter.com/davewiner/status/1427015860871389184" inReplyToId="" tweetUserName="davewiner" />
