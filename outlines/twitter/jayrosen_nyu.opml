@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 15 Aug 2021 15:14:06 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 14:58:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 16" type="calendarDay" name="16" >
+				<outline text="The news sources I saw said months, not days. That's today's top media story. How did that happen? &lt;a href=&quot;https://twitter.com/DanLamothe/status/1426905034386706445&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:58:09 GMT" tweetId="1427283544225746954" urltweet="https://twitter.com/jayrosen_nyu/status/1427283544225746954" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 15" type="calendarDay" name="15" >
 				<outline text="What I want from my Sunday show host today is history, context, and multiple POVs in answer to this. I don't mean a question or two about it. A show. 
 
