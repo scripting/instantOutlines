@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 15:43:13 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 15:46:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 16" type="calendarDay" name="16" >
+				<outline text="Turning off replies to tweets is not enough, you should be able to turn off quote tweets too. Also wish Twitter could let me set an away message on here generally and close my DMs to prevent anyone from sending me a message when im out of office or need a break. @a_dsgnr 🙏🏻" type="tweet" created="Mon, 16 Aug 2021 15:45:55 GMT" tweetId="1427295565801426960" urltweet="https://twitter.com/taylorlorenz/status/1427295565801426960" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Louder for the people in the back 👇🏻 &lt;a href=&quot;https://twitter.com/lessin/status/1427273784248127488&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:37:54 GMT" tweetId="1427278449580732421" urltweet="https://twitter.com/taylorlorenz/status/1427278449580732421" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="&lt;a href=&quot;https://twitter.com/lessin/status/1427277737249619971&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:38:57 GMT" tweetId="1427278713259921409" urltweet="https://twitter.com/taylorlorenz/status/1427278713259921409" inReplyToId="1427278449580732421" tweetUserName="taylorlorenz" >
 						<outline text="Another great thread on why micropayments are a horrible model for journalism and why it doesn’t make sense to let people “pay by article.” Please read this! &lt;a href=&quot;https://twitter.com/mgamini/status/1409914483372445697&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:50:55 GMT" tweetId="1427281723188944896" urltweet="https://twitter.com/taylorlorenz/status/1427281723188944896" inReplyToId="1427278713259921409" tweetUserName="taylorlorenz" />
