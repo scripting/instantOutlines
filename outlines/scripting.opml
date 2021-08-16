@@ -14,7 +14,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 14:04:29 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 14:05:01 GMT</dateModified>
 		<expansionState>1,2,3,6,9,15,25,31,34,40,42,47,58,60,62,64,68,71,72,92</expansionState>
 		<lastCursor>12</lastCursor>
 		</head>
@@ -33,7 +33,7 @@
 							</outline>
 						<outline text="So that's where I am this morning. I want to get opml.org unstuck, and able to be its own site, not to redirect to dev.opml.org, which I'd very much like to retire (and in doing so probably redirecting in the other direction to opml.org)." created="Mon, 16 Aug 2021 13:18:38 GMT" />
 						</outline>
-					<outline text="A &lt;a href=&quot;https://youtu.be/EeiLcLTisBQ&quot;&gt;video demo&lt;/a&gt; of the problem I hope to solve today." created="Mon, 16 Aug 2021 14:04:08 GMT" />
+					<outline text="A &lt;a href=&quot;https://youtu.be/EeiLcLTisBQ&quot;&gt;video demo&lt;/a&gt; of the problem I hope to solve today." created="Mon, 16 Aug 2021 14:04:08 GMT" urlvideo="https://www.youtube.com/watch?v=EeiLcLTisBQ" />
 					<outline text="I'm going to try various things and &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221&quot;&gt;put notes here&lt;/a&gt;." created="Mon, 16 Aug 2021 13:21:55 GMT" />
 					</outline>
 				<outline text="Comments on Afghanistan" created="Mon, 16 Aug 2021 12:52:12 GMT" type="outline" >
