@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 02:45:48 GMT</dateModified>
+		<dateModified>Mon, 16 Aug 2021 02:46:43 GMT</dateModified>
 		<expansionState>1,2,8,11,17,19,24,35,37,39,41,45,48,49,69</expansionState>
-		<lastCursor>8</lastCursor>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -28,7 +28,7 @@
 				<outline text="&lt;a href=&quot;https://www.hover.com/&quot;&gt;Hover&lt;/a&gt;, my primary registrar, &lt;a href=&quot;http://scripting.com/2019/12/16/170209.html?title=theyCanMap&quot;&gt;did something important right&lt;/a&gt;. You could use a CNAME for any name, including the top level of a domain. It's so rational, I don't understand why all DNS service providers don't allow it. Except now it no longer appears to work on Hover. I'm trying to set up opml.org to be CNAME for pagepark.scripting.com. I don't want to hard-code it to a specific server IP address. The whole idea of having a name like &lt;a href=&quot;http://pagepark.scripting.com/&quot;&gt;pagepark.scripting.com&lt;/a&gt; is so that I can easily relocate it to new hardware someday without having to find all the places that have its IP address hard-coded. Here's a &lt;a href=&quot;http://scripting.com/images/2021/08/15/hoverScreenShot.png&quot;&gt;screen shot&lt;/a&gt; of what it says when I try to do that now. It appears to be a user interface thing only, the domains I set up previously using this feature still appear to work. If you have an idea what's going on, please post a note &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/220&quot;&gt;here&lt;/a&gt;. " created="Sun, 15 Aug 2021 14:00:54 GMT" type="outline" image="http://scripting.com/images/2019/12/16/excellence.png" />
 				<outline text="Radio UserLand screen shot" created="Mon, 16 Aug 2021 02:42:32 GMT" type="outline" >
 					<outline text="When you look at a screen shot of &quot;Radio UserLand&quot;, and compare it to today's [[Drummer]] (not yet released, sorry), you realize we have come a very long way in the 19 years inbetween. Now getting people interested enough to learn about it, that will be a challenge, these days people aren't looking for new intellectual experiences on the web. But if they are, we will have one for them. " created="Mon, 16 Aug 2021 02:41:42 GMT" />
-					<outline text="Radio UserLand &lt;a href=&quot;http://scripting.com/images/2021/08/15/radioUserLandScreenShot.png&quot;&gt;screen shot&lt;/a&gt;, circa 2002." created="Mon, 16 Aug 2021 02:43:50 GMT" inlinImage="http://scripting.com/images/2021/08/15/radioUserLandScreenShot.png" />
+					<outline text="Radio UserLand &lt;a href=&quot;http://scripting.com/images/2021/08/15/radioUserLandScreenShot.png&quot;&gt;screen shot&lt;/a&gt;, circa 2002." created="Mon, 16 Aug 2021 02:43:50 GMT" inlineImage="http://scripting.com/images/2021/08/15/radioUserLandScreenShot.png" />
 					</outline>
 				</outline>
 			<outline text="August 14" created="Sat, 14 Aug 2021 20:58:57 GMT" type="calendarDay" name="14" >
