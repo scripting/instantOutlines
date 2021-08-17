@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 17 Aug 2021 22:38:19 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 22:42:20 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="What’s the node.js equiv of Apple Events on the Mac?" type="tweet" created="Tue, 17 Aug 2021 22:41:35 GMT" tweetId="1427762560703553541" urltweet="https://twitter.com/davewiner/status/1427762560703553541" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Greg Abbott, Texas governor, tests positive for Covid-19 &lt;a href=&quot;https://www.cnn.com/2021/08/17/politics/texas-governor-greg-abbott-covid-19/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 22:37:29 GMT" tweetId="1427761529626185734" urltweet="https://twitter.com/davewiner/status/1427761529626185734" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="It's time for George W. Bush to sit down and shut up. &lt;a href=&quot;https://www.thedailybeast.com/george-w-bush-says-hes-watching-fall-of-kabul-with-great-sadness&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 20:17:37 GMT" tweetId="1427726329768722437" urltweet="https://twitter.com/davewiner/status/1427726329768722437" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Colorado River drops to record low levels, slashing Arizona’s water supply. &lt;a href=&quot;https://arstechnica.com/science/2021/08/colorado-river-drops-to-record-low-levels-slashing-arizonas-water-supply/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 19:23:23 GMT" tweetId="1427712681553940481" urltweet="https://twitter.com/davewiner/status/1427712681553940481" inReplyToId="" tweetUserName="davewiner" />
