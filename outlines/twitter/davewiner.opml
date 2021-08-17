@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 17 Aug 2021 00:30:54 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 01:19:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 16" type="calendarDay" name="16" >
+				<outline text="Twitter Names Former Zcash Dev to Head Decentralized Social Network Bluesky. &lt;a href=&quot;https://decrypt.co/78652/twitter-names-former-zcash-dev-head-decentralized-social-network-bluesky&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 01:18:57 GMT" tweetId="1427439776458842115" urltweet="https://twitter.com/davewiner/status/1427439776458842115" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Misinformation at public forums vexes local boards, big tech. &lt;a href=&quot;https://apnews.com/article/technology-business-health-coronavirus-pandemic-misinformation-fc03b8bc31c00190345f44fcc4371cd1?mkt_tok=NTU2LVlFRS05NjkAAAF-7qkbmFRr7Zga5vbaS_hFUz7GtWqZsSCMSk1gB5jSUGTseuhXZLLJej-lkwkkU9GYc8ByDrgbVUSBXIzd5r67boKZo2iWOp2iaeB6vAQon2TQ&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 00:29:53 GMT" tweetId="1427427428377538565" urltweet="https://twitter.com/davewiner/status/1427427428377538565" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="First-ever water shortage declared for Lake Mead, prompting supply cuts. &lt;a href=&quot;https://www.axios.com/colorado-river-water-shortage-cuts-arizona-lake-mead-f139b4ff-43e5-493c-bea6-38b86ab801b1.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 21:15:42 GMT" tweetId="1427378560382164993" urltweet="https://twitter.com/davewiner/status/1427378560382164993" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Track Coronavirus Cases in Places Important to You. &lt;a href=&quot;https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 14:35:11 GMT" tweetId="1427277766202990600" urltweet="https://twitter.com/davewiner/status/1427277766202990600" inReplyToId="" tweetUserName="davewiner" />
