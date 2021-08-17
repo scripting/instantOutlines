@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 15 Aug 2021 20:40:57 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 21:40:04 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="I can see lots of meetups in fields ahead. 
+
+Multiplayer gaming will be fun! &lt;a href=&quot;https://twitter.com/rtovr/status/1427608736944869420&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 21:39:20 GMT" tweetId="1427746895959523329" urltweet="https://twitter.com/scobleizer/status/1427746895959523329" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 15" type="calendarDay" name="15" >
 				<outline text="When I visited the Bush White House I got in an argument with the staff about things they were doing in reaction to 9/11. Their answer:
 
