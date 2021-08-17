@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 15 Aug 2021 04:05:44 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 18:30:41 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="Activism gives democracy a fighting chance." type="tweet" created="Tue, 17 Aug 2021 18:29:52 GMT" tweetId="1427699211848589316" urltweet="https://twitter.com/KenSmith/status/1427699211848589316" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 15" type="calendarDay" name="15" >
 				<outline text="It feels as though everything must now have a patriotic, partisan or even propaganda-like name. Next thing you know we’ll have the national anthem between every inning of every major league ball game." type="tweet" created="Sun, 15 Aug 2021 04:04:54 GMT" tweetId="1426756762149982212" urltweet="https://twitter.com/KenSmith/status/1426756762149982212" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
