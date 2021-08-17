@@ -7,10 +7,20 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Mon, 16 Aug 2021 16:50:45 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 13:50:05 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="Things that destabilize the US:
+* seditionists attacking Capitol and attempting to overturn elections
+* white-collar and organized crime dominating avenues of power
+* elite criminal impunity
+* destruction of voting rights
+
+Things that don’t destabilize the US:
+* Afghan refugees" type="tweet" created="Tue, 17 Aug 2021 13:49:24 GMT" tweetId="1427628633515040775" urltweet="https://twitter.com/sarahkendzior/status/1427628633515040775" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="August 16" type="calendarDay" name="16" >
 				<outline text="Thread from May. Remember this as you debate how crises will affect elections: nothing affects an election more than voter suppression. &lt;a href=&quot;https://twitter.com/sarahkendzior/status/1392499585097125889&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 16:50:04 GMT" tweetId="1427311711355277320" urltweet="https://twitter.com/sarahkendzior/status/1427311711355277320" inReplyToId="" tweetUserName="sarahkendzior" />
 				</outline>
