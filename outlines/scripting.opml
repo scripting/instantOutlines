@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 02:03:40 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 02:04:02 GMT</dateModified>
 		<expansionState>1,2,5,11,16,22,25,31,33,38,49,51,53,55,59,62,63,83</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -31,7 +31,7 @@
 					<outline text="So it was worth one shake of the shoulders. Hey this isn't a good look." created="Mon, 16 Aug 2021 15:07:19 GMT" />
 					</outline>
 				<outline text="Undoing the opml.org redirect mess" created="Mon, 16 Aug 2021 13:10:02 GMT" type="outline" >
-					<outline text="Yesterday I wrote a &lt;a href=&quot;http://scripting.com/2021/08/15.html#a210111&quot;&gt;post&lt;/a&gt; about the mess that opml.org has become, and how I want to start fresh with a well-organized site that points to all the resources available to devs working with OPML, and has lots of room for more." created="Mon, 16 Aug 2021 13:10:21 GMT" />
+					<outline text="Yesterday I wrote a &lt;a href=&quot;http://scripting.com/2021/08/15.html#a210111&quot;&gt;post&lt;/a&gt; about the mess that opml.org has become, and how I want to start fresh with a well-organized site that points to all the resources available to devs working with OPML, and has lots of room for more. " created="Mon, 16 Aug 2021 13:10:21 GMT" />
 					<outline text="Today I want to try to unwind one part of the mess." created="Mon, 16 Aug 2021 13:11:07 GMT" />
 					<outline text="Here's the situation." created="Mon, 16 Aug 2021 13:11:18 GMT" >
 						<outline text="opml.org's DNS is at hover.com." created="Mon, 16 Aug 2021 13:11:56 GMT" />
