@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 20:29:03 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 22:14:10 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="Good to know &lt;a href=&quot;https://twitter.com/ap_planner/status/1427671606399225857&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 22:13:33 GMT" tweetId="1427755505057890305" urltweet="https://twitter.com/taylorlorenz/status/1427755505057890305" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is weird b/c the Met Gala list has been very publicly full of influencers for years. 
 The fashion industry took influencers seriously years before the tech industry. Tons of influencers have attended Met Galas in the past, very famously in fact &lt;a href=&quot;https://pagesix.com/2021/08/14/2021-met-gala-is-losing-prestige-due-to-influencer-guest-list/&quot;&gt;[link]&lt;/a&gt; https://t.co/sJ39oGDbF7" type="tweet" created="Tue, 17 Aug 2021 20:19:55 GMT" tweetId="1427726908838477824" urltweet="https://twitter.com/taylorlorenz/status/1427726908838477824" inReplyToId="" tweetUserName="taylorlorenz" >
 					<outline text="This story doesn't even mention a couple years ago when James Charles got into an entire controversy at the Met Gala for talking about &quot;influencer representation.&quot; Other big influencers like Liza Koshy and Lilly Singh were also there that year &lt;a href=&quot;https://metro.co.uk/2019/05/07/youtuber-james-charles-fire-influencer-representation-comment-lilly-singh-liza-koshy-shine-met-gala-9438421/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 20:23:15 GMT" tweetId="1427727746814287872" urltweet="https://twitter.com/taylorlorenz/status/1427727746814287872" inReplyToId="1427726908838477824" tweetUserName="taylorlorenz" >
