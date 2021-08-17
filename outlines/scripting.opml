@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 02:05:54 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 02:07:21 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 16" created="Mon, 16 Aug 2021 12:45:11 GMT" type="calendarDay" name="16" >
-				<outline text="Imagine if we used the &lt;a href=&quot;https://www.nytimes.com/interactive/2019/12/09/world/middleeast/afghanistan-war-cost.html&quot;&gt;money&lt;/a&gt; we wasted in Afghanistan to overhaul the healthcare system in the United States.   " created="Tue, 17 Aug 2021 02:00:11 GMT" type="outline" />
+				<outline text="Imagine if we used the &lt;a href=&quot;https://www.nytimes.com/interactive/2019/12/09/world/middleeast/afghanistan-war-cost.html&quot;&gt;money&lt;/a&gt; we wasted in Afghanistan to overhaul the healthcare system in the United States." created="Tue, 17 Aug 2021 02:00:11 GMT" type="outline" />
 				<outline text="Trumping on Twitter" created="Mon, 16 Aug 2021 15:06:29 GMT" type="outline" >
 					<outline text="Someone I follow on Twitter complained that people thought just because he was a VC he wasn't allowed to have opinions. So I decided to take a look at what his opinion was." created="Mon, 16 Aug 2021 15:06:53 GMT" />
 					<outline text="This is what I wrote to him. " >
