@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 02:04:26 GMT</dateModified>
-		<expansionState>1,2,5,11,16,22,25,31,33,38,49,51,53,55,59,62,63,83</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 17 Aug 2021 02:05:54 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
