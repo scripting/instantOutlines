@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 15:34:44 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 15:36:45 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 17" type="calendarDay" name="17" >
-				<outline text=".@kieranpressreyn on Interdimensional Memes or 21st Century Humor memes all over TikTok &lt;a href=&quot;https://www.insider.com/21st-century-humor-explained-inside-the-tiktok-video-meme-history-2021-8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 15:34:42 GMT" tweetId="1427655130736775177" urltweet="https://twitter.com/taylorlorenz/status/1427655130736775177" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text=".@kieranpressreyn on Interdimensional Memes or 21st Century Humor memes all over TikTok &lt;a href=&quot;https://www.insider.com/21st-century-humor-explained-inside-the-tiktok-video-meme-history-2021-8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 15:34:42 GMT" tweetId="1427655130736775177" urltweet="https://twitter.com/taylorlorenz/status/1427655130736775177" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="“All versions of these trends can be traced back to YouTube poops, a chaotic video style that came alive in 2004 and went viral toward the end of the 2000s. YTPs parodied real-life television shows and media by adding strange noises and visual glitches” &lt;a href=&quot;https://www.insider.com/21st-century-humor-explained-inside-the-tiktok-video-meme-history-2021-8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 15:36:20 GMT" tweetId="1427655540721676289" urltweet="https://twitter.com/taylorlorenz/status/1427655540721676289" inReplyToId="1427655130736775177" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="People think a NYT story is the end of a meme’s life cycle but there’s always one more step &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1427513050458853376/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 06:10:07 GMT" tweetId="1427513050458853376" urltweet="https://twitter.com/taylorlorenz/status/1427513050458853376" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“Every photo and every data point is a link to the old way of life in Afghanistan – and a reason for Taliban retribution.” &lt;a href=&quot;https://www.wired.co.uk/article/afghanistan-social-media-delete&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 05:51:13 GMT" tweetId="1427508291219849218" urltweet="https://twitter.com/taylorlorenz/status/1427508291219849218" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
