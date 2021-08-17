@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 17:45:53 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 19:53:01 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="Me the first time I got an A1 story &lt;a href=&quot;https://twitter.com/TheBrianPark/status/1427713313228554242/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 19:52:40 GMT" tweetId="1427720049054273538" urltweet="https://twitter.com/taylorlorenz/status/1427720049054273538" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="PLEASE 😩🙏🏻 &lt;a href=&quot;https://twitter.com/alexjaysinger/status/1424839319949389825&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 17:45:45 GMT" tweetId="1427688113124438017" urltweet="https://twitter.com/taylorlorenz/status/1427688113124438017" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Shawn is one of my favorite writers he’s so good at covering media gossip, parties, power and drama and all sorts of things. Huge congrats!!!! 🎉 &lt;a href=&quot;https://twitter.com/shawnmccreesh/status/1427666991041626124&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 17:12:36 GMT" tweetId="1427679768057581576" urltweet="https://twitter.com/taylorlorenz/status/1427679768057581576" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Every customer service center should do call backs instead of leaving ppl on hold. We have the technology! It’s a bad experience for the caller and the rep. I worked in a call center as a rep and the ppl who were always angriest/most horrible were the ones stuck longest on hold" type="tweet" created="Tue, 17 Aug 2021 16:32:05 GMT" tweetId="1427669570769195009" urltweet="https://twitter.com/taylorlorenz/status/1427669570769195009" inReplyToId="" tweetUserName="taylorlorenz" />
