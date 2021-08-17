@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 02:07:21 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Tue, 17 Aug 2021 11:38:26 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 17" created="Tue, 17 Aug 2021 11:36:11 GMT" type="calendarDay" name="17" >
+				<outline text="I converted the &lt;a href=&quot;http://2021.opml.org/spec2.opml&quot;&gt;OPML 2.0 spec&lt;/a&gt; from the old site to the new format. No changes to the text. Will have to fix some of the links. One of the good things about it is that the spec is itself an &lt;a href=&quot;http://2021.opml.org/spec2.opml?format=opml&quot;&gt;OPML document&lt;/a&gt;. " created="Tue, 17 Aug 2021 11:36:12 GMT" type="outline" />
+				</outline>
 			<outline text="August 16" created="Mon, 16 Aug 2021 12:45:11 GMT" type="calendarDay" name="16" >
 				<outline text="Imagine if we used the &lt;a href=&quot;https://www.nytimes.com/interactive/2019/12/09/world/middleeast/afghanistan-war-cost.html&quot;&gt;money&lt;/a&gt; we wasted in Afghanistan to overhaul the healthcare system in the United States." created="Tue, 17 Aug 2021 02:00:11 GMT" type="outline" />
 				<outline text="Trumping on Twitter" created="Mon, 16 Aug 2021 15:06:29 GMT" type="outline" >
