@@ -14,16 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 15:40:01 GMT</dateModified>
-		<expansionState>1,2,6,8,14,20,23,29,31,36,47,49,51,53,57,60,61,81</expansionState>
+		<dateModified>Tue, 17 Aug 2021 02:03:40 GMT</dateModified>
+		<expansionState>1,2,5,11,16,22,25,31,33,38,49,51,53,55,59,62,63,83</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 16" created="Mon, 16 Aug 2021 12:45:11 GMT" type="calendarDay" name="16" >
-				<outline text="Brent Ashley had exactly the &lt;a href=&quot;https://twitter.com/brentashley/status/1427290535480463361&quot;&gt;advice&lt;/a&gt; I &lt;a href=&quot;https://twitter.com/davewiner/status/1427293487410696195&quot;&gt;needed&lt;/a&gt;. opml.org problem solved everywhere. I can start with a &lt;a href=&quot;http://scripting.com/images/2021/08/16/solved.png&quot;&gt;fresh slate&lt;/a&gt;. Excellent. " created="Mon, 16 Aug 2021 15:38:12 GMT" type="outline" />
-				<outline text="The problem re opml.org, below, has &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221#issuecomment-899563687&quot;&gt;narrowed&lt;/a&gt; quite a bit. " created="Mon, 16 Aug 2021 14:39:16 GMT" type="outline" />
-				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1427273264485781511&quot;&gt;Poll&lt;/a&gt;: What do you get when you go to opml.org?" created="Mon, 16 Aug 2021 14:18:06 GMT" type="outline" />
+				<outline text="Imagine if we used the &lt;a href=&quot;https://www.nytimes.com/interactive/2019/12/09/world/middleeast/afghanistan-war-cost.html&quot;&gt;money&lt;/a&gt; we wasted in Afghanistan to overhaul the healthcare system in the United States." created="Tue, 17 Aug 2021 02:00:11 GMT" type="outline" />
 				<outline text="Trumping on Twitter" created="Mon, 16 Aug 2021 15:06:29 GMT" type="outline" >
 					<outline text="Someone I follow on Twitter complained that people thought just because he was a VC he wasn't allowed to have opinions. So I decided to take a look at what his opinion was." created="Mon, 16 Aug 2021 15:06:53 GMT" />
 					<outline text="This is what I wrote to him. " >
@@ -33,7 +31,7 @@
 					<outline text="So it was worth one shake of the shoulders. Hey this isn't a good look." created="Mon, 16 Aug 2021 15:07:19 GMT" />
 					</outline>
 				<outline text="Undoing the opml.org redirect mess" created="Mon, 16 Aug 2021 13:10:02 GMT" type="outline" >
-					<outline text="Yesterday I wrote a post about the mess that opml.org has become, and how I want to start fresh with a well-organized site that points to all the resources available to devs working with OPML." created="Mon, 16 Aug 2021 13:10:21 GMT" />
+					<outline text="Yesterday I wrote a &lt;a href=&quot;http://scripting.com/2021/08/15.html#a210111&quot;&gt;post&lt;/a&gt; about the mess that opml.org has become, and how I want to start fresh with a well-organized site that points to all the resources available to devs working with OPML, and has lots of room for more." created="Mon, 16 Aug 2021 13:10:21 GMT" />
 					<outline text="Today I want to try to unwind one part of the mess." created="Mon, 16 Aug 2021 13:11:07 GMT" />
 					<outline text="Here's the situation." created="Mon, 16 Aug 2021 13:11:18 GMT" >
 						<outline text="opml.org's DNS is at hover.com." created="Mon, 16 Aug 2021 13:11:56 GMT" />
@@ -46,6 +44,11 @@
 						</outline>
 					<outline text="A &lt;a href=&quot;https://youtu.be/EeiLcLTisBQ&quot;&gt;video demo&lt;/a&gt; of the problem I hope to solve today." created="Mon, 16 Aug 2021 14:04:08 GMT" urlvideo="https://www.youtube.com/watch?v=EeiLcLTisBQ" />
 					<outline text="I'm going to try various things and &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221&quot;&gt;put notes here&lt;/a&gt;." created="Mon, 16 Aug 2021 13:21:55 GMT" />
+					<outline text="Followup -- we fixed it. Thanks for all the help..." created="Tue, 17 Aug 2021 02:00:26 GMT" >
+						<outline text="Brent Ashley had exactly the &lt;a href=&quot;https://twitter.com/brentashley/status/1427290535480463361&quot;&gt;advice&lt;/a&gt; I &lt;a href=&quot;https://twitter.com/davewiner/status/1427293487410696195&quot;&gt;needed&lt;/a&gt;. opml.org problem solved everywhere. I can start with a &lt;a href=&quot;http://scripting.com/images/2021/08/16/solved.png&quot;&gt;fresh slate&lt;/a&gt;. Excellent. " created="Mon, 16 Aug 2021 15:38:12 GMT" type="outline" />
+						<outline text="The problem re opml.org, below, has &lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/221#issuecomment-899563687&quot;&gt;narrowed&lt;/a&gt; quite a bit. " created="Mon, 16 Aug 2021 14:39:16 GMT" type="outline" />
+						<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1427273264485781511&quot;&gt;Poll&lt;/a&gt;: What do you get when you go to opml.org?" created="Mon, 16 Aug 2021 14:18:06 GMT" type="outline" />
+						</outline>
 					</outline>
 				<outline text="Comments on Afghanistan" created="Mon, 16 Aug 2021 12:52:12 GMT" type="outline" >
 					<outline text="I grew up in the time of the Vietnam War. I was draft age, had a low lottery number, no exemptions, and was flunking out of high school, so the prospect of being drafted was pretty real. " created="Mon, 16 Aug 2021 12:45:12 GMT" type="outline" />
