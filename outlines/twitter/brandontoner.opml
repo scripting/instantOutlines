@@ -6,13 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/brandontoner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 23:56:59 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 23:59:00 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qf</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 17" type="calendarDay" name="17" >
-				<outline text="Wow just had the &quot;make a fleet&quot; reflex and got kinda sad." type="tweet" created="Tue, 17 Aug 2021 23:56:55 GMT" tweetId="1427781516281667584" urltweet="https://twitter.com/brandontoner/status/1427781516281667584" inReplyToId="" tweetUserName="brandontoner" />
+				<outline text="Wow just had the &quot;make a fleet&quot; reflex and got kinda sad." type="tweet" created="Tue, 17 Aug 2021 23:56:55 GMT" tweetId="1427781516281667584" urltweet="https://twitter.com/brandontoner/status/1427781516281667584" inReplyToId="" tweetUserName="brandontoner" >
+					<outline text="So heres a permanent entry: 
+
+“Wow this book rocks” &lt;a href=&quot;https://twitter.com/brandontoner/status/1427782004834246656/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 23:58:51 GMT" tweetId="1427782004834246656" urltweet="https://twitter.com/brandontoner/status/1427782004834246656" inReplyToId="1427781516281667584" tweetUserName="brandontoner" />
+					</outline>
 				</outline>
 			<outline text="August 11" type="calendarDay" name="11" >
 				<outline text="There’s a big difference between “how I learn best” and “how I study to do well on tests”" type="tweet" created="Wed, 11 Aug 2021 21:52:57 GMT" tweetId="1425575994820370439" urltweet="https://twitter.com/brandontoner/status/1425575994820370439" inReplyToId="" tweetUserName="brandontoner" >
