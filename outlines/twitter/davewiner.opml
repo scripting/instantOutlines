@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 17 Aug 2021 07:59:23 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 10:17:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="Finally, a Shot to Prevent Lyme Disease Could Be on Its Way. &lt;a href=&quot;https://www.outsideonline.com/health/wellness/lyme-disease-prevention-antibody-shot/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 10:17:13 GMT" tweetId="1427575233964355585" urltweet="https://twitter.com/davewiner/status/1427575233964355585" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Time dilation. &lt;a href=&quot;https://seths.blog/2021/08/time-dilation/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 07:59:17 GMT" tweetId="1427540520163815430" urltweet="https://twitter.com/davewiner/status/1427540520163815430" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 16" type="calendarDay" name="16" >
