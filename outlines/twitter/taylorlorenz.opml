@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 22:38:39 GMT</dateModified>
+		<dateModified>Tue, 17 Aug 2021 05:52:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="“Every photo and every data point is a link to the old way of life in Afghanistan – and a reason for Taliban retribution.” &lt;a href=&quot;https://www.wired.co.uk/article/afghanistan-social-media-delete&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 05:51:13 GMT" tweetId="1427508291219849218" urltweet="https://twitter.com/taylorlorenz/status/1427508291219849218" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 16" type="calendarDay" name="16" >
 				<outline text="“A lot of people in the influencer world aren’t ready to be reported on.”
 
