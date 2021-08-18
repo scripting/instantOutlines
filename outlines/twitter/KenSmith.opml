@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 18:30:41 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 07:22:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="Without activism, democracy doesn’t stand a chance.
+
+Activism is a purposeful long-term organization of knowledge, skills, partnerships, and courage in service of a worthy civic goal that may, moment by moment, seem hopeless. &lt;a href=&quot;https://twitter.com/kensmith/status/1427699211848589316&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 07:22:01 GMT" tweetId="1427893531465617413" urltweet="https://twitter.com/KenSmith/status/1427893531465617413" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 17" type="calendarDay" name="17" >
 				<outline text="Activism gives democracy a fighting chance." type="tweet" created="Tue, 17 Aug 2021 18:29:52 GMT" tweetId="1427699211848589316" urltweet="https://twitter.com/KenSmith/status/1427699211848589316" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
