@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 18 Aug 2021 00:27:19 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 03:38:30 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text=".@Aidan_Wolf let me try the latest Snapchat AR glasses 😎 &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1427837186641068038/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 03:38:07 GMT" tweetId="1427837186641068038" urltweet="https://twitter.com/taylorlorenz/status/1427837186641068038" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="💪🏻💪🏻💪🏻 &lt;a href=&quot;https://www.nyguild.org/post/overwhelming-majority-of-nyguild-members-support-a-stronger-union-with-first-dues-increase-in-88-years&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 00:26:40 GMT" tweetId="1427789005848940544" urltweet="https://twitter.com/taylorlorenz/status/1427789005848940544" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Good to know &lt;a href=&quot;https://twitter.com/ap_planner/status/1427671606399225857&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 22:13:33 GMT" tweetId="1427755505057890305" urltweet="https://twitter.com/taylorlorenz/status/1427755505057890305" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This is weird b/c the Met Gala list has been very publicly full of influencers for years. 
