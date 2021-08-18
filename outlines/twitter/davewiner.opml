@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 17 Aug 2021 22:42:20 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 09:23:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="ByteDance, TikTok's parent company, joins the Open Invention Network. &lt;a href=&quot;https://www.zdnet.com/google-amp/article/bytedance-tiktoks-parent-company-joins-the-open-invention-network/?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 09:22:49 GMT" tweetId="1427923932104077318" urltweet="https://twitter.com/davewiner/status/1427923932104077318" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 17" type="calendarDay" name="17" >
 				<outline text="What’s the node.js equiv of Apple Events on the Mac?" type="tweet" created="Tue, 17 Aug 2021 22:41:35 GMT" tweetId="1427762560703553541" urltweet="https://twitter.com/davewiner/status/1427762560703553541" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Greg Abbott, Texas governor, tests positive for Covid-19 &lt;a href=&quot;https://www.cnn.com/2021/08/17/politics/texas-governor-greg-abbott-covid-19/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 22:37:29 GMT" tweetId="1427761529626185734" urltweet="https://twitter.com/davewiner/status/1427761529626185734" inReplyToId="" tweetUserName="davewiner" />
