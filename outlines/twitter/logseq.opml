@@ -7,10 +7,14 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 13 Aug 2021 02:24:41 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 15:45:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="Amazing video from @shuomi3 on the differences between Logseq and Roam Research! 
+&lt;a href=&quot;https://www.youtube.com/watch?v=Ja78yU_xSkk&amp;ab_channel=ShuOmi&quot;&gt;[link]&lt;/a&gt; https://t.co/O5pZNOsE8V" type="tweet" created="Wed, 18 Aug 2021 15:44:42 GMT" tweetId="1428020034530463744" urltweet="https://twitter.com/logseq/status/1428020034530463744" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
 				<outline text="The idea is from @WorkFlowy, but we tweaked it a bit, some users love it, but there're several users who find the little &quot;+&quot; button under the bullets very distracting. So it still needs some polish, but glad to know it works for you 😀 &lt;a href=&quot;https://twitter.com/nabhan_yt/status/1425900620695937033&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 13 Aug 2021 02:23:42 GMT" tweetId="1426006518806110210" urltweet="https://twitter.com/logseq/status/1426006518806110210" inReplyToId="" tweetUserName="logseq" />
 				<outline text="This is huge! &lt;a href=&quot;https://twitter.com/jlongster/status/1425825714788503552&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 15:32:43 GMT" tweetId="1425842692857098246" urltweet="https://twitter.com/logseq/status/1425842692857098246" inReplyToId="" tweetUserName="logseq" />
