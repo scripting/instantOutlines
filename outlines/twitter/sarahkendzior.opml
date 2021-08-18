@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Tue, 17 Aug 2021 17:50:21 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 12:26:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="New @gaslitnation is out! We discuss the dangerous politicization of delta covid variant, the takeover of Afghanistan by the Taliban and the Biden admin response, and more: &lt;a href=&quot;https://www.patreon.com/posts/55034587&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 12:25:55 GMT" tweetId="1427970011864371207" urltweet="https://twitter.com/sarahkendzior/status/1427970011864371207" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="August 17" type="calendarDay" name="17" >
 				<outline text="Just recorded a new @gaslitnation episode with @AndreaChalupa. We discuss the politicization of covid, the Taliban takeover, and more. It'll be out tonight. 
 Want to keep our independent podcast going? Join on Patreon and get bonus episodes and more! &lt;a href=&quot;https://www.patreon.com/gaslit&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 17 Aug 2021 17:49:42 GMT" tweetId="1427689103907229701" urltweet="https://twitter.com/sarahkendzior/status/1427689103907229701" inReplyToId="" tweetUserName="sarahkendzior" />
