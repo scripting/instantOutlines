@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 18 Aug 2021 07:40:31 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 12:46:50 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="For me, the first happy laugh of the day took place about halfway through this particular tweet… &lt;a href=&quot;https://twitter.com/theradr/status/1427829125813788678&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 12:46:26 GMT" tweetId="1427975173450371072" urltweet="https://twitter.com/KenSmith/status/1427975173450371072" inReplyToId="" tweetUserName="KenSmith" />
 				<outline text="A governor is a device that prevents an engine from revving up.
 
 “Turtles are a kind of bird with the governor turned low.” —Edward Hoagland
