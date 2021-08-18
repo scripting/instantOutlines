@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 18 Aug 2021 16:28:31 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 16:29:27 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 18" type="calendarDay" name="18" >
-				<outline text="Next time you hear a big company boast that they’re going to take over podcasting, remember it’s not that easy. &lt;a href=&quot;https://www.theverge.com/platform/amp/2021/8/18/22630517/apple-podcasts-subscriptions-launch-dashboard?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter&amp;__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 16:28:02 GMT" tweetId="1428030941264494593" urltweet="https://twitter.com/davewiner/status/1428030941264494593" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Next time you hear a big company boast that they’re going to take over podcasting, remember it’s not that easy. &lt;a href=&quot;https://www.theverge.com/platform/amp/2021/8/18/22630517/apple-podcasts-subscriptions-launch-dashboard?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter&amp;__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 16:28:02 GMT" tweetId="1428030941264494593" urltweet="https://twitter.com/davewiner/status/1428030941264494593" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Big companies are impressed with big companies especially themselves, but usually it’s not deserved." type="tweet" created="Wed, 18 Aug 2021 16:28:56 GMT" tweetId="1428031168012853249" urltweet="https://twitter.com/davewiner/status/1428031168012853249" inReplyToId="1428030941264494593" tweetUserName="davewiner" />
+					</outline>
 				<outline text="The Government Is Finally Catching Up With Tesla's Wild Autopilot Claims. &lt;a href=&quot;https://www.vice.com/en/article/3aqevk/the-government-is-finally-catching-up-with-teslas-wild-autopilot-claims&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 16:14:46 GMT" tweetId="1428027604024676354" urltweet="https://twitter.com/davewiner/status/1428027604024676354" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="COVID Vaccine Booster Shots Are Coming in September. &lt;a href=&quot;https://www.vice.com/amp/en/article/88n7mg/covid-vaccine-booster-shots-are-coming-in-september?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 16:12:30 GMT" tweetId="1428027033758715914" urltweet="https://twitter.com/davewiner/status/1428027033758715914" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Gawker Returns for Unknown Length of Time. &lt;a href=&quot;https://nymag.com/intelligencer/article/gawker-returns.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 15:18:07 GMT" tweetId="1428013346222219273" urltweet="https://twitter.com/davewiner/status/1428013346222219273" inReplyToId="" tweetUserName="davewiner" />
