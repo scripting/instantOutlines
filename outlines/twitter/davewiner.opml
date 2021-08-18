@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 18 Aug 2021 09:36:01 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 09:39:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="Palantir bought $50 million in gold bars in August as cash accumulates. &lt;a href=&quot;https://www.cnbc.com/amp/2021/08/17/palantir-bought-50-million-in-gold-bars-in-august-as-cash-accumulates.html?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 09:38:25 GMT" tweetId="1427927859130257410" urltweet="https://twitter.com/davewiner/status/1427927859130257410" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Ides of August. &lt;a href=&quot;https://www.sarahchayes.org/post/the-ides-of-august&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 09:35:38 GMT" tweetId="1427927158983385092" urltweet="https://twitter.com/davewiner/status/1427927158983385092" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="ByteDance, TikTok's parent company, joins the Open Invention Network. &lt;a href=&quot;https://www.zdnet.com/google-amp/article/bytedance-tiktoks-parent-company-joins-the-open-invention-network/?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 09:22:49 GMT" tweetId="1427923932104077318" urltweet="https://twitter.com/davewiner/status/1427923932104077318" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
