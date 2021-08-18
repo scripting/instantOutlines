@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 16 Aug 2021 19:34:53 GMT</dateModified>
+		<dateModified>Wed, 18 Aug 2021 14:53:38 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="Three lessons from a project devoted to understanding the membership model in journalism. &lt;a href=&quot;https://www.poynter.org/business-work/2021/3-lessons-from-a-project-devoted-to-understanding-membership/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 14:52:54 GMT" tweetId="1428007001670434820" urltweet="https://twitter.com/jayrosen_nyu/status/1428007001670434820" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 16" type="calendarDay" name="16" >
 				<outline text="This account by @SangerNYT speaks of &quot;intelligence assessments that wildly overestimated the capabilities of an Afghan Army that disintegrated.&quot; &lt;a href=&quot;https://www.nytimes.com/2021/08/15/us/politics/afghanistan-biden.html&quot;&gt;[link]&lt;/a&gt; Which prompts a reader of the news to ask how that over-estimate happened. 
 
