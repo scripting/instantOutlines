@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 17 Aug 2021 01:51:17 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 13:54:05 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="A happy 75th anniversary &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/08/19/a-happy-75th-anniversary/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 13:53:07 GMT" tweetId="1428354342034186246" urltweet="https://twitter.com/dsearls/status/1428354342034186246" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="August 16" type="calendarDay" name="16" >
 				<outline text="Who is the female voice backing Arlo Guthrie in “City of New Orleans?” Just wondering." type="tweet" created="Tue, 17 Aug 2021 01:51:03 GMT" tweetId="1427447853060919296" urltweet="https://twitter.com/dsearls/status/1427447853060919296" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
