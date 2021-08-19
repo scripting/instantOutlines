@@ -7,11 +7,17 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 19 Aug 2021 16:49:42 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 17:05:43 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="0.3.4 is just out! 🚀
+Some highlights:
+- Parsing speed up by leveraging web workers. Adding or reindexing large graph is now much faster!
+- Ability to edit SRS cards during the review
+- Add disable spellcheck option setting for the desktop app
+- Add Portuguese translation &lt;a href=&quot;https://twitter.com/logseq/status/1428402749612253193/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 17:05:28 GMT" tweetId="1428402749612253193" urltweet="https://twitter.com/logseq/status/1428402749612253193" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thanks! Would you like to add your knowledge garden to &lt;a href=&quot;https://github.com/logseq/awesome-logseq#zh-cn&quot;&gt;[link]&lt;/a&gt;? https://t.co/ptdzTnPGqm" type="tweet" created="Thu, 19 Aug 2021 16:48:57 GMT" tweetId="1428398591173742599" urltweet="https://twitter.com/logseq/status/1428398591173742599" inReplyToId="" tweetUserName="logseq" />
 				<outline text="You're on 🔥! &lt;a href=&quot;https://twitter.com/vipzhicheng/status/1428378624059613185&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 15:36:25 GMT" tweetId="1428380340515598338" urltweet="https://twitter.com/logseq/status/1428380340515598338" inReplyToId="" tweetUserName="logseq" />
 				</outline>
