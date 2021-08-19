@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 19 Aug 2021 10:52:36 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 11:30:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="At some point we should consider not admitting unvaccinated covid patients to hospitals." type="tweet" created="Thu, 19 Aug 2021 11:30:19 GMT" tweetId="1428318405736771586" urltweet="https://twitter.com/davewiner/status/1428318405736771586" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="“The beauty of RSS was just publish it [and] it goes everywhere — it’s just there, and it’s available.”  &lt;a href=&quot;https://www.theverge.com/2021/8/18/22630517/apple-podcasts-subscriptions-launch-dashboard&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 10:52:19 GMT" tweetId="1428308842958532611" urltweet="https://twitter.com/davewiner/status/1428308842958532611" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 18" type="calendarDay" name="18" >
