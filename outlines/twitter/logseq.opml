@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Thu, 19 Aug 2021 02:30:49 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 15:36:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="You're on 🔥! &lt;a href=&quot;https://twitter.com/vipzhicheng/status/1428378624059613185&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 15:36:25 GMT" tweetId="1428380340515598338" urltweet="https://twitter.com/logseq/status/1428380340515598338" inReplyToId="" tweetUserName="logseq" />
+				</outline>
 			<outline text="August 18" type="calendarDay" name="18" >
 				<outline text="Thank you for the shout out! &lt;a href=&quot;https://twitter.com/JameelDesai/status/1428181001063211009&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 02:30:12 GMT" tweetId="1428182481971253249" urltweet="https://twitter.com/logseq/status/1428182481971253249" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you for the suggestion! I'm playing with Arweave now, it might be the storage we're looking for! &lt;a href=&quot;https://twitter.com/NetworkMeson/status/1428162252264206338&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 02:27:16 GMT" tweetId="1428181744990101506" urltweet="https://twitter.com/logseq/status/1428181744990101506" inReplyToId="" tweetUserName="logseq" />
