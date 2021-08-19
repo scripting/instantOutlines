@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 00:42:50 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 04:50:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="Please PLEASE follow me on Instagram!! &lt;a href=&quot;https://www.instagram.com/accounts/login/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 04:49:11 GMT" tweetId="1428217456569380868" urltweet="https://twitter.com/taylorlorenz/status/1428217456569380868" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 18" type="calendarDay" name="18" >
 				<outline text="😭 that means so much!! 😭 &lt;a href=&quot;https://twitter.com/jathansadowski/status/1428092275477729282&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 00:42:24 GMT" tweetId="1428155352135045130" urltweet="https://twitter.com/taylorlorenz/status/1428155352135045130" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Was such a pleasure chatting about the online content creator world with @bigblackjacobin and @jathansadowski on @machinekillspod! &lt;a href=&quot;https://soundcloud.com/thismachinekillspod/94-stripping-the-content-mines-ft-taylor-lorenz&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 00:39:46 GMT" tweetId="1428154691205038085" urltweet="https://twitter.com/taylorlorenz/status/1428154691205038085" inReplyToId="" tweetUserName="taylorlorenz" />
