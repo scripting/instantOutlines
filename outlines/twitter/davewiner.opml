@@ -7,11 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 19 Aug 2021 00:35:58 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 01:19:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="What Redistricting Looks Like In Every State. &lt;a href=&quot;https://projects.fivethirtyeight.com/redistricting-2022-maps/?cid=social_twitter_abcnp&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 01:18:41 GMT" tweetId="1428164481759256577" urltweet="https://twitter.com/davewiner/status/1428164481759256577" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="@maddow just goes on and on and in and on and" type="tweet" created="Thu, 19 Aug 2021 01:18:08 GMT" tweetId="1428164345821863946" urltweet="https://twitter.com/davewiner/status/1428164345821863946" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="It’s still a hugely dangerous situation in Afghanistan. 
 
 The Taliban has millions of hostages including at least hundreds of Americans.
