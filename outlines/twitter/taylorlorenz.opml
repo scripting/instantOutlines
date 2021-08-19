@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 18 Aug 2021 17:03:21 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 00:39:50 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="Was such a pleasure chatting about the online content creator world with @bigblackjacobin and @jathansadowski on @machinekillspod! &lt;a href=&quot;https://soundcloud.com/thismachinekillspod/94-stripping-the-content-mines-ft-taylor-lorenz&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 00:39:46 GMT" tweetId="1428154691205038085" urltweet="https://twitter.com/taylorlorenz/status/1428154691205038085" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Hell yeah &lt;a href=&quot;https://www.wired.com/story/bring-back-cargo-pants/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 17:02:46 GMT" tweetId="1428039681552228358" urltweet="https://twitter.com/taylorlorenz/status/1428039681552228358" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Huge!!! Congrats @jewelwickershow 🔥 &lt;a href=&quot;https://twitter.com/jewelwickershow/status/1428022883268300811&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 16:02:33 GMT" tweetId="1428024529889075205" urltweet="https://twitter.com/taylorlorenz/status/1428024529889075205" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Ahh the digital media way 😌 &lt;a href=&quot;https://nymag.com/intelligencer/article/gawker-returns.html&quot;&gt;[link]&lt;/a&gt; https://t.co/V7D7VbVETB" type="tweet" created="Wed, 18 Aug 2021 15:11:34 GMT" tweetId="1428011698321969157" urltweet="https://twitter.com/taylorlorenz/status/1428011698321969157" inReplyToId="" tweetUserName="taylorlorenz" />
