@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 15:50:43 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 15:52:43 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="August 19" type="calendarDay" name="19" >
 				<outline text="All you have to do is look at the reactions to Facebook's new Horizons for work and you will see the hate for VR and for Facebook oozing out: &lt;a href=&quot;https://www.techmeme.com/210819/p10#a210819p10&quot;&gt;[link]&lt;/a&gt;
 
-Can Facebook fix this? No. Can Apple? Yes. Will it? We will see over the next year. I'm bullish still." type="tweet" created="Thu, 19 Aug 2021 15:50:02 GMT" tweetId="1428383765508677635" urltweet="https://twitter.com/scobleizer/status/1428383765508677635" inReplyToId="" tweetUserName="scobleizer" />
+Can Facebook fix this? No. Can Apple? Yes. Will it? We will see over the next year. I'm bullish still." type="tweet" created="Thu, 19 Aug 2021 15:50:02 GMT" tweetId="1428383765508677635" urltweet="https://twitter.com/scobleizer/status/1428383765508677635" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="Apple has Ted Lasso and Dolby Atmos music. Facebook has VR for work. I know which one will win. I sold VHS vs. Beta VCRs in the 1980s. Content won there. Content will win here." type="tweet" created="Thu, 19 Aug 2021 15:51:59 GMT" tweetId="1428384257668382726" urltweet="https://twitter.com/scobleizer/status/1428384257668382726" inReplyToId="1428383765508677635" tweetUserName="scobleizer" />
+					</outline>
 				</outline>
 			<outline text="August 17" type="calendarDay" name="17" >
 				<outline text="I can see lots of meetups in fields ahead. 
