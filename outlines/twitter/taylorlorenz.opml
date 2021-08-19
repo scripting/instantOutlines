@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 14:33:42 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 15:00:44 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="“User interfaces aren’t just about technology or data gathering; they mediate how we relate to the kinds of culture that we consume through apps.” &lt;a href=&quot;https://www.newyorker.com/culture/infinite-scroll/how-social-media-redesigns-manipulate-us&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 15:00:25 GMT" tweetId="1428371281162870786" urltweet="https://twitter.com/taylorlorenz/status/1428371281162870786" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Thank you!! 💓 &lt;a href=&quot;https://twitter.com/jde_____/status/1428354605100924940&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 14:33:37 GMT" tweetId="1428364532821291015" urltweet="https://twitter.com/taylorlorenz/status/1428364532821291015" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Cleared all my group chats and still have this left should I just get a new number &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1428243898044846086/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 06:34:15 GMT" tweetId="1428243898044846086" urltweet="https://twitter.com/taylorlorenz/status/1428243898044846086" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="I was talking to a bunch of creators tonight abt Discord, would you guys want to join if I made a server? I still have to be on here unfortunately (it’s where I get all my stories and sources), but I would love to have my followers be more of a community. Lmk!" type="tweet" created="Thu, 19 Aug 2021 05:11:31 GMT" tweetId="1428223077259747328" urltweet="https://twitter.com/taylorlorenz/status/1428223077259747328" inReplyToId="" tweetUserName="taylorlorenz" >
