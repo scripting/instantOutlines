@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 12:45:55 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 12:46:20 GMT</dateModified>
 		<expansionState>1,2,3,4,6,13,15,20</expansionState>
-		<lastCursor>12</lastCursor>
+		<lastCursor>13</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -35,7 +35,7 @@
 					<outline text="I wonder if any journalists covering the future of podcasting will even consider that it't more than a battleground for big companies." created="Thu, 19 Aug 2021 12:27:15 GMT" />
 					</outline>
 				<outline text="Edward Hopper" created="Thu, 19 Aug 2021 12:44:12 GMT" type="outline" >
-					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/ryders-house&quot;&gt;Ryders House&lt;/a&gt;, 1933." created="Thu, 19 Aug 2021 12:44:16 GMT" metaImage="http://scripting.com/images/2021/08/19/rydersHouse.png" />
+					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/ryders-house&quot;&gt;Ryders House&lt;/a&gt;, 1933." created="Thu, 19 Aug 2021 12:44:16 GMT" inlineImage="http://scripting.com/images/2021/08/19/rydersHouse.png" />
 					</outline>
 				</outline>
 			<outline text="August 18" created="Wed, 18 Aug 2021 14:49:01 GMT" type="calendarDay" name="18" >
