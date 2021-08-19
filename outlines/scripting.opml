@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 12:29:30 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 12:30:14 GMT</dateModified>
 		<expansionState>1,2,3,4,6,13,18</expansionState>
-		<lastCursor>6</lastCursor>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -27,7 +27,7 @@
 						</outline>
 					<outline text="It says clearly what the faceoff is over." created="Thu, 19 Aug 2021 12:23:05 GMT" flBulletedSubs="true" >
 						<outline text="It's easy to be part of a silo, impossible to be part of all of them. " created="Thu, 19 Aug 2021 12:23:03 GMT" />
-						<outline text="In the open world, it's easy to be part of all of them, but it's a little harder to get started, you have to do more for yourself." created="Thu, 19 Aug 2021 12:23:25 GMT" />
+						<outline text="In the open world, it's easy to be part of all of podcast players, but it's  harder to get started, you have to do more for yourself." created="Thu, 19 Aug 2021 12:23:25 GMT" />
 						</outline>
 					<outline text="Blogging went through the same thing, it was taken apart by Twitter, Facebook, Google Reader, Medium and lately Substack. You couldn't write in one place and have your writing flow to all of them, the way podcasting works today. Also they don';t agree on what a post is, so no matter what you'd have to write at least two or three versions of a post. In the end, you just blow them all off, because it isn't worth the trouble and the resulting format is strangling your thinking and writing process. You aren't getting anything out of it. " created="Thu, 19 Aug 2021 12:24:10 GMT" />
 					<outline text="There is a sweet spot, it's possible, but you can't wander into, it has to be done consciously, with a shared vision among all devs, or it can't work." created="Thu, 19 Aug 2021 12:25:48 GMT" />
