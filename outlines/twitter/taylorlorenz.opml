@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 15:00:44 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 16:43:50 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="Meet me in the metaverse* 
+
+*conference room B for the status meeting" type="tweet" created="Thu, 19 Aug 2021 16:43:12 GMT" tweetId="1428397145611116548" urltweet="https://twitter.com/taylorlorenz/status/1428397145611116548" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="“User interfaces aren’t just about technology or data gathering; they mediate how we relate to the kinds of culture that we consume through apps.” &lt;a href=&quot;https://www.newyorker.com/culture/infinite-scroll/how-social-media-redesigns-manipulate-us&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 15:00:25 GMT" tweetId="1428371281162870786" urltweet="https://twitter.com/taylorlorenz/status/1428371281162870786" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Thank you!! 💓 &lt;a href=&quot;https://twitter.com/jde_____/status/1428354605100924940&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 14:33:37 GMT" tweetId="1428364532821291015" urltweet="https://twitter.com/taylorlorenz/status/1428364532821291015" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Cleared all my group chats and still have this left should I just get a new number &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1428243898044846086/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 06:34:15 GMT" tweetId="1428243898044846086" urltweet="https://twitter.com/taylorlorenz/status/1428243898044846086" inReplyToId="" tweetUserName="taylorlorenz" />
