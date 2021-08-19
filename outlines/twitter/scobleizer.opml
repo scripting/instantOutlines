@@ -6,12 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 17:58:51 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 23:29:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="I predicted a clear iPhone. 
+
+At least Apple had a patent for such a thing.
+
+I also thought I would wear Google Glass forever.
+
+And that social media would greatly improve the world.
+
+Sigh. Someday! &lt;a href=&quot;https://twitter.com/btaylor/status/1428102259523555332&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 23:28:47 GMT" tweetId="1428499214967865356" urltweet="https://twitter.com/scobleizer/status/1428499214967865356" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Just another Silicon Valley morning. Following “Skype.” :-) &lt;a href=&quot;https://twitter.com/Scobleizer/status/1428416012458741763/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 17:58:10 GMT" tweetId="1428416012458741763" urltweet="https://twitter.com/scobleizer/status/1428416012458741763" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Dogfooding, we call it. Using your own technology before everyone else sees the need. Very smart for industry pioneers to do. Will help find bugs and opportunities/needs. &lt;a href=&quot;https://twitter.com/brunolarvol/status/1428410190127325201&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 17:42:09 GMT" tweetId="1428411978939203588" urltweet="https://twitter.com/scobleizer/status/1428411978939203588" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="All you have to do is look at the reactions to Facebook's new Horizons for work and you will see the hate for VR and for Facebook oozing out: &lt;a href=&quot;https://www.techmeme.com/210819/p10#a210819p10&quot;&gt;[link]&lt;/a&gt;
