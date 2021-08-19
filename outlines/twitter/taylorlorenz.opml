@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 16:43:50 GMT</dateModified>
+		<dateModified>Thu, 19 Aug 2021 16:45:50 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="Maybe I'm the minority here, but I'd much prefer this over Zoom &lt;a href=&quot;https://twitter.com/boztank/status/1428362232660774941&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 16:44:50 GMT" tweetId="1428397555226865666" urltweet="https://twitter.com/taylorlorenz/status/1428397555226865666" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Meet me in the metaverse* 
 
 *conference room B for the status meeting" type="tweet" created="Thu, 19 Aug 2021 16:43:12 GMT" tweetId="1428397145611116548" urltweet="https://twitter.com/taylorlorenz/status/1428397145611116548" inReplyToId="" tweetUserName="taylorlorenz" />
