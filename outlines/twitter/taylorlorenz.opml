@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 15:29:15 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 16:11:18 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 20" type="calendarDay" name="20" >
+				<outline text="It's @andrwwang!! &lt;a href=&quot;https://twitter.com/chaykak/status/1428746155916206080&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 16:10:31 GMT" tweetId="1428751308421435392" urltweet="https://twitter.com/taylorlorenz/status/1428751308421435392" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="How do I find a Google form I made a year ago but lost the link to? (I googled this and couldn’t find an answer)" type="tweet" created="Fri, 20 Aug 2021 15:28:23 GMT" tweetId="1428740707301216258" urltweet="https://twitter.com/taylorlorenz/status/1428740707301216258" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Can someone with a Publisher’s Marketplace acct DM me and pull something for me 🙏🏻" type="tweet" created="Fri, 20 Aug 2021 15:19:56 GMT" tweetId="1428738580382326785" urltweet="https://twitter.com/taylorlorenz/status/1428738580382326785" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="TikTok’s radio station has officially launched! It replaced the Soulcycle channel on SiriusXM #TikTokRadio via @JacksonDTilley &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1428733017623699469/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 14:57:50 GMT" tweetId="1428733017623699469" urltweet="https://twitter.com/taylorlorenz/status/1428733017623699469" inReplyToId="" tweetUserName="taylorlorenz" />
