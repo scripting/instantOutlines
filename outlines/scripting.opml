@@ -14,16 +14,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 00:36:54 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 00:37:28 GMT</dateModified>
 		<expansionState>1,2,3,4,6,14,16,21</expansionState>
-		<lastCursor>3</lastCursor>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 19" created="Thu, 19 Aug 2021 12:21:31 GMT" type="calendarDay" name="19" >
 				<outline text="Silos vs open" created="Thu, 19 Aug 2021 12:21:32 GMT" type="outline" description="It's easy to be part of a silo, impossible to be part of all of them. " metaImage="http://scripting.com/images/2021/08/19/silosHeader.png" >
 					<outline text="I love this quote about [[RSS]] in the &lt;a href=&quot;https://www.theverge.com/2021/8/18/22630517/apple-podcasts-subscriptions-launch-dashboard&quot;&gt;Vox piece&lt;/a&gt; about Apple and other bigco's trying to take over podcasting. " created="Thu, 19 Aug 2021 12:21:36 GMT" >
-						<outline text="“The beauty of RSS was just publish it and it goes everywhere — it’s just there, and it’s available.” " created="Thu, 19 Aug 2021 12:21:56 GMT" image="http://scripting.com/images/2021/08/19/rydersHouseHopper.png" />
+						<outline text="“The beauty of RSS was just publish it and it goes everywhere — it’s just there, and it’s available.” " created="Thu, 19 Aug 2021 12:21:56 GMT" />
 						</outline>
 					<outline text="It says clearly what the faceoff is over." created="Thu, 19 Aug 2021 12:23:05 GMT" flBulletedSubs="true" >
 						<outline text="It's easy to be part of a silo, impossible to be part of all of them. " created="Thu, 19 Aug 2021 12:23:03 GMT" />
