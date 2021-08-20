@@ -6,14 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 16:22:19 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 16:38:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 20" type="calendarDay" name="20" >
 				<outline text="😊 &lt;a href=&quot;https://twitter.com/ljin18/status/1428752839413751811&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 16:21:36 GMT" tweetId="1428754096534671365" urltweet="https://twitter.com/taylorlorenz/status/1428754096534671365" inReplyToId="" tweetUserName="taylorlorenz" />
-				<outline text="I have been so impressed by @andrwwang's work covering the NFT space!! He's a must follow. Drop other recs of people covering the crypto/culture space below, I'll make a twitter list 👇🏻 &lt;a href=&quot;https://twitter.com/chaykak/status/1428746155916206080&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 16:20:01 GMT" tweetId="1428753698172260358" urltweet="https://twitter.com/taylorlorenz/status/1428753698172260358" inReplyToId="" tweetUserName="taylorlorenz" />
+				<outline text="I have been so impressed by @andrwwang's work covering the NFT space!! He's a must follow. Drop other recs of people covering the crypto/culture space below, I'll make a twitter list 👇🏻 &lt;a href=&quot;https://twitter.com/chaykak/status/1428746155916206080&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 16:20:01 GMT" tweetId="1428753698172260358" urltweet="https://twitter.com/taylorlorenz/status/1428753698172260358" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="Ppl need to understand crypto beyond the lens of crypocurrency. It's is about so much more than pumping shitcoins or some overhyped NFT. The shift to more decentralized systems is one of the most interesting shifts in tech. Can't wait to cover more culture stuff in that space!" type="tweet" created="Fri, 20 Aug 2021 16:37:30 GMT" tweetId="1428758097326010372" urltweet="https://twitter.com/taylorlorenz/status/1428758097326010372" inReplyToId="1428753698172260358" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="It's @andrwwang!! &lt;a href=&quot;https://twitter.com/chaykak/status/1428746155916206080&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 16:10:31 GMT" tweetId="1428751308421435392" urltweet="https://twitter.com/taylorlorenz/status/1428751308421435392" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="How do I find a Google form I made a year ago but lost the link to? (I googled this and couldn’t find an answer)" type="tweet" created="Fri, 20 Aug 2021 15:28:23 GMT" tweetId="1428740707301216258" urltweet="https://twitter.com/taylorlorenz/status/1428740707301216258" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Can someone with a Publisher’s Marketplace acct DM me and pull something for me 🙏🏻" type="tweet" created="Fri, 20 Aug 2021 15:19:56 GMT" tweetId="1428738580382326785" urltweet="https://twitter.com/taylorlorenz/status/1428738580382326785" inReplyToId="" tweetUserName="taylorlorenz" />
