@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 00:33:15 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 02:03:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
+				<outline text="Tesla is the true meta verse company. NOT Facebook. NOT Apple. NOT Google. NOT Niantic. NOT any other company. It is so ahead. 
+
+I'm sitting with nerds who build AI and their mouths are agape." type="tweet" created="Fri, 20 Aug 2021 02:03:04 GMT" tweetId="1428538040306180102" urltweet="https://twitter.com/scobleizer/status/1428538040306180102" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Hah @elonmusk is already 31 minutes late. Just like Full Self Driving. ;-)
 
 &lt;a href=&quot;https://www.youtube.com/watch?v=j0z4FweCy4M&amp;feature=youtu.be&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 00:32:53 GMT" tweetId="1428515345787097091" urltweet="https://twitter.com/scobleizer/status/1428515345787097091" inReplyToId="" tweetUserName="scobleizer" />
