@@ -7,7 +7,7 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 20 Aug 2021 15:22:23 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 15:25:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
@@ -26,6 +26,11 @@ https://t.co/kWhYwQOBqN" type="tweet" created="Fri, 20 Aug 2021 15:21:45 GMT" tw
 
 https://t.co/7UCqP6KCw1" type="tweet" created="Fri, 20 Aug 2021 15:03:05 GMT" tweetId="1428734339794227200" urltweet="https://twitter.com/davewiner/status/1428734339794227200" inReplyToId="1428732064971505664" tweetUserName="davewiner" />
 							</outline>
+						<outline text="BTW, a hat-tip to Automattic. 
+
+Of all the companies involved in producing blog-like things, they support most of what we think of as a subscribable site. 
+
+Not sure how they handle titleless posts, but have the rest covered well." type="tweet" created="Fri, 20 Aug 2021 15:24:28 GMT" tweetId="1428739718301294592" urltweet="https://twitter.com/davewiner/status/1428739718301294592" inReplyToId="1428732056545148940" tweetUserName="davewiner" />
 						</outline>
 					</outline>
 				<outline text="You know where twitter asks &quot;What's happening?&quot; 
