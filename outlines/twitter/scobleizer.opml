@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 16:06:14 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 16:08:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -24,7 +24,13 @@ And another to deliver... &lt;a href=&quot;https://twitter.com/verge/status/1428
 But really this is about motivating employees and getting others to join Tesla. Many of the smartest AI people I've met are highly interested in robots.
 
 Finally, Elon understands manufacturing deeply." type="tweet" created="Fri, 20 Aug 2021 16:04:36 GMT" tweetId="1428749819632242700" urltweet="https://twitter.com/scobleizer/status/1428749819632242700" inReplyToId="1428749355012431876" tweetUserName="scobleizer" >
-						<outline text="And when you visit Tesla's factory you see the kinds of things that a robot COULD do. Like pulling sheet metal off of its stamping machine. I watched humans do that and it's not the kind of job any of us would enjoy." type="tweet" created="Fri, 20 Aug 2021 16:05:30 GMT" tweetId="1428750046401421317" urltweet="https://twitter.com/scobleizer/status/1428750046401421317" inReplyToId="1428749819632242700" tweetUserName="scobleizer" />
+						<outline text="And when you visit Tesla's factory you see the kinds of things that a robot COULD do. Like pulling sheet metal off of its stamping machine. I watched humans do that and it's not the kind of job any of us would enjoy." type="tweet" created="Fri, 20 Aug 2021 16:05:30 GMT" tweetId="1428750046401421317" urltweet="https://twitter.com/scobleizer/status/1428750046401421317" inReplyToId="1428749819632242700" tweetUserName="scobleizer" >
+							<outline text="Finally, someday a robot in your home WILL be possible. And will be part of transportation as a service.
+
+Every day I have to do dishes, put away groceries, and do other things that are mundane and take away from what I love. A robot will do those things, someday.
+
+Why not Tesla?" type="tweet" created="Fri, 20 Aug 2021 16:07:32 GMT" tweetId="1428750559675228165" urltweet="https://twitter.com/scobleizer/status/1428750559675228165" inReplyToId="1428750046401421317" tweetUserName="scobleizer" />
+							</outline>
 						</outline>
 					</outline>
 				</outline>
