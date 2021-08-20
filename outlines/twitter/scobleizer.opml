@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 19 Aug 2021 23:42:12 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 00:12:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 19" type="calendarDay" name="19" >
-				<outline text="Will be interesting to see the AI knowledge that gets laid down by @elonmusk and team. I am watching. Starts in 20 minutes. Elon is never on time, though. &lt;a href=&quot;https://twitter.com/wholemarsblog/status/1428501747895439365&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 23:41:32 GMT" tweetId="1428502422255673349" urltweet="https://twitter.com/scobleizer/status/1428502422255673349" inReplyToId="" tweetUserName="scobleizer" />
+				<outline text="Will be interesting to see the AI knowledge that gets laid down by @elonmusk and team. I am watching. Starts in 20 minutes. Elon is never on time, though. &lt;a href=&quot;https://twitter.com/wholemarsblog/status/1428501747895439365&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 23:41:32 GMT" tweetId="1428502422255673349" urltweet="https://twitter.com/scobleizer/status/1428502422255673349" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="Official @tesla link: &lt;a href=&quot;https://www.youtube.com/watch?v=j0z4FweCy4M&amp;feature=youtu.be&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 00:11:29 GMT" tweetId="1428509959944241156" urltweet="https://twitter.com/scobleizer/status/1428509959944241156" inReplyToId="1428502422255673349" tweetUserName="scobleizer" />
+					</outline>
 				<outline text="I predicted a clear iPhone. 
 
 At least Apple had a patent for such a thing.
