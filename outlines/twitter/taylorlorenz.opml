@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 19:50:33 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 21:00:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 20" type="calendarDay" name="20" >
+				<outline text="Personal news! I’m going on book leave until the end of January to write my book so I won’t be around on Twitter much. Please don’t DM me and make me check my phone! 🙏🏻 I want to be able to take a break without having to deactivate. 1/ &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1428824263335710724/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 21:00:25 GMT" tweetId="1428824263335710724" urltweet="https://twitter.com/taylorlorenz/status/1428824263335710724" inReplyToId="" tweetUserName="taylorlorenz" >
+					<outline text="I’m writing a book on the rise of the ~creator economy~ for @simonschuster. 
+
+If you worked at Vine, YouTube, Patreon etc back in the day or worked in the creator/influencer industry pre-2017 I’d love to chat with you! Please fill out this form. &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfUkKqXKlHzYKbCI8Cjb1GCZWWRzzSCfW_xkwMnrv_G_kGGEg/viewform?usp=send_form&quot;&gt;[link]&lt;/a&gt; 2/ https://t.co/c0cVUBoCn0" type="tweet" created="Fri, 20 Aug 2021 21:00:26 GMT" tweetId="1428824268670791687" urltweet="https://twitter.com/taylorlorenz/status/1428824268670791687" inReplyToId="1428824263335710724" tweetUserName="taylorlorenz" />
+					</outline>
 				<outline text="I'm officially on @viamirror! Huge thanks to @strangechances @mikedemarais @JamesJohnBeck for helping me get set up. Excited to post!! &lt;a href=&quot;https://taylorlorenz.mirror.xyz/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 19:49:57 GMT" tweetId="1428806530401333248" urltweet="https://twitter.com/taylorlorenz/status/1428806530401333248" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Journalists: is J school worth it or not? Reply to @andrwwang and share your insight &lt;a href=&quot;https://twitter.com/andrwwang/status/1428798446375428101&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 19:32:01 GMT" tweetId="1428802016587915266" urltweet="https://twitter.com/taylorlorenz/status/1428802016587915266" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="😊 &lt;a href=&quot;https://twitter.com/ljin18/status/1428752839413751811&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 16:21:36 GMT" tweetId="1428754096534671365" urltweet="https://twitter.com/taylorlorenz/status/1428754096534671365" inReplyToId="" tweetUserName="taylorlorenz" />
