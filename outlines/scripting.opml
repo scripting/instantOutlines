@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 12:40:51 GMT</dateModified>
-		<expansionState>1,2,3,4,6,13,15,20</expansionState>
-		<lastCursor>11</lastCursor>
+		<dateModified>Fri, 20 Aug 2021 12:42:47 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 20" created="Fri, 20 Aug 2021 12:42:15 GMT" type="calendarDay" name="20" >
+				<outline text="Today I'm going to finish my work on modernizing opml.org. Here's my &lt;a href=&quot;http://2021.opml.org/#1629133547000&quot;&gt;todo list&lt;/a&gt; for the day. " created="Fri, 20 Aug 2021 12:42:16 GMT" type="outline" />
+				</outline>
 			<outline text="August 19" created="Thu, 19 Aug 2021 12:21:31 GMT" type="calendarDay" name="19" >
 				<outline text="Silos vs open" created="Thu, 19 Aug 2021 12:21:32 GMT" type="outline" description="It's easy to be part of a silo, impossible to be part of all of them. " metaImage="http://scripting.com/images/2021/08/19/silosHeader.png" >
 					<outline text="I love this quote about [[RSS]] in the &lt;a href=&quot;https://www.theverge.com/2021/8/18/22630517/apple-podcasts-subscriptions-launch-dashboard&quot;&gt;Vox piece&lt;/a&gt; about Apple and other bigco's trying to take over podcasting. " created="Thu, 19 Aug 2021 12:21:36 GMT" >
