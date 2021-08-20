@@ -7,11 +7,12 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 20 Aug 2021 08:01:39 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 08:15:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 20" type="calendarDay" name="20" >
+				<outline text="Thank you for featuring us! &lt;a href=&quot;https://twitter.com/creativerly/status/1428046535200227328&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 08:15:14 GMT" tweetId="1428631698707648512" urltweet="https://twitter.com/logseq/status/1428631698707648512" inReplyToId="" tweetUserName="logseq" />
 				<outline text="If anyone has encountered app crashes on Mac since 0.3.2, upgrading to 0.3.5 should fix it!
 &lt;a href=&quot;https://github.com/logseq/logseq/releases/tag/0.3.5&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 08:00:54 GMT" tweetId="1428628092893859840" urltweet="https://twitter.com/logseq/status/1428628092893859840" inReplyToId="" tweetUserName="logseq" />
 				</outline>
