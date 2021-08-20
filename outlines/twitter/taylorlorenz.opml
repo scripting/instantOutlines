@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 14:39:12 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 14:58:13 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 20" type="calendarDay" name="20" >
+				<outline text="TikTok’s radio station has officially launched! It replaced the Soulcycle channel on SiriusXM #TikTokRadio via @JacksonDTilley &lt;a href=&quot;https://twitter.com/TaylorLorenz/status/1428733017623699469/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 14:57:50 GMT" tweetId="1428733017623699469" urltweet="https://twitter.com/taylorlorenz/status/1428733017623699469" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="This place is in institution, rip. I worked at the hair salon above it in college and they’d always give the staff free slices &lt;a href=&quot;https://www.dailycamera.com/2021/08/19/cosmos-pizza-boulder-hill-closing/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 14:38:27 GMT" tweetId="1428728137047629827" urltweet="https://twitter.com/taylorlorenz/status/1428728137047629827" inReplyToId="" tweetUserName="taylorlorenz" />
 				<outline text="Phenomenal opportunity to join the NYT as a breaking news reporter 👇🏻 &lt;a href=&quot;https://twitter.com/palafo/status/1428054534635589633&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 04:25:03 GMT" tweetId="1428573771464527873" urltweet="https://twitter.com/taylorlorenz/status/1428573771464527873" inReplyToId="" tweetUserName="taylorlorenz" />
 				</outline>
