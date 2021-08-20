@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 14:43:51 GMT</dateModified>
-		<expansionState>1,2,5</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 20 Aug 2021 15:02:08 GMT</dateModified>
+		<expansionState>1,2,5,12</expansionState>
+		<lastCursor>15</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -35,6 +35,12 @@
 					<outline text="Interesting -- a &lt;a href=&quot;http://opml.org/history/devOpmlOrSiteOutline.opml&quot;&gt;list of all the pages&lt;/a&gt; on the previous site. " created="Fri, 20 Aug 2021 13:46:26 GMT" />
 					<outline text="Questions/comments, post &lt;a href=&quot;https://github.com/scripting/opml.org/issues/1&quot;&gt;here&lt;/a&gt;. (Note that's a public place.)" created="Fri, 20 Aug 2021 13:40:43 GMT" />
 					<outline text="Now back to the &lt;a href=&quot;https://github.com/scripting/drummerTesting&quot;&gt;Drummer&lt;/a&gt; release. 😀" created="Fri, 20 Aug 2021 13:35:03 GMT" />
+					</outline>
+				<outline text="Catching up on the news" created="Fri, 20 Aug 2021 14:59:32 GMT" type="outline" >
+					<outline text="I caught up on the news last night, and was surprised to hear that somehow what's going on in Afghanistan is dooming the Biden presidency." created="Fri, 20 Aug 2021 14:59:37 GMT" />
+					<outline text="And the reporters, esp Wolf Blitzer, are spinning it that way through the words they use to characterize events. And as a result, everyone has to tiptoe in this space. It's a dangerous time. The whole thing could explode at any time. Beating the drum for war, as they are, is a crazy crazy thing to do, as destructive as invading the Capitol on January 6." created="Fri, 20 Aug 2021 14:59:56 GMT" />
+					<outline text="If they felt so strongly about Afghanistan (they didn't) why didn't they say something before? They had 20 years to speak up. No one ever did. Better to leave it to fester. Let's live this lie, everyone seemed to agree. Now all of a sudden, Afghanistan is more important as everything else.  " created="Fri, 20 Aug 2021 15:00:57 GMT" />
+					<outline text="Here's the thing, this all is fake news. It's worse than the lies on Facebook because they use brands like CNN and the NYT to lie this way." created="Fri, 20 Aug 2021 15:01:49 GMT" />
 					</outline>
 				</outline>
 			<outline text="August 19" created="Thu, 19 Aug 2021 12:21:31 GMT" type="calendarDay" name="19" >
