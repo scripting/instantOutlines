@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 22:22:20 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 22:22:40 GMT</dateModified>
 		<expansionState>1,2,7,14</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 20" created="Fri, 20 Aug 2021 12:42:15 GMT" type="calendarDay" name="20" >
-				<outline text="No one cares what you think." created="Fri, 20 Aug 2021 22:22:13 GMT" type="outline" />
+				<outline text="No one cares what you think. " created="Fri, 20 Aug 2021 22:22:13 GMT" type="outline" />
 				<outline text="When you start a war, you better be prepared to win it. If you can't win, getting out is going to be ugly, no matter what. Because US journalism is pretending there's another way to get out, they make it necessary for the US to bend over and make more concessions to the Taliban" created="Fri, 20 Aug 2021 22:20:08 GMT" type="outline" />
 				<outline text="You know where [[Twitter]] asks &quot;What's happening?&quot; &lt;a href=&quot;http://scripting.com/images/2021/08/20/noOneCaresWhatYouThink.png&quot;&gt;This might work better&lt;/a&gt;. It's in the spirit of the &lt;a href=&quot;https://www.youtube.com/watch?v=dTGfLObZYfU&quot;&gt;Progressive commercials&lt;/a&gt; where they teach people not to be their parents. &quot;The waiter does not need to know your name.&quot; Yet there are exceptions. There are a few people who write on Facebook who, when they write, I always stop and read. Because they have a track record of finding interesting things for me to think about. They write well too." created="Fri, 20 Aug 2021 14:15:20 GMT" type="outline" />
 				<outline text="A new feature in PagePark (&lt;a href=&quot;https://github.com/scripting/pagePark#v0824-81721-by-dw&quot;&gt;v0.8.24&lt;/a&gt;) made it possible to use a custom template for &lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt;. I wanted to put a menu at the top of the page, linking to other outlines on the site. " created="Fri, 20 Aug 2021 14:05:03 GMT" type="outline" />
