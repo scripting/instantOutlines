@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/taylorlorenz.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 02:27:26 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 04:25:34 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qg</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 20" type="calendarDay" name="20" >
+				<outline text="Phenomenal opportunity to join the NYT as a breaking news reporter 👇🏻 &lt;a href=&quot;https://twitter.com/palafo/status/1428054534635589633&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 04:25:03 GMT" tweetId="1428573771464527873" urltweet="https://twitter.com/taylorlorenz/status/1428573771464527873" inReplyToId="" tweetUserName="taylorlorenz" />
+				</outline>
 			<outline text="August 19" type="calendarDay" name="19" >
 				<outline text="SCOOP: VidCon has officially been cancelled for 2021 over health concerns with the spread of COVID. It will resume next year on an unknown date. 
 
