@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 16:49:18 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 16:56:21 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 20" type="calendarDay" name="20" >
+				<outline text="I've been adding a ton to my list of Spatial Audio/Dolby Atmos music (every Friday new music gets released). Sounds best on an Atmos surround sound system. Second best on Apple's AirPods Pro or Max headphones: &lt;a href=&quot;https://music.apple.com/us/playlist/huge-spatial-audio-dolby-atmos-collection/pl.u-zJYsZ6806L&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 16:55:31 GMT" tweetId="1428762634153730050" urltweet="https://twitter.com/scobleizer/status/1428762634153730050" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="I love music in surround sound. Here's 5,000 songs in Dolby Atmos format -- everything from classical to rap. If you have Apple's AirPods Pro or Max this sounds epic. &lt;a href=&quot;https://music.apple.com/us/album/uhuru-feat-azana/1505463785?i=1505464057&quot;&gt;[link]&lt;/a&gt; https://t.co/7s6PvSDATC" type="tweet" created="Fri, 20 Aug 2021 16:49:15 GMT" tweetId="1428761057464446977" urltweet="https://twitter.com/scobleizer/status/1428761057464446977" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The robot is a joke, yes. But Tesla will need lots of robots to make its robotaxi service real. 
 
