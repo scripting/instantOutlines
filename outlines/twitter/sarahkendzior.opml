@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Thu, 19 Aug 2021 22:32:39 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 22:14:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 20" type="calendarDay" name="20" >
+				<outline text="Thread &lt;a href=&quot;https://twitter.com/sbasijrasikh/status/1428776586766168071&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 22:13:45 GMT" tweetId="1428842719321939974" urltweet="https://twitter.com/sarahkendzior/status/1428842719321939974" inReplyToId="" tweetUserName="sarahkendzior" />
+				</outline>
 			<outline text="August 19" type="calendarDay" name="19" >
 				<outline text="The utter lack of consequences for backers and funders of the Capitol attack has strengthened a culture of criminal impunity. Congress refusing to investigate Jan 6 with urgency and thoroughness emboldened new terrorists and their own complicit colleagues. Enforce accountability! &lt;a href=&quot;https://twitter.com/repdonbeyer/status/1428434560816123909&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 22:29:35 GMT" tweetId="1428484314602291203" urltweet="https://twitter.com/sarahkendzior/status/1428484314602291203" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="&lt;a href=&quot;https://twitter.com/sarahkendzior/status/1412749064349925380&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 19 Aug 2021 22:32:17 GMT" tweetId="1428484993324658688" urltweet="https://twitter.com/sarahkendzior/status/1428484993324658688" inReplyToId="1428484314602291203" tweetUserName="sarahkendzior" />
