@@ -14,14 +14,26 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 12:43:47 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 20 Aug 2021 13:47:04 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 20" created="Fri, 20 Aug 2021 12:42:15 GMT" type="calendarDay" name="20" >
-				<outline text="Today I'm going to finish my work on modernizing &lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt;. Here's my &lt;a href=&quot;http://2021.opml.org/#1629133547000&quot;&gt;todo list&lt;/a&gt; for the day. " created="Fri, 20 Aug 2021 12:42:16 GMT" type="outline" />
+				<outline text="opml.org" created="Fri, 20 Aug 2021 12:30:10 GMT" type="outline" >
+					<outline text="Finished restoration." created="Fri, 20 Aug 2021 13:36:22 GMT" />
+					<outline text="Preserved the old site, and linked to it from the new one. " created="Fri, 20 Aug 2021 13:32:50 GMT" />
+					<outline text="Here are the URLs." created="Fri, 20 Aug 2021 13:33:28 GMT" >
+						<outline text="&lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt; -- the spec, examples, links to source code, in the future a directory of apps." created="Fri, 20 Aug 2021 13:33:31 GMT" />
+						<outline text="&lt;a href=&quot;http://dev.opml.org/&quot;&gt;dev.opml.org&lt;/a&gt; -- the previous site, dating back to 2005, now redirects to opml.org." created="Fri, 20 Aug 2021 13:34:08 GMT" />
+						<outline text="&lt;a href=&quot;http://2005.opml.org/&quot;&gt;2005.opml.org&lt;/a&gt; -- the preserved version of the previous site. " created="Fri, 20 Aug 2021 13:34:26 GMT" />
+						<outline text="&lt;a href=&quot;http://2021.opml.org/&quot;&gt;2021.opml.org&lt;/a&gt; -- notes on the work just done." created="Fri, 20 Aug 2021 13:34:39 GMT" />
+						</outline>
+					<outline text="Interesting -- a &lt;a href=&quot;http://opml.org/history/devOpmlOrSiteOutline.opml&quot;&gt;list of all the pages&lt;/a&gt; on the previous site. " created="Fri, 20 Aug 2021 13:46:26 GMT" />
+					<outline text="Questions/comments, post &lt;a href=&quot;https://github.com/scripting/opml.org/issues/1&quot;&gt;here&lt;/a&gt;. (Note that's a public place.)" created="Fri, 20 Aug 2021 13:40:43 GMT" />
+					<outline text="Now back to the &lt;a href=&quot;https://github.com/scripting/drummerTesting&quot;&gt;Drummer&lt;/a&gt; release. 😀" created="Fri, 20 Aug 2021 13:35:03 GMT" />
+					</outline>
 				</outline>
 			<outline text="August 19" created="Thu, 19 Aug 2021 12:21:31 GMT" type="calendarDay" name="19" >
 				<outline text="Silos vs open" created="Thu, 19 Aug 2021 12:21:32 GMT" type="outline" description="It's easy to be part of a silo, impossible to be part of all of them. " metaImage="http://scripting.com/images/2021/08/19/silosHeader.png" >
