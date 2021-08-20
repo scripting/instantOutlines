@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 16:08:14 GMT</dateModified>
+		<dateModified>Fri, 20 Aug 2021 16:09:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -29,7 +29,13 @@ Finally, Elon understands manufacturing deeply." type="tweet" created="Fri, 20 A
 
 Every day I have to do dishes, put away groceries, and do other things that are mundane and take away from what I love. A robot will do those things, someday.
 
-Why not Tesla?" type="tweet" created="Fri, 20 Aug 2021 16:07:32 GMT" tweetId="1428750559675228165" urltweet="https://twitter.com/scobleizer/status/1428750559675228165" inReplyToId="1428750046401421317" tweetUserName="scobleizer" />
+Why not Tesla?" type="tweet" created="Fri, 20 Aug 2021 16:07:32 GMT" tweetId="1428750559675228165" urltweet="https://twitter.com/scobleizer/status/1428750559675228165" inReplyToId="1428750046401421317" tweetUserName="scobleizer" >
+								<outline text="Apple was started because @stevewoz wanted to own his own computer. He told me that story personally. 
+
+Having aspirations excites people, particularly those who have engineering skills. I want a robot in my home. I already have one in my driveway.
+
+The dream is important." type="tweet" created="Fri, 20 Aug 2021 16:09:12 GMT" tweetId="1428750975590748160" urltweet="https://twitter.com/scobleizer/status/1428750975590748160" inReplyToId="1428750559675228165" tweetUserName="scobleizer" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
