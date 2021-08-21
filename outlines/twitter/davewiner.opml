@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 21 Aug 2021 07:48:25 GMT</dateModified>
+		<dateModified>Sat, 21 Aug 2021 11:30:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 21" type="calendarDay" name="21" >
+				<outline text="Henri barrels toward Long Island and NYC, residents prepare for worst. &lt;a href=&quot;https://pix11.com/news/local-news/henri-barrels-toward-long-island-and-nyc-residents-prepare-for-worst/amp/?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 21 Aug 2021 11:30:31 GMT" tweetId="1429043230272806915" urltweet="https://twitter.com/davewiner/status/1429043230272806915" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Google says geofence warrants make up one-quarter of all US demands. &lt;a href=&quot;https://techcrunch.com/2021/08/19/google-geofence-warrants/amp/?__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 21 Aug 2021 07:47:57 GMT" tweetId="1428987219839275016" urltweet="https://twitter.com/davewiner/status/1428987219839275016" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Inside OHSU’s fight to save the region’s sickest COVID-19 patients. &lt;a href=&quot;https://www.opb.org/article/2021/08/20/inside-oshu-icu-nurses-doctors-fight-against-covid-19-surge/?outputType=amp&amp;__twitter_impression=true&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 21 Aug 2021 06:52:05 GMT" tweetId="1428973164030222336" urltweet="https://twitter.com/davewiner/status/1428973164030222336" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
