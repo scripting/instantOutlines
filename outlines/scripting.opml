@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 21 Aug 2021 01:19:09 GMT</dateModified>
-		<expansionState>1,2,7,14</expansionState>
-		<lastCursor>7</lastCursor>
+		<dateModified>Sat, 21 Aug 2021 15:32:11 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 21" created="Sat, 21 Aug 2021 15:31:05 GMT" type="calendarDay" name="21" >
+				<outline text="&lt;a href=&quot;http://2021.opml.org/#1629559392000&quot;&gt;Cleaning up&lt;/a&gt; after the &lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt; renovation. " created="Sat, 21 Aug 2021 15:31:06 GMT" type="outline" />
+				</outline>
 			<outline text="August 20" created="Fri, 20 Aug 2021 12:42:15 GMT" type="calendarDay" name="20" >
 				<outline text="No one cares what you think. " created="Fri, 20 Aug 2021 22:22:13 GMT" type="outline" />
 				<outline text="When you start a war, you better be prepared to win it. If you can't win, getting out is going to be ugly, no matter what. Because US journalism is pretending there's another way to get out, they make it necessary for the US to bend over and make more concessions to the Taliban" created="Fri, 20 Aug 2021 22:20:08 GMT" type="outline" image="http://scripting.com/images/2021/08/20/giJoe.png" />
