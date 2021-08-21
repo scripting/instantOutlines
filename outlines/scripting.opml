@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 21 Aug 2021 15:32:11 GMT</dateModified>
+		<dateModified>Sat, 21 Aug 2021 17:27:20 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 21" created="Sat, 21 Aug 2021 15:31:05 GMT" type="calendarDay" name="21" >
+				<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=R706isyDrqI&quot;&gt;1984&lt;/a&gt; may not have been like &lt;a href=&quot;https://en.wikipedia.org/wiki/Nineteen_Eighty-Four&quot;&gt;1984&lt;/a&gt;, but 2021 sure is. " created="Sat, 21 Aug 2021 17:26:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=R706isyDrqI" />
 				<outline text="&lt;a href=&quot;http://2021.opml.org/#1629559392000&quot;&gt;Cleaning up&lt;/a&gt; after the &lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt; renovation. " created="Sat, 21 Aug 2021 15:31:06 GMT" type="outline" />
 				</outline>
 			<outline text="August 20" created="Fri, 20 Aug 2021 12:42:15 GMT" type="calendarDay" name="20" >
