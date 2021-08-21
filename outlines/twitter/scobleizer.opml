@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 21 Aug 2021 01:50:50 GMT</dateModified>
+		<dateModified>Sat, 21 Aug 2021 18:09:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 21" type="calendarDay" name="21" >
+				<outline text="NVIDIA’s purchase of Arm should NOT be allowed under anti-trust laws.
+
+If Facebook’s moves to crush competitors was over the line this most certainly is and is deeply anti competitive to many companies from Intel to Qualcomm.
+
+Horrible not just for consumers but to USA economy." type="tweet" created="Sat, 21 Aug 2021 18:09:14 GMT" tweetId="1429143570594689028" urltweet="https://twitter.com/scobleizer/status/1429143570594689028" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 20" type="calendarDay" name="20" >
 				<outline text="Join AI pioneer @ajayjuneja to discuss Tesla and what its announcements yesterday means: &lt;a href=&quot;https://twitter.com/i/spaces/1DXGyRdkMmNJM&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 21 Aug 2021 01:49:55 GMT" tweetId="1428897120111628289" urltweet="https://twitter.com/scobleizer/status/1428897120111628289" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="You can’t spell “Friday” without AI.
