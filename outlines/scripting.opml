@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 01:47:06 GMT</dateModified>
-		<expansionState>1,2,7</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 22 Aug 2021 14:30:12 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 22" created="Sun, 22 Aug 2021 14:28:52 GMT" type="calendarDay" name="22" >
+				<outline text="Journalism says the pullout from Afghanistan was botched. My response: Everything everyone does is botched, with rare exception, and that includes journalists, esp journalists, because no one is watching over them and reporting all their botchings. " created="Sun, 22 Aug 2021 14:28:53 GMT" type="outline" />
+				</outline>
 			<outline text="August 21" created="Sat, 21 Aug 2021 15:31:05 GMT" type="calendarDay" name="21" >
 				<outline text="A hurricane is &lt;a href=&quot;https://twitter.com/accuweather/status/1429256151301074954&quot;&gt;coming our way&lt;/a&gt; in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Hudson_Valley&quot;&gt;Hudson Valley&lt;/a&gt;. " created="Sun, 22 Aug 2021 01:38:05 GMT" type="outline" />
 				<outline text="I totally despised &lt;a href=&quot;https://en.wikipedia.org/wiki/The_White_Lotus&quot;&gt;White Lotus&lt;/a&gt; through the first four episodes, but having so much invested in it, and the hook in the first episode, got me to watch the last two episodes, which were actually pretty good except for one bit that I saw coming and averted my eyes it was so disgusting. And you know the way they left it there's definitely going to be a season 2. " created="Sat, 21 Aug 2021 22:22:06 GMT" type="outline" image="http://scripting.com/images/2021/08/21/capnCrunchBlueMapleSyrup.png" imageLink="https://www.amazon.com/Crunchs-Ocean-Maple-Syrup-Bottle/dp/B087QS8JKQ" />
