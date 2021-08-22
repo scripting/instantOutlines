@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 14:33:49 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 14:34:31 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 22" created="Sun, 22 Aug 2021 14:28:52 GMT" type="calendarDay" name="22" >
-				<outline text="Journalism says the pullout from Afghanistan was botched. Maybe so, it's even worse than it appears. Everything everyone does is botched and that includes journalists, esp journalists, because no one is watching over them, reporting all their botchings. " created="Sun, 22 Aug 2021 14:28:53 GMT" type="outline" />
+				<outline text="Journalism says the pullout from Afghanistan was botched. Maybe so. Everything everyone does is botched and that includes journalists, esp journalists, because no one is watching over them, reporting all their botchings. " created="Sun, 22 Aug 2021 14:28:53 GMT" type="tweet" tweetId="1429451794841849863" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 21" created="Sat, 21 Aug 2021 15:31:05 GMT" type="calendarDay" name="21" >
 				<outline text="A hurricane is &lt;a href=&quot;https://twitter.com/accuweather/status/1429256151301074954&quot;&gt;coming our way&lt;/a&gt; in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Hudson_Valley&quot;&gt;Hudson Valley&lt;/a&gt;. " created="Sun, 22 Aug 2021 01:38:05 GMT" type="outline" />
