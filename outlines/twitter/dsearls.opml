@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 20 Aug 2021 21:25:04 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 22:17:10 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 22" type="calendarDay" name="22" >
+				<outline text="Nice: &lt;a href=&quot;https://aleteia.org/2020/01/02/20-year-old-filmmaker-wins-award-for-powerful-1-minute-film-about-marriage/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 22:17:06 GMT" tweetId="1429568338792001536" urltweet="https://twitter.com/dsearls/status/1429568338792001536" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="August 20" type="calendarDay" name="20" >
 				<outline text="Thanks to expert guidance by @ccarfi and his awesome @worpress fu, comments are again supported on my blog, &lt;a href=&quot;https://blogs.harvard.edu/doc/&quot;&gt;[link]&lt;/a&gt;. This increases the risk that I'll go back to blogging daily there." type="tweet" created="Fri, 20 Aug 2021 21:24:14 GMT" tweetId="1428830257520463875" urltweet="https://twitter.com/dsearls/status/1428830257520463875" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Holy shit: &lt;a href=&quot;https://twitter.com/thewarzonewire/status/1427236093691191301&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 20 Aug 2021 12:04:13 GMT" tweetId="1428689326033014787" urltweet="https://twitter.com/dsearls/status/1428689326033014787" inReplyToId="" tweetUserName="dsearls" />
