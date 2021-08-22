@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 05:05:34 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 05:19:35 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="August 22" type="calendarDay" name="22" >
 				<outline text="Do we have enough lights?
 
-Hey @Aidan_Wolf you need @nanoleaf in the AR house! &lt;a href=&quot;https://twitter.com/Scobleizer/status/1429308638976385028/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 05:05:09 GMT" tweetId="1429308638976385028" urltweet="https://twitter.com/scobleizer/status/1429308638976385028" inReplyToId="" tweetUserName="scobleizer" />
+Hey @Aidan_Wolf you need @nanoleaf in the AR house! &lt;a href=&quot;https://twitter.com/Scobleizer/status/1429308638976385028/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 05:05:09 GMT" tweetId="1429308638976385028" urltweet="https://twitter.com/scobleizer/status/1429308638976385028" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="The family just returned with ice cream. The party is on!" type="tweet" created="Sun, 22 Aug 2021 05:19:06 GMT" tweetId="1429312150284029954" urltweet="https://twitter.com/scobleizer/status/1429312150284029954" inReplyToId="1429308638976385028" tweetUserName="scobleizer" />
+					</outline>
 				</outline>
 			<outline text="August 21" type="calendarDay" name="21" >
 				<outline text="NVIDIA’s purchase of Arm should NOT be allowed under anti-trust laws.
