@@ -14,14 +14,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 14:34:31 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 22 Aug 2021 15:45:46 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 22" created="Sun, 22 Aug 2021 14:28:52 GMT" type="calendarDay" name="22" >
-				<outline text="Journalism says the pullout from Afghanistan was botched. Maybe so. Everything everyone does is botched and that includes journalists, esp journalists, because no one is watching over them, reporting all their botchings. " created="Sun, 22 Aug 2021 14:28:53 GMT" type="tweet" tweetId="1429451794841849863" tweetUserName="davewiner" />
+				<outline text="Journalism is oblivious" created="Sun, 22 Aug 2021 15:43:37 GMT" type="outline" >
+					<outline text="Journalism says the pullout from Afghanistan was botched. Maybe so. Everything everyone does is botched, and that includes journalists, esp journalists, because no one is watching over them, reporting all their botchings. " created="Sun, 22 Aug 2021 15:43:50 GMT" />
+					<outline text="Journalism is oblivious to the past or future. Everything is in the moment. A lot like Trump in that way." created="Sun, 22 Aug 2021 15:44:12 GMT" />
+					<outline text="Why aren't the people obsessed with Afghanistan like journalism is? Because it was always there." created="Sun, 22 Aug 2021 15:45:44 GMT" />
+					<outline text="That Afghanistan is being botched isn't news, it's just that journalism has decided for now to pay attention to it. Next week it'll be something else. Always a horse race. Biden has to win or lose." created="Sun, 22 Aug 2021 15:44:31 GMT" />
+					<outline text="Never mind the context, we're still one election away from complete disaster. At least 49% of the people aren't overlooking this important fact." type="tweet" created="Sun Aug 22 15:42:18 +0000 2021" tweetId="1429468981501509636" tweetUserName="davewiner" />
+					<outline text="In other words journalism is wrong." type="tweet" created="Sun Aug 22 15:43:14 +0000 2021" tweetId="1429469218433650707" tweetUserName="davewiner" />
+					</outline>
 				</outline>
 			<outline text="August 21" created="Sat, 21 Aug 2021 15:31:05 GMT" type="calendarDay" name="21" >
 				<outline text="A hurricane is &lt;a href=&quot;https://twitter.com/accuweather/status/1429256151301074954&quot;&gt;coming our way&lt;/a&gt; in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Hudson_Valley&quot;&gt;Hudson Valley&lt;/a&gt;. " created="Sun, 22 Aug 2021 01:38:05 GMT" type="outline" />
