@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 22:17:10 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 22:32:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 22" type="calendarDay" name="22" >
+				<outline text="As a lover of heights, daring and the occasionally amazing ad, I dig this: &lt;a href=&quot;https://www.youtube.com/watch?v=uQHhYRuaEtM&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 22:31:49 GMT" tweetId="1429572042614091786" urltweet="https://twitter.com/dsearls/status/1429572042614091786" inReplyToId="" tweetUserName="dsearls" />
 				<outline text="Nice: &lt;a href=&quot;https://aleteia.org/2020/01/02/20-year-old-filmmaker-wins-award-for-powerful-1-minute-film-about-marriage/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 22:17:06 GMT" tweetId="1429568338792001536" urltweet="https://twitter.com/dsearls/status/1429568338792001536" inReplyToId="" tweetUserName="dsearls" />
 				</outline>
 			<outline text="August 20" type="calendarDay" name="20" >
