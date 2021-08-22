@@ -7,12 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 22 Aug 2021 01:36:33 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 01:37:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 21" type="calendarDay" name="21" >
-				<outline text="You know what Zuck should work on, getting a network together for people who are interviewed on TV, so the quality gets a huge upgrade, and make the UI dead simple. I can't believe none of the big tech companies see this opportunity. The quality is uniformly awful." type="tweet" created="Sun, 22 Aug 2021 01:35:44 GMT" tweetId="1429255937370599427" urltweet="https://twitter.com/davewiner/status/1429255937370599427" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="You know what Zuck should work on, getting a network together for people who are interviewed on TV, so the quality gets a huge upgrade, and make the UI dead simple. I can't believe none of the big tech companies see this opportunity. The quality is uniformly awful." type="tweet" created="Sun, 22 Aug 2021 01:35:44 GMT" tweetId="1429255937370599427" urltweet="https://twitter.com/davewiner/status/1429255937370599427" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="No one knows if people want to sit in conference rooms, but we know for sure that TV is built around a new way of doing discussions, and there's no prospect for this changing. So someone ought to capitalize on the vacuum." type="tweet" created="Sun, 22 Aug 2021 01:36:45 GMT" tweetId="1429256191746654209" urltweet="https://twitter.com/davewiner/status/1429256191746654209" inReplyToId="1429255937370599427" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Rev. Jesse Jackson and his wife have been hospitalized after testing positive for Covid. &lt;a href=&quot;https://www.cnn.com/2021/08/21/us/rev-jesse-jackson-wife-hospitalized-coronavirus/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 01:28:09 GMT" tweetId="1429254028177854465" urltweet="https://twitter.com/davewiner/status/1429254028177854465" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Southwest's looming water battle. &lt;a href=&quot;https://www.cnn.com/interactive/2021/08/us/colorado-river-water-shortage/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 01:09:55 GMT" tweetId="1429249442381709318" urltweet="https://twitter.com/davewiner/status/1429249442381709318" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Do you subscribe to the NYT on the web?" type="tweet" created="Sat, 21 Aug 2021 22:20:53 GMT" tweetId="1429206900403494918" urltweet="https://twitter.com/davewiner/status/1429206900403494918" inReplyToId="" tweetUserName="davewiner" />
