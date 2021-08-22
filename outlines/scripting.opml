@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 01:38:25 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 22 Aug 2021 01:44:05 GMT</dateModified>
+		<expansionState>1,2,7</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -25,6 +25,10 @@
 				<outline text="I totally despised &lt;a href=&quot;https://en.wikipedia.org/wiki/The_White_Lotus&quot;&gt;White Lotus&lt;/a&gt; through the first four episodes, but having so much invested in it, and the hook in the first episode, got me to watch the last two episodes, which were actually pretty good except for one bit that I saw coming and averted my eyes it was so disgusting. And you know the way they left it there's definitely going to be a season 2. " created="Sat, 21 Aug 2021 22:22:06 GMT" type="outline" image="http://scripting.com/images/2021/08/21/capnCrunchBlueMapleSyrup.png" imageLink="https://www.amazon.com/Crunchs-Ocean-Maple-Syrup-Bottle/dp/B087QS8JKQ" />
 				<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=R706isyDrqI&quot;&gt;1984&lt;/a&gt; may not have been like &lt;a href=&quot;https://en.wikipedia.org/wiki/Nineteen_Eighty-Four&quot;&gt;1984&lt;/a&gt;, but 2021 sure is. " created="Sat, 21 Aug 2021 17:26:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=R706isyDrqI" />
 				<outline text="&lt;a href=&quot;http://2021.opml.org/#1629559392000&quot;&gt;Cleaning up&lt;/a&gt; after the &lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt; renovation. " created="Sat, 21 Aug 2021 15:31:06 GMT" type="outline" />
+				<outline text="TV interview tech sucks" created="Sun, 22 Aug 2021 01:42:46 GMT" type="outline" >
+					<outline text="You know what Zuck should work on, getting a network together for people who are interviewed on TV, so the quality gets a huge upgrade, and make the UI dead simple. I can't believe none of the big tech companies see this opportunity. The quality is uniformly awful." created="Sun, 22 Aug 2021 01:42:54 GMT" />
+					<outline text="No one knows if people want to sit in virtual reality conference rooms, but we know for sure that TV is built around a new way of discussion, and there's no prospect for this changing. So someone ought to capitalize on the vacuum." created="Sun, 22 Aug 2021 01:43:06 GMT" />
+					</outline>
 				</outline>
 			<outline text="August 20" created="Fri, 20 Aug 2021 12:42:15 GMT" type="calendarDay" name="20" >
 				<outline text="No one cares what you think. " created="Fri, 20 Aug 2021 22:22:13 GMT" type="outline" />
