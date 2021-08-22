@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sun, 22 Aug 2021 01:37:33 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 02:03:34 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 21" type="calendarDay" name="21" >
+				<outline text="Pick one." type="tweet" created="Sun, 22 Aug 2021 02:03:33 GMT" tweetId="1429262936585998343" urltweet="https://twitter.com/davewiner/status/1429262936585998343" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="You know what Zuck should work on, getting a network together for people who are interviewed on TV, so the quality gets a huge upgrade, and make the UI dead simple. I can't believe none of the big tech companies see this opportunity. The quality is uniformly awful." type="tweet" created="Sun, 22 Aug 2021 01:35:44 GMT" tweetId="1429255937370599427" urltweet="https://twitter.com/davewiner/status/1429255937370599427" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="No one knows if people want to sit in conference rooms, but we know for sure that TV is built around a new way of doing discussions, and there's no prospect for this changing. So someone ought to capitalize on the vacuum." type="tweet" created="Sun, 22 Aug 2021 01:36:45 GMT" tweetId="1429256191746654209" urltweet="https://twitter.com/davewiner/status/1429256191746654209" inReplyToId="1429255937370599427" tweetUserName="davewiner" />
 					</outline>
