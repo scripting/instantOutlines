@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 07:50:45 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 19:03:27 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 22" type="calendarDay" name="22" >
+				<outline text="I just built a bunch of playlists of spatial audio/Dolby Atmos music. 4,700 songs split up. Enjoy! Sounds way better than Spotify on AirPods.
+
+&lt;a href=&quot;https://music.apple.com/profile/scobleizer&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 19:03:18 GMT" tweetId="1429519567223615491" urltweet="https://twitter.com/scobleizer/status/1429519567223615491" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The original VR. 
 
 @jackgillin brought this very special device from around 1880 over this week when he visited me. 
