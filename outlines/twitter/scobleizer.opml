@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 21 Aug 2021 18:09:52 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 05:05:34 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 22" type="calendarDay" name="22" >
+				<outline text="Do we have enough lights?
+
+Hey @Aidan_Wolf you need @nanoleaf in the AR house! &lt;a href=&quot;https://twitter.com/Scobleizer/status/1429308638976385028/video/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 05:05:09 GMT" tweetId="1429308638976385028" urltweet="https://twitter.com/scobleizer/status/1429308638976385028" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 21" type="calendarDay" name="21" >
 				<outline text="NVIDIA’s purchase of Arm should NOT be allowed under anti-trust laws.
 
