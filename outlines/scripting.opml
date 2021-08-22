@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sun, 22 Aug 2021 01:11:12 GMT</dateModified>
+		<dateModified>Sun, 22 Aug 2021 01:12:30 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 21" created="Sat, 21 Aug 2021 15:31:05 GMT" type="calendarDay" name="21" >
-				<outline text="I totally despised &lt;a href=&quot;https://en.wikipedia.org/wiki/The_White_Lotus&quot;&gt;White Lotus&lt;/a&gt; through the first four episodes, but having so much invested in it, and the hook in the first episode, got me to watch the last two episodes, which were actually pretty good except for one bit that I saw coming and averted my eyes it was so disgusting. And you know the way they left it there's definitely going to be a season 2. " created="Sat, 21 Aug 2021 22:22:06 GMT" type="outline" image="http://scripting.com/images/2021/08/21/capnCrunchBlueMapleSyrup.png" />
+				<outline text="I totally despised &lt;a href=&quot;https://en.wikipedia.org/wiki/The_White_Lotus&quot;&gt;White Lotus&lt;/a&gt; through the first four episodes, but having so much invested in it, and the hook in the first episode, got me to watch the last two episodes, which were actually pretty good except for one bit that I saw coming and averted my eyes it was so disgusting. And you know the way they left it there's definitely going to be a season 2. " created="Sat, 21 Aug 2021 22:22:06 GMT" type="outline" image="http://scripting.com/images/2021/08/21/capnCrunchBlueMapleSyrup.png" imageLink="https://www.walmart.com/ip/Cap-n-Crunch-s-Ocean-Blue-Maple-Syrup-24-oz-Bottle/254348671" />
 				<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=R706isyDrqI&quot;&gt;1984&lt;/a&gt; may not have been like &lt;a href=&quot;https://en.wikipedia.org/wiki/Nineteen_Eighty-Four&quot;&gt;1984&lt;/a&gt;, but 2021 sure is. " created="Sat, 21 Aug 2021 17:26:11 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=R706isyDrqI" />
 				<outline text="&lt;a href=&quot;http://2021.opml.org/#1629559392000&quot;&gt;Cleaning up&lt;/a&gt; after the &lt;a href=&quot;http://opml.org/&quot;&gt;opml.org&lt;/a&gt; renovation. " created="Sat, 21 Aug 2021 15:31:06 GMT" type="outline" />
 				</outline>
