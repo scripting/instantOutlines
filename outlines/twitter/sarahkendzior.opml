@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Mon, 23 Aug 2021 14:15:11 GMT</dateModified>
+		<dateModified>Mon, 23 Aug 2021 19:27:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 23" type="calendarDay" name="23" >
+				<outline text="Thread &lt;a href=&quot;https://twitter.com/azmatzahra/status/1429831426371883009&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 23 Aug 2021 19:27:01 GMT" tweetId="1429887921541324804" urltweet="https://twitter.com/sarahkendzior/status/1429887921541324804" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="All I can think of is Dale Gribble saying “That was the name of the deadly drug they gave him, ‘Placebo’…I think it’s made by Puh-fizer!” &lt;a href=&quot;https://www.youtube.com/watch?v=SHILxPVLopY&quot;&gt;[link]&lt;/a&gt; https://t.co/icShZsefg8" type="tweet" created="Mon, 23 Aug 2021 14:14:19 GMT" tweetId="1429809229989306368" urltweet="https://twitter.com/sarahkendzior/status/1429809229989306368" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="What’s the farthest in each direction you’ve ever been?
 
