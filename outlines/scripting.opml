@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 23 Aug 2021 00:25:58 GMT</dateModified>
-		<expansionState>1,2,5,6,8</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Mon, 23 Aug 2021 00:27:12 GMT</dateModified>
+		<expansionState>1,2,5,6,9</expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -27,6 +27,7 @@
 					<outline text="&lt;i&gt;I tried to post this reply to &lt;a href=&quot;https://twitter.com/om/status/1429230610439041025&quot;&gt;Om on Twitter&lt;/a&gt; but it wouldn't let me. &lt;/i&gt;" created="Mon, 23 Aug 2021 00:22:48 GMT" >
 						<outline text="Om the height of silo-osity was when [[Substack]] came along, they insisted that in order to use their service you had to use their editor. I absolutely refused to do that, so I had to write my own email distributer app. What a waste of effort. We have to get through to them and others. Componentize so some devs can specialize in editors and others can specialize in distribution. We can't all dominate the same world, what a difference it would make if we worked together. They wouldn't listen to me, but maybe they'll listen to a successful tech VC. " created="Mon, 23 Aug 2021 00:22:35 GMT" />
 						</outline>
+					<outline text="PS: I wrote about this &lt;a href=&quot;http://scripting.com/2021/04/06/150554.html?title=copypastetopublish&quot;&gt;problem&lt;/a&gt; with Substack earlier this year. " created="Mon, 23 Aug 2021 00:26:51 GMT" />
 					</outline>
 				<outline text="Journalism is oblivious" created="Sun, 22 Aug 2021 15:43:37 GMT" type="outline" >
 					<outline text="Journalism says the pullout from Afghanistan was botched. Maybe so. Everything everyone does is botched, and that includes journalists, esp journalists, because no one is watching over them, reporting all their botchings. " created="Sun, 22 Aug 2021 15:43:50 GMT" />
