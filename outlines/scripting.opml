@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 23 Aug 2021 00:25:11 GMT</dateModified>
+		<dateModified>Mon, 23 Aug 2021 00:25:36 GMT</dateModified>
 		<expansionState>1,2,5,6,8</expansionState>
-		<lastCursor>6</lastCursor>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -24,7 +24,7 @@
 				<outline text="You'd think that by now [[Facebook]] would have figured out how to make a &lt;a href=&quot;http://scripting.com/images/2021/08/22/squintyText.png&quot;&gt;story&lt;/a&gt; read well on their website, by default, based on who's reading and what their vision is capable of. I can kind of read a &lt;a href=&quot;http://scripting.com/images/2021/08/22/squintyText.png&quot;&gt;story&lt;/a&gt; like this, but it involves a lot of squinting and scrolling and interpolating." created="Sun, 22 Aug 2021 17:57:30 GMT" type="outline" />
 				<outline text="A perhaps surprising truth. We aren't free to ignore other people. For example, you're not allowed to shit in a public swimming pool. Think about it and all the other things you aren't free to do. It's not something you can argue about and live with other people." created="Sun, 22 Aug 2021 17:13:02 GMT" type="outline" />
 				<outline text="The height of silo-osity" created="Mon, 23 Aug 2021 00:22:33 GMT" type="outline" >
-					<outline text="&lt;i&gt;I tried to post this reply to &lt;a href=&quot;https://twitter.com/om/status/1429230610439041025&quot;&gt;Om on Twitter&lt;/a&gt; but it wouldn't let me. So I posted it here instead. It's nice to have another place to communicate when you need it. &lt;/i&gt;" created="Mon, 23 Aug 2021 00:22:48 GMT" >
+					<outline text="&lt;i&gt;I tried to post this reply to &lt;a href=&quot;https://twitter.com/om/status/1429230610439041025&quot;&gt;Om on Twitter&lt;/a&gt; but it wouldn't let me. &lt;/i&gt;" created="Mon, 23 Aug 2021 00:22:48 GMT" >
 						<outline text="Om the height of silo-osity was when substack came along, they insisted that in order to use their service you had to use their editor. I absolutely refused to do that, so I had to write my own email distributer app. What a waste of effort. We have to get through to them and others. Componentize so some devs can specialize in editors and others can specialize in distribution. We can't all dominate the same world, what a difference it would make if we worked together. They wouldn't listen to me, but maybe they'll listen to a successful tech VC. " created="Mon, 23 Aug 2021 00:22:35 GMT" />
 						</outline>
 					</outline>
