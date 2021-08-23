@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/nakedjen.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 23 Aug 2021 20:19:31 GMT</dateModified>
+		<dateModified>Mon, 23 Aug 2021 21:38:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/ql</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 23" type="calendarDay" name="23" >
+				<outline text="My professor has to teach his class in person today. At a university where they are not requiring anyone to actually be vaccinated.  Tomorrow the small child that lives with me goes back to school in person.
+
+Here we go.  #savemylife" type="tweet" created="Mon, 23 Aug 2021 21:38:12 GMT" tweetId="1429920936262701057" urltweet="https://twitter.com/nakedjen/status/1429920936262701057" inReplyToId="" tweetUserName="nakedjen" />
 				<outline text="Just posted a photo @ Downtown Salt Lake City &lt;a href=&quot;https://www.instagram.com/accounts/login/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 23 Aug 2021 20:19:17 GMT" tweetId="1429901076791283713" urltweet="https://twitter.com/nakedjen/status/1429901076791283713" inReplyToId="" tweetUserName="nakedjen" />
 				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
