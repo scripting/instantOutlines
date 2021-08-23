@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 23 Aug 2021 03:09:17 GMT</dateModified>
+		<dateModified>Mon, 23 Aug 2021 03:09:53 GMT</dateModified>
 		<expansionState>1,2,6,7,13</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -24,9 +24,9 @@
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=TvMS_ykiLiQ&quot;&gt;City of New Orleans&lt;/a&gt;. " created="Mon, 23 Aug 2021 03:08:51 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=TvMS_ykiLiQ" />
 				<outline text="You'd think that by now [[Facebook]] would have figured out how to make a &lt;a href=&quot;http://scripting.com/images/2021/08/22/squintyText.png&quot;&gt;story&lt;/a&gt; read well on their website, by default, based on who's reading and what their vision is capable of. I can kind of read a &lt;a href=&quot;http://scripting.com/images/2021/08/22/squintyText.png&quot;&gt;story&lt;/a&gt; like this, but it involves a lot of squinting and scrolling and interpolating." created="Sun, 22 Aug 2021 17:57:30 GMT" type="outline" />
 				<outline text="A perhaps surprising truth. We aren't free to ignore other people. For example, you're not allowed to shit in a public swimming pool. Think about it and all the other things you aren't free to do. It's not something you can argue about and live with other people." created="Sun, 22 Aug 2021 17:13:02 GMT" type="outline" />
-				<outline text="The height of silo-osity" created="Mon, 23 Aug 2021 00:22:33 GMT" type="outline" metaImage="http://scripting.com/images/2021/08/22/fishingByManet1863.png" description="Componentize so some devs can specialize in editors and others can specialize in distribution." >
+				<outline text="Extreme silo-osity" created="Mon, 23 Aug 2021 00:22:33 GMT" type="outline" metaImage="http://scripting.com/images/2021/08/22/fishingByManet1863.png" description="Componentize so some devs can specialize in editors and others can specialize in distribution." >
 					<outline text="&lt;i&gt;I tried to post this reply to &lt;a href=&quot;https://twitter.com/om/status/1429230610439041025&quot;&gt;Om on Twitter&lt;/a&gt; but it wouldn't let me. &lt;/i&gt;" created="Mon, 23 Aug 2021 00:22:48 GMT" >
-						<outline text="Om the height of silo-osity was when [[Substack]] came along, they insisted that in order to use their service you had to use their editor. I absolutely refused to do that, so I had to write my own &lt;a href=&quot;http://scripting.com/email/&quot;&gt;email distributer app&lt;/a&gt;. What a waste of effort. " created="Mon, 23 Aug 2021 00:22:35 GMT" />
+						<outline text="Om, the height of silo-osity was when [[Substack]] came along, they insisted that in order to use their service you had to use their editor. I absolutely refused to do that, so I had to write my own &lt;a href=&quot;http://scripting.com/email/&quot;&gt;email distributer app&lt;/a&gt;. What a waste of effort. " created="Mon, 23 Aug 2021 00:22:35 GMT" />
 						<outline text="We have to get through to them and others. Componentize so some devs can specialize in editors and others can specialize in distribution. We can't all dominate the same world, being all things to all people. What a difference it would make if we worked together. " created="Mon, 23 Aug 2021 00:32:31 GMT" />
 						<outline text="No more shitty editors, lots of different kinds of editors for all kinds of writers. " created="Mon, 23 Aug 2021 00:35:16 GMT" />
 						<outline text="They wouldn't listen to me, but maybe they'll listen to a successful tech VC. :boom: " created="Mon, 23 Aug 2021 00:32:57 GMT" />
