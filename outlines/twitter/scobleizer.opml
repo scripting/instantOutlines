@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 23 Aug 2021 16:58:51 GMT</dateModified>
+		<dateModified>Mon, 23 Aug 2021 17:06:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,9 @@
 			<outline text="August 23" type="calendarDay" name="23" >
 				<outline text="Steve Jobs forbade his iPhone teams from hiring anyone who had worked on phones before. 
 
-It isn't for this reason. He wanted new ideas and didn't want to hear &quot;that isn't possible.&quot; &lt;a href=&quot;https://twitter.com/cattsmall/status/1429480049388969990&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 23 Aug 2021 16:57:55 GMT" tweetId="1429850401994514446" urltweet="https://twitter.com/scobleizer/status/1429850401994514446" inReplyToId="" tweetUserName="scobleizer" />
+It isn't for this reason. He wanted new ideas and didn't want to hear &quot;that isn't possible.&quot; &lt;a href=&quot;https://twitter.com/cattsmall/status/1429480049388969990&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 23 Aug 2021 16:57:55 GMT" tweetId="1429850401994514446" urltweet="https://twitter.com/scobleizer/status/1429850401994514446" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="Who told me that story? @pre_me who was one of the first dozen to work for Steve Jobs on building the phone. He also told me about pitching Visual Voice Mail to AT&amp;amp;T who promptly told him &quot;that's impossible.&quot;" type="tweet" created="Mon, 23 Aug 2021 17:06:00 GMT" tweetId="1429852433501474817" urltweet="https://twitter.com/scobleizer/status/1429852433501474817" inReplyToId="1429850401994514446" tweetUserName="scobleizer" />
+					</outline>
 				</outline>
 			<outline text="August 22" type="calendarDay" name="22" >
 				<outline text="I just built a bunch of playlists of spatial audio/Dolby Atmos music. 4,700 songs split up. Enjoy! Sounds way better than Spotify on AirPods.
