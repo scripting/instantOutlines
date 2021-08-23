@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Mon, 23 Aug 2021 03:23:11 GMT</dateModified>
+		<dateModified>Mon, 23 Aug 2021 09:56:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 23" type="calendarDay" name="23" >
+				<outline text="Historian Heather Cox Richardson: ‘Now people see what’s happening. Thank God!’ &lt;a href=&quot;https://www.ft.com/content/08f3728c-bbff-493f-aa66-a1aa35dd3924?fbclid=IwAR17PElrYKG4x5pShL447ukcCXGFnr2ksj56elbl5SujBsTC7pNnn9gzOWg&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 23 Aug 2021 09:56:05 GMT" tweetId="1429744244793790465" urltweet="https://twitter.com/davewiner/status/1429744244793790465" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 22" type="calendarDay" name="22" >
 				<outline text="Just finished Schmigadoon on Apple. First few episodes were pretty awful, but glad I stuck with it, the last two were gems. I adore Cecily Strong. 
 
