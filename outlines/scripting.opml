@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Mon, 23 Aug 2021 00:33:27 GMT</dateModified>
+		<dateModified>Mon, 23 Aug 2021 00:34:36 GMT</dateModified>
 		<expansionState>1,2,5,6,11</expansionState>
-		<lastCursor>8</lastCursor>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -26,7 +26,7 @@
 				<outline text="The height of silo-osity" created="Mon, 23 Aug 2021 00:22:33 GMT" type="outline" metaImage="http://scripting.com/images/2021/08/22/fishingByManet1863.png" description="Componentize so some devs can specialize in editors and others can specialize in distribution." >
 					<outline text="&lt;i&gt;I tried to post this reply to &lt;a href=&quot;https://twitter.com/om/status/1429230610439041025&quot;&gt;Om on Twitter&lt;/a&gt; but it wouldn't let me. &lt;/i&gt;" created="Mon, 23 Aug 2021 00:22:48 GMT" >
 						<outline text="Om the height of silo-osity was when [[Substack]] came along, they insisted that in order to use their service you had to use their editor. I absolutely refused to do that, so I had to write my own &lt;a href=&quot;http://scripting.com/email/&quot;&gt;email distributer app&lt;/a&gt;. What a waste of effort. " created="Mon, 23 Aug 2021 00:22:35 GMT" />
-						<outline text="We have to get through to them and others. Componentize so some devs can specialize in editors and others can specialize in distribution. We can't all dominate the same world, what a difference it would make if we worked together. No more shitty editors, and lots of different kinds of editors. " created="Mon, 23 Aug 2021 00:32:31 GMT" />
+						<outline text="We have to get through to them and others. Componentize so some devs can specialize in editors and others can specialize in distribution. We can't all dominate the same world, being all things to all people. What a difference it would make if we worked together. No more shitty editors, lots of different kinds of editors for all kinds of writers. " created="Mon, 23 Aug 2021 00:32:31 GMT" />
 						<outline text="They wouldn't listen to me, but maybe they'll listen to a successful tech VC.  " created="Mon, 23 Aug 2021 00:32:57 GMT" />
 						</outline>
 					<outline text="I wrote about this &lt;a href=&quot;http://scripting.com/2021/04/06/150554.html?title=copypastetopublish&quot;&gt;problem&lt;/a&gt; with Substack earlier this year. " created="Mon, 23 Aug 2021 00:26:51 GMT" />
