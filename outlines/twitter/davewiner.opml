@@ -7,11 +7,18 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 24 Aug 2021 12:36:17 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 12:52:18 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="When will someone launch a newsletter service that lets you use whatever editor you like. 
+
+I predict that I will support that product in the new editor I'm working on. 
+
+I don't want to do a newsletter service myself.
+
+Let's get something fun started." type="tweet" created="Tue, 24 Aug 2021 12:52:17 GMT" tweetId="1430150972123254799" urltweet="https://twitter.com/davewiner/status/1430150972123254799" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Sad that @djrothkopf has blocked me? 
 
 &lt;a href=&quot;https://twitter.com/djrothkopf/status/1430141869271523330&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 12:36:07 GMT" tweetId="1430146902960508929" urltweet="https://twitter.com/davewiner/status/1430146902960508929" inReplyToId="" tweetUserName="davewiner" />
