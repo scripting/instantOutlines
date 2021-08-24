@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 15:55:43 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 15:56:33 GMT</dateModified>
 		<expansionState>1,2,5,7</expansionState>
-		<lastCursor>4</lastCursor>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -29,6 +29,7 @@
 						<outline text="Shut the fuck up." created="Tue, 24 Aug 2021 15:54:54 GMT" />
 						<outline text="I don't care about your fucking feelings." created="Tue, 24 Aug 2021 15:54:59 GMT" />
 						</outline>
+					<outline text="When I was a teenager in NYC many years ago, I would've done something like this. :smile:" created="Tue, 24 Aug 2021 15:56:12 GMT" />
 					</outline>
 				</outline>
 			<outline text="August 23" created="Mon, 23 Aug 2021 14:15:36 GMT" type="calendarDay" name="23" >
