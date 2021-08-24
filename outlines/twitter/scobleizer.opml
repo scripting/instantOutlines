@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 16:05:19 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 17:19:23 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="You are invited to experience state of the art experience delivery. Next year all this will be obsolete and you will have better. &lt;a href=&quot;https://twitter.com/jackgillin/status/1430212305439002626&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 17:18:42 GMT" tweetId="1430218018626281474" urltweet="https://twitter.com/scobleizer/status/1430218018626281474" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Apple is coming. With a superior experience-delivery platform.
 
 &lt;a href=&quot;https://www.patentlyapple.com/patently-apple/2021/08/apple-wins-a-patent-relating-to-spatial-audio-in-context-with-augmented-reality-and-a-future-hmd.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 16:05:09 GMT" tweetId="1430199510240698369" urltweet="https://twitter.com/scobleizer/status/1430199510240698369" inReplyToId="" tweetUserName="scobleizer" />
