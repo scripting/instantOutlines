@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 16:00:40 GMT</dateModified>
-		<expansionState>1,2,6,8</expansionState>
+		<dateModified>Tue, 24 Aug 2021 16:05:19 GMT</dateModified>
+		<expansionState>1,2,7,9</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 24" created="Tue, 24 Aug 2021 12:59:01 GMT" type="calendarDay" name="24" >
+				<outline text="Today's song (sort of): &lt;a href=&quot;https://www.youtube.com/watch?v=M2lfZg-apSA&quot;&gt;The Soup Nazi&lt;/a&gt;." created="Tue, 24 Aug 2021 16:05:04 GMT" type="outline" />
 				<outline text="Unfortunately journalists don't stand for re-election. They are not term-limited. There is no journalism for journalism. Our opinions are not sought. But if we ever do get a chance to vote one of them out in some significant way, i bet a lot of people will line up to do it. I know I will. And I'm not talking about the people on Fox. " created="Tue, 24 Aug 2021 15:58:57 GMT" type="outline" />
 				<outline text="What makes a bug report good? It makes it easy for the dev to reproduce the problem. I have to see it myself to understand what the problem is. Your theory on what the problem is, or judgment on whether you followed the instructions is secondary. " created="Tue, 24 Aug 2021 15:14:30 GMT" type="outline" />
 				<outline text="When will someone launch a newsletter service that lets you use whatever editor you like. I predict that I will support that product in the new editor I'm working on. I don't want to do a newsletter service myself. Let's get something fun started." created="Tue, 24 Aug 2021 12:59:02 GMT" type="outline" />
