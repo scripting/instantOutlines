@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 01:31:12 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 15:41:06 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="Joni Mitchell's &quot;Both Sides Now&quot; done up on piano by @FredHerschMusic.
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=ZvoWpNyZqYc&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 15:40:23 GMT" tweetId="1430193276448120846" urltweet="https://twitter.com/KenSmith/status/1430193276448120846" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 23" type="calendarDay" name="23" >
 				<outline text="“I’VE BEEN ENCOUNTERING questions of race, of segregation—of America’s great crime—all my professional life.”  —Robert Caro, in Working, his brief book about doing research about how power works in America." type="tweet" created="Tue, 24 Aug 2021 01:30:54 GMT" tweetId="1429979498234228738" urltweet="https://twitter.com/KenSmith/status/1429979498234228738" inReplyToId="" tweetUserName="KenSmith" />
 				</outline>
