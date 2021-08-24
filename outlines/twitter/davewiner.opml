@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 24 Aug 2021 02:52:40 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 09:42:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="Roundabouts. &lt;a href=&quot;https://hackaday.com/2020/05/25/hacking-the-road-roundabouts/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 09:41:46 GMT" tweetId="1430103027625701394" urltweet="https://twitter.com/davewiner/status/1430103027625701394" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 23" type="calendarDay" name="23" >
 				<outline text="Researchers working toward one vaccine for many variants. &lt;a href=&quot;https://www.reuters.com/business/healthcare-pharmaceuticals/researchers-seek-powerful-antibody-against-many-variants-breakthrough-cases-may-2021-08-23/?taid=61245e5aced6e00001766851&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 02:51:46 GMT" tweetId="1429999848720326656" urltweet="https://twitter.com/davewiner/status/1429999848720326656" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="When you check into twitter after being gone for a while, you see, for an instant some posts, not sure when they're from, but they might be appealing, but too bad, they disappear just after your mind registers that they're there. happens regularly." type="tweet" created="Tue, 24 Aug 2021 02:13:42 GMT" tweetId="1429990269479444482" urltweet="https://twitter.com/davewiner/status/1429990269479444482" inReplyToId="" tweetUserName="davewiner" />
