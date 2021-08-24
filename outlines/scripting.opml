@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 16:09:51 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 17:24:54 GMT</dateModified>
 		<expansionState>1,2,7,9</expansionState>
-		<lastCursor>3</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 24" created="Tue, 24 Aug 2021 12:59:01 GMT" type="calendarDay" name="24" >
-				<outline text="Today's song (sort of): &lt;a href=&quot;https://www.youtube.com/watch?v=M2lfZg-apSA&quot;&gt;The Soup Nazi&lt;/a&gt;." created="Tue, 24 Aug 2021 16:05:04 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=M2lfZg-apSA" />
+				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=zaKEcCAeSe8&quot;&gt;Undercover of the Night&lt;/a&gt;." created="Tue, 24 Aug 2021 17:23:57 GMT" type="outline" />
 				<outline text="Unfortunately journalists don't stand for re-election. They are not term-limited. There is no journalism for journalism. Our opinions are not sought. But if we ever do get a chance to vote one of them out in some significant way, I bet a lot of people will line up to do it. I know I will. And I'm not talking about the people on Fox. " created="Tue, 24 Aug 2021 15:58:57 GMT" type="outline" />
 				<outline text="What makes a bug report good? It makes it easy for the dev to reproduce the problem. I have to see it myself to understand what the problem is. Your theory on what the problem is, or judgment on whether you followed the instructions is secondary. " created="Tue, 24 Aug 2021 15:14:30 GMT" type="outline" />
 				<outline text="When will someone launch a newsletter service that lets you use whatever editor you like. I predict that I will support that product in the new editor I'm working on. I don't want to do a newsletter service myself. Let's get something fun started." created="Tue, 24 Aug 2021 12:59:02 GMT" type="outline" />
@@ -40,9 +40,7 @@
 				<outline text="They've had the same tired old guests on the cable news shows for years. They always say the same things. How is it that people don't just change channels and tune into 30-year-old Law &amp; Order reruns instead. I've been enjoying watching the reruns for the 15th time. Compared to the news they seem fresh and strangely relevant. " created="Tue, 24 Aug 2021 02:16:40 GMT" type="outline" />
 				<outline text="When you check into Twitter after being gone for a while, you see, for an instant, some posts, not sure when they're from, but they might be appealing, but too bad, they disappear just after your mind registers that they're there. Happens regularly." created="Tue, 24 Aug 2021 02:13:46 GMT" type="outline" />
 				<outline text="The remains of &lt;a href=&quot;https://en.wikipedia.org/wiki/Hurricane_Henri&quot;&gt;Tropical Storm Henri&lt;/a&gt; has been parked overhead for about 24 hours. Pouring rain, hour after hour. Not much wind. I couldn't go riding yesterday, and probably won't be able to today either. Tomorrow should be hot and humid, good swimming weather. :smile:" created="Mon, 23 Aug 2021 15:25:02 GMT" type="outline" />
-				<outline text="Finished &lt;a href=&quot;https://en.wikipedia.org/wiki/Schmigadoon!&quot;&gt;Schmigadoon&lt;/a&gt; on Apple. First few episodes were pretty awful, but I'm glad I stuck with it, the last two were gems. I adore &lt;a href=&quot;https://en.wikipedia.org/wiki/Cecily_Strong&quot;&gt;Cecily Strong&lt;/a&gt;. 
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Kristin_Chenoweth&quot;&gt;Kristin Chenoweth&lt;/a&gt; has the best &lt;a href=&quot;https://www.youtube.com/watch?v=_PmS5JIfSkk&quot;&gt;song&lt;/a&gt;. 
-" created="Mon, 23 Aug 2021 14:17:25 GMT" type="outline" />
+				<outline text="Finished &lt;a href=&quot;https://en.wikipedia.org/wiki/Schmigadoon!&quot;&gt;Schmigadoon&lt;/a&gt; on Apple. First few episodes were pretty awful, but I'm glad I stuck with it, the last two were gems. I adore &lt;a href=&quot;https://en.wikipedia.org/wiki/Cecily_Strong&quot;&gt;Cecily Strong&lt;/a&gt;.  &lt;a href=&quot;https://en.wikipedia.org/wiki/Kristin_Chenoweth&quot;&gt;Kristin Chenoweth&lt;/a&gt; has the best &lt;a href=&quot;https://www.youtube.com/watch?v=_PmS5JIfSkk&quot;&gt;song&lt;/a&gt;.  " created="Mon, 23 Aug 2021 14:17:25 GMT" type="outline" />
 				<outline text="Remember how &lt;a href=&quot;https://www.npr.org/2012/09/01/160438753/how-government-became-a-dirty-word&quot;&gt;Reagan said&lt;/a&gt; government is the problem. He was wrong, it's actually journalism. " created="Mon, 23 Aug 2021 14:15:37 GMT" type="outline" />
 				<outline text="Edward Hopper" created="Tue, 24 Aug 2021 02:44:22 GMT" type="outline" >
 					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/summertime&quot;&gt;Summertime&lt;/a&gt;, 1943." created="Tue, 24 Aug 2021 02:44:26 GMT" inlineImage="http://scripting.com/images/2021/08/23/summertimeHopper1943.png" />
