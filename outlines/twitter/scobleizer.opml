@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 05:21:38 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 06:02:40 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="Just watched an old Tom Ryan movie with my 11-year-old and they used floppy drives and modems, which made that old screeching noise. 
+
+“Dad, what is a modem?”
+
+Signs we are getting old." type="tweet" created="Tue, 24 Aug 2021 06:02:27 GMT" tweetId="1430047833852301315" urltweet="https://twitter.com/scobleizer/status/1430047833852301315" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="I first saw Dolby Vision and Atmos (high dynamic range and surround sound) at its booth in CES a few years ago when its CTO gave me a sneak peak.
 
 They should be technologies of the year. Most people still don’t have them.
