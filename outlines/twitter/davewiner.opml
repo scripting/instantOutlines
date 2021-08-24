@@ -7,11 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 24 Aug 2021 09:42:06 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 12:36:17 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="Sad that @djrothkopf has blocked me? 
+
+&lt;a href=&quot;https://twitter.com/djrothkopf/status/1430141869271523330&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 12:36:07 GMT" tweetId="1430146902960508929" urltweet="https://twitter.com/davewiner/status/1430146902960508929" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Roundabouts. &lt;a href=&quot;https://hackaday.com/2020/05/25/hacking-the-road-roundabouts/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 09:41:46 GMT" tweetId="1430103027625701394" urltweet="https://twitter.com/davewiner/status/1430103027625701394" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 23" type="calendarDay" name="23" >
