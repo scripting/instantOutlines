@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 06:52:44 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 16:05:19 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="Apple is coming. With a superior experience-delivery platform.
+
+&lt;a href=&quot;https://www.patentlyapple.com/patently-apple/2021/08/apple-wins-a-patent-relating-to-spatial-audio-in-context-with-augmented-reality-and-a-future-hmd.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 16:05:09 GMT" tweetId="1430199510240698369" urltweet="https://twitter.com/scobleizer/status/1430199510240698369" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="I felt a disturbance in the force. &lt;a href=&quot;https://twitter.com/id_aa_carmack/status/1429907886159941638&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 06:52:16 GMT" tweetId="1430060369632919554" urltweet="https://twitter.com/scobleizer/status/1430060369632919554" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Just watched an old Tom Ryan movie with my 11-year-old and they used floppy drives and modems, which made that old screeching noise. 
 
