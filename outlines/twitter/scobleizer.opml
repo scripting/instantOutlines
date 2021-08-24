@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 05:14:37 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 05:16:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -17,7 +17,9 @@
 They should be technologies of the year. Most people still don’t have them.
 
 Next year that will change in a big way.
-So amazing." type="tweet" created="Tue, 24 Aug 2021 05:14:31 GMT" tweetId="1430035773202468867" urltweet="https://twitter.com/scobleizer/status/1430035773202468867" inReplyToId="" tweetUserName="scobleizer" />
+So amazing." type="tweet" created="Tue, 24 Aug 2021 05:14:31 GMT" tweetId="1430035773202468867" urltweet="https://twitter.com/scobleizer/status/1430035773202468867" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="Come on over and watch a movie on my new Sony 83-inch. Very sweet! Right @jackgillin ? :-)" type="tweet" created="Tue, 24 Aug 2021 05:16:04 GMT" tweetId="1430036162974863360" urltweet="https://twitter.com/scobleizer/status/1430036162974863360" inReplyToId="1430035773202468867" tweetUserName="scobleizer" />
+					</outline>
 				</outline>
 			<outline text="August 23" type="calendarDay" name="23" >
 				<outline text="Steve Jobs forbade his iPhone teams from hiring anyone who had worked on phones before. 
