@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 18 Aug 2021 14:53:38 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 16:11:48 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="&quot;Suggesting that the press’ dominant norms today are still grounded in mindless stenographic balance and bothsideism of the 1950s, I fear, mischaracterizes and oversimplifies how the press actually operates.&quot; &lt;a href=&quot;https://www.poynter.org/commentary/2021/what-can-journalists-do-about-the-unreality-crisis/&quot;&gt;[link]&lt;/a&gt;
+
+This is a good column. Read before you react." type="tweet" created="Tue, 24 Aug 2021 16:11:05 GMT" tweetId="1430201001068437505" urltweet="https://twitter.com/jayrosen_nyu/status/1430201001068437505" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 18" type="calendarDay" name="18" >
 				<outline text="Three lessons from a project devoted to understanding the membership model in journalism. &lt;a href=&quot;https://www.poynter.org/business-work/2021/3-lessons-from-a-project-devoted-to-understanding-membership/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 18 Aug 2021 14:52:54 GMT" tweetId="1428007001670434820" urltweet="https://twitter.com/jayrosen_nyu/status/1428007001670434820" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
