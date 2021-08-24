@@ -6,11 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 23 Aug 2021 17:17:52 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 05:14:37 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="I first saw Dolby Vision and Atmos (high dynamic range and surround sound) at its booth in CES a few years ago when its CTO gave me a sneak peak.
+
+They should be technologies of the year. Most people still don’t have them.
+
+Next year that will change in a big way.
+So amazing." type="tweet" created="Tue, 24 Aug 2021 05:14:31 GMT" tweetId="1430035773202468867" urltweet="https://twitter.com/scobleizer/status/1430035773202468867" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 23" type="calendarDay" name="23" >
 				<outline text="Steve Jobs forbade his iPhone teams from hiring anyone who had worked on phones before. 
 
