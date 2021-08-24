@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 18:04:26 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 21:42:40 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="When I worked at Microsoft 16 years ago I saw array microphones. Cost the researcher $10,000 to build with four microphones.
+
+Today my Apple Max headphones has nine microphones for $550. 
+
+The future is slow but it does get here." type="tweet" created="Tue, 24 Aug 2021 21:41:45 GMT" tweetId="1430284218802659328" urltweet="https://twitter.com/scobleizer/status/1430284218802659328" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The tech @MojoVisionInc is building is mind-blowing small. &lt;a href=&quot;https://twitter.com/anshelsag/status/1430226951248117762&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 18:04:02 GMT" tweetId="1430229425782616065" urltweet="https://twitter.com/scobleizer/status/1430229425782616065" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="You are invited to experience state of the art experience delivery. Next year all this will be obsolete and you will have better. &lt;a href=&quot;https://twitter.com/jackgillin/status/1430212305439002626&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 17:18:42 GMT" tweetId="1430218018626281474" urltweet="https://twitter.com/scobleizer/status/1430218018626281474" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Apple is coming. With a superior experience-delivery platform.
