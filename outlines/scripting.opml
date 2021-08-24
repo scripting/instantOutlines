@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 21:18:08 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 21:18:31 GMT</dateModified>
 		<expansionState>1,2,9,11</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 24" created="Tue, 24 Aug 2021 12:59:01 GMT" type="calendarDay" name="24" >
-				<outline text="Am I passionate about the idea of a &lt;a href=&quot;https://twitter.com/davewiner/status/1430150972123254799&quot;&gt;modular newsletter system&lt;/a&gt; so people can use the best editor for who they are? Yes, I am. Oh yes indeed. I'll keep beating the drum. I won't stop. That's how I am until I get what I want. :smile:" created="Tue, 24 Aug 2021 21:16:37 GMT" type="outline" />
+				<outline text="Am I passionate about the idea of a &lt;a href=&quot;https://twitter.com/davewiner/status/1430150972123254799&quot;&gt;modular newsletter system&lt;/a&gt; so &lt;s&gt;people&lt;/s&gt; writers can use the best editor for who they are? Yes, I am. Oh yes indeed. I'll keep beating the drum. I won't stop. That's how I am until I get what I want. :smile:" created="Tue, 24 Aug 2021 21:16:37 GMT" type="outline" />
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=zaKEcCAeSe8&quot;&gt;Undercover of the Night&lt;/a&gt;." created="Tue, 24 Aug 2021 17:23:57 GMT" type="outline" />
 				<outline text="Anyone know how to &lt;a href=&quot;https://twitter.com/davewiner/status/1430220866282000394&quot;&gt;enter Cmd-/&lt;/a&gt; on a German keyboard?" created="Tue, 24 Aug 2021 17:36:16 GMT" type="outline" />
 				<outline text="Unfortunately journalists don't stand for re-election. They are not term-limited. There is no journalism for journalism. Our opinions are not sought. But if we ever do get a chance to vote one of them out in some significant way, I bet a lot of people will line up to do it. I know I will. And I'm not talking about the people on Fox. " created="Tue, 24 Aug 2021 15:58:57 GMT" type="outline" />
