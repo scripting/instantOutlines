@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 02:18:54 GMT</dateModified>
-		<expansionState>1,2,9,13,14,20</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 24 Aug 2021 02:45:42 GMT</dateModified>
+		<expansionState>1,2,9,11,15,16,22</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -29,6 +29,9 @@
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Kristin_Chenoweth&quot;&gt;Kristin Chenoweth&lt;/a&gt; has the best &lt;a href=&quot;https://www.youtube.com/watch?v=_PmS5JIfSkk&quot;&gt;song&lt;/a&gt;. 
 " created="Mon, 23 Aug 2021 14:17:25 GMT" type="outline" />
 				<outline text="Remember how &lt;a href=&quot;https://www.npr.org/2012/09/01/160438753/how-government-became-a-dirty-word&quot;&gt;Reagan said&lt;/a&gt; government is the problem. He was wrong, it's actually journalism. " created="Mon, 23 Aug 2021 14:15:37 GMT" type="outline" />
+				<outline text="Edward Hopper" created="Tue, 24 Aug 2021 02:44:22 GMT" type="outline" >
+					<outline text="&lt;a href=&quot;https://www.wikiart.org/en/edward-hopper/summertime&quot;&gt;Summertime&lt;/a&gt;, 1943." created="Tue, 24 Aug 2021 02:44:26 GMT" inlineImage="http://scripting.com/images/2021/08/23/summertimeHopper1943.png" />
+					</outline>
 				</outline>
 			<outline text="August 22" created="Sun, 22 Aug 2021 14:28:52 GMT" type="calendarDay" name="22" >
 				<outline text="Today's song: &lt;a href=&quot;https://www.youtube.com/watch?v=TvMS_ykiLiQ&quot;&gt;City of New Orleans&lt;/a&gt;. " created="Mon, 23 Aug 2021 03:08:51 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=TvMS_ykiLiQ" />
