@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/rozzie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 12 Aug 2021 21:31:11 GMT</dateModified>
+		<dateModified>Tue, 24 Aug 2021 17:45:10 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r9</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="Truly a loss; a sad day. 
+
+(Not coincidentally, #BluesIncorporated ) &lt;a href=&quot;https://twitter.com/lennykravitz/status/1430221907899654156&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 17:44:12 GMT" tweetId="1430224435852754947" urltweet="https://twitter.com/rozzie/status/1430224435852754947" inReplyToId="" tweetUserName="rozzie" />
+				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
 				<outline text="Speaking of &quot;slippery slope&quot;, IOS 15 has a new feature called Live Text.
 
