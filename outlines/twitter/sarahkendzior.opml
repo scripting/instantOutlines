@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Wed, 25 Aug 2021 13:23:11 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 13:29:11 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Every week @gaslitnation does a bonus episode for Patreon subscribers. This week we posted clips from it on Twitter. Listen and subscribe to get the whole bonus episode and to keep our independent podcast going! &lt;a href=&quot;https://twitter.com/gaslitnation/status/1430294819314745355?s=20&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 13:29:04 GMT" tweetId="1430522617140817923" urltweet="https://twitter.com/sarahkendzior/status/1430522617140817923" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="&quot;If voting rights protections are not enacted, Joe Biden will be a placeholder president between an aspiring autocracy and an entrenched autocracy.&quot; -- @gaslitnation &lt;a href=&quot;https://www.patreon.com/posts/merkel-betrays-55310375&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 13:21:46 GMT" tweetId="1430520779943387136" urltweet="https://twitter.com/sarahkendzior/status/1430520779943387136" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="&quot;The crisis in Afghanistan is not going to be what loses the midterms for the Democrats. Not passing voting rights protections is what's going to lose the midterms for the Democrats.” -- @AndreaChalupa on @gaslitnation &lt;a href=&quot;https://www.patreon.com/posts/merkel-betrays-55310375&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 13:22:29 GMT" tweetId="1430520959962947588" urltweet="https://twitter.com/sarahkendzior/status/1430520959962947588" inReplyToId="1430520779943387136" tweetUserName="sarahkendzior" />
 					</outline>
