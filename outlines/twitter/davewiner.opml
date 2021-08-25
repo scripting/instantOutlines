@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 25 Aug 2021 09:02:37 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 09:47:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="The 17-Year-Old Soccer Star Who Plunged From a U.S. Military Jet. &lt;a href=&quot;https://www.wsj.com/articles/afghanistans-falling-man-the-17-year-old-soccer-star-who-plunged-from-a-u-s-military-jet-11629834591?mod=djemalertNEWS&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 09:46:53 GMT" tweetId="1430466705290059776" urltweet="https://twitter.com/davewiner/status/1430466705290059776" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Active Covid-19 cases per Capita in USA. 1/21/2020 - 8/23/2021. &lt;a href=&quot;https://www.reddit.com/r/dataisbeautiful/comments/pay78n/oc_active_covid19_cases_per_capita_in_usa_1212020/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 09:02:33 GMT" tweetId="1430455545006280705" urltweet="https://twitter.com/davewiner/status/1430455545006280705" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="August 24" type="calendarDay" name="24" >
