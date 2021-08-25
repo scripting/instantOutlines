@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Tue, 24 Aug 2021 19:05:42 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 09:02:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Active Covid-19 cases per Capita in USA. 1/21/2020 - 8/23/2021. &lt;a href=&quot;https://www.reddit.com/r/dataisbeautiful/comments/pay78n/oc_active_covid19_cases_per_capita_in_usa_1212020/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 09:02:33 GMT" tweetId="1430455545006280705" urltweet="https://twitter.com/davewiner/status/1430455545006280705" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 24" type="calendarDay" name="24" >
 				<outline text="Arrive at doctors appt exactly on time, the waiting room is filled, so I have to wait in my car. There are smokers in the room. When a new patient shows up I hear all about his medical history, which seems like a privacy violation." type="tweet" created="Tue, 24 Aug 2021 19:05:04 GMT" tweetId="1430244787182088194" urltweet="https://twitter.com/davewiner/status/1430244787182088194" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="I hate the smell of cigarette smoke. I've been waiting 1/2 hour already -- how long will I have to wait." type="tweet" created="Tue, 24 Aug 2021 19:05:04 GMT" tweetId="1430244788402540553" urltweet="https://twitter.com/davewiner/status/1430244788402540553" inReplyToId="1430244787182088194" tweetUserName="davewiner" />
