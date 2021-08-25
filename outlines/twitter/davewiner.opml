@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 25 Aug 2021 17:11:06 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 19:51:17 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="The Perils of Data Categorization. &lt;a href=&quot;https://om.co/2021/08/24/the-perils-of-data-categorization/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 19:50:38 GMT" tweetId="1430618642962599936" urltweet="https://twitter.com/davewiner/status/1430618642962599936" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Scrubbing Cuomo’s Emmy. &lt;a href=&quot;https://www.wsj.com/articles/scrubbing-andrew-cuomo-emmy-award-11629839528?mod=djemalertNEWS&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 17:10:43 GMT" tweetId="1430578399504998409" urltweet="https://twitter.com/davewiner/status/1430578399504998409" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="What I think of autonomous cars in two years.
 
