@@ -6,12 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 21:09:10 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 21:22:11 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Ted Lasso is a clandestine reeducation plot to teach that leaders can lead by being nice.
+
+People who don’t get this will soon be asked to leave Apple. 
+
+It is a hard thing culturally for Apple to deal with because of Steve Jobs.
+
+#AppleToo should be listened to." type="tweet" created="Wed, 25 Aug 2021 21:21:43 GMT" tweetId="1430641565001687042" urltweet="https://twitter.com/scobleizer/status/1430641565001687042" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The answer from a founder is ALWAYS yes if the answer is “we can’t talk about that yet.”
 
 Something I learned long ago.
