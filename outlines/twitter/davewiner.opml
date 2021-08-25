@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 25 Aug 2021 21:53:57 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 22:12:58 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="OPML Stands the Test of Time. &lt;a href=&quot;https://kevin.lexblog.com/2021/08/25/opml-stands-the-test-of-time/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 22:12:42 GMT" tweetId="1430654393372774410" urltweet="https://twitter.com/davewiner/status/1430654393372774410" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Ultra-Vaccinated Israel’s Crisis Is a Dire Warning to America. &lt;a href=&quot;https://www.thedailybeast.com/ultra-vaccinated-israels-debacle-is-a-dire-warning-to-america&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 21:53:19 GMT" tweetId="1430649516185763844" urltweet="https://twitter.com/davewiner/status/1430649516185763844" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Perils of Data Categorization. &lt;a href=&quot;https://om.co/2021/08/24/the-perils-of-data-categorization/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 19:50:38 GMT" tweetId="1430618642962599936" urltweet="https://twitter.com/davewiner/status/1430618642962599936" tweetUserName="davewiner" />
 				<outline text="Scrubbing Cuomo’s Emmy. &lt;a href=&quot;https://www.wsj.com/articles/scrubbing-andrew-cuomo-emmy-award-11629839528?mod=djemalertNEWS&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 17:10:43 GMT" tweetId="1430578399504998409" urltweet="https://twitter.com/davewiner/status/1430578399504998409" tweetUserName="davewiner" />
