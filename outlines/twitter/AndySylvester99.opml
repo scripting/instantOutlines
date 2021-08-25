@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/AndySylvester99.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 23 Jul 2021 21:39:26 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 23:24:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r4</urlInstant>
 		</head>
 	<body>
+		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Starting a new podcast - Thinking about Tools for Thought, will be moving it to a domain soon, but episode 1 is out #ToolsForThought &lt;a href=&quot;https://andysylvester.com/2021/08/25/thinking-about-tools-for-thought-episode-001/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 23:23:36 GMT" tweetId="1430672235912523777" urltweet="https://twitter.com/AndySylvester99/status/1430672235912523777" inReplyToId="" tweetUserName="AndySylvester99" />
+				</outline>
+			</outline>
 		<outline text="January 2021" type="calendarMonth" name="january2021" >
 			<outline text="January 21" type="calendarDay" name="21" >
 				<outline text="Schedule for my dog Joey (“Mr. President”) for January 21, 2021 (all times PST): &lt;a href=&quot;https://andysylvester.com/2021/01/21/2221/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 21 Jan 2021 18:00:34 GMT" tweetId="1352315164272455681" urltweet="https://twitter.com/AndySylvester99/status/1352315164272455681" tweetUserName="AndySylvester99" />
