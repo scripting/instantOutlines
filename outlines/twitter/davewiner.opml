@@ -7,11 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 25 Aug 2021 16:23:03 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 16:46:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="What I think of autonomous cars in two years.
+
+https://t.co/DBzQJupfWC" type="tweet" created="Wed, 25 Aug 2021 16:43:23 GMT" tweetId="1430571520548610055" urltweet="https://twitter.com/davewiner/status/1430571520548610055" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I saw somewhere the Biden's approval numbers are down because the virus is booming.
 
 This is wrong. He's doing the job we hired him to do. 
