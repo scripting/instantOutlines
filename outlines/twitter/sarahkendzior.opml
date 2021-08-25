@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pu</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/sarahkendzior.opml</urlPublic>
-		<dateModified>Tue, 24 Aug 2021 23:33:18 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 00:01:20 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 24" type="calendarDay" name="24" >
+				<outline text="Thread &lt;a href=&quot;https://twitter.com/lynzforcongress/status/1430293109716496388&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 00:00:52 GMT" tweetId="1430319225730748430" urltweet="https://twitter.com/sarahkendzior/status/1430319225730748430" inReplyToId="" tweetUserName="sarahkendzior" />
 				<outline text="“Rocks Off” &lt;a href=&quot;https://twitter.com/illinifan2003/status/1430233580056334344&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 23:32:10 GMT" tweetId="1430312006238752776" urltweet="https://twitter.com/sarahkendzior/status/1430312006238752776" inReplyToId="" tweetUserName="sarahkendzior" >
 					<outline text="🎵 “The sunshine bores the daylights out of me…” 🎵" type="tweet" created="Tue, 24 Aug 2021 23:32:52 GMT" tweetId="1430312180499558405" urltweet="https://twitter.com/sarahkendzior/status/1430312180499558405" inReplyToId="1430312006238752776" tweetUserName="sarahkendzior" />
 					</outline>
