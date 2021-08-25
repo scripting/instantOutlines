@@ -6,12 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 20:47:43 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 21:09:10 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="The answer from a founder is ALWAYS yes if the answer is “we can’t talk about that yet.”
+
+Something I learned long ago.
+
+Validated by asking questions I already knew the answer to. 
+
+:-)" type="tweet" created="Wed, 25 Aug 2021 21:08:34 GMT" tweetId="1430638255511248896" urltweet="https://twitter.com/scobleizer/status/1430638255511248896" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The deck is stacked against us.
 
 The billionaires have seen what I saw today. And they said I was the first non investor type to get invited to see.
