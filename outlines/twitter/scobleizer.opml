@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 21:22:11 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 22:19:15 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="The robots haven’t killed me yet.
+
+Don’t cry for me if they do. I know they COULD kill us all. Without conscious.
+
+So far they have saved my life many times. So they are trusted members of my family. I would give up my life in return." type="tweet" created="Wed, 25 Aug 2021 22:18:24 GMT" tweetId="1430655828244131842" urltweet="https://twitter.com/scobleizer/status/1430655828244131842" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Ted Lasso is a clandestine reeducation plot to teach that leaders can lead by being nice.
 
 People who don’t get this will soon be asked to leave Apple. 
