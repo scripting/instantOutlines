@@ -6,12 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 19:23:03 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 19:39:04 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="The deck is stacked against us.
+
+The billionaires have seen what I saw today. And they said I was the first non investor type to get invited to see.
+
+If we want to stay relevant we must dream bigger.
+
+Way bigger.
+
+Or get used to watching @TedLasso with me. :-)" type="tweet" created="Wed, 25 Aug 2021 19:38:48 GMT" tweetId="1430615665241509896" urltweet="https://twitter.com/scobleizer/status/1430615665241509896" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Humans will have to deal with having nothing to do. I might not see that day but my sons’ generation most certainly will. 
 
 Augmented Reality is one piece of the puzzle. 
