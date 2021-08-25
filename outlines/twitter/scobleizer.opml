@@ -6,12 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 16:37:52 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 19:11:02 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="I am starting a new company after what I just saw @helm_ai 
+
+Work suite freeway edition. 
+
+You will be riding in an autonomous car soon.
+
+Or visit an autonomous car wash. Dry cleaner. Restaurant.
+
+So much is about to change." type="tweet" created="Wed, 25 Aug 2021 19:10:10 GMT" tweetId="1430608459225976834" urltweet="https://twitter.com/scobleizer/status/1430608459225976834" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="They did one of VR’s most popular games. Going after Zoom which needs disruption. Big time. &lt;a href=&quot;https://twitter.com/gtjuggler/status/1430204689140813835&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 16:36:52 GMT" tweetId="1430569878818152451" urltweet="https://twitter.com/scobleizer/status/1430569878818152451" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="I can’t show you the autonomous car behind the fence.
 
