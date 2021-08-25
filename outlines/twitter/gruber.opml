@@ -7,37 +7,37 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Mon, 16 Aug 2021 08:57:18 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 20:47:42 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 16" type="calendarDay" name="16" >
-				<outline text="Maybe that’s why Chrome is so memory and energy efficient. &lt;a href=&quot;https://twitter.com/aboodman/status/1427137725119959046&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 08:56:57 GMT" tweetId="1427192645537906690" urltweet="https://twitter.com/gruber/status/1427192645537906690" inReplyToId="" tweetUserName="gruber" />
+				<outline text="Maybe that’s why Chrome is so memory and energy efficient. &lt;a href=&quot;https://twitter.com/aboodman/status/1427137725119959046&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 08:56:57 GMT" tweetId="1427192645537906690" urltweet="https://twitter.com/gruber/status/1427192645537906690" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 14" type="calendarDay" name="14" >
-				<outline text="The South shall rise again. &lt;a href=&quot;https://twitter.com/gruber/status/1426660198811422721/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 21:41:12 GMT" tweetId="1426660198811422721" urltweet="https://twitter.com/gruber/status/1426660198811422721" inReplyToId="" tweetUserName="gruber" />
-				<outline text="Drexel’s campus has improved a lot since my time there. &lt;a href=&quot;https://twitter.com/gruber/status/1426617735472103434/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 18:52:28 GMT" tweetId="1426617735472103434" urltweet="https://twitter.com/gruber/status/1426617735472103434" inReplyToId="" tweetUserName="gruber" />
+				<outline text="The South shall rise again. &lt;a href=&quot;https://twitter.com/gruber/status/1426660198811422721/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 21:41:12 GMT" tweetId="1426660198811422721" urltweet="https://twitter.com/gruber/status/1426660198811422721" tweetUserName="gruber" />
+				<outline text="Drexel’s campus has improved a lot since my time there. &lt;a href=&quot;https://twitter.com/gruber/status/1426617735472103434/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 14 Aug 2021 18:52:28 GMT" tweetId="1426617735472103434" urltweet="https://twitter.com/gruber/status/1426617735472103434" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 13" type="calendarDay" name="13" >
-				<outline text="&lt;a href=&quot;https://daringfireball.net/linked/2011/02/02/mantle-under-the-bleacher&quot;&gt;[link]&lt;/a&gt; https://t.co/lnqznItyqT" type="tweet" created="Sat, 14 Aug 2021 03:02:29 GMT" tweetId="1426378665584115713" urltweet="https://twitter.com/gruber/status/1426378665584115713" inReplyToId="" tweetUserName="gruber" />
+				<outline text="&lt;a href=&quot;https://daringfireball.net/linked/2011/02/02/mantle-under-the-bleacher&quot;&gt;[link]&lt;/a&gt; https://t.co/lnqznItyqT" type="tweet" created="Sat, 14 Aug 2021 03:02:29 GMT" tweetId="1426378665584115713" urltweet="https://twitter.com/gruber/status/1426378665584115713" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
-				<outline text="Just double-checking here. iOS/iPadOS 15 still doesn’t support printing pages 2-up or 4-up, meaning its printing capabilities still lag behind System 7 circa ~25 years ago?" type="tweet" created="Thu, 12 Aug 2021 21:41:12 GMT" tweetId="1425935422811693056" urltweet="https://twitter.com/gruber/status/1425935422811693056" inReplyToId="" tweetUserName="gruber" />
-				<outline text="Written two years ago. Prescient. &lt;a href=&quot;https://twitter.com/rjonesy/status/1195032113340387329&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 14:55:23 GMT" tweetId="1425833298899570698" urltweet="https://twitter.com/gruber/status/1425833298899570698" inReplyToId="" tweetUserName="gruber" />
+				<outline text="Just double-checking here. iOS/iPadOS 15 still doesn’t support printing pages 2-up or 4-up, meaning its printing capabilities still lag behind System 7 circa ~25 years ago?" type="tweet" created="Thu, 12 Aug 2021 21:41:12 GMT" tweetId="1425935422811693056" urltweet="https://twitter.com/gruber/status/1425935422811693056" tweetUserName="gruber" />
+				<outline text="Written two years ago. Prescient. &lt;a href=&quot;https://twitter.com/rjonesy/status/1195032113340387329&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 14:55:23 GMT" tweetId="1425833298899570698" urltweet="https://twitter.com/gruber/status/1425833298899570698" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 11" type="calendarDay" name="11" >
-				<outline text="I’ve noticed this a few times a year, for several years. &lt;a href=&quot;https://twitter.com/jonathanchait/status/1425621132921692162&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 01:06:44 GMT" tweetId="1425624762848628740" urltweet="https://twitter.com/gruber/status/1425624762848628740" inReplyToId="" tweetUserName="gruber" />
+				<outline text="I’ve noticed this a few times a year, for several years. &lt;a href=&quot;https://twitter.com/jonathanchait/status/1425621132921692162&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 12 Aug 2021 01:06:44 GMT" tweetId="1425624762848628740" urltweet="https://twitter.com/gruber/status/1425624762848628740" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 7" type="calendarDay" name="07" >
-				<outline text="Nice try, France." type="tweet" created="Sat, 07 Aug 2021 05:01:55 GMT" tweetId="1423872008081846272" urltweet="https://twitter.com/gruber/status/1423872008081846272" inReplyToId="" tweetUserName="gruber" />
+				<outline text="Nice try, France." type="tweet" created="Sat, 07 Aug 2021 05:01:55 GMT" tweetId="1423872008081846272" urltweet="https://twitter.com/gruber/status/1423872008081846272" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 6" type="calendarDay" name="06" >
-				<outline text="A good story well told, indeed. &lt;a href=&quot;https://twitter.com/KristerJohnson/status/1423393547181461504&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 23:58:00 GMT" tweetId="1423795526177370129" urltweet="https://twitter.com/gruber/status/1423795526177370129" inReplyToId="" tweetUserName="gruber" />
-				<outline text="Mind-boggling that anyone thinks this looks good, or isn’t bothered by the fact that it’s very hard to see which tab is selected. &lt;a href=&quot;https://twitter.com/stevex/status/1423604246348500997&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 15:34:04 GMT" tweetId="1423668703732903938" urltweet="https://twitter.com/gruber/status/1423668703732903938" inReplyToId="" tweetUserName="gruber" />
-				<outline text="Good thing I’m wearing my tab-closing pants today. &lt;a href=&quot;https://twitter.com/gruber/status/1423644404242395136/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 13:57:30 GMT" tweetId="1423644404242395136" urltweet="https://twitter.com/gruber/status/1423644404242395136" inReplyToId="" tweetUserName="gruber" />
+				<outline text="A good story well told, indeed. &lt;a href=&quot;https://twitter.com/KristerJohnson/status/1423393547181461504&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 23:58:00 GMT" tweetId="1423795526177370129" urltweet="https://twitter.com/gruber/status/1423795526177370129" tweetUserName="gruber" />
+				<outline text="Mind-boggling that anyone thinks this looks good, or isn’t bothered by the fact that it’s very hard to see which tab is selected. &lt;a href=&quot;https://twitter.com/stevex/status/1423604246348500997&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 15:34:04 GMT" tweetId="1423668703732903938" urltweet="https://twitter.com/gruber/status/1423668703732903938" tweetUserName="gruber" />
+				<outline text="Good thing I’m wearing my tab-closing pants today. &lt;a href=&quot;https://twitter.com/gruber/status/1423644404242395136/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 13:57:30 GMT" tweetId="1423644404242395136" urltweet="https://twitter.com/gruber/status/1423644404242395136" tweetUserName="gruber" />
 				</outline>
 			<outline text="August 5" type="calendarDay" name="05" >
-				<outline text="Dumb. &lt;a href=&quot;https://twitter.com/atrupar/status/1423438848282005507&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 01:58:48 GMT" tweetId="1423463537490513926" urltweet="https://twitter.com/gruber/status/1423463537490513926" inReplyToId="" tweetUserName="gruber" />
+				<outline text="Dumb. &lt;a href=&quot;https://twitter.com/atrupar/status/1423438848282005507&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 06 Aug 2021 01:58:48 GMT" tweetId="1423463537490513926" urltweet="https://twitter.com/gruber/status/1423463537490513926" tweetUserName="gruber" />
 				</outline>
 			</outline>
 		<outline text="July 2021" type="calendarMonth" name="july2021" >
