@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 21:53:50 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 21:55:05 GMT</dateModified>
 		<expansionState>1,2,5,7,12,19,21</expansionState>
-		<lastCursor>6</lastCursor>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -28,9 +28,9 @@
 					</outline>
 				<outline text="Autonomous cars everywhere, no no no" created="Wed, 25 Aug 2021 16:38:42 GMT" type="outline" metaImage="http://scripting.com/images/2021/08/25/carmess.png" description="I imagined a car plowing into a crowd and killing twenty innocent people because some idiot at Apple decided to change the order of the params..." >
 					<outline text="I remember a couple of years ago when people were confidently saying that by now the streets would be full of autonomous cars. " created="Wed, 25 Aug 2021 16:38:54 GMT" />
-					<outline text="They snickered when people like me who have spent a life programming thought that was a pretty shitty idea. Who would even want to go out for a walk with driverless cars all over the place, subject to the mistakes programmers make, or the the callous deprecations of platform vendors. " created="Wed, 25 Aug 2021 16:42:34 GMT" />
+					<outline text="They snickered when people like me who have spent a life programming thought that was a pretty shitty idea. Who would even want to go out for a walk with driverless cars all over the place, subject to the programmers' mistakes, or the the callous deprecations of platform vendors. " created="Wed, 25 Aug 2021 16:42:34 GMT" />
 					<outline text="I imagined a car plowing into a crowd and killing twenty innocent people because some idiot at Apple decided to change the order the params of an API because they felt like it, and the car software dev missed the notice and didn't update the car's OS. " created="Wed, 25 Aug 2021 16:41:20 GMT" />
-					<outline text="Oh sure I want software doing all the driving after less than tw years of a burn in. Yeah that makes all the sense in the world (Sorry for the sarcasm.)" created="Wed, 25 Aug 2021 16:41:32 GMT" />
+					<outline text="Oh sure I want software doing all the driving after less than two years of a burn in. Yeah that makes all the sense in the world. (Sorry for the sarcasm.)" created="Wed, 25 Aug 2021 16:41:32 GMT" />
 					</outline>
 				</outline>
 			<outline text="August 24" created="Tue, 24 Aug 2021 12:59:01 GMT" type="calendarDay" name="24" >
