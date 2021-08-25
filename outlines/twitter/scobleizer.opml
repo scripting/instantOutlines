@@ -6,12 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 19:11:02 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 19:23:03 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Humans will have to deal with having nothing to do. I might not see that day but my sons’ generation most certainly will. 
+
+Augmented Reality is one piece of the puzzle. 
+
+No one is thinking of all the second-order effects of what comes after autonomous vehicles are here. &lt;a href=&quot;https://twitter.com/scobleizer/status/1430608459225976834&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 19:22:21 GMT" tweetId="1430611524721070081" urltweet="https://twitter.com/scobleizer/status/1430611524721070081" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="I am starting a new company after what I just saw @helm_ai 
 
 Work suite freeway edition. 
