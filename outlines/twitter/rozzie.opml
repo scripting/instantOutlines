@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/rozzie.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 17:45:10 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 20:47:44 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/r9</urlInstant>
 		</head>
 	<body>
@@ -14,7 +14,7 @@
 			<outline text="August 24" type="calendarDay" name="24" >
 				<outline text="Truly a loss; a sad day. 
 
-(Not coincidentally, #BluesIncorporated ) &lt;a href=&quot;https://twitter.com/lennykravitz/status/1430221907899654156&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 17:44:12 GMT" tweetId="1430224435852754947" urltweet="https://twitter.com/rozzie/status/1430224435852754947" inReplyToId="" tweetUserName="rozzie" />
+(Not coincidentally, #BluesIncorporated ) &lt;a href=&quot;https://twitter.com/lennykravitz/status/1430221907899654156&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 17:44:12 GMT" tweetId="1430224435852754947" urltweet="https://twitter.com/rozzie/status/1430224435852754947" tweetUserName="rozzie" />
 				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
 				<outline text="Speaking of &quot;slippery slope&quot;, IOS 15 has a new feature called Live Text.
@@ -25,13 +25,13 @@ Safari, Photos, Camera.
 
 What other kinds of recognizers can be added?
 
-Asking for a friend." type="tweet" created="Thu, 12 Aug 2021 21:23:43 GMT" tweetId="1425931024039661569" urltweet="https://twitter.com/rozzie/status/1425931024039661569" inReplyToId="" tweetUserName="rozzie" >
+Asking for a friend." type="tweet" created="Thu, 12 Aug 2021 21:23:43 GMT" tweetId="1425931024039661569" urltweet="https://twitter.com/rozzie/status/1425931024039661569" tweetUserName="rozzie" >
 					<outline text="Seriously, as I discussed with the cloud files/photos teams and attorneys when at Microsoft, once you add content analysis at the IaaS layer either on cloud or on device, there will be no end to the discussion because there is *no* technical limit to what can be watched." type="tweet" created="Thu, 12 Aug 2021 21:30:27 GMT" tweetId="1425932717296865283" urltweet="https://twitter.com/rozzie/status/1425932717296865283" inReplyToId="1425931024039661569" tweetUserName="rozzie" />
 					</outline>
 				</outline>
 			<outline text="August 10" type="calendarDay" name="10" >
 				<outline text="I love this new board, and our new partnership with @sparkfun !
-&lt;a href=&quot;https://www.sparkfun.com/products/17114&quot;&gt;[link]&lt;/a&gt; https://t.co/Up0ZU35mFu" type="tweet" created="Tue, 10 Aug 2021 14:42:38 GMT" tweetId="1425105311157952519" urltweet="https://twitter.com/rozzie/status/1425105311157952519" inReplyToId="" tweetUserName="rozzie" />
+&lt;a href=&quot;https://www.sparkfun.com/products/17114&quot;&gt;[link]&lt;/a&gt; https://t.co/Up0ZU35mFu" type="tweet" created="Tue, 10 Aug 2021 14:42:38 GMT" tweetId="1425105311157952519" urltweet="https://twitter.com/rozzie/status/1425105311157952519" tweetUserName="rozzie" />
 				</outline>
 			</outline>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
