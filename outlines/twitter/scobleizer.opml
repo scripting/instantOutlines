@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 01:28:55 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 04:54:08 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Steve Wozniak, Apple’s cofounder, taught me that if you want the rich person’s toys just stay alive. In 1989 when an inferior-to-today’s $70 printer cost $45,000. He had one. He showed it to me. I wanted it. Now I have way way better than I ever dreamed of." type="tweet" created="Wed, 25 Aug 2021 04:53:59 GMT" tweetId="1430392993123508229" urltweet="https://twitter.com/scobleizer/status/1430392993123508229" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 24" type="calendarDay" name="24" >
 				<outline text="This is why all my friends are nerds. They figure stuff like this out so I don’t have to. &lt;a href=&quot;https://twitter.com/id_aa_carmack/status/1430320258934583299&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 01:28:37 GMT" tweetId="1430341311324774400" urltweet="https://twitter.com/scobleizer/status/1430341311324774400" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="Having your Tesla drive you around Silicon Valley while playing @LilTunechi at full volume does make me feel like a gangster. Even if not deserved.
