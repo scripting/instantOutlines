@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 16:31:52 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 16:34:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -16,7 +16,9 @@
 
 Signed an NDA to meet a friend for breakfast. Who works for a stealth AI startup In Menlo Park.
 
-Only in Silicon Valley. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1430568548284329984/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 16:31:35 GMT" tweetId="1430568548284329984" urltweet="https://twitter.com/scobleizer/status/1430568548284329984" inReplyToId="" tweetUserName="scobleizer" />
+Only in Silicon Valley. &lt;a href=&quot;https://twitter.com/Scobleizer/status/1430568548284329984/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 16:31:35 GMT" tweetId="1430568548284329984" urltweet="https://twitter.com/scobleizer/status/1430568548284329984" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="I have a list of everyone in the space that I can find, though: &lt;a href=&quot;https://twitter.com/i/lists/956617160733818880&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 16:34:02 GMT" tweetId="1430569164977016839" urltweet="https://twitter.com/scobleizer/status/1430569164977016839" inReplyToId="1430568548284329984" tweetUserName="scobleizer" />
+					</outline>
 				<outline text="Steve Wozniak, Apple’s cofounder, taught me that if you want the rich person’s toys just stay alive. In 1989 when an inferior-to-today’s $70 printer cost $45,000. He had one. He showed it to me. I wanted it. Now I have way way better than I ever dreamed of." type="tweet" created="Wed, 25 Aug 2021 04:53:59 GMT" tweetId="1430392993123508229" urltweet="https://twitter.com/scobleizer/status/1430392993123508229" inReplyToId="" tweetUserName="scobleizer" />
 				</outline>
 			<outline text="August 24" type="calendarDay" name="24" >
