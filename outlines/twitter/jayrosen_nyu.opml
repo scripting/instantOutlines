@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 24 Aug 2021 16:30:49 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 20:22:36 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Outstanding analysis of the &quot;ostensibly neutral correspondents and anchors&quot; performance during the final stages of U.S. withdrawal from Afghanistan. &lt;a href=&quot;https://twitter.com/EricLevitz/status/1430611778581536772&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 20:21:35 GMT" tweetId="1430626429423730690" urltweet="https://twitter.com/jayrosen_nyu/status/1430626429423730690" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 24" type="calendarDay" name="24" >
 				<outline text="This got so bad during the Trump years that Dean Baquet had to say on Meet the Press, &quot;no more diners.&quot; &lt;a href=&quot;https://twitter.com/daveweigel/status/1429818445508579335&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 24 Aug 2021 16:30:08 GMT" tweetId="1430205794952286210" urltweet="https://twitter.com/jayrosen_nyu/status/1430205794952286210" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;Suggesting that the press’ dominant norms today are still grounded in mindless stenographic balance and bothsideism of the 1950s, I fear, mischaracterizes and oversimplifies how the press actually operates.&quot; &lt;a href=&quot;https://www.poynter.org/commentary/2021/what-can-journalists-do-about-the-unreality-crisis/&quot;&gt;[link]&lt;/a&gt;
