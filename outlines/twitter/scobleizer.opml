@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 16:34:52 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 16:37:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="They did one of VR’s most popular games. Going after Zoom which needs disruption. Big time. &lt;a href=&quot;https://twitter.com/gtjuggler/status/1430204689140813835&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 16:36:52 GMT" tweetId="1430569878818152451" urltweet="https://twitter.com/scobleizer/status/1430569878818152451" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="I can’t show you the autonomous car behind the fence.
 
 Signed an NDA to meet a friend for breakfast. Who works for a stealth AI startup In Menlo Park.
