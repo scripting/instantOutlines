@@ -7,11 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Wed, 25 Aug 2021 10:15:24 GMT</dateModified>
+		<dateModified>Wed, 25 Aug 2021 10:25:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Have you ever missed the foldable drawers in org-mode? &lt;a href=&quot;https://github.com/llcc&quot;&gt;[link]&lt;/a&gt; just make it happen! 🔥🔥 
+Drawers will be included in the next release! https://t.co/dUxs8PXxdq" type="tweet" created="Wed, 25 Aug 2021 10:24:37 GMT" tweetId="1430476197520035846" urltweet="https://twitter.com/logseq/status/1430476197520035846" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you for the shout out! &lt;a href=&quot;https://twitter.com/Your_Next_Habit/status/1430010808180871168&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 10:15:02 GMT" tweetId="1430473788177539075" urltweet="https://twitter.com/logseq/status/1430473788177539075" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you very much for the support! &lt;a href=&quot;https://twitter.com/davclark/status/1430220201652490240&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 10:12:22 GMT" tweetId="1430473114350096387" urltweet="https://twitter.com/logseq/status/1430473114350096387" inReplyToId="" tweetUserName="logseq" />
 				</outline>
