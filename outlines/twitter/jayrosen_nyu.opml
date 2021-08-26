@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 26 Aug 2021 15:17:09 GMT</dateModified>
+		<dateModified>Thu, 26 Aug 2021 16:02:20 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 26" type="calendarDay" name="26" >
+				<outline text="In this article from the Washington Post about her and covering Trump, Maggie Haberman describes a “weirdness where he was making an outrageous claim that we had to cover, and then in response to that story, he made another claim that we had to cover...&quot; &lt;a href=&quot;https://www.washingtonpost.com/lifestyle/media/maggie-haberman-trump/2021/08/25/87374bbe-efbe-11eb-81d2-ffae0f931b8f_story.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 26 Aug 2021 16:01:26 GMT" tweetId="1430923350856056843" urltweet="https://twitter.com/jayrosen_nyu/status/1430923350856056843" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="&quot;Republicans communicate to their base through a media that functionally operates as part of their party, while Democrats communicate to their base through a media that still exerts substantial independence.&quot; &lt;a href=&quot;https://nymag.com/intelligencer/2021/08/why-the-media-is-worse-for-biden-than-trump.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 26 Aug 2021 15:16:44 GMT" tweetId="1430912100113653765" urltweet="https://twitter.com/jayrosen_nyu/status/1430912100113653765" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				<outline text="Ten years ago today I published, &quot;Why Political Coverage is Broken,&quot; now probably my most-read post.  &lt;a href=&quot;https://pressthink.org/2011/08/why-political-coverage-is-broken/&quot;&gt;[link]&lt;/a&gt; 
 
