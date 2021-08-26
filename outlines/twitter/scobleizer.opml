@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 26 Aug 2021 02:51:32 GMT</dateModified>
+		<dateModified>Thu, 26 Aug 2021 06:15:45 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 26" type="calendarDay" name="26" >
+				<outline text="TikTok just bought a VR company.
+
+Hype meter will peg at 10 for the next few months. At least the next 14. 
+
+Christmas will be disrupted. &lt;a href=&quot;https://twitter.com/thearperson/status/1430774820954787843&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 26 Aug 2021 06:15:24 GMT" tweetId="1430775868071186433" urltweet="https://twitter.com/scobleizer/status/1430775868071186433" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 25" type="calendarDay" name="25" >
 				<outline text="My friend @thomashawk takes the best photos. Here he shot me having AI drive me across the Golden Gate Bridge. &lt;a href=&quot;https://www.flickr.com/photos/thomashawk/51403018334/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 26 Aug 2021 02:51:30 GMT" tweetId="1430724556616994818" urltweet="https://twitter.com/scobleizer/status/1430724556616994818" inReplyToId="" tweetUserName="scobleizer" />
 				<outline text="The robots haven’t killed me yet.
