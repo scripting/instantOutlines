@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Wed, 25 Aug 2021 23:34:03 GMT</dateModified>
+		<dateModified>Thu, 26 Aug 2021 01:49:12 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="If the next variant is as bad relative to the current variant, as it is to the original, a lot of us will get very sick, whether or not we’re vaccinated." type="tweet" created="Thu, 26 Aug 2021 01:48:59 GMT" tweetId="1430708821576540160" urltweet="https://twitter.com/davewiner/status/1430708821576540160" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Boston “skinny house” for sale. &lt;a href=&quot;https://www.zillow.com/homedetails/44-Hull-St-Boston-MA-02113/59181015_zpid/&quot;&gt;[link]&lt;/a&gt;?" type="tweet" created="Wed, 25 Aug 2021 23:33:08 GMT" tweetId="1430674635742400517" urltweet="https://twitter.com/davewiner/status/1430674635742400517" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Pelosi reprimands Moulton and Meijer over trip to Kabul. &lt;a href=&quot;https://www.axios.com/pelosi-moulton-meijer-kabul-ad1056c7-4e91-49d8-8d06-358595e52e62.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 23:25:00 GMT" tweetId="1430672590964727811" urltweet="https://twitter.com/davewiner/status/1430672590964727811" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The way we’re responding to Covid is exactly like the way we respond to climate change. Only it’s happening much more quickly." type="tweet" created="Wed, 25 Aug 2021 22:30:00 GMT" tweetId="1430658746229854209" urltweet="https://twitter.com/davewiner/status/1430658746229854209" inReplyToId="" tweetUserName="davewiner" />
