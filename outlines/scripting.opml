@@ -14,14 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 26 Aug 2021 18:39:44 GMT</dateModified>
+		<dateModified>Thu, 26 Aug 2021 18:41:55 GMT</dateModified>
 		<expansionState>1,2,5,9,10,14,19,21,28,30</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 26" created="Thu, 26 Aug 2021 16:31:15 GMT" type="calendarDay" name="26" >
-				<outline text="Here's the thing about the Taliban and ISIS -- they're competing for the same soldiers, and as long as ISIS is attacking and hurting the US, they're going to recruit more soldiers, primarily from the Taliban. So the Taliban &quot;controls&quot; Afghanistan in a very temporary way. They're going to be fighting other radicals for a long time to come. " created="Thu, 26 Aug 2021 18:38:50 GMT" type="outline" />
+				<outline text="Here's the thing about the Taliban and ISIS -- they're competing for the same soldiers, and as long as ISIS is attacking and hurting the US, they're going to recruit more soldiers, primarily from the Taliban. So the Taliban &quot;controls&quot; Afghanistan in a temporary way. They're going to be fighting other radicals for a long time to come. " created="Thu, 26 Aug 2021 18:38:50 GMT" type="outline" />
 				<outline text="Sometimes your “liberty” isn’t the most important thing." created="Thu, 26 Aug 2021 16:31:16 GMT" type="outline" />
 				</outline>
 			<outline text="August 25" created="Wed, 25 Aug 2021 13:01:09 GMT" type="calendarDay" name="25" >
