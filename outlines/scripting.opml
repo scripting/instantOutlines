@@ -14,12 +14,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 26 Aug 2021 01:26:44 GMT</dateModified>
-		<expansionState>1,2,6,7,11,16,18,25,27</expansionState>
+		<dateModified>Thu, 26 Aug 2021 16:31:18 GMT</dateModified>
+		<expansionState>1,2,4,8,9,13,18,20,27,29</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
+			<outline text="August 26" created="Thu, 26 Aug 2021 16:31:15 GMT" type="calendarDay" name="26" >
+				<outline text="Sometimes your “liberty” isn’t the most important thing." created="Thu, 26 Aug 2021 16:31:16 GMT" type="outline" />
+				</outline>
 			<outline text="August 25" created="Wed, 25 Aug 2021 13:01:09 GMT" type="calendarDay" name="25" >
 				<outline text="The way we’re responding to Covid is exactly like the way we respond to climate change. Only it’s happening much more quickly." created="Thu, 26 Aug 2021 01:26:42 GMT" type="outline" />
 				<outline text="I wanted to try &lt;a href=&quot;https://holly.plus/&quot;&gt;Holly+&lt;/a&gt; so I recorded a song but got &quot;error&quot; and &lt;a href=&quot;http://scripting.com/2021/08/25/Song2.m4a&quot;&gt;did another&lt;/a&gt;, and also got an error. Disappointed. I thought it was a good idea. Maybe my songs weren't good enough. Oh la.  " created="Wed, 25 Aug 2021 16:32:33 GMT" type="outline" />
