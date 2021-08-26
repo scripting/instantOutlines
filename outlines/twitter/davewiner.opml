@@ -7,11 +7,14 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Thu, 26 Aug 2021 18:34:16 GMT</dateModified>
+		<dateModified>Thu, 26 Aug 2021 18:40:16 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 26" type="calendarDay" name="26" >
+				<outline text="Here's the thing about the Taliban and ISIS -- they're competing for the same soldiers, and as long as ISIS is attacking and hurting the US, they're going to recruit more soldiers, primarily from the Taliban." type="tweet" created="Thu, 26 Aug 2021 18:39:21 GMT" tweetId="1430963089130799105" urltweet="https://twitter.com/davewiner/status/1430963089130799105" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="So the Taliban &quot;controls&quot; Afghanistan in a temporary way. They're going to be fighting other radicals for a long time." type="tweet" created="Thu, 26 Aug 2021 18:39:21 GMT" tweetId="1430963090368118785" urltweet="https://twitter.com/davewiner/status/1430963090368118785" inReplyToId="1430963089130799105" tweetUserName="davewiner" />
+					</outline>
 				<outline text="The 10 Best Kurt Vonnegut Books. &lt;a href=&quot;https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/72006-the-10-best-kurt-vonnegut-books.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 26 Aug 2021 18:33:49 GMT" tweetId="1430961697741737991" urltweet="https://twitter.com/davewiner/status/1430961697741737991" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="12-year-old coder made 6-figures selling Weird Whales NFTs. &lt;a href=&quot;https://www.cnbc.com/2021/08/25/12-year-old-coder-made-6-figures-selling-weird-whales-nfts.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 26 Aug 2021 13:33:40 GMT" tweetId="1430886161698938880" urltweet="https://twitter.com/davewiner/status/1430886161698938880" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Portugal’s radical drugs policy is working. Why hasn’t the world copied it? &lt;a href=&quot;https://www.theguardian.com/news/2017/dec/05/portugals-radical-drugs-policy-is-working-why-hasnt-the-world-copied-it&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 26 Aug 2021 10:58:48 GMT" tweetId="1430847190566584322" urltweet="https://twitter.com/davewiner/status/1430847190566584322" inReplyToId="" tweetUserName="davewiner" />
