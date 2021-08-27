@@ -7,11 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 27 Aug 2021 15:10:48 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 15:15:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="0.3.6 release: &lt;a href=&quot;https://github.com/logseq/logseq/releases/tag/0.3.6&quot;&gt;[link]&lt;/a&gt;
+Full changelog at https://t.co/hW13PmPzST https://t.co/rR3J0WnsqM" type="tweet" created="Fri, 27 Aug 2021 15:14:48 GMT" tweetId="1431274003725893639" urltweet="https://twitter.com/logseq/status/1431274003725893639" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Unlimited page history? Auto backup with Git for the desktop app? Now you have it!
 
 PRO tip: type `c` to commit a custom message.
