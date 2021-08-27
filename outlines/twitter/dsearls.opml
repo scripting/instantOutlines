@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/dsearls.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 20:47:43 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 21:33:04 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qd</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="Want to see a proper cookie notice? Go to @me2balliance's https://t.co/kYXzOZlnAm. And then run that URL through @acfou's #pageXray: https://t.co/a9sfz1tzBF Be great if that was the norm, but it's not. Why? Might start here: https://t.co/OP6mRauZDp" type="tweet" created="Fri, 27 Aug 2021 21:32:24 GMT" tweetId="1431369029353189376" urltweet="https://twitter.com/dsearls/status/1431369029353189376" inReplyToId="" tweetUserName="dsearls" />
+				</outline>
 			<outline text="August 22" type="calendarDay" name="22" >
 				<outline text="As a lover of heights, daring and the occasionally amazing ad, I dig this: &lt;a href=&quot;https://www.youtube.com/watch?v=uQHhYRuaEtM&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 22:31:49 GMT" tweetId="1429572042614091786" urltweet="https://twitter.com/dsearls/status/1429572042614091786" tweetUserName="dsearls" >
 					<outline text="And a follow-up from @emirates: &lt;a href=&quot;https://twitter.com/emirates/status/1424657265181724676&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 22 Aug 2021 22:34:18 GMT" tweetId="1429572666864844810" urltweet="https://twitter.com/dsearls/status/1429572666864844810" inReplyToId="1429572042614091786" tweetUserName="dsearls" >
