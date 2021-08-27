@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Wed, 25 Aug 2021 20:47:42 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 20:06:02 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="Must-read thread. The thing that really gets me about this story is that Hopscotch is a great, well-established, award-winning app. &lt;a href=&quot;https://twitter.com/SamJ0hn/status/1431001795904561160&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 20:05:56 GMT" tweetId="1431347267018035202" urltweet="https://twitter.com/gruber/status/1431347267018035202" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="August 16" type="calendarDay" name="16" >
 				<outline text="Maybe that’s why Chrome is so memory and energy efficient. &lt;a href=&quot;https://twitter.com/aboodman/status/1427137725119959046&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 16 Aug 2021 08:56:57 GMT" tweetId="1427192645537906690" urltweet="https://twitter.com/gruber/status/1427192645537906690" tweetUserName="gruber" />
 				</outline>
