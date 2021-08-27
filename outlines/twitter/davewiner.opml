@@ -7,10 +7,13 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Fri, 27 Aug 2021 02:18:45 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 07:58:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="Officer who shot Ashli Babbitt during Capitol riot breaks silence: 'I saved countless lives.' &lt;a href=&quot;https://www.nbcnews.com/news/us-news/officer-who-shot-ashli-babbitt-during-capitol-riot-breaks-silence-n1277736&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 07:57:19 GMT" tweetId="1431163904969871360" urltweet="https://twitter.com/davewiner/status/1431163904969871360" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="August 26" type="calendarDay" name="26" >
 				<outline text="South Dakota AG Jason Ravnsborg to Take Plea Deal for Hit-and-Run Death of Joseph Boever. &lt;a href=&quot;https://www.thedailybeast.com/south-dakota-ag-jason-ravnsborg-to-take-plea-deal-for-hit-and-run-death-of-joseph-boever&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 02:18:14 GMT" tweetId="1431078574254133253" urltweet="https://twitter.com/davewiner/status/1431078574254133253" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The funniest Simpsons I’ve seen. &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Heartbreak_Hotel_(The_Simpsons)#Plot&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 00:18:39 GMT" tweetId="1431048478155808774" urltweet="https://twitter.com/davewiner/status/1431048478155808774" inReplyToId="" tweetUserName="davewiner" />
