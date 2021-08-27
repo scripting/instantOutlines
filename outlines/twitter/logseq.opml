@@ -7,11 +7,17 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/logseq.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pv</urlInstant>
-		<dateModified>Fri, 27 Aug 2021 14:30:45 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 15:10:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="Unlimited page history? Auto backup with Git for the desktop app? Now you have it!
+
+PRO tip: type `c` to commit a custom message.
+&lt;a href=&quot;https://www.loom.com/share/62fe1f6026ce4966bc88b3f3663e1649&quot;&gt;[link]&lt;/a&gt; 
+
+This is just supported in the latest 0.3.6 release, have fun!" type="tweet" created="Fri, 27 Aug 2021 15:09:50 GMT" tweetId="1431272752426586114" urltweet="https://twitter.com/logseq/status/1431272752426586114" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Nice thread and thank you for choosing us! 
 A question for all the logseqers, how many PKM tools have you tried since last year? 😁 &lt;a href=&quot;https://twitter.com/573f/status/1430554566521720833&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 14:30:25 GMT" tweetId="1431262830590775300" urltweet="https://twitter.com/logseq/status/1431262830590775300" inReplyToId="" tweetUserName="logseq" />
 				<outline text="Thank you both! &lt;a href=&quot;https://twitter.com/BhavaniRavi_/status/1430883601483124747&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 14:19:18 GMT" tweetId="1431260032943857669" urltweet="https://twitter.com/logseq/status/1431260032943857669" inReplyToId="" tweetUserName="logseq" />
