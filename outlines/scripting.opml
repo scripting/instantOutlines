@@ -14,13 +14,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Thu, 26 Aug 2021 19:04:01 GMT</dateModified>
-		<expansionState>1,2,6,10,11,15,20,22,29,31</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 27 Aug 2021 02:08:19 GMT</dateModified>
+		<expansionState>1,2,7,11,12,16,21,23,30,32</expansionState>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
 			<outline text="August 26" created="Thu, 26 Aug 2021 16:31:15 GMT" type="calendarDay" name="26" >
+				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1430999594108952577&quot;&gt;What&lt;/a&gt; is something that isn’t taught in school but should?" created="Fri, 27 Aug 2021 02:07:14 GMT" type="outline" />
 				<outline text="Journalism tries to understand [[Facebook]] as if it were a news org about the size of one of them. It's a poor fit. So much more goes on there. Think about how much is going on in a city like New York right now. Facebook is &lt;i&gt;338 times&lt;/i&gt; the size of NYC." created="Thu, 26 Aug 2021 18:56:47 GMT" type="outline" />
 				<outline text="Here's the thing about the Taliban and ISIS -- they're competing for the same soldiers, and as long as ISIS is attacking and hurting the US, they're going to recruit more soldiers, primarily from the Taliban. So the Taliban &quot;controls&quot; Afghanistan in a temporary way. They're going to be fighting other radicals for a long time to come. " created="Thu, 26 Aug 2021 18:38:50 GMT" type="outline" />
 				<outline text="Sometimes your “liberty” isn’t the most important thing." created="Thu, 26 Aug 2021 16:31:16 GMT" type="outline" />
@@ -29,9 +30,9 @@
 				<outline text="The way we’re responding to Covid is exactly like the way we respond to climate change. Only it’s happening much more quickly." created="Thu, 26 Aug 2021 01:26:42 GMT" type="outline" />
 				<outline text="I wanted to try &lt;a href=&quot;https://holly.plus/&quot;&gt;Holly+&lt;/a&gt; so I recorded a song but got &quot;error&quot; and &lt;a href=&quot;http://scripting.com/2021/08/25/Song2.m4a&quot;&gt;did another&lt;/a&gt;, and also got an error. Disappointed. I thought it was a good idea. Maybe my songs weren't good enough. Oh la.  " created="Wed, 25 Aug 2021 16:32:33 GMT" type="outline" />
 				<outline text="I saw somewhere the &lt;a href=&quot;https://www.cnbc.com/2021/08/24/bidens-approval-ratings-plummet-bad-news-for-democrats-in-congress.html&quot;&gt;Biden's approval numbers are down&lt;/a&gt; because the virus is booming. This is wrong. He's doing the job we hired him to do. Our mistake is we give up our power and responsibility and look to a parent figure to take care of us. But that's not how America works. The president isn't all-powerful, isn't a god, or even god-like. The president is a human being. We should judge the president on their honor and intelligence, and ability to listen, and we should take responsibility for &lt;i&gt;our&lt;/i&gt; power." created="Wed, 25 Aug 2021 16:23:15 GMT" type="outline" />
-				<outline text="Tree charts and outliners" created="Thu, 26 Aug 2021 01:06:54 GMT" type="outline" >
+				<outline text="Tree charts and outliners" created="Thu, 26 Aug 2021 01:06:54 GMT" type="outline" metaImage="http://scripting.com/images/2021/08/25/treeChartMore.png" description="Organize the data in the outliner, flip a switch, see the graphic. " >
 					<outline text="A &quot;Tree Chart&quot; in &quot;MORE&quot;, circa 1987. " created="Thu, 26 Aug 2021 01:06:57 GMT" inlineImage="http://scripting.com/images/2021/08/25/treeChartMore.png" flBulletedSubs="true" >
-						<outline text="Organize the data in the outliner, flip a switch, see the graphic. " created="Thu, 26 Aug 2021 01:09:15 GMT" />
+						<outline text="Organize the data in the outliner, flip a switch, see the graphic.  " created="Thu, 26 Aug 2021 01:09:15 GMT" />
 						<outline text="Today you wouldn't have to do flip a switch, there's enough CPU power to automatically update the graphic view from the outline editor view as you made editing changes. " created="Thu, 26 Aug 2021 01:11:00 GMT" />
 						<outline text="I'd love to hook up &quot;Drummer&quot; to someone else's Tree Chart renderer. It would accept &quot;OPML&quot; as input, of course. " created="Thu, 26 Aug 2021 01:08:37 GMT" />
 						</outline>
