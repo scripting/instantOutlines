@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/KenSmith.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 25 Aug 2021 20:47:44 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 16:48:53 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qn</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="A conference in Nairobi about defending the constitution and other foundations of a decent society. Thread of notes. &lt;a href=&quot;https://twitter.com/siasaplace/status/1431269977412210698&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 16:48:32 GMT" tweetId="1431297589312360454" urltweet="https://twitter.com/KenSmith/status/1431297589312360454" inReplyToId="" tweetUserName="KenSmith" />
+				</outline>
 			<outline text="August 25" type="calendarDay" name="25" >
 				<outline text="Starting at 2:31, listening intently, Charlie Watts evaluates his drum work in the song Wild Horses.
 &lt;a href=&quot;https://www.youtube.com/watch?t=144&amp;v=iTaFdPrC7dQ&amp;feature=youtu.be&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 25 Aug 2021 14:16:28 GMT" tweetId="1430534547511418882" urltweet="https://twitter.com/KenSmith/status/1430534547511418882" tweetUserName="KenSmith" />
