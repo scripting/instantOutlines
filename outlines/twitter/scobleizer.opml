@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 26 Aug 2021 17:34:29 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 19:46:07 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="This is the company that showed me the future this week. &lt;a href=&quot;https://twitter.com/vitalyg/status/1427708509651615745&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 19:45:51 GMT" tweetId="1431342215645724672" urltweet="https://twitter.com/scobleizer/status/1431342215645724672" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 26" type="calendarDay" name="26" >
 				<outline text="Sometimes I write a tweet just for one person. @stevegillmor loves the Beatles.
 
