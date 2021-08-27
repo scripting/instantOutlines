@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Fri, 27 Aug 2021 02:08:19 GMT</dateModified>
+		<dateModified>Fri, 27 Aug 2021 02:08:59 GMT</dateModified>
 		<expansionState>1,2,7,11,12,16,21,23,30,32</expansionState>
-		<lastCursor>10</lastCursor>
+		<lastCursor>12</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -32,7 +32,7 @@
 				<outline text="I saw somewhere the &lt;a href=&quot;https://www.cnbc.com/2021/08/24/bidens-approval-ratings-plummet-bad-news-for-democrats-in-congress.html&quot;&gt;Biden's approval numbers are down&lt;/a&gt; because the virus is booming. This is wrong. He's doing the job we hired him to do. Our mistake is we give up our power and responsibility and look to a parent figure to take care of us. But that's not how America works. The president isn't all-powerful, isn't a god, or even god-like. The president is a human being. We should judge the president on their honor and intelligence, and ability to listen, and we should take responsibility for &lt;i&gt;our&lt;/i&gt; power." created="Wed, 25 Aug 2021 16:23:15 GMT" type="outline" />
 				<outline text="Tree charts and outliners" created="Thu, 26 Aug 2021 01:06:54 GMT" type="outline" metaImage="http://scripting.com/images/2021/08/25/treeChartMore.png" description="Organize the data in the outliner, flip a switch, see the graphic. " >
 					<outline text="A &quot;Tree Chart&quot; in &quot;MORE&quot;, circa 1987. " created="Thu, 26 Aug 2021 01:06:57 GMT" inlineImage="http://scripting.com/images/2021/08/25/treeChartMore.png" flBulletedSubs="true" >
-						<outline text="Organize the data in the outliner, flip a switch, see the graphic.  " created="Thu, 26 Aug 2021 01:09:15 GMT" />
+						<outline text="Organize the data in the outliner, flip a switch, see the graphic.    " created="Thu, 26 Aug 2021 01:09:15 GMT" />
 						<outline text="Today you wouldn't have to do flip a switch, there's enough CPU power to automatically update the graphic view from the outline editor view as you made editing changes. " created="Thu, 26 Aug 2021 01:11:00 GMT" />
 						<outline text="I'd love to hook up &quot;Drummer&quot; to someone else's Tree Chart renderer. It would accept &quot;OPML&quot; as input, of course. " created="Thu, 26 Aug 2021 01:08:37 GMT" />
 						</outline>
