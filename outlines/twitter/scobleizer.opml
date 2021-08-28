@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 28 Aug 2021 22:50:51 GMT</dateModified>
+		<dateModified>Sat, 28 Aug 2021 22:57:52 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
@@ -18,7 +18,9 @@ Dolby already owns the metaverse that most people care about.
 
 Movies. Sports. Music. Gambling. Even education (my 11-, 13-year-old, both learned to read on YouTube, among other things including how to play dodgeball. True story.)
 
-Disruptable?" type="tweet" created="Sat, 28 Aug 2021 22:50:45 GMT" tweetId="1431751133811277824" urltweet="https://twitter.com/scobleizer/status/1431751133811277824" inReplyToId="" tweetUserName="scobleizer" />
+Disruptable?" type="tweet" created="Sat, 28 Aug 2021 22:50:45 GMT" tweetId="1431751133811277824" urltweet="https://twitter.com/scobleizer/status/1431751133811277824" inReplyToId="" tweetUserName="scobleizer" >
+					<outline text="It is disruptable by Tesla, Apple, Facebook, Amazon, and probably Snap. If I can see this Elon saw it already. So has everyone else. Who cares to do the homework" type="tweet" created="Sat, 28 Aug 2021 22:57:18 GMT" tweetId="1431752779786194946" urltweet="https://twitter.com/scobleizer/status/1431752779786194946" inReplyToId="1431751133811277824" tweetUserName="scobleizer" />
+					</outline>
 				</outline>
 			<outline text="August 27" type="calendarDay" name="27" >
 				<outline text="This is the company that showed me the future this week. &lt;a href=&quot;https://twitter.com/vitalyg/status/1427708509651615745&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 19:45:51 GMT" tweetId="1431342215645724672" urltweet="https://twitter.com/scobleizer/status/1431342215645724672" inReplyToId="" tweetUserName="scobleizer" />
