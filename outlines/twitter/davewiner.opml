@@ -7,11 +7,16 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 28 Aug 2021 15:40:08 GMT</dateModified>
+		<dateModified>Sat, 28 Aug 2021 16:31:11 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 28" type="calendarDay" name="28" >
+				<outline text="Still the most annoying thing is when you switch into Twitter you get about 1/2 second to scan what's there, enough time for pictures to register, and boom it refreshes with new content." type="tweet" created="Sat, 28 Aug 2021 16:30:21 GMT" tweetId="1431655403998298114" urltweet="https://twitter.com/davewiner/status/1431655403998298114" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="This also has another painful side-effect, if you're watching a video, it'll just refresh in the middle of it. I was intently listening to the chairman of the Fed the other day, and then part of a Grateful Dead concert, when Twitter decided enough! No soup for you." type="tweet" created="Sat, 28 Aug 2021 16:30:22 GMT" tweetId="1431655405277650947" urltweet="https://twitter.com/davewiner/status/1431655405277650947" inReplyToId="1431655403998298114" tweetUserName="davewiner" >
+						<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=1jSTiKHOFEI&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 28 Aug 2021 16:30:22 GMT" tweetId="1431655406527471620" urltweet="https://twitter.com/davewiner/status/1431655406527471620" inReplyToId="1431655405277650947" tweetUserName="davewiner" />
+						</outline>
+					</outline>
 				<outline text="We have the tools to keep Delta in check, but schools have to actually use them. &lt;a href=&quot;https://www.theatlantic.com/health/archive/2021/08/how-will-delta-affect-schools/619865/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=share&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 28 Aug 2021 15:39:39 GMT" tweetId="1431642643059159041" urltweet="https://twitter.com/davewiner/status/1431642643059159041" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Charlie Watts, the Unlikely Soul of the Rolling Stones. #nopaywall &lt;a href=&quot;https://www.nytimes.com/2021/08/24/arts/music/charlie-watts-rolling-stones.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohkQFUZBybcR8Q86RibnvnEh7c8j2X6LSXQVj9e0_9QGY-E_0bLau94e9w10i_dRMNENPVnYs1O-dJlHh4nTRi08NzDkY4ZIi4xpMXjATlt1p_HDfVjrm-xKzToJeo6leTv41fba2W6XaSP0XAgJAl1sNAyIwHRrH8JxqrCFO&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 28 Aug 2021 08:35:16 GMT" tweetId="1431535844570116101" urltweet="https://twitter.com/davewiner/status/1431535844570116101" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
