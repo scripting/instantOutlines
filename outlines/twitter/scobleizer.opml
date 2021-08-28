@@ -6,11 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/scobleizer.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 27 Aug 2021 19:46:07 GMT</dateModified>
+		<dateModified>Sat, 28 Aug 2021 22:50:51 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qi</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 28" type="calendarDay" name="28" >
+				<outline text="We are over thinking things. 
+
+Dolby already owns the metaverse that most people care about. 
+
+Movies. Sports. Music. Gambling. Even education (my 11-, 13-year-old, both learned to read on YouTube, among other things including how to play dodgeball. True story.)
+
+Disruptable?" type="tweet" created="Sat, 28 Aug 2021 22:50:45 GMT" tweetId="1431751133811277824" urltweet="https://twitter.com/scobleizer/status/1431751133811277824" inReplyToId="" tweetUserName="scobleizer" />
+				</outline>
 			<outline text="August 27" type="calendarDay" name="27" >
 				<outline text="This is the company that showed me the future this week. &lt;a href=&quot;https://twitter.com/vitalyg/status/1427708509651615745&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 19:45:51 GMT" tweetId="1431342215645724672" urltweet="https://twitter.com/scobleizer/status/1431342215645724672" inReplyToId="" tweetUserName="scobleizer" />
 				</outline>
