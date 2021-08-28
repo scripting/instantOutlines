@@ -7,10 +7,13 @@
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/gruber.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
 		<urlInstant>http://instantoutliner.com/pw</urlInstant>
-		<dateModified>Fri, 27 Aug 2021 20:06:02 GMT</dateModified>
+		<dateModified>Sat, 28 Aug 2021 23:33:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 28" type="calendarDay" name="28" >
+				<outline text="One Foot Tsunami: That Seems About Right &lt;a href=&quot;https://onefoottsunami.com/2021/08/24/that-seems-about-right/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 28 Aug 2021 23:33:04 GMT" tweetId="1431761781769351168" urltweet="https://twitter.com/gruber/status/1431761781769351168" inReplyToId="" tweetUserName="gruber" />
+				</outline>
 			<outline text="August 27" type="calendarDay" name="27" >
 				<outline text="Must-read thread. The thing that really gets me about this story is that Hopscotch is a great, well-established, award-winning app. &lt;a href=&quot;https://twitter.com/SamJ0hn/status/1431001795904561160&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 20:05:56 GMT" tweetId="1431347267018035202" urltweet="https://twitter.com/gruber/status/1431347267018035202" inReplyToId="" tweetUserName="gruber" />
 				</outline>
