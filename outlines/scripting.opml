@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239</urlUpdateSocket>
-		<dateModified>Sat, 28 Aug 2021 15:31:31 GMT</dateModified>
-		<expansionState>1,2,4,5,7,12,14,18,23,29,33,34,38,43,45,52,54</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Sat, 28 Aug 2021 15:32:15 GMT</dateModified>
+		<expansionState>1,2,4,5,8,13,15,19,24,30,34,35,39,44,46,53,55</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2021" created="Sun, 01 Aug 2021 15:41:31 GMT" name="august2021" type="calendarMonth" >
@@ -24,7 +24,8 @@
 				<outline text="Over the past couple of days I binged season 1 of The Chair on Netflix. I liked it. It's quick, only about three hours. It's a Sorkin-like show, like &lt;a href=&quot;http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fthe-west-wing&quot;&gt;The West Wing&lt;/a&gt; or &lt;a href=&quot;http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fthe-newsroom&quot;&gt;The Newsroom&lt;/a&gt;, fast dialog, but it's fun and really pulls on the heartstrings. There's cute smart little girl, and a timely plot of a second-tier Ivy League school that reminded me that campuses can be interesting places to hang out. I gave it a 4 of 5 &lt;a href=&quot;http://bingeworthy.io/tv/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fthe-chair-2021&quot;&gt;on BingeWorthy&lt;/a&gt;. " created="Sat, 28 Aug 2021 15:05:50 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=eOqtBtWGl1Q" />
 				<outline text="A bit of Drummer code" created="Sat, 28 Aug 2021 15:27:17 GMT" type="outline" >
 					<outline text="I thought -- I bet this works, so I typed it into a &quot;Drummer&quot; outline and pressed Cmd-/ and yes it did work." created="Sat, 28 Aug 2021 15:27:33 GMT" flCodeSubs="true" >
-						<outline text="op.insertOpml (http.readUrl (&quot;http://opml.org/examples/states.opml?format=opml&quot;), down)" created="Sat, 28 Aug 2021 15:26:53 GMT" />
+						<outline text="const url = &quot;http://opml.org/examples/states.opml?format=opml&quot;;" created="Sat, 28 Aug 2021 15:31:56 GMT" />
+						<outline text="op.insertOpml (http.readUrl (url), down)" created="Sat, 28 Aug 2021 15:26:53 GMT" />
 						</outline>
 					<outline text="It's a nice feeling when:" created="Sat, 28 Aug 2021 15:28:25 GMT" flBulletedSubs="true" >
 						<outline text="It works the first time." created="Sat, 28 Aug 2021 15:28:32 GMT" />
