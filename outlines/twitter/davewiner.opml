@@ -7,11 +7,12 @@
 		<expansionState>1,2</expansionState>
 		<urlInstant>http://instantoutliner.com/pt</urlInstant>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
-		<dateModified>Sat, 28 Aug 2021 02:53:18 GMT</dateModified>
+		<dateModified>Sat, 28 Aug 2021 03:01:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
 			<outline text="August 27" type="calendarDay" name="27" >
+				<outline text="The history of Google messaging apps. &lt;a href=&quot;https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 28 Aug 2021 03:01:10 GMT" tweetId="1431451766151860229" urltweet="https://twitter.com/davewiner/status/1431451766151860229" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="No masks. &lt;a href=&quot;https://twitter.com/DanielleMorrill/status/1431448583862108160&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 28 Aug 2021 02:52:22 GMT" tweetId="1431449549562855424" urltweet="https://twitter.com/davewiner/status/1431449549562855424" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="RFK assassin Sirhan Sirhan wins parole at 16th time of asking. &lt;a href=&quot;https://www.washingtonexaminer.com/news/rfk-assassin-sirhan-sirhan-wins-parole&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 28 Aug 2021 00:17:15 GMT" tweetId="1431410513653682177" urltweet="https://twitter.com/davewiner/status/1431410513653682177" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Not looking too great America. &lt;a href=&quot;https://twitter.com/davewiner/status/1431365938813849606/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 27 Aug 2021 21:20:07 GMT" tweetId="1431365938813849606" urltweet="https://twitter.com/davewiner/status/1431365938813849606" inReplyToId="" tweetUserName="davewiner" />
