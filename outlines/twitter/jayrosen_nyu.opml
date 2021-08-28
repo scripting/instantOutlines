@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/jayrosen_nyu.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 27 Aug 2021 18:08:50 GMT</dateModified>
+		<dateModified>Sat, 28 Aug 2021 16:05:14 GMT</dateModified>
 		<urlInstant>http://instantoutliner.com/qe</urlInstant>
 		</head>
 	<body>
 		<outline text="August 2021" type="calendarMonth" name="august2021" >
+			<outline text="August 28" type="calendarDay" name="28" >
+				<outline text="Inbox: &quot;Your Times subscription will soon become even more valuable. In September, the Watching newsletter will be available exclusively to Times subscribers.&quot;
+
+I never took a course in pricing theory. But does that really make it MORE valuable?" type="tweet" created="Sat, 28 Aug 2021 16:05:12 GMT" tweetId="1431649074596532231" urltweet="https://twitter.com/jayrosen_nyu/status/1431649074596532231" inReplyToId="" tweetUserName="jayrosen_nyu" />
+				</outline>
 			<outline text="August 27" type="calendarDay" name="27" >
 				<outline text="If I'm reading this right, it almost sounds like a parallel university in the works at @UTAustin, grounded in what the right wing says are its values: &quot;free markets, limited government, personal enterprise, individual freedom.&quot; &lt;a href=&quot;https://www.texastribune.org/2021/08/26/ut-austin-liberty-institute/&quot;&gt;[link]&lt;/a&gt; Won't answer to the deans... https://t.co/RgzYyKvEBV" type="tweet" created="Fri, 27 Aug 2021 18:08:39 GMT" tweetId="1431317754057998342" urltweet="https://twitter.com/jayrosen_nyu/status/1431317754057998342" inReplyToId="" tweetUserName="jayrosen_nyu" />
 				</outline>
